@@ -213,6 +213,28 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: AppStore++
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
 
+Package: com.nan.appstoreplusplus
+Version: 0.9.8-9
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces: com.cokepokes.appstoreplusplus
+Provides: com.cokepokes.appstoreplusplus
+Filename: debs/com.nan.appstoreplusplus_0.9.8-9_iphoneos-arm.deb
+Size: 1339994
+MD5sum: d399528c8540b9f0c5349c802f5eb26d
+SHA1: 82acb3caae330fbaa9310e9a151af28c97615b6d
+SHA256: 7caac5a3519fa667ddc329a5dcc2aaba899e8430bbce1c47b1f305c970a5a838
+Section: Tweaks
+Priority: optional
+Description: 允许你在 iOS11-13.3.1 上的 AppStore 中降级/升级应用程序
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Name: AppStore++
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
+
 Package: com.nan.awemeautoplay
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -299,6 +321,25 @@ Size: 71006
 MD5sum: 131639f9f49a76feffdb4db7fefd6175
 SHA1: 08d8d22e8f9f5ace2475967b82122ba98bc1b971
 SHA256: b83480768dd8a00883e2f597d47fe51c4f6e5d0d487eac10d73f0f489b68a375
+Section: Tweaks
+Description: 抖音净化！支持 6.x - 8.x 版本、去水印，显示状态栏，保存长视频，保存不可下载视频，保存风险视频，去除启动广告，去除 4G 情况下网络提示弹窗，去除青少年提示弹窗！无设置选项
+Author: Netskao <netskao@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=awemepurificationDp
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurification/image.png
+Name: Aweme Purification
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurification/js.json
+
+Package: com.nan.awemepurification
+Version: 1.3-4
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: netskao.awemehack
+Filename: debs/com.nan.awemepurification_1.3-4_iphoneos-arm.deb
+Size: 71280
+MD5sum: e313a1a898f3479441199a600b177f70
+SHA1: 546c4c6387547eea9b77cb8393a19a7d245dbfb0
+SHA256: 57f410f76269c763af470fc74594c6a8837dca694a6ba7d13bc2089c4943e2eb
 Section: Tweaks
 Description: 抖音净化！支持 6.x - 8.x 版本、去水印，显示状态栏，保存长视频，保存不可下载视频，保存风险视频，去除启动广告，去除 4G 情况下网络提示弹窗，去除青少年提示弹窗！无设置选项
 Author: Netskao <netskao@gmail.com>
