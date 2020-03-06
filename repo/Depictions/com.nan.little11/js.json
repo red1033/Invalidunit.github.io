@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2.0",
+                    "text": "1.2.1",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 02 月 02 日",
+                    "text": "2020 年 03 月 06 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -96,6 +96,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.2.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "添加 Unc0ver 支持</br> 修复了长时间打开的应用</br> 修复了一些 Dock 调整的冲突</br> 增加 iPhone X 物理按键组合[测试]</br> 添加 iPhone 11 相机缩放功能</br> 删除旧的底部按钮</br> 启用禁用按钮参数不再需要注销</br> 改进应用支持",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.2.0",

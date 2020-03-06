@@ -57,7 +57,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.3.2-6+debug",
+                    "text": "2.3.4-5+debug",
                     "title": "最新版本"
                 },
                 {
@@ -67,7 +67,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 01 月 22 日",
+                    "text": "2020 年 03 月 06 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -94,7 +94,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "2.3.2-6+debug",
+                    "title": "2.3.4-5+debug",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },

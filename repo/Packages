@@ -1369,6 +1369,26 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
 Name: Little11
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js.json
 
+Package: com.nan.little11
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Ryan Nair
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Provides: com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune, com.ryannair05.little11
+Filename: debs/com.nan.little11_1.2.1_iphoneos-arm.deb
+Size: 25556
+MD5sum: 57101fc0764ece51ad1c88193b933915
+SHA1: 4901604eb3699a08f369d9c71374527ae79e4114
+SHA256: ee24b86c8c3cca45e05ffdcaf7a6b01bf68c783f7949a3891845833a7ae3ce01
+Section: Tweaks
+Description: 适用于 iOS 13 的 iPhone X 手势
+Author: Ryan Nair
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
+Name: Little11
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js.json
+
 Package: com.nan.little11.zh-Hans
 Version: 0.1.1
 Architecture: iphoneos-arm
@@ -1380,6 +1400,24 @@ Size: 2068
 MD5sum: 6457d5c5178308c8630ed81b084387f9
 SHA1: b4ce079390083997c450f9d4ac2606bb9b0f281a
 SHA256: 00f3e5c689cb3f3da93c98fb6641dd5b442a82b5c885ace74345b3164bc5a50c
+Section: 汉化
+Description: 为 Little11 提供简体中文
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
+Name: zh-hans for Little11
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js_zh_Hans.json
+
+Package: com.nan.little11.zh-Hans
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.ryannair05.little11
+Conflicts: com.nan.little11
+Filename: debs/com.nan.little11.zh-Hans_0.1.2_iphoneos-arm.deb
+Size: 2086
+MD5sum: e9b86f3a0e172d047f9fbd158ba61b06
+SHA1: 40296d5a5b3925dde88985b77e65393917d5427f
+SHA256: e6c1a87981f7322846b632fb237c2f1ac8d5ced3ea44b69103c4c015336e6f8e
 Section: 汉化
 Description: 为 Little11 提供简体中文
 Author: zhaonan
@@ -1983,6 +2021,23 @@ Size: 568884
 MD5sum: 40aa2eda922c9ab50ba8653d676309e0
 SHA1: 682b9f34f53182ebcc30554b38410125f6e400ff
 SHA256: 762b0e77f8acfd7e625566f956f76f85d39ae728783b4c8057d17a1439cdad79
+Section: Tweaks
+Description: 系统信息查看增强
+Author: ARX8x
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Name: System Info
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.systeminfo/js.json
+
+Package: com.nan.systeminfo
+Version: 2.3.4-5+debug
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Filename: debs/com.nan.systeminfo_2.3.4-5+debug_iphoneos-arm.deb
+Size: 583428
+MD5sum: d30b375320d41efbb03d620c744a289b
+SHA1: d8a1db515150519fef84005de85a55f1d42b8a29
+SHA256: 38b80da7e319e30c8e8d62db8d6e09eadce8ae42a2b4a234483f612c4942b193
 Section: Tweaks
 Description: 系统信息查看增强
 Author: ARX8x
