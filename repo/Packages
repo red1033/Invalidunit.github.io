@@ -905,6 +905,23 @@ Tag: role::hacker
 Author: 0x7ff
 Name: dimentio
 
+Package: com.nan.dimentio
+Version: 0.5.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Conflicts: com.michael.dimentio
+Provides: com.michael.dimentio
+Filename: debs/com.nan.dimentio_0.5.2_iphoneos-arm.deb
+Size: 13308
+MD5sum: 113c3b94a08ad179bb3493790f9ae3e4
+SHA1: 1570a03259ce54da36387767d335ba3337ef729a
+SHA256: 7882d400655da15633a6eb043ca7b9638638f03d61f35f638e97f5157c3e405f
+Section: Terminal_Support
+Description: PoC 工具，用于设置随机数而不触发 KPP/KTRR/PAC。(需要 tfp0)
+Tag: role::hacker
+Author: 0x7ff
+Name: dimentio
+
 Package: com.nan.doubletaplock
 Version: 0.0.3
 Architecture: iphoneos-arm
@@ -1754,6 +1771,23 @@ Size: 175444
 MD5sum: 292352b7320bd71731a4898d70b9b3f9
 SHA1: b75a43132c6f4a2b55c53dc87fb58f2206adb831
 SHA256: f6cf499dce2fc0370c9c91e5558c40f9539a3ddcba8f624a354747e84da0c718
+Section: Tweaks
+Description: QQ 和 TIM 增强，抢红包，虚拟机型破解版
+Author: 7Loopy
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qqprocrack/image.png
+Name: QQ Pro Crack
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqprocrack/js.json
+
+Package: com.nan.qqprocrack
+Version: 2.1-2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Filename: debs/com.nan.qqprocrack_2.1-2_iphoneos-arm.deb
+Size: 197316
+MD5sum: 7e5bb9cf484e661f85d011996e102b13
+SHA1: d27219e9c719ddda9bb5082aa6a09fe040c73a90
+SHA256: 6a74c1c4e674d5b76c411824dbc316ff5e032c69e43166746927aea0078ca590
 Section: Tweaks
 Description: QQ 和 TIM 增强，抢红包，虚拟机型破解版
 Author: 7Loopy
