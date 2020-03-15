@@ -1198,15 +1198,15 @@ Author: zhaonan
 Name: マメロン-中文
 
 Package: com.nan.ft
-Version: 0.1.6
+Version: 0.1.7
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 10.3), com.bingner.snappy, diskdev-cmds
-Filename: debs/com.nan.ft_0.1.6_iphoneos-arm.deb
-Size: 2152
-MD5sum: 60f0d8b9f267c2012cbe706652b1f44e
-SHA1: 8cf3425c1275f3aa3204e912706de13fc9e9486c
-SHA256: ae5b469d66925b56eeaadbf2a6e081ed36a0fdce5e1c4d97493b160116237a40
+Filename: debs/com.nan.ft_0.1.7_iphoneos-arm.deb
+Size: 2136
+MD5sum: d1806933f56a654d6a5f31413593f4f1
+SHA1: 814ef3e171b36b6d1cb3468d9d214a6b6a5d3998
+SHA256: adbeb91c31fb0ceda1e33c637c7e6292aba7e455cb06239600fb3babd5a5f1c5
 Section: Terminal_Support
 Description: 运行 ft 即可恢复默认字体。(只要默认快照还在)
 Author: zhaonan <Invalidunit@icloud.com>
@@ -1846,20 +1846,24 @@ Name: iPhone XR 注销图标
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.respring.xr/js.json
 
 Package: com.nan.rootfs
-Version: 0.1.3
+Version: 0.1.4
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: diskdev-cmds , com.bingner.snappy , firmware (>=11.0)
-Filename: debs/com.nan.rootfs_0.1.3_iphoneos-arm.deb
-Size: 14448
-MD5sum: aa7927bb659ba83fd10a5b6b64d43b77
-SHA1: d57c42d4663893967ecf4ce393eee51d9e125925
-SHA256: 6d2170a3dbfb91707b43e14f5122a5743f56ba2b0d28f715c71274bafe7fb439
+Depends: diskdev-cmds , com.bingner.snappy , firmware (>=11.3)
+Filename: debs/com.nan.rootfs_0.1.4_iphoneos-arm.deb
+Size: 14664
+MD5sum: cc4785bd3f3b2545730ad9fa9f109de1
+SHA1: dbb6c2b85afa907c536432d60f7337bdcafcd541
+SHA256: 00d88e2f179967b7553595a60d4529299e3b9f715dfdbfb522ad7a04e8312c02
 Section: System
 Description: rootfs && 重建缓存
  恢复到未越狱状态并清空越狱 App 图标缓存
- SSH 卸载可撤销
- SSH 运行 urootfs 也可以撤销
+ SSH 卸载可撤销 (dpkg -r com.nan.rootfs)
+ 特殊:
+ 在 / 下创建 .only-orig-fs 将只恢复名为 orig-fs 的快照
+ 在 / 下创建 .delete-feedback 会删除 Feedback 再重建缓存
+ 在 / 下创建 .delete-setup 会删除 Setup 再重建缓存
+ 在 / 下创建 .no-clean-caches 将不会移除 /var/mobile/Library/Caches
 Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/image.png
 Name: rootfs
