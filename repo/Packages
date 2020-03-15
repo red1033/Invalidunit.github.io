@@ -1989,10 +1989,10 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: org.coolstar.sileo
 Filename: debs/com.nan.sileo.zh-Hans_0.2.1_iphoneos-arm.deb
-Size: 7970
-MD5sum: 5d89b78f886c1fd772f67caf03ba87e1
-SHA1: fdfd1cce04f439831af43ba0fb4753cd0737bf6d
-SHA256: e45088cc515117a1f844e26489117a2ccbcfe79db4327ad807463ca43fe1dee2
+Size: 7964
+MD5sum: 924463650e19694acaebf7ae6e15b558
+SHA1: a3cd567c0d507a507b9509be85fec07971a80ee4
+SHA256: 4877c689cbddaa4265ec9dcdcea955ddc8a3285ac12f49e823f5a07bf91b17b4
 Section: 汉化
 Description: 为 Sileo 提供简体中文
 Author: zhaonan
