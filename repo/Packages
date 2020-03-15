@@ -1984,15 +1984,15 @@ Name: zh-hans for Sileo
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/js.json
 
 Package: com.nan.sileo.zh-Hans
-Version: 0.2.0
+Version: 0.2.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: org.coolstar.sileo
-Filename: debs/com.nan.sileo.zh-Hans_0.2.0_iphoneos-arm.deb
-Size: 7980
-MD5sum: 9c474ce0e93cc525011f6d237a7fdba6
-SHA1: c67b5e0c20fc3fa82d35d75548a3cc2d3f707c8f
-SHA256: 8ef44d1e61e403cf8584b94ba00f7094f88229498fe3e13ffc2c84cae124e678
+Filename: debs/com.nan.sileo.zh-Hans_0.2.1_iphoneos-arm.deb
+Size: 7970
+MD5sum: 5d89b78f886c1fd772f67caf03ba87e1
+SHA1: fdfd1cce04f439831af43ba0fb4753cd0737bf6d
+SHA256: e45088cc515117a1f844e26489117a2ccbcfe79db4327ad807463ca43fe1dee2
 Section: 汉化
 Description: 为 Sileo 提供简体中文
 Author: zhaonan
@@ -2001,15 +2001,15 @@ Name: zh-hans for Sileo
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/js.json
 
 Package: com.nan.sileopurification
-Version: 1.1-1
+Version: 1.2-2
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 11.0), mobilesubstrate, org.coolstar.sileo
-Filename: debs/com.nan.sileopurification_1.1-1_iphoneos-arm.deb
-Size: 59702
-MD5sum: 333dc5df8f60863f8da42ecb9ba9adb6
-SHA1: bd0e73a51eee34ccbc1f866ef0f84fb837038623
-SHA256: b7319c054c88d28e5978897a8c781a241414463c67c6c62f0d7d76996bc2dc7e
+Filename: debs/com.nan.sileopurification_1.2-2_iphoneos-arm.deb
+Size: 69302
+MD5sum: bd043fdf8a8ed42613fced258252741d
+SHA1: f34f17198f2152f15ad1adf3c37920bf8074d086
+SHA256: 5fe8dd2f3aa1823abf6755b3722951eaca1f92718b43cf4bc98381865f0d950c
 Section: Tweaks
 Description: Sileo 净化，开启后台下载，去烦人广告横幅，关闭危险源检测
 Author: Netskao
