@@ -557,6 +557,23 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: Bounce It
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bounceit/js.json
 
+Package: com.nan.choicy
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, applist
+Filename: debs/com.nan.choicy_1.1.2_iphoneos-arm.deb
+Size: 136656
+MD5sum: cf011b21d5ff75bddd1ee6e3e1a7db42
+SHA1: 0095ed6dfea9204614b5950603858f3d6b4183d1
+SHA256: b3e44a38b3a1ca4e3eef261bed058eb2d6f974b2afcb58964ae26d209431d643
+Section: Tweaks
+Description: 多功能禁止注入
+Author: opa334
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.choicy/image.png
+Name: Choicy
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.choicy/js.json
+
 Package: com.nan.cocoatop64bit
 Version: 2.0.2-1+debug
 Architecture: iphoneos-arm
@@ -1552,6 +1569,24 @@ Author: PanguTeam
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.localiapstore/image.png
 Name: LocalIAPStore
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.localiapstore/js.json
+
+Package: com.nan.mcpatch
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.mcpatch
+Filename: debs/com.nan.mcpatch_0.0.1-2_iphoneos-arm.deb
+Size: 5646
+MD5sum: f22ca2b2796462d45c5812e64e629c41
+SHA1: 1255d1b185c0fbd2366ac9f13e655f5f37a5d6a1
+SHA256: 23269a0afe636416cee5365968ca9c071dc4825743fae6d6c164f52d8f75241a
+Section: Developer
+Description: 允许iOS设备安装不可安装的描述文件
+Author: XsF1re
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Name: MCPatch
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.mcpatch/js.json
 
 Package: com.nan.nodndbanner
 Version: 0.0.1
