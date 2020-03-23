@@ -1889,6 +1889,38 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/image.png
 Name: rootfs
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/js.json
 
+Package: com.nan.rootfs
+Version: 0.1.5-b5
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: diskdev-cmds, com.bingner.snappy,  com.bingner.plutil, firmware (>=11.3)
+Filename: debs/com.nan.rootfs_0.1.5-b5_iphoneos-arm.deb
+Size: 19280
+MD5sum: 2a610cc9b7e6016faa4794864e776aa1
+SHA1: e93664c30353a9a0c2f721342dba8557583fd12f
+SHA256: 8e6fe32c992ad797f4ea0c829ba0614ac2f536de6b6b1d1ddf81b5d067b04d33
+Section: System
+Description: rootfs && 重建缓存
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/image.png
+Name: rootfs
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/js.json
+
+Package: com.nan.setnonce
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.dimentio
+Filename: debs/com.nan.setnonce_0.1.0_iphoneos-arm.deb
+Size: 796
+MD5sum: 8e9b227d5572c45740724dfb530920c6
+SHA1: d954ee2fbdf253d001bfd66887416a99b77afcd7
+SHA256: 2ae9faf53a947bb1010c30ab4582b7623cef44eca0e16d308a0bdfe78fea9396
+Section: Terminal_Support
+Description: 设置随机数 Nonce
+Author: zhaonan
+Name: Set Nonce
+
 Package: com.nan.setwallpaper
 Version: 0.1.2
 Architecture: iphoneos-arm

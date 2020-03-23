@@ -35,25 +35,19 @@
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "安装后手动关机再开机即可",
+                    "title": "安装将写入配置文件",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "可用 SSH 卸载撤销",
+                    "title": "卸载后手动关机再开机即可",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "可用 SSH 运行 urootfs 撤销",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "安装后恢复到未越狱状态并重建图标缓存",
+                    "title": "可用 SSH 运行 uninstallrootfs 撤销",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -85,17 +79,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.1.4",
+                    "text": "0.1.5-b5",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "11.0 - 13.3.1",
+                    "text": "11.0 - 13.4",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 03 月 15 日",
+                    "text": "2020 年 03 月 23 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -120,6 +114,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "0.1.5-b5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "增加配置文件",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "0.1.4",
