@@ -1175,10 +1175,10 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.ft , firmware (>=12.0) , firmware (<=12.9)
 Filename: debs/com.nan.fonts12.en.mamelon_0.1.0_iphoneos-arm.deb
-Size: 5422642
-MD5sum: ae89343e4986f916accbb162536fe2e5
-SHA1: 8747047d7bad83ef811cd44837f4988ecd90463b
-SHA256: dfd17effec15ee9483a1829358a9bb6382267abbc459d36b00a052716a3f486f
+Size: 6771698
+MD5sum: e8dfc3ad0e0dd693d4a90a34b8bf9a08
+SHA1: 64ea95d71dceaf8edbbf93ba180fbd0c87927607
+SHA256: 53156e5d9f43d651c5e0b364098d9be3f923b32238c59ca1ab5a303eef3fce41
 Section: Fonts (iOS12)
 Description: 感谢字由心语分享的 マメロン 字体
 Author: 字由心语 & zhaonan
