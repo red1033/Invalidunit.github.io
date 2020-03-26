@@ -1160,14 +1160,14 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.ft , firmware (>=11.0) , firmware (<=13.9)
 Filename: debs/com.nan.fonts.zh.mamelon_0.1.0_iphoneos-arm.deb
-Size: 11762760
-MD5sum: 8802d7b5b67b13d818601b9776e13b54
-SHA1: d84d35308cb3c2c9b1b76ed205dc8f339e327810
-SHA256: 65c60de138068a7f79a090ee87b892fb6df6bc711397f165cde0854347da3620
+Size: 11762734
+MD5sum: dd712afffa3443a58e0dcb2bad36d55d
+SHA1: e0ba096f5dbf957448acd4f18ccead3c76a1ca40
+SHA256: 52b2b2687c35fa2c6c2a4823169f29d68c123b8d752109b40a88f921cd12af3a
 Section: Fonts
 Description: 感谢字由心语分享的 マメロン 字体
 Author: 字由心语 & zhaonan
-Name: マメロン (Mamelon)-中文
+Name: マメロン-中文
 
 Package: com.nan.fonts12.en.mamelon
 Version: 0.1.0
@@ -1175,14 +1175,14 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.ft , firmware (>=12.0) , firmware (<=12.9)
 Filename: debs/com.nan.fonts12.en.mamelon_0.1.0_iphoneos-arm.deb
-Size: 5422650
-MD5sum: 8cbe072672e986c98ae9e200929c5b55
-SHA1: 1ab9a4b482fd1a50a92a1bb9a0da61212d187104
-SHA256: cd11e1af62ab67b37f7fa2b98562de542feb9eb538ba762b5da39b2fddf4a2a9
+Size: 5422642
+MD5sum: ae89343e4986f916accbb162536fe2e5
+SHA1: 8747047d7bad83ef811cd44837f4988ecd90463b
+SHA256: dfd17effec15ee9483a1829358a9bb6382267abbc459d36b00a052716a3f486f
 Section: Fonts (iOS12)
 Description: 感谢字由心语分享的 マメロン 字体
 Author: 字由心语 & zhaonan
-Name: マメロン (Mamelon)-英文-iOS12
+Name: マメロン-英文
 
 Package: com.nan.fonts13.en.mamelon
 Version: 0.1.0
@@ -1190,14 +1190,14 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.ft , firmware (>=13.0) , firmware (<=13.9)
 Filename: debs/com.nan.fonts13.en.mamelon_0.1.0_iphoneos-arm.deb
-Size: 5422648
-MD5sum: 3bb6d7c2a8c9fafebde8722bc83ea9a6
-SHA1: 68e4502b4a0404767fa622da9ac02e2391ac6779
-SHA256: 8ac418071a5bb8a6ca1be9b5617e2b3a546605c6644a3a5ffe4a7fa7cbefd5e5
+Size: 5422654
+MD5sum: 1ff698c6c051469416457cf0065ada35
+SHA1: 7ee9c143d948acbb8e84ab0ca3af9e38bd19dc83
+SHA256: d23da1fc9a32bc9bee2f118141a92889f42d6aeee820c07c81db20bab9ce2a50
 Section: Fonts (iOS13)
 Description: 感谢字由心语分享的 マメロン 字体
 Author: 字由心语 & zhaonan
-Name: マメロン (Mamelon)-英文-iOS13
+Name: マメロン-英文
 
 Package: com.nan.ft
 Version: 0.1.9
