@@ -1154,78 +1154,61 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
 Name: Filza File Manager 64-bit
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js_64bit.json
 
-Package: com.nan.fonts.zh.hamigua
-Version: 0.1.3
+Package: com.nan.fonts.zh.mamelon
+Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.ft , firmware (>=11.0) , firmware (<=13.9)
-Filename: debs/com.nan.fonts.zh.hamigua_0.1.3_iphoneos-arm.deb
-Size: 11762716
-MD5sum: b9e0a17df5cbd09de2ccd892df626398
-SHA1: 36ea901a4ec75c9659e3a88253150f6f83600ade
-SHA256: c7daf3b5b06897558f1c91d093fbc10ac8d49ebe1dd05dcae0ee5b7590aebdd9
+Filename: debs/com.nan.fonts.zh.mamelon_0.1.0_iphoneos-arm.deb
+Size: 11762760
+MD5sum: 8802d7b5b67b13d818601b9776e13b54
+SHA1: d84d35308cb3c2c9b1b76ed205dc8f339e327810
+SHA256: 65c60de138068a7f79a090ee87b892fb6df6bc711397f165cde0854347da3620
 Section: Fonts
 Description: 感谢字由心语分享的 マメロン 字体
-Author: zhaonan
-Name: マメロン-中文
+Author: 字由心语 & zhaonan
+Name: マメロン (Mamelon)-中文
 
-Package: com.nan.fonts12.en.hamigua
-Version: 0.1.3
+Package: com.nan.fonts12.en.mamelon
+Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.ft , firmware (>=12.0) , firmware (<=12.9)
-Filename: debs/com.nan.fonts12.en.hamigua_0.1.3_iphoneos-arm.deb
-Size: 6771682
-MD5sum: 92846a4febb3660536ed7fdb822524f7
-SHA1: 963e86d9352c8f5da1bb7ad95576acca5f926ebe
-SHA256: 1e9d5a3005f6ea36995d879d5315818cb38d47c510f8c6cb607ea6fc8044a2f8
+Filename: debs/com.nan.fonts12.en.mamelon_0.1.0_iphoneos-arm.deb
+Size: 5422650
+MD5sum: 8cbe072672e986c98ae9e200929c5b55
+SHA1: 1ab9a4b482fd1a50a92a1bb9a0da61212d187104
+SHA256: cd11e1af62ab67b37f7fa2b98562de542feb9eb538ba762b5da39b2fddf4a2a9
 Section: Fonts (iOS12)
 Description: 感谢字由心语分享的 マメロン 字体
-Author: zhaonan
-Name: マメロン-英文
+Author: 字由心语 & zhaonan
+Name: マメロン (Mamelon)-英文-iOS12
 
-Package: com.nan.fonts13.en.hamigua
-Version: 0.1.3
+Package: com.nan.fonts13.en.mamelon
+Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.ft , firmware (>=13.0) , firmware (<=13.9)
-Filename: debs/com.nan.fonts13.en.hamigua_0.1.3_iphoneos-arm.deb
-Size: 5422598
-MD5sum: ddda8dce6d05d82331ad253f15c6c395
-SHA1: 3454cd131317e34c7984a5a4e9a9f7ef1be8d918
-SHA256: 34706ea81c3e602bc5efefd33c123002c790f9a171d2cb3378f784ad550a860f
+Filename: debs/com.nan.fonts13.en.mamelon_0.1.0_iphoneos-arm.deb
+Size: 5422648
+MD5sum: 3bb6d7c2a8c9fafebde8722bc83ea9a6
+SHA1: 68e4502b4a0404767fa622da9ac02e2391ac6779
+SHA256: 8ac418071a5bb8a6ca1be9b5617e2b3a546605c6644a3a5ffe4a7fa7cbefd5e5
 Section: Fonts (iOS13)
 Description: 感谢字由心语分享的 マメロン 字体
-Author: zhaonan
-Name: マメロン-英文
+Author: 字由心语 & zhaonan
+Name: マメロン (Mamelon)-英文-iOS13
 
 Package: com.nan.ft
-Version: 0.1.7
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 10.3), com.bingner.snappy, diskdev-cmds
-Filename: debs/com.nan.ft_0.1.7_iphoneos-arm.deb
-Size: 2136
-MD5sum: d1806933f56a654d6a5f31413593f4f1
-SHA1: 814ef3e171b36b6d1cb3468d9d214a6b6a5d3998
-SHA256: adbeb91c31fb0ceda1e33c637c7e6292aba7e455cb06239600fb3babd5a5f1c5
-Section: Terminal_Support
-Description: 运行 ft 即可恢复默认字体。(只要默认快照还在)
-Author: zhaonan <Invalidunit@icloud.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/image.png
-Name: ft
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/js.json
-
-Package: com.nan.ft
-Version: 0.1.8
+Version: 0.1.9
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 11.0), com.bingner.snappy, diskdev-cmds
-Filename: debs/com.nan.ft_0.1.8_iphoneos-arm.deb
-Size: 2234
-MD5sum: 0630606e1f4384f2de0f3d673aae71d1
-SHA1: 8fb3f1d3a335dfe3dc71bfe9e0c10b2216e5ed98
-SHA256: 6ec26ef1bc3a1856600df9b477b93e352563b64b693c03b4f4c6da4e81264137
+Filename: debs/com.nan.ft_0.1.9_iphoneos-arm.deb
+Size: 2206
+MD5sum: 294cab279cb2fe95182249ea974c9434
+SHA1: aeb3adbffa0f8ffd314558611a17863f8a01d67b
+SHA256: 4bc61ac3da805ae1dabb6e1a4237a7249281284463fbc1cef60773f8e0314b92
 Section: Terminal_Support
 Description: 运行 ft 即可恢复默认字体。(只要默认快照还在)
 Author: zhaonan <Invalidunit@icloud.com>
