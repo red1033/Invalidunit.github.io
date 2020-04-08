@@ -94,6 +94,22 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.alipaysteps/image.pn
 Name: Alipay Steps
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.alipaysteps/js.json
 
+Package: com.nan.apfs-deletefs
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: coreutils, firmware (>= 10.3)
+Filename: debs/com.nan.apfs-deletefs_0.1.1_iphoneos-arm.deb
+Size: 7586
+MD5sum: 621bc55348ef3ede2c1973f97a94092e
+SHA1: 707694cc18916b2f4b02b4ad98546d40d89ee7d4
+SHA256: 2102516cb4cc002c0441e9e96c31247e859b71d9abafb80eabeb661f654e86ac
+Section: Terminal_Support
+Description: 删除 apfs 分区的命令行工具
+Author: halo_michael <yc992147156@me.com>
+Name: APFS Deletefs
+Sponsor: halo_michael <yc992147156@me.com>
+
 Package: com.nan.appdatamanager
 Version: 1.5.1-10
 Architecture: iphoneos-arm
@@ -112,6 +128,22 @@ Author: TIGI Software
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.appdatamanager/image.png
 Name: Apps Manager
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appdatamanager/js.json
+
+Package: com.nan.appleturboboost
+Version: 0.5.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 12.0), darwintools, com.bingner.plutil, sed, system-cmds
+Conflicts: com.michael.appleilluminator, com.michael.appleturboboost
+Filename: debs/com.nan.appleturboboost_0.5.1_iphoneos-arm.deb
+Size: 1874
+MD5sum: 062e62b8ac7c90d67ebf5ebb6977c3d2
+SHA1: b588a25cb35400a1578f7488a38ce34403a1025a
+SHA256: 5ac3eabcd4833c4a0eb3ecc822255e63bace1124756ba3088cee2edad829dab5
+Section: System
+Description: 去降频+去发热降亮度
+Author: Halo_Michael <yc992147156@me.com>
+Name: Apple Turbo Boost
 
 Package: com.nan.apppercent
 Version: 2.0.2
@@ -939,6 +971,23 @@ Tag: role::hacker
 Author: 0x7ff
 Name: dimentio
 
+Package: com.nan.dimentio
+Version: 0.5.3
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Conflicts: com.michael.dimentio
+Provides: com.michael.dimentio
+Filename: debs/com.nan.dimentio_0.5.3_iphoneos-arm.deb
+Size: 14472
+MD5sum: 130bfbecaeadc4311fe6964ca21c80e9
+SHA1: ef49601f4e9b152c5c38d60a2d1ffd16bf9b9079
+SHA256: c5cfd01718700a5d86a24fb7bb5c46a91b72428c229a2317147307c67d94ee58
+Section: Terminal_Support
+Description: PoC 工具，用于设置随机数而不触发 KPP/KTRR/PAC。(需要 tfp0)
+Tag: role::hacker
+Author: 0x7ff
+Name: dimentio
+
 Package: com.nan.doubletaplock
 Version: 0.0.3
 Architecture: iphoneos-arm
@@ -1158,12 +1207,12 @@ Package: com.nan.fonts.zh.mamelon
 Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: com.nan.ft , firmware (>=11.0) , firmware (<=13.9)
+Depends: com.nan.resetfonts
 Filename: debs/com.nan.fonts.zh.mamelon_0.1.0_iphoneos-arm.deb
-Size: 11762734
-MD5sum: dd712afffa3443a58e0dcb2bad36d55d
-SHA1: e0ba096f5dbf957448acd4f18ccead3c76a1ca40
-SHA256: 52b2b2687c35fa2c6c2a4823169f29d68c123b8d752109b40a88f921cd12af3a
+Size: 11762712
+MD5sum: ec73433226420e547d7efb9f9f66d41d
+SHA1: caee1e7e4d467687b589432f7071d6a71c40c862
+SHA256: a162ce8faa19b999568ceb1fc406003572d97e02e70b8d56cb43b911e51bef04
 Section: Fonts
 Description: 感谢字由心语分享的 マメロン 字体
 Author: 字由心语 & zhaonan
@@ -1173,12 +1222,12 @@ Package: com.nan.fonts12.en.mamelon
 Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: com.nan.ft , firmware (>=12.0) , firmware (<=12.9)
+Depends: com.nan.resetfonts, firmware (>=12.0), firmware (<=12.9)
 Filename: debs/com.nan.fonts12.en.mamelon_0.1.0_iphoneos-arm.deb
 Size: 6771698
-MD5sum: e8dfc3ad0e0dd693d4a90a34b8bf9a08
-SHA1: 64ea95d71dceaf8edbbf93ba180fbd0c87927607
-SHA256: 53156e5d9f43d651c5e0b364098d9be3f923b32238c59ca1ab5a303eef3fce41
+MD5sum: ab9fa4bd2cedd92b891ef831db877f1a
+SHA1: e1938c9e9bc90c16dbc853bb0073ae9b645bf209
+SHA256: 882b83a40af7373ebced0b6843f574b93eddf4d96d3ba982784e86f49029f650
 Section: Fonts (iOS12)
 Description: 感谢字由心语分享的 マメロン 字体
 Author: 字由心语 & zhaonan
@@ -1188,27 +1237,27 @@ Package: com.nan.fonts13.en.mamelon
 Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: com.nan.ft , firmware (>=13.0) , firmware (<=13.9)
+Depends: com.nan.resetfonts, firmware (>=13.0), firmware (<=13.9)
 Filename: debs/com.nan.fonts13.en.mamelon_0.1.0_iphoneos-arm.deb
-Size: 5422654
-MD5sum: 1ff698c6c051469416457cf0065ada35
-SHA1: 7ee9c143d948acbb8e84ab0ca3af9e38bd19dc83
-SHA256: d23da1fc9a32bc9bee2f118141a92889f42d6aeee820c07c81db20bab9ce2a50
+Size: 5422648
+MD5sum: f8881452f4dbe34e77d23937526cbd3a
+SHA1: ff5145177f23c258281e6f881d1707ef6b6660c7
+SHA256: 331151facdef6fd158dfaf4477864e29de33d94e8dc22ee907447bd4ad84294e
 Section: Fonts (iOS13)
 Description: 感谢字由心语分享的 マメロン 字体
 Author: 字由心语 & zhaonan
 Name: マメロン-英文
 
 Package: com.nan.ft
-Version: 0.1.9
+Version: 0.2.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: firmware (>= 11.0), com.bingner.snappy, diskdev-cmds
-Filename: debs/com.nan.ft_0.1.9_iphoneos-arm.deb
-Size: 2206
-MD5sum: 294cab279cb2fe95182249ea974c9434
-SHA1: aeb3adbffa0f8ffd314558611a17863f8a01d67b
-SHA256: 4bc61ac3da805ae1dabb6e1a4237a7249281284463fbc1cef60773f8e0314b92
+Depends: firmware (>= 10.3), com.bingner.snappy, diskdev-cmds
+Filename: debs/com.nan.ft_0.2.0_iphoneos-arm.deb
+Size: 1618
+MD5sum: 271fd8f197dae8e51c65f0cc53a23521
+SHA1: 3bfd358f14ff03c83e7c8c2b82793828119b716f
+SHA256: f8599e37b15c7816699eb4c9cbedf11f0243ab7b14d161c14a87b32ea16b8fa5
 Section: Terminal_Support
 Description: 运行 ft 即可恢复默认字体。(只要默认快照还在)
 Author: zhaonan <Invalidunit@icloud.com>
@@ -1865,6 +1914,24 @@ Author: Netskao
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/image.png
 Name: QQ Purification
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/js.json
+
+Package: com.nan.resetfonts
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 11.0)
+Filename: debs/com.nan.resetfonts_0.1.0_iphoneos-arm.deb
+Size: 866
+MD5sum: 2839a3a05974b740f80e56dd1016538a
+SHA1: ade802c6168ac43831fd9755a6a7ba67f3219f04
+SHA256: c69eada362c97aeb30ed2bbf9f286506f9f8c10c751468b8ac658b267c7e3147
+Section: Fonts
+Description: 安装卸载都会还原一次字体
+Tag: role::hacker
+Author: zhaonan <Invalidunit@icloud.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.resetfonts/image.png
+Name: reset fonts
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.resetfonts/js.json
 
 Package: com.nan.respring.xr
 Version: 0.1.1
