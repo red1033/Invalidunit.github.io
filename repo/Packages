@@ -1919,12 +1919,12 @@ Package: com.nan.resetfonts
 Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: firmware (>= 11.0)
+Depends: firmware (>= 11.0), com.nan.ft
 Filename: debs/com.nan.resetfonts_0.1.0_iphoneos-arm.deb
-Size: 866
-MD5sum: 2839a3a05974b740f80e56dd1016538a
-SHA1: ade802c6168ac43831fd9755a6a7ba67f3219f04
-SHA256: c69eada362c97aeb30ed2bbf9f286506f9f8c10c751468b8ac658b267c7e3147
+Size: 872
+MD5sum: 806b447e59032a27077c3aca630ab6a6
+SHA1: c2b27825bd2660bacd6c24965162f849db11a565
+SHA256: 31f06c36169caf4df48a681626954834cd8d0d8df23ed79e65f33c87f52dd4b5
 Section: Fonts
 Description: 安装卸载都会还原一次字体
 Tag: role::hacker
