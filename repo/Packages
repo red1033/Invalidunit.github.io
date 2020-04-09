@@ -1254,10 +1254,10 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 10.3), com.bingner.snappy, diskdev-cmds
 Filename: debs/com.nan.ft_0.2.1_iphoneos-arm.deb
-Size: 1816
-MD5sum: e5943f1d5fa94ab609b072b3c7ddb8dc
-SHA1: 766bd63d794928a4866762a861b02bd9cc2f39ee
-SHA256: 1a713db75d13a3e359d3c4b55a26617b9f8edf6e26c58665f8b5cd56aae60301
+Size: 1766
+MD5sum: aad3daa4a288325a787f0bf9ef38d53f
+SHA1: 8e0ab6d3a622639269353acb3029da0dc90adc40
+SHA256: d80b1b11cffe034fb99f065411be20401b88ef131110996c322a662a1e9c022a
 Section: Terminal_Support
 Description: 运行 ft 即可恢复默认字体。(只要默认快照还在)
 Author: zhaonan <Invalidunit@icloud.com>
