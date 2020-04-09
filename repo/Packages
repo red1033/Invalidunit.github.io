@@ -1209,10 +1209,10 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts
 Filename: debs/com.nan.fonts.zh.mamelon_0.1.0_iphoneos-arm.deb
-Size: 11762712
-MD5sum: ec73433226420e547d7efb9f9f66d41d
-SHA1: caee1e7e4d467687b589432f7071d6a71c40c862
-SHA256: a162ce8faa19b999568ceb1fc406003572d97e02e70b8d56cb43b911e51bef04
+Size: 11762652
+MD5sum: a51fbb5f986dccc23c2a02b9ea082b14
+SHA1: 9d6a5c2bb30c754ac2767c64fb8d864c6573340b
+SHA256: be49de5cb970ed99ee908e41d0fbccad9a3911a12e1381a87b3005bc5e67ecdc
 Section: Fonts
 Description: 感谢字由心语分享的 マメロン 字体
 Author: 字由心语 & zhaonan
@@ -1224,10 +1224,10 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts, firmware (>=12.0), firmware (<=12.9)
 Filename: debs/com.nan.fonts12.en.mamelon_0.1.0_iphoneos-arm.deb
-Size: 6771698
-MD5sum: ab9fa4bd2cedd92b891ef831db877f1a
-SHA1: e1938c9e9bc90c16dbc853bb0073ae9b645bf209
-SHA256: 882b83a40af7373ebced0b6843f574b93eddf4d96d3ba982784e86f49029f650
+Size: 6771642
+MD5sum: acc15c3ccc04c4622daec8ef60ae4d5a
+SHA1: b91ffc7a7d546bbcb40e3806b47c5b2e63499de9
+SHA256: 8b3fdbccd7fa5b14baefc5a88a870619943dadd01980827ea24329c134ffcb06
 Section: Fonts (iOS12)
 Description: 感谢字由心语分享的 マメロン 字体
 Author: 字由心语 & zhaonan
@@ -1239,25 +1239,25 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts, firmware (>=13.0), firmware (<=13.9)
 Filename: debs/com.nan.fonts13.en.mamelon_0.1.0_iphoneos-arm.deb
-Size: 5422642
-MD5sum: bcd98879079095ffa0115c3fde4497e3
-SHA1: 0a7ea11c1793b321bea09b0cb22f333602402c0e
-SHA256: 312fea75e51ab513539ba6769b8cfc93d6c3befcf1bedb5133019fe8dfeb0a7c
+Size: 5422590
+MD5sum: 34db2be713941ae7cee086328cb2a7e5
+SHA1: 8271cd5fb07cc9f15aa1afb4448a93485de69db8
+SHA256: 981ccfe4cafa6b9a47407313a4d263aa0540f07e75304145f8277aed3f09572a
 Section: Fonts (iOS13)
 Description: 感谢字由心语分享的 マメロン 字体
 Author: 字由心语 & zhaonan
 Name: マメロン-英文
 
 Package: com.nan.ft
-Version: 0.2.0
+Version: 0.2.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 10.3), com.bingner.snappy, diskdev-cmds
-Filename: debs/com.nan.ft_0.2.0_iphoneos-arm.deb
-Size: 1618
-MD5sum: 271fd8f197dae8e51c65f0cc53a23521
-SHA1: 3bfd358f14ff03c83e7c8c2b82793828119b716f
-SHA256: f8599e37b15c7816699eb4c9cbedf11f0243ab7b14d161c14a87b32ea16b8fa5
+Filename: debs/com.nan.ft_0.2.1_iphoneos-arm.deb
+Size: 1812
+MD5sum: 4ab5c557993717b715a5b006c0059636
+SHA1: cdf34405119eb6caaffcac27a318812334122177
+SHA256: 30cf82538bd9f60d67b8a07f0de17fa2c4af0dd78231202a69ec783a1c6da2ae
 Section: Terminal_Support
 Description: 运行 ft 即可恢复默认字体。(只要默认快照还在)
 Author: zhaonan <Invalidunit@icloud.com>
