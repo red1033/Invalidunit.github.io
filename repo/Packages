@@ -1921,11 +1921,11 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 11.0), com.nan.ft
 Filename: debs/com.nan.resetfonts_0.1.0_iphoneos-arm.deb
-Size: 872
-MD5sum: 806b447e59032a27077c3aca630ab6a6
-SHA1: c2b27825bd2660bacd6c24965162f849db11a565
-SHA256: 31f06c36169caf4df48a681626954834cd8d0d8df23ed79e65f33c87f52dd4b5
-Section: Fonts
+Size: 858
+MD5sum: debbef22fe77f75e758da332f8e9452c
+SHA1: 6591e6051a72e1cdde78e8311c9e1b820e0dfb0c
+SHA256: 1877d2218ecae691c52de3ed855ce018bc3261157ece33c0c4465ef8476a0466
+Section: System
 Description: 安装卸载都会还原一次字体
 Tag: role::hacker
 Author: zhaonan <Invalidunit@icloud.com>
