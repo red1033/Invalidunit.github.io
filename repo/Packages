@@ -37,6 +37,25 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.a-bypass/image.png
 Name: A-Bypass
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.a-bypass/js.json
 
+Package: com.nan.a-bypass
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: debs/com.nan.a-bypass_1.0.6_iphoneos-arm.deb
+Size: 52424
+MD5sum: 95e20bb7c6a5d5b071a8287b9b28ded8
+SHA1: 123356818f256afd285497fceb8cf319b3e05a09
+SHA256: 43837d54961401593ff98dbdadaa24ee7e22a925f5a95b0dc10399b7b8d3d888
+Section: Tweaks
+Description: 一款强力有效，设置简单的屏蔽越狱插件，
+ 能解决 iOS13 王者荣耀，使命召唤，和平精英等一些游戏的闪退，
+ 或用于支付宝开启指纹面容
+Author: Baw Appie
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.a-bypass/image.png
+Name: A-Bypass
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.a-bypass/js.json
+
 Package: com.nan.accent
 Version: 1.3.1
 Architecture: iphoneos-arm
@@ -161,37 +180,18 @@ Author: pxcex
 Name: App Percent
 
 Package: com.nan.appstoreplusplus
-Version: 0.9.7
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: netskao.appadmin, com.nan.appadmin, netskao.appstoreplusplus, com.unlimapps.uaupdatetools, com.cokepokes.appstoreplusplus
-Filename: debs/com.nan.appstoreplusplus_0.9.7_iphoneos-arm.deb
-Size: 741052
-MD5sum: bde93868b570f00c1722ff94648f6036
-SHA1: 8d5015edde9e78ef7a6e5bbfffed98654e98dfbe
-SHA256: 0157443b26692830637c13fb96838a3021ba329f0e309a94ec7d5bd2062f9dce
-Section: Tweaks
-Homepage: https://tools.lancely.tech/apple/app-search
-Description: App Store 应用降级
- 软件详情页长按按钮即可弹出插件选项
- 长按 App Store 个人头像，即可进入高级设置，可设置去除 200M 蜂窝下载限制
-Author: CokePokes
-Name: AppStore++
-
-Package: com.nan.appstoreplusplus
-Version: 0.9.8-4
+Version: 0.9.9-5
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
 Replaces: com.cokepokes.appstoreplusplus
 Provides: com.cokepokes.appstoreplusplus
-Filename: debs/com.nan.appstoreplusplus_0.9.8-4_iphoneos-arm.deb
-Size: 1344638
-MD5sum: e0f7d7579b6a9bbf3c36c7ba32c3a164
-SHA1: 535ad5858f3f77d2c3bebe3b3c89728a07338069
-SHA256: 27fc34115f666fd788e99714e1c5d026f263bd4a3c77826f890d9bd2f3dfb922
+Filename: debs/com.nan.appstoreplusplus_0.9.9-5_iphoneos-arm.deb
+Size: 1414780
+MD5sum: 591fb2d552d2e82246e732ac4f295dee
+SHA1: c6cfb80b79f3806118d5757febe653fec512912e
+SHA256: 7276d07e5ce96815923dfaa100d88e60ff79796e64efff9fec5789fe0f47d50b
 Section: Tweaks
 Priority: optional
 Description: 允许你在 iOS11-13.3.1 上的 AppStore 中降级/升级应用程序
@@ -200,90 +200,6 @@ Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: AppStore++
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
-
-Package: com.nan.appstoreplusplus
-Version: 0.9.8-6
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
-Replaces: com.cokepokes.appstoreplusplus
-Provides: com.cokepokes.appstoreplusplus
-Filename: debs/com.nan.appstoreplusplus_0.9.8-6_iphoneos-arm.deb
-Size: 1338178
-MD5sum: ac9de03b720aa273996a2931fea26d2d
-SHA1: f7d7a1d8be3b8e14c8fd2e6a35069f4b9dab1a0e
-SHA256: 4418c78d414b1224ab4492fdc1e91152b4e2ca7b274f3f74b50cbd5221e00c01
-Section: Tweaks
-Priority: optional
-Description: 允许你在 iOS11-13.3.1 上的 AppStore 中降级/升级应用程序
-Author: CokePokes
-Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
-Name: AppStore++
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
-
-Package: com.nan.appstoreplusplus
-Version: 0.9.8-7
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
-Replaces: com.cokepokes.appstoreplusplus
-Provides: com.cokepokes.appstoreplusplus
-Filename: debs/com.nan.appstoreplusplus_0.9.8-7_iphoneos-arm.deb
-Size: 1338394
-MD5sum: b363c55aad40becd83b7a52a0414dd41
-SHA1: b5231a07326b505215b60182b33284b9a8d5116e
-SHA256: ebc843a7333309d7117bb9ba5e447056ddad7cf02369f5c6a3389dad1209c5a9
-Section: Tweaks
-Priority: optional
-Description: 允许你在 iOS11-13.3.1 上的 AppStore 中降级/升级应用程序
-Author: CokePokes
-Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
-Name: AppStore++
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
-
-Package: com.nan.appstoreplusplus
-Version: 0.9.8-9
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
-Replaces: com.cokepokes.appstoreplusplus
-Provides: com.cokepokes.appstoreplusplus
-Filename: debs/com.nan.appstoreplusplus_0.9.8-9_iphoneos-arm.deb
-Size: 1339994
-MD5sum: d399528c8540b9f0c5349c802f5eb26d
-SHA1: 82acb3caae330fbaa9310e9a151af28c97615b6d
-SHA256: 7caac5a3519fa667ddc329a5dcc2aaba899e8430bbce1c47b1f305c970a5a838
-Section: Tweaks
-Priority: optional
-Description: 允许你在 iOS11-13.3.1 上的 AppStore 中降级/升级应用程序
-Author: CokePokes
-Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
-Name: AppStore++
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
-
-Package: com.nan.awemeautoplay
-Version: 1.0-1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate
-Filename: debs/com.nan.awemeautoplay_1.0-1_iphoneos-arm.deb
-Size: 20406
-MD5sum: fa22e5bb097551a7c59d6f5bd895a6d3
-SHA1: c98151d4bbf685b86803fe6688b57d4cd56e4673
-SHA256: b59928a2324de04078ea74a2b2176b024b6ec18f0c6d3997cd239d337a8ec320
-Section: Tweaks
-Description: 抖音自动播放，支持最新版，无设置项
-Author: 7Loopy
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=awemeautoplayDp
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.awemeautoplay/image.png
-Name: Aweme AutoPlay
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemeautoplay/js.json
 
 Package: com.nan.awemeautoplay
 Version: 1.2-2
@@ -305,63 +221,6 @@ Name: Aweme AutoPlay
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemeautoplay/js.json
 
 Package: com.nan.awemepurification
-Version: 1.2-3
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: netskao.awemehack
-Filename: debs/com.nan.awemepurification_1.2-3_iphoneos-arm.deb
-Size: 61974
-MD5sum: 1ecf13d40cb4bd09f85274bf5b517e3c
-SHA1: bdfb5899bf7a3b79c6d828c1f330864e2a4f0b0c
-SHA256: 1d9a90deb802f5f0bd9afbe4fdb41d1eeecbbb49a56affa2a2c3ce4c944dcaad
-Section: Tweaks
-Description: 抖音净化！支持 6.x - 8.x 版本、去水印，显示状态栏，保存长视频，保存不可下载视频，保存风险视频，去除启动广告，去除 4G 情况下网络提示弹窗，去除青少年提示弹窗！无设置选项
-Author: Netskao <netskao@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=awemepurificationDp
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurification/image.png
-Name: Aweme Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurification/js.json
-
-Package: com.nan.awemepurification
-Version: 1.3-1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: netskao.awemehack
-Filename: debs/com.nan.awemepurification_1.3-1_iphoneos-arm.deb
-Size: 59826
-MD5sum: e3e386988d6dfeaffd5826947b649de5
-SHA1: 0c212b0a484ca64ef592c54540b028551f2843e1
-SHA256: 2d0893bc36103b54c5f90a50647b208129b939b109eccd0d090a3176266ef53b
-Section: Tweaks
-Description: 抖音净化！支持 6.x - 8.x 版本、去水印，显示状态栏，保存长视频，保存不可下载视频，保存风险视频，去除启动广告，去除 4G 情况下网络提示弹窗，去除青少年提示弹窗！无设置选项
-Author: Netskao <netskao@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=awemepurificationDp
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurification/image.png
-Name: Aweme Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurification/js.json
-
-Package: com.nan.awemepurification
-Version: 1.3-2
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: netskao.awemehack
-Filename: debs/com.nan.awemepurification_1.3-2_iphoneos-arm.deb
-Size: 71006
-MD5sum: 131639f9f49a76feffdb4db7fefd6175
-SHA1: 08d8d22e8f9f5ace2475967b82122ba98bc1b971
-SHA256: b83480768dd8a00883e2f597d47fe51c4f6e5d0d487eac10d73f0f489b68a375
-Section: Tweaks
-Description: 抖音净化！支持 6.x - 8.x 版本、去水印，显示状态栏，保存长视频，保存不可下载视频，保存风险视频，去除启动广告，去除 4G 情况下网络提示弹窗，去除青少年提示弹窗！无设置选项
-Author: Netskao <netskao@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=awemepurificationDp
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurification/image.png
-Name: Aweme Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurification/js.json
-
-Package: com.nan.awemepurification
 Version: 1.3-4
 Architecture: iphoneos-arm
 Maintainer: zhaonan
@@ -379,21 +238,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=awemepurif
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurification/image.png
 Name: Aweme Purification
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurification/js.json
-
-Package: com.nan.backgrounderaction12
-Version: 0.0.8
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: debs/com.nan.backgrounderaction12_0.0.8_iphoneos-arm.deb
-Size: 8448
-MD5sum: 015b0eb71dd9f6f77c397c4aa105b1b4
-SHA1: 840e8c88017dba04dd900c22390dfb6e51f481db
-SHA256: 4a5fb2cfaeaaf37b15f4b7ff32d6d4365a257d430244980640897f1dabc2365a
-Section: Tweaks
-Description: 在控制中心添加“真后台”启动按钮,安装后到-设置-控制中心-添加真后台模块即可。⚠️使用方式:如要开启QQ的真后台  打开QQ后上滑控制中心  按下真后台模块按钮  当真后台模块按钮为橙黄色这表示已为此应用开启真后台,如想结束真后台  返回到你开启真后台的应用 上滑控制中心  按下真后台模块按钮  当真后台模块按钮为白色这表示已经关闭此应用真后台(你也可以直接划掉已开启真后台的应用来结束此应用后台+此应用的真后台)
-Author: akusio
-Name: BackgrounderAction for CC
 
 Package: com.nan.backgrounderaction12
 Version: 0.1.0
@@ -531,44 +375,6 @@ Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.bootlogo.checkra1n/image.png
 Name: checkra1n-Bootlogo
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bootlogo.checkra1n/js.json
-
-Package: com.nan.bounceit
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, firmware(>=11.0)
-Conflicts: com.jakeashacks.bounceit
-Replaces: com.jakeashacks.bounceit
-Filename: debs/com.nan.bounceit_0.0.1_iphoneos-arm.deb
-Size: 8058
-MD5sum: 01a90fdba444e8a7e3e9c0c48115f341
-SHA1: 41b5a82b70f045ff5990ed4a3c4949648f09d59a
-SHA256: 2d065b0945f3603b30db1b3da8bb21aea906aa8408087d9367688bbba0875406
-Section: Tweaks
-Description: 开启应用弹跳动画,使整个手机动画跳跃起来
-Author: Jake James
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
-Name: Bounce It
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bounceit/js.json
-
-Package: com.nan.bounceit
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, firmware(>=11.0)
-Conflicts: com.jakeashacks.bounceit
-Replaces: com.jakeashacks.bounceit
-Filename: debs/com.nan.bounceit_1.0.3_iphoneos-arm.deb
-Size: 7076
-MD5sum: f7436d4c286bb0194a1f83cff2f6fab8
-SHA1: fb00b04e85e21fbad3b22a532d5b7fb5662d036b
-SHA256: 981842d2f9b34311875163890bc84a3e3b726376048ae0e25a0b3ca53fcd3334
-Section: Tweaks
-Description: 开启切换应用弹跳动画
-Author: Jake James
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
-Name: Bounce It
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bounceit/js.json
 
 Package: com.nan.bounceit
 Version: 1.0.4
@@ -1218,6 +1024,21 @@ Description: 感谢字由心语分享的 マメロン 字体
 Author: 字由心语 & zhaonan
 Name: マメロン-中文
 
+Package: com.nan.fonts.zh.xindixiawucha
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts
+Filename: debs/com.nan.fonts.zh.xindixiawucha_0.1.0_iphoneos-arm.deb
+Size: 40499100
+MD5sum: 19b47c724a764b2b2c5f196d58a47569
+SHA1: 69889c844da58c7e9b70fb3bafb50c80a8f79a91
+SHA256: 760c10b96fd461338311b664acc3559f3e1f3bf965b9930c09c7693c6d3e91c2
+Section: Fonts
+Description: 感谢宁静之雨分享的新蒂下午茶
+Author: 宁静之雨 & zhaonan
+Name: 新蒂下午茶-中文
+
 Package: com.nan.fonts12.en.mamelon
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -1264,21 +1085,6 @@ Author: zhaonan <Invalidunit@icloud.com>
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/image.png
 Name: ft
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/js.json
-
-Package: com.nan.goodwifi
-Version: 0.0~beta4
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.nan.goodwifi_0.0~beta4_iphoneos-arm.deb
-Size: 54986
-MD5sum: 1a88e289e151b6847734fcfe24d7d7bd
-SHA1: eef33cde0063fff7c39d5e5f1c0d138f524b951e
-SHA256: 4f6bbadfd457e130c6e417448ff27e232b12fa3574c26d5cfca6878a8c398488
-Section: Tweaks
-Description: 在设置 Wi-Fi 界面,显示wifi信号强度和增加一个菜单查看历史连接过的wifi和密码
-Author: julioverne
-Name: GoodWiFi
 
 Package: com.nan.icleanerpro
 Version: 7.8.0
@@ -1368,25 +1174,6 @@ Author: iBreak
 Name: iOS Helper 12
 
 Package: com.nan.kalm
-Version: 1.2.1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum, hi.my.name.is.ubik.kalm
-Filename: debs/com.nan.kalm_1.2.1_iphoneos-arm.deb
-Size: 188328
-MD5sum: 10130d03c0e582560f86b50ce8c816ef
-SHA1: 163424c4bf1ccbc8fe06d648f2b6a31f7142fab3
-SHA256: b138d6dacb9b85ba65ca0f5451bfb4810ce06787b912ecc1a0152a0d508d9ae4
-Section: Tweaks
-Description: 一个漂亮的锁屏插件
-Author: ubik <cydia@ubikstyl.es>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/image.png
-Name: Kalm
-Procides: hi.my.name.is.ubik.kalm
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js.json
-
-Package: com.nan.kalm
 Version: 1.2.2
 Architecture: iphoneos-arm
 Maintainer: zhaonan
@@ -1404,24 +1191,6 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/image.png
 Name: Kalm
 Procides: hi.my.name.is.ubik.kalm
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js.json
-
-Package: com.nan.kalm.zh-Hans
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: hi.my.name.is.ubik.kalm
-Conflicts: com.nan.kalm
-Filename: debs/com.nan.kalm.zh-Hans_0.1.0_iphoneos-arm.deb
-Size: 3068
-MD5sum: e3e17ab146261830f6dbb652563a9083
-SHA1: eefeadd8e8051dca8fd9a2e0423cde154609ad93
-SHA256: 92c40f70295c03f82342c0c14f6d0a29242814fb13e22fa7a97e9a874cd3fa16
-Section: 汉化
-Description: 为 Kalm 提供简体中文
-Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/image.png
-Name: zh-hans for Kalm
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js_zh_Hans.json
 
 Package: com.nan.kalm.zh-Hans
 Version: 0.1.1
@@ -1458,46 +1227,6 @@ Author: Ryley Angus
 Name: Liberty Lite (Beta)
 
 Package: com.nan.little11
-Version: 1.1.1
-Architecture: iphoneos-arm
-Maintainer: Ryan Nair
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
-Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
-Provides: com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune, com.ryannair05.little11
-Filename: debs/com.nan.little11_1.1.1_iphoneos-arm.deb
-Size: 15600
-MD5sum: 4a83453a7a4b8950ab8f31e41ebdaac1
-SHA1: b9bc977fbfa8136bf9c0eae6166e857d143ef952
-SHA256: 3af28b4050fa5b391d82236eaec1249a6d00955a7b82f731256fb7576754fd01
-Section: Tweaks
-Description: 适用于 iOS 13 的 iPhone X 手势
-Author: Ryan Nair
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
-Name: Little11
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js.json
-
-Package: com.nan.little11
-Version: 1.2.0
-Architecture: iphoneos-arm
-Maintainer: Ryan Nair
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
-Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
-Provides: com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune, com.ryannair05.little11
-Filename: debs/com.nan.little11_1.2.0_iphoneos-arm.deb
-Size: 20496
-MD5sum: cc6f47ab24232c4d332887d524d757c2
-SHA1: a73741fc1bcd6b242572d7e6c434e0fd9dea3bf5
-SHA256: 8d560d40a5b9773d179b38b2d363d2d0ff9d4c0d33bd012e7b46a215245a5604
-Section: Tweaks
-Description: 适用于 iOS 13 的 iPhone X 手势
-Author: Ryan Nair
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
-Name: Little11
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js.json
-
-Package: com.nan.little11
 Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: Ryan Nair
@@ -1518,24 +1247,6 @@ Name: Little11
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js.json
 
 Package: com.nan.little11.zh-Hans
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: com.ryannair05.little11
-Conflicts: com.nan.little11
-Filename: debs/com.nan.little11.zh-Hans_0.1.1_iphoneos-arm.deb
-Size: 2068
-MD5sum: 6457d5c5178308c8630ed81b084387f9
-SHA1: b4ce079390083997c450f9d4ac2606bb9b0f281a
-SHA256: 00f3e5c689cb3f3da93c98fb6641dd5b442a82b5c885ace74345b3164bc5a50c
-Section: 汉化
-Description: 为 Little11 提供简体中文
-Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
-Name: zh-hans for Little11
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js_zh_Hans.json
-
-Package: com.nan.little11.zh-Hans
 Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: zhaonan
@@ -1552,21 +1263,6 @@ Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
 Name: zh-hans for Little11
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js_zh_Hans.json
-
-Package: com.nan.localhostssh
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, firmware (>= 11.0), sed
-Filename: debs/com.nan.localhostssh_0.0.1_iphoneos-arm.deb
-Size: 940
-MD5sum: 93087c503668a67824ac6a1a2ae0bd0b
-SHA1: 44928bc88eace431b5d712adea20d42559a3fe87
-SHA256: 9533b13d63e87290f5bc4eed4681aeeb12876bb574b6bb73e9261abb29c45315
-Section: System
-Description: Access localhost through SSH on iOS 11
-Author: MidnightChips
-Name: Local SSH
 
 Package: com.nan.localhostssh
 Version: 0.1.3
@@ -1670,36 +1366,6 @@ Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.openccmm/image.png
 Name: Activation CC MuteModule
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.openccmm/js.json
-
-Package: com.nan.pencilchargingindicator
-Version: 1.2~b5
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate
-Filename: debs/com.nan.pencilchargingindicator_1.2~b5_iphoneos-arm.deb
-Size: 387172
-MD5sum: be0050c87a5bad134c987578b7878124
-SHA1: 0ac2d7c04c60c7c8995697e988310e54abfd6b65
-SHA256: 9ae3bd106e470506bf034dc871ef3f3a28581b53505e47310306a0a9c9942bc9
-Section: Tweaks
-Description: 充电动画,移植iPad Pro2018的Apple Pencil充电动画到手机上
-Author: shiftcmdk
-Name: PencilChargingIndicator
-
-Package: com.nan.pencilchargingindicator
-Version: 1.2~b6
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate
-Filename: debs/com.nan.pencilchargingindicator_1.2~b6_iphoneos-arm.deb
-Size: 376856
-MD5sum: d8c899859c2a11007382024d08d276df
-SHA1: 160c05c5a7299ad7accea11645426e90fcf3a260
-SHA256: bfda264d1e34686bcd9632fab989c7c9eb748c5caf6bb765c83ddcdd116c10ed
-Section: Tweaks
-Description: 移植 iPadPro 的 ApplePencil 充电动画
-Author: shiftcmdk
-Name: PencilChargingIndicator
 
 Package: com.nan.pencilchargingindicator
 Version: 1.2~b7
@@ -1831,40 +1497,6 @@ Author: wjg (TouGBao)
 Name: QQanitiRecallHook
 
 Package: com.nan.qqprocrack
-Version: 2.1-1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate
-Filename: debs/com.nan.qqprocrack_2.1-1_iphoneos-arm.deb
-Size: 175444
-MD5sum: 292352b7320bd71731a4898d70b9b3f9
-SHA1: b75a43132c6f4a2b55c53dc87fb58f2206adb831
-SHA256: f6cf499dce2fc0370c9c91e5558c40f9539a3ddcba8f624a354747e84da0c718
-Section: Tweaks
-Description: QQ 和 TIM 增强，抢红包，虚拟机型破解版
-Author: 7Loopy
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qqprocrack/image.png
-Name: QQ Pro Crack
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqprocrack/js.json
-
-Package: com.nan.qqprocrack
-Version: 2.1-2
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate
-Filename: debs/com.nan.qqprocrack_2.1-2_iphoneos-arm.deb
-Size: 197316
-MD5sum: 7e5bb9cf484e661f85d011996e102b13
-SHA1: d27219e9c719ddda9bb5082aa6a09fe040c73a90
-SHA256: 6a74c1c4e674d5b76c411824dbc316ff5e032c69e43166746927aea0078ca590
-Section: Tweaks
-Description: QQ 和 TIM 增强，抢红包，虚拟机型破解版
-Author: 7Loopy
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qqprocrack/image.png
-Name: QQ Pro Crack
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqprocrack/js.json
-
-Package: com.nan.qqprocrack
 Version: 2.2-1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
@@ -1880,23 +1512,6 @@ Author: 7Loopy
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qqprocrack/image.png
 Name: QQ Pro Crack
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqprocrack/js.json
-
-Package: com.nan.qqpurification
-Version: 1.1-3
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: debs/com.nan.qqpurification_1.1-3_iphoneos-arm.deb
-Size: 261714
-MD5sum: 5d8f902f6ea9597f4b6313f486ca7d11
-SHA1: 14e74a77e14e511de11f3501c88cf8e66ba43139
-SHA256: cf93cc098255e3580e7ebb9ecfb617c305759e2b94abc0f67bea7509173a0d99
-Section: Tweaks
-Description: QQ 净化！还原聊天本质，给你一个干净的 QQ。
-Author: Netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/image.png
-Name: QQ Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/js.json
 
 Package: com.nan.qqpurification
 Version: 1.1-5
@@ -2244,23 +1859,6 @@ Section: Tweaks
 Description: 在键盘上左右滑动来控制打字光标,无需空格，无需 3D Touch
 Author: Kyle Howells
 Name: SwipeSelection
-
-Package: com.nan.systeminfo
-Version: 2.3.2-6+debug
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate
-Filename: debs/com.nan.systeminfo_2.3.2-6+debug_iphoneos-arm.deb
-Size: 568884
-MD5sum: 40aa2eda922c9ab50ba8653d676309e0
-SHA1: 682b9f34f53182ebcc30554b38410125f6e400ff
-SHA256: 762b0e77f8acfd7e625566f956f76f85d39ae728783b4c8057d17a1439cdad79
-Section: Tweaks
-Description: 系统信息查看增强
-Author: ARX8x
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
-Name: System Info
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.systeminfo/js.json
 
 Package: com.nan.systeminfo
 Version: 2.3.4-5+debug
