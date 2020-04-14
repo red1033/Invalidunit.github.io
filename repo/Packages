@@ -129,6 +129,22 @@ Author: halo_michael <yc992147156@me.com>
 Name: APFS Deletefs
 Sponsor: halo_michael <yc992147156@me.com>
 
+Package: com.nan.apfs-deletefs
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: coreutils, firmware (>= 10.3)
+Filename: debs/com.nan.apfs-deletefs_0.1.2_iphoneos-arm.deb
+Size: 7592
+MD5sum: 9a65246e8b1568e023dd4e6f045e9fa0
+SHA1: e68b00a9cc9558574514d677d778518217c65356
+SHA256: be850b8d9d30c4a19da20c924b32875f9f372f90ffc8d13fab87df8150a43f9d
+Section: Terminal_Support
+Description: 删除 apfs 分区的命令行工具
+Author: halo_michael <yc992147156@me.com>
+Name: APFS Deletefs
+Sponsor: halo_michael <yc992147156@me.com>
+
 Package: com.nan.appdatamanager
 Version: 1.5.1-10
 Architecture: iphoneos-arm
@@ -602,6 +618,27 @@ Size: 2423532
 MD5sum: 9a9059aea31bfb44a5436dacd2973d63
 SHA1: 2ece49f89b0775d87aa7fde004f822e938bc7a52
 SHA256: 31da3dd61cb1f59c6a7fba16c819a4f0cb85c0ff0ec35726c737ce2bf9966c22
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia 下载管理器 & 额外功能 !
+Author: julioverne <julioverne@me.com>
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/image.png
+Name: CyDown
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/js.json
+
+Package: com.nan.cydown
+Version: 7.0.8
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cydown
+Provides: com.julioverne.cydown
+Filename: debs/com.nan.cydown_7.0.8_iphoneos-arm.deb
+Size: 3399690
+MD5sum: 69bbfc3bfb32c25a61209ee69b3329e1
+SHA1: 259a94591f2b282d54459d9ef4f1f05bc06bc1a6
+SHA256: d7112cb808a423c87ef9f23909c7286f91fff169b133a0874959b5489546f4d3
 Section: Tweaks
 Homepage: http://twitter.com/ijulioverne
 Description: Cydia 下载管理器 & 额外功能 !
@@ -1620,6 +1657,21 @@ Description: 设置随机数 Nonce
 Author: zhaonan
 Name: Set Nonce
 
+Package: com.nan.setnonce
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.dimentio
+Filename: debs/com.nan.setnonce_0.1.1_iphoneos-arm.deb
+Size: 930
+MD5sum: c20219fd5035a4233af168b605746df6
+SHA1: a6325a6ee3e0f3a929c0f06306fc94bd5d180bb8
+SHA256: c11d61b45dc90f8afe7f9bfda265fe9c4c3a11e15b54cdc7f0b30f0445bc6bef
+Section: Terminal_Support
+Description: 设置随机数 Nonce
+Author: zhaonan
+Name: Set Nonce
+
 Package: com.nan.setwallpaper
 Version: 0.1.2
 Architecture: iphoneos-arm
@@ -1845,6 +1897,52 @@ Name: SutuPLUS
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sutuplus/js.json
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.nan.sutuplus
+Version: 2.8.6-1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: org.thebigboss.sutuplus
+Provides: org.thebigboss.sutuplus
+Filename: debs/com.nan.sutuplus_2.8.6-1_iphoneos-arm.deb
+Size: 489314
+MD5sum: 509e947fa722e7033b212cdd78323cba
+SHA1: a7c1130e75913ba53f48c6cccd8e8bbb210e2300
+SHA256: ecf89043fbb85d6841b78b5ca37d0477a6f960c5604550982c0655559e93777e
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
+Description: 微信主题管理器
+Author: Carby <super.cat.rabbit@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
+Dev: carby
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Name: SutuPLUS
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sutuplus/js.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.nan.sutuplus
+Version: 3.0.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: org.thebigboss.sutuplus
+Provides: org.thebigboss.sutuplus
+Filename: debs/com.nan.sutuplus_3.0.0_iphoneos-arm.deb
+Size: 500620
+MD5sum: 9ca091ca2598a137548cb6a564539c0a
+SHA1: 07a6aff536dc69422a8345e09feb74010007047f
+SHA256: 826e2b533a409a84cf2a3efb3651cd53814e56eb5293e28eacceefbf7524981e
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
+Description: 微信主题管理器
+Author: Carby <super.cat.rabbit@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
+Dev: carby
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Name: SutuPLUS
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sutuplus/js.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.nan.swipeselection
 Version: 1.5.6
 Architecture: iphoneos-arm
@@ -1999,6 +2097,24 @@ Size: 37163800
 MD5sum: ae02ebd6dc6eb9d4480a7f1f4eb5d5d0
 SHA1: 49ddaa0b60cdbbddb3de38ea6360efdd4ef779aa
 SHA256: a266dcd6d90c9132202c4de1dad8d44e42cabd6fa0fcfaec4cfc0ad16aa12c8e
+Section: Themes
+Description: 一个美丽，简单而现代的主题
+Author: Bousrih <bousrih20@gmail.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.theme/viola/image.png
+Name: Viola
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.theme/viola/js.json
+
+Package: com.nan.viola
+Version: 1.9.4
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Conflicts: com.bousrih.viola
+Provides: com.bousrih.viola
+Filename: debs/com.nan.viola_1.9.4_iphoneos-arm.deb
+Size: 49938492
+MD5sum: ef90f2dc095bc011e972377bb2451a66
+SHA1: 09c50ad605ca9a60cfdc54c615a7149292059ac4
+SHA256: 47b3938306e5cba3395abbc4ce5db48bfd051eb755e4467b77e237ced38d6a25
 Section: Themes
 Description: 一个美丽，简单而现代的主题
 Author: Bousrih <bousrih20@gmail.com>
