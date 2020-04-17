@@ -632,6 +632,27 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/image.png
 Name: CyDown
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/js.json
 
+Package: com.nan.cydown
+Version: 7.0.9
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cydown
+Provides: com.julioverne.cydown
+Filename: debs/com.nan.cydown_7.0.9_iphoneos-arm.deb
+Size: 3400642
+MD5sum: 338a2b1131162ac31543473cd44740db
+SHA1: 8827fa3423fcb5cc7f18f42440520efea5f6bbec
+SHA256: 81c6df47756882634e06e547b3e1558cd1cdc7681db66792d6fd3b6e98e8db34
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia 下载管理器 & 额外功能 !
+Author: julioverne <julioverne@me.com>
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/image.png
+Name: CyDown
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/js.json
+
 Package: com.nan.cydown-697
 Version: 6.9.7
 Architecture: iphoneos-arm
