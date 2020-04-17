@@ -114,31 +114,15 @@ Name: Alipay Steps
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.alipaysteps/js.json
 
 Package: com.nan.apfs-deletefs
-Version: 0.1.1
+Version: 0.1.4
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: coreutils, firmware (>= 10.3)
-Filename: debs/com.nan.apfs-deletefs_0.1.1_iphoneos-arm.deb
-Size: 7586
-MD5sum: 621bc55348ef3ede2c1973f97a94092e
-SHA1: 707694cc18916b2f4b02b4ad98546d40d89ee7d4
-SHA256: 2102516cb4cc002c0441e9e96c31247e859b71d9abafb80eabeb661f654e86ac
-Section: Terminal_Support
-Description: 删除 apfs 分区的命令行工具
-Author: halo_michael <yc992147156@me.com>
-Name: APFS Deletefs
-Sponsor: halo_michael <yc992147156@me.com>
-
-Package: com.nan.apfs-deletefs
-Version: 0.1.2
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: coreutils, firmware (>= 10.3)
-Filename: debs/com.nan.apfs-deletefs_0.1.2_iphoneos-arm.deb
-Size: 7592
-MD5sum: 9a65246e8b1568e023dd4e6f045e9fa0
-SHA1: e68b00a9cc9558574514d677d778518217c65356
-SHA256: be850b8d9d30c4a19da20c924b32875f9f372f90ffc8d13fab87df8150a43f9d
+Filename: debs/com.nan.apfs-deletefs_0.1.4_iphoneos-arm.deb
+Size: 7574
+MD5sum: 703a562960a7808f45ec78d4992fe243
+SHA1: 1327aecf77ccba01ad4dfb91771ae34df0a48f91
+SHA256: c6dfc11862485aea0e45b786076eef9af338972b448417b8697ed08e1a7d2521
 Section: Terminal_Support
 Description: 删除 apfs 分区的命令行工具
 Author: halo_michael <yc992147156@me.com>
@@ -1283,6 +1267,26 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
 Name: Little11
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js.json
 
+Package: com.nan.little11
+Version: 1.3.0
+Architecture: iphoneos-arm
+Maintainer: Ryan Nair
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Provides: com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune, com.ryannair05.little11
+Filename: debs/com.nan.little11_1.3.0_iphoneos-arm.deb
+Size: 36590
+MD5sum: f1f01184d4eea113320a0fb6f14618b5
+SHA1: 4d3275363614d428f594fd075427dd6364f0cf74
+SHA256: f5b53aed2f6f214379c6a2247f088b24ebc258f18709781414c14d79c0d826d5
+Section: Tweaks
+Description: 适用于 iOS 13 的 iPhone X 手势
+Author: Ryan Nair
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
+Name: Little11
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js.json
+
 Package: com.nan.little11.zh-Hans
 Version: 0.1.2
 Architecture: iphoneos-arm
@@ -1294,6 +1298,24 @@ Size: 2086
 MD5sum: e9b86f3a0e172d047f9fbd158ba61b06
 SHA1: 40296d5a5b3925dde88985b77e65393917d5427f
 SHA256: e6c1a87981f7322846b632fb237c2f1ac8d5ced3ea44b69103c4c015336e6f8e
+Section: 汉化
+Description: 为 Little11 提供简体中文
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
+Name: zh-hans for Little11
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js_zh_Hans.json
+
+Package: com.nan.little11.zh-Hans
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.ryannair05.little11
+Conflicts: com.nan.little11
+Filename: debs/com.nan.little11.zh-Hans_0.1.3_iphoneos-arm.deb
+Size: 2956
+MD5sum: 7972aff8b797b2c89a41dddfac229f79
+SHA1: 27b1b515d115f99cccf83f94d8dfffd5e6585a68
+SHA256: b24509fa75e44bed7e78bb8f366973589feb66f6b2cb1e98852eba9fff7a5d5a
 Section: 汉化
 Description: 为 Little11 提供简体中文
 Author: zhaonan
