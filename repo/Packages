@@ -1277,9 +1277,9 @@ Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGestu
 Provides: com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune, com.ryannair05.little11
 Filename: debs/com.nan.little11_1.3.0_iphoneos-arm.deb
 Size: 36590
-MD5sum: f1f01184d4eea113320a0fb6f14618b5
-SHA1: 4d3275363614d428f594fd075427dd6364f0cf74
-SHA256: f5b53aed2f6f214379c6a2247f088b24ebc258f18709781414c14d79c0d826d5
+MD5sum: ff5d6dd2a02558aa7390b70a18e5eaca
+SHA1: 7a080964d278d4365bfd00b6a48bbf8c9aafb59d
+SHA256: 235ed08e58a3483df9efc0331e15ecac674f3b978c151092cb4679daf3a2de53
 Section: Tweaks
 Description: 适用于 iOS 13 的 iPhone X 手势
 Author: Ryan Nair
@@ -1294,10 +1294,10 @@ Maintainer: zhaonan
 Depends: com.ryannair05.little11
 Conflicts: com.nan.little11
 Filename: debs/com.nan.little11.zh-Hans_0.1.3_iphoneos-arm.deb
-Size: 2956
-MD5sum: 7972aff8b797b2c89a41dddfac229f79
-SHA1: 27b1b515d115f99cccf83f94d8dfffd5e6585a68
-SHA256: b24509fa75e44bed7e78bb8f366973589feb66f6b2cb1e98852eba9fff7a5d5a
+Size: 2954
+MD5sum: 1cd692f2f1a482a01ea9dff9c3492d70
+SHA1: 766d8f823d506f9e1d6e011b0c39cbebb52f1d19
+SHA256: 7bfb6dd2346fdee72592c65170b67c30fe685f49bb576aaf46e29c935aa9a19f
 Section: 汉化
 Description: 为 Little11 提供简体中文
 Author: zhaonan
