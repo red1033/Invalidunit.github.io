@@ -478,6 +478,44 @@ Description: 最初目的是让国行以外的机型可以调系统WI-FI的联�
 Author: ATWiiks
 Name: ConditionalWiFi4
 
+Package: com.nan.coolcc
+Version: 1:3.4
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate,preferenceloader,com.creaturesurvive.libcscolorpicker
+Conflicts: com.4nni3.coolcc
+Provides: com.4nni3.coolcc
+Filename: debs/com.nan.coolcc_1:3.4_iphoneos-arm.deb
+Size: 54506
+MD5sum: ef6a80b88f9d0615bc64961707f15704
+SHA1: 4497bd32154f582eff02f54b1d84b4a41c1fe39f
+SHA256: 515f21dc66442ed21e06cc6df478a3dd8f5d3f94b50e86cac34b8114334e5bd0
+Section: Tweaks
+Description: 让控制中心变得更酷
+Author: 4nni3 <4nni3.14@gmail.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.coolcc/image.png
+Name: CoolCC
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.coolcc/js.json
+
+Package: com.nan.coolfolder
+Version: 2.7-2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker
+Conflicts: com.4nni3.coolfolder
+Provides: com.4nni3.coolfolder
+Filename: debs/com.nan.coolfolder_2.7-2_iphoneos-arm.deb
+Size: 57846
+MD5sum: 21cc00071280c010d70002d6f76a0c74
+SHA1: 15f28edc77f3ec316300006e42d154db92be1944
+SHA256: 73f33d3030c10e931c05e5ea810faa127a3e3839906f30c68e8c1fd79cf7e1be
+Section: Tweaks
+Description: 让文件夹图标变得更酷
+Author: 4nni3 <4nni3.14@gmail.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.coolcc/image.png
+Name: CoolFolder
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.coolcc/js.json
+
 Package: com.nan.cracktool2
 Version: 2.3~beta9
 Architecture: iphoneos-arm
