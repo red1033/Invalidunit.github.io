@@ -1288,24 +1288,6 @@ Name: Little11
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js.json
 
 Package: com.nan.little11.zh-Hans
-Version: 0.1.2
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: com.ryannair05.little11
-Conflicts: com.nan.little11
-Filename: debs/com.nan.little11.zh-Hans_0.1.2_iphoneos-arm.deb
-Size: 2086
-MD5sum: e9b86f3a0e172d047f9fbd158ba61b06
-SHA1: 40296d5a5b3925dde88985b77e65393917d5427f
-SHA256: e6c1a87981f7322846b632fb237c2f1ac8d5ced3ea44b69103c4c015336e6f8e
-Section: 汉化
-Description: 为 Little11 提供简体中文
-Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
-Name: zh-hans for Little11
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js_zh_Hans.json
-
-Package: com.nan.little11.zh-Hans
 Version: 0.1.3
 Architecture: iphoneos-arm
 Maintainer: zhaonan
