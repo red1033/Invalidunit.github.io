@@ -505,16 +505,16 @@ Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker
 Conflicts: com.4nni3.coolfolder
 Provides: com.4nni3.coolfolder
 Filename: debs/com.nan.coolfolder_2.7-2_iphoneos-arm.deb
-Size: 57846
-MD5sum: 21cc00071280c010d70002d6f76a0c74
-SHA1: 15f28edc77f3ec316300006e42d154db92be1944
-SHA256: 73f33d3030c10e931c05e5ea810faa127a3e3839906f30c68e8c1fd79cf7e1be
+Size: 57844
+MD5sum: c89b38467add48ca11b1e09e7d207655
+SHA1: 33a88e6febafcc346d4223ab95cbccc9ff74f6e6
+SHA256: f218b584262542368bbe87b006d9074b65469b709fc5b44a80c3487f8c3024e7
 Section: Tweaks
 Description: 让文件夹图标变得更酷
 Author: 4nni3 <4nni3.14@gmail.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.coolcc/image.png
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.coolfolder/image.png
 Name: CoolFolder
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.coolcc/js.json
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.coolfolder/js.json
 
 Package: com.nan.cracktool2
 Version: 2.3~beta9
