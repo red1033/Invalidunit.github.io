@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "激活原生 iPhone 控制中心静音模块",
+                    "title": "酷炫的线条文件夹",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -21,25 +21,13 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.openccmm/Screenshot_01.png"
+                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.coolfolder/Screenshot_01.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.openccmm/Screenshot_02.png"
+                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.coolfolder/Screenshot_02.png"
                         }
                     ]
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "为 iPhone 启用 CC 模块 '静音模式'",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "因为是修改系统文件，所以重启后静音按钮还在。",
-                    "useBoldText": true,
-                    "useBottomMargin": false
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -64,12 +52,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "zhaonan",
+                    "text": "4nni3",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.1.2",
+                    "text": "2.7-2",
                     "title": "最新版本"
                 },
                 {
@@ -79,7 +67,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2019 年 11 月 28 日",
+                    "text": "2020 年 04 月 17 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -106,35 +94,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "0.1.2",
+                    "title": "2.7-2",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "更新支持 iOS13",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "0.1.1",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "删除本地图标",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "0.1.0",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "初始版本",
+                    "markdown": "你猜",
                     "useRawFormat": true
                 }
             ]
