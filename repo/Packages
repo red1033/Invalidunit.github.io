@@ -1368,12 +1368,12 @@ Package: com.nan.localhostssh
 Version: 0.1.3
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: mobilesubstrate, firmware (>= 11.0), sed, com.bingner.plutil, openssh
+Depends: firmware (>= 11.0), sed, com.bingner.plutil, openssh
 Filename: debs/com.nan.localhostssh_0.1.3_iphoneos-arm.deb
-Size: 1026
-MD5sum: 4cddb5de724716c36294a65ea74401fd
-SHA1: 71f05c0e947cc999419ebc9e0284c079095b073f
-SHA256: a8b4d348d87693ebfde0999d514e9a9b06d9b3dfa15ec91ae29f7f3de8c746c8
+Size: 1014
+MD5sum: 51e10b375801ac09b580e94bf4f8eb39
+SHA1: cac08779602f229932385fab19e4e8480a74c3fd
+SHA256: 823ee7101502dea800018b6fba805bb98fb4576f7a0cb1e8cb91e0cd5d89be87
 Section: System
 Description: 为 iOS 本地主机 SSH 访问启用 2222 端口
 Author: zhaonan
@@ -1385,12 +1385,12 @@ Package: com.nan.localhostssh10
 Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: mobilesubstrate, firmware (<= 10.9), sed, com.ericasadun.utilities, openssh
+Depends: firmware (<= 10.9), sed, com.ericasadun.utilities, openssh
 Filename: debs/com.nan.localhostssh10_0.1.0_iphoneos-arm.deb
-Size: 1050
-MD5sum: 67700676c2814e6297745ae0b3fe2fca
-SHA1: 3bae807598566943c22e7d11b8408312ca0d5ca6
-SHA256: bdc716778f4676f2ba2b80c7e0afbcc18c5aff3f4e3b84590d1ec666b69e974e
+Size: 1036
+MD5sum: a5c0cd27184e1473ff35ef97789c278e
+SHA1: d905460ace79c7d35cf69d8b4b37d034a0b8450e
+SHA256: ff86993692a36612bacdf4454b325c9eef57d4993618f30691afcda554eb9162
 Section: System
 Description: 为 iOS 本地主机 SSH 访问启用 2222 端口
 Author: zhaonan
@@ -1456,10 +1456,10 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.bingner.plutil , firmware (>= 11.0) , firmware (<= 13.9)
 Filename: debs/com.nan.openccmm_0.1.2_iphoneos-arm.deb
-Size: 984
-MD5sum: f778cf8ff4d9d4398d3a5423405fb9de
-SHA1: ce74297e1611432a65e75e99879eaa824e518366
-SHA256: 81ae21c2f1cb0eeae7b0d4c553737b77eaf6bfed933606d8d9d3931f8b1437ab
+Size: 972
+MD5sum: d9610bdb823062a0a4bfc4dcada59515
+SHA1: 26d571b7f04253b97d514f7be4cb12160ca394a1
+SHA256: 353014dff67dd4e21e31de96652edafb6b01c66d4c238126dd485aca65405212
 Section: System
 Description: 激活原生 iPhone 控制中心静音模块，安装后未激活越狱也生效
 Author: zhaonan

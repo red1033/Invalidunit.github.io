@@ -201,7 +201,7 @@ body {
 }
 
 .main-bg {
-    background: url(../images/beijing.jpg) no-repeat center;
+    background: url(../images/beijing.png) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
