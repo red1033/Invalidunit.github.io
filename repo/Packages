@@ -874,6 +874,23 @@ Tag: role::hacker
 Author: 0x7ff
 Name: dimentio
 
+Package: com.nan.dimentio
+Version: 0.5.4
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Conflicts: com.michael.dimentio
+Provides: com.michael.dimentio
+Filename: debs/com.nan.dimentio_0.5.4_iphoneos-arm.deb
+Size: 14468
+MD5sum: 5701331c8fb472f3ba6a90ee4560c56d
+SHA1: 599a618a5b19ff7d8c350281b3b810d19cc4167c
+SHA256: 98f7fe1efb977a37c610436f2b4ad1c568fb3c0e7af396d64d3e988c46042dbb
+Section: Terminal_Support
+Description: PoC 工具，用于设置随机数而不触发 KPP/KTRR/PAC。(需要 tfp0)
+Tag: role::hacker
+Author: 0x7ff
+Name: dimentio
+
 Package: com.nan.doubletaplock
 Version: 0.0.3
 Architecture: iphoneos-arm
@@ -1653,10 +1670,10 @@ Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Filename: debs/com.nan.respring.xr_0.1.1_iphoneos-arm.deb
-Size: 720588
-MD5sum: 54238d7aa369031fa8ca04af967df228
-SHA1: c2bcc7de615b8c0eb911db93537eb8fe59251bc5
-SHA256: b985b2b39e13a8760a8614bdfd6709c1d4227338706b3fc5756436fd9a280a24
+Size: 720560
+MD5sum: 5d6539d5951ce430ab942312746256e0
+SHA1: ca2baa426534d66ad89248ef7c7d08c039d3b70c
+SHA256: ceee26d5c9816f09d8d164e2931934b8b56991aa23533ca6be6567cbe3717051
 Section: Themes (Respring)
 Description: 漂亮的 XR 注销动画
 Author: zhaonan
