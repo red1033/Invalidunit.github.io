@@ -1752,6 +1752,21 @@ Description: 设置随机数 Nonce
 Author: zhaonan
 Name: Set Nonce
 
+Package: com.nan.setnonce
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.dimentio
+Filename: debs/com.nan.setnonce_0.1.2_iphoneos-arm.deb
+Size: 956
+MD5sum: e8897fcaa1319f8e5ce20665d3d13e54
+SHA1: a545bb283c3cdaee0aa2540b866db4946c912b34
+SHA256: 583bd0e362c3344026f030fcf42067bf87874a073bd8b723b6938059c7136dc1
+Section: Terminal_Support
+Description: 设置随机数 Nonce
+Author: zhaonan
+Name: Set Nonce
+
 Package: com.nan.setwallpaper
 Version: 0.1.2
 Architecture: iphoneos-arm
