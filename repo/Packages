@@ -201,6 +201,28 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: AppStore++
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
 
+Package: com.nan.appstoreplusplus
+Version: 0.9.9-9
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces: com.cokepokes.appstoreplusplus
+Provides: com.cokepokes.appstoreplusplus
+Filename: debs/com.nan.appstoreplusplus_0.9.9-9_iphoneos-arm.deb
+Size: 1468352
+MD5sum: dca8a27d6b6aeb12d40fd66c1ceb2a90
+SHA1: cf58830b85be05dd1619d4813f8b67371322a6d6
+SHA256: ea55afbe61e8f0321e9b044ab4992a32be22a4206145f49614af24819f7cc110
+Section: Tweaks
+Priority: optional
+Description: 允许你在 iOS11-13.3.1 上的 AppStore 中降级/升级应用程序
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Name: AppStore++
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
+
 Package: com.nan.awemeautoplay
 Version: 1.2-2
 Architecture: iphoneos-arm
