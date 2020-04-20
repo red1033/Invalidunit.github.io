@@ -1422,9 +1422,9 @@ Maintainer: zhaonan
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
 Filename: debs/com.nan.localiapstore_1.4-4_iphoneos-arm.deb
 Size: 71024
-MD5sum: ef2ee5061d285400aad44e3aa544286e
-SHA1: 353c296702094adf54658103466fe8c9857d558b
-SHA256: 9014c22c5a0095735aad55f0632255230f9ce41a71a0b70952595d66aff97062
+MD5sum: 1ed642d9c87664110eb09b8dbd25b958
+SHA1: 978f37d25ce9a1e12ff4f8d2aeb362525eb1b268
+SHA256: a05096db5cde3a000283cf9ac71d1c050693c275df14eae6dd5ab76ac5584758
 Section: Tweaks
 Description: 不错的内购破解
 Author: PanguTeam
@@ -1449,6 +1449,43 @@ Author: XsF1re
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: MCPatch
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.mcpatch/js.json
+
+Package: com.nan.networkspeed13
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13)
+Conflicts: com.johnzaro.networkspeed13
+Provides: com.johnzaro.networkspeed13
+Filename: debs/com.nan.networkspeed13_2.2_iphoneos-arm.deb
+Size: 96694
+MD5sum: 61174776515ae6686f907dc75746da86
+SHA1: 2f8b6cdb8482d308ac364f8463b1689933364457
+SHA256: de0ee9598ffd684dc6cef00b6c3975594c5f6c9e2fe015038b8a891b96633a61
+Section: Tweaks
+Description: 在状态栏中显示上传 & 下载速度
+Author: Johnzaro <johnzrgnns@gmail.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.networkspeed13/image.png
+Name: NetworkSpeed13
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.networkspeed13/js.json
+
+Package: com.nan.networkspeed13.zh-Hans
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.johnzaro.networkspeed13
+Conflicts: com.nan.networkspeed13
+Filename: debs/com.nan.networkspeed13.zh-Hans_0.1.0_iphoneos-arm.deb
+Size: 2480
+MD5sum: 1d5c7d2accc528618cf141dc3e45f024
+SHA1: 86dcf68e906858b60d2d6c1dad22e128f18bfe7c
+SHA256: e4ec7d0b20ea50f03046bf555be3eca6f35d8a096b18c0aab69f1e85c75e4255
+Section: 汉化
+Description: 为 NetworkSpeed13 提供简体中文
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.networkspeed13/image.png
+Name: zh-hans for NetworkSpeed13
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.networkspeed13/js_zh_Hans.json
 
 Package: com.nan.nodndbanner
 Version: 0.0.1
