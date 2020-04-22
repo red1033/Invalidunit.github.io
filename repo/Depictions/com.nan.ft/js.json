@@ -31,12 +31,6 @@
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "安装时会先恢复一次",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSubheaderView",
                     "title": "只要默认快照还在",
                     "useBoldText": true,
                     "useBottomMargin": false
