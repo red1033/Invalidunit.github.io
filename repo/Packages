@@ -739,18 +739,18 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.julioverne.cydown
-Conflicts: com.nan.cydown
+Conflicts: com.nan.cydown, com.nan.cydown-697
 Replaces: com.julioverne.cydown
 Filename: debs/com.nan.cydown.zh-hans_0.1.0_iphoneos-arm.deb
-Size: 5300
-MD5sum: afd1869c6b98ca708f6cd6080b72fd31
-SHA1: 5514b2b732ad57fafc022f7a3e0e95c20bfa2739
-SHA256: f9f31cb5deeca9286c111d96f39b64091407131bb11c7145a2f273d02d987118
+Size: 5754
+MD5sum: feda32435e9b681aeb483fcb0c03d2e5
+SHA1: 48b295c789e650a49fec1c0e9660c2420db88176
+SHA256: 21bdc27ff2cb705184ea0cf2ff93b53b79c5c0d9dad590b64ba4fff8f39f7346
 Section: 汉化
 Description: 为 CyDown 提供简体中文
 Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/image.png
-Name: zh-hans for CyDown
+Name: zh-Hans for CyDown
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/js_zh_hans.json
 
 Package: com.nan.darkshot
@@ -780,15 +780,15 @@ Maintainer: zhaonan
 Depends: xyz.skitty.darkshot
 Conflicts: com.nan.darkshot
 Filename: debs/com.nan.darkshot.zh-Hans_0.1.0_iphoneos-arm.deb
-Size: 1506
-MD5sum: f3910b9684beeda921cab39eb831130c
-SHA1: ae1ffc13e0dceb670166010f9ee99afb4d89c73a
-SHA256: 8441f88ffeb28d5b43e0385539d33a1a857035f92ea3cbb4f7d1fccd567d3682
+Size: 1502
+MD5sum: d09f473ac6ad8fa83b6070766cbf3892
+SHA1: 63a573db25bdbee40f5c8fdd0afb0d21cc5771a7
+SHA256: 992ff776e2be0760681ee95e375ebed00cd96dc78b4764fdd16f8e7f8b01d2d7
 Section: 汉化
 Description: 为 DarkShot 提供简体中文
 Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.darkshot/image.png
-Name: zh-hans for DarkShot
+Name: zh-Hans for DarkShot
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.darkshot/js_zh_Hans.json
 
 Package: com.nan.datameter
@@ -1311,6 +1311,25 @@ Name: Kalm
 Procides: hi.my.name.is.ubik.kalm
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js.json
 
+Package: com.nan.kalm
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum, hi.my.name.is.ubik.kalm
+Filename: debs/com.nan.kalm_1.3.4_iphoneos-arm.deb
+Size: 315678
+MD5sum: 6e9eca04ac6f4a830710bcfa56970f02
+SHA1: 005f687401d14ab109aac41fe2f42232390829f6
+SHA256: b562241c49e90d803026c97902e27518138f670deb2de2ab6d2cbc919281b612
+Section: Tweaks
+Description: 一个漂亮的锁屏插件
+Author: ubik <cydia@ubikstyl.es>
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/image.png
+Name: Kalm
+Procides: hi.my.name.is.ubik.kalm
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js.json
+
 Package: com.nan.kalm.zh-Hans
 Version: 0.1.1
 Architecture: iphoneos-arm
@@ -1319,14 +1338,32 @@ Depends: hi.my.name.is.ubik.kalm
 Conflicts: com.nan.kalm
 Filename: debs/com.nan.kalm.zh-Hans_0.1.1_iphoneos-arm.deb
 Size: 3212
-MD5sum: 9e0e868f16e5cdf30e495f63662e652d
-SHA1: 5198e4820e1692225e8d5a1c0a9f75e99e6d2e81
-SHA256: 6eb9d9ee40f7c71249abb094b86467f103832840ffccb557e3cdf53ccafc794a
+MD5sum: 463a06f7e69d4ce6d86a9da5e260803c
+SHA1: 041fe2ad5c0d1b0ce05ceb111d79df2218ac9dc5
+SHA256: 33378f84bafdc674e7ad4a01b7d9d653b614a97cb51c23868a7107608ec78cfe
 Section: 汉化
 Description: 为 Kalm 提供简体中文
 Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/image.png
-Name: zh-hans for Kalm
+Name: zh-Hans for Kalm
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js_zh_Hans.json
+
+Package: com.nan.kalm.zh-Hans
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: hi.my.name.is.ubik.kalm
+Conflicts: com.nan.kalm
+Filename: debs/com.nan.kalm.zh-Hans_0.1.2_iphoneos-arm.deb
+Size: 3784
+MD5sum: 8a88a2aca8dea73c8ab9422bee6b526a
+SHA1: 5399f236f23227968408c1a6d7bfe50234a1c33d
+SHA256: 052d6170401bba2235d81acf5b1263873938712e467f1def85937ae0ccedeab7
+Section: 汉化
+Description: 为 Kalm 提供简体中文
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/image.png
+Name: zh-Hans for Kalm
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js_zh_Hans.json
 
 Package: com.nan.libertylite
@@ -1392,15 +1429,15 @@ Maintainer: zhaonan
 Depends: com.ryannair05.little11
 Conflicts: com.nan.little11
 Filename: debs/com.nan.little11.zh-Hans_0.1.3_iphoneos-arm.deb
-Size: 2954
-MD5sum: 1cd692f2f1a482a01ea9dff9c3492d70
-SHA1: 766d8f823d506f9e1d6e011b0c39cbebb52f1d19
-SHA256: 7bfb6dd2346fdee72592c65170b67c30fe685f49bb576aaf46e29c935aa9a19f
+Size: 2960
+MD5sum: 48352d3e4c6e5c613ff910cfc26743ec
+SHA1: 9a58a32c3a126f572c875a40793bf1e324be4b1d
+SHA256: 486f8806d3009acf4ff9e1faa488e02e0fd6d8e3375e2b567338575fcaab05d4
 Section: 汉化
 Description: 为 Little11 提供简体中文
 Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
-Name: zh-hans for Little11
+Name: zh-Hans for Little11
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js_zh_Hans.json
 
 Package: com.nan.localhostssh
@@ -1499,14 +1536,14 @@ Depends: com.johnzaro.networkspeed13
 Conflicts: com.nan.networkspeed13
 Filename: debs/com.nan.networkspeed13.zh-Hans_0.1.0_iphoneos-arm.deb
 Size: 2480
-MD5sum: 1d5c7d2accc528618cf141dc3e45f024
-SHA1: 86dcf68e906858b60d2d6c1dad22e128f18bfe7c
-SHA256: e4ec7d0b20ea50f03046bf555be3eca6f35d8a096b18c0aab69f1e85c75e4255
+MD5sum: f71c74a1b973556940e25d3cdf19ad22
+SHA1: 1a8d775a48763b0249a10d3d63cba44f5651892f
+SHA256: 0c61cf970a431095a7d8574a7247061a113909ef61dabd10d863af859414fe1f
 Section: 汉化
 Description: 为 NetworkSpeed13 提供简体中文
 Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.networkspeed13/image.png
-Name: zh-hans for NetworkSpeed13
+Name: zh-Hans for NetworkSpeed13
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.networkspeed13/js_zh_Hans.json
 
 Package: com.nan.nodndbanner
@@ -1631,15 +1668,15 @@ Maintainer: zhaonan
 Depends: com.c1d3r.pulloverpro
 Conflicts: com.nan.pulloverpro, com.nan.pulloverpro-beta
 Filename: debs/com.nan.pulloverpro.zh-Hans_0.1.0_iphoneos-arm.deb
-Size: 1896
-MD5sum: 0ae5b3fd4ec5660333d1236a9c75ae09
-SHA1: fbea254d06477613391b99a79d566cce077ee2b5
-SHA256: b33529e94e921e3cf035a355b0ae9b2b7b382c61c786441421b6995c0a38d642
+Size: 1894
+MD5sum: 8211c8f7706f6462c174fee1a88cfe1f
+SHA1: 5749e79da707104b21b34ea99e0aff5240ac780d
+SHA256: ea7285e17547aab6ba22e99d9353cc0db2278b03af98c29a25d9cfc79e661765
 Section: 汉化
 Description: 为 PullOver Pro 提供简体中文
 Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpro/image.png
-Name: zh-hans for PullOver Pro
+Name: zh-Hans for PullOver Pro
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpro/js_zh_Hans.json
 
 Package: com.nan.qqanitirecallhook
@@ -1933,15 +1970,15 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: org.coolstar.sileo
 Filename: debs/com.nan.sileo.zh-Hans_0.1.5_iphoneos-arm.deb
-Size: 7056
-MD5sum: 410d3ae2712de94f323a7b722058969d
-SHA1: 170a93473048d910415fd35d1b8c75cb74c12a07
-SHA256: cc7eaf5202f041a2dbdcd7596da99f52fbcd7d6d0956d4b7cb08a6000fd5df6e
+Size: 7058
+MD5sum: 34b8dc14b24e7ba5ed3081803d6a94e4
+SHA1: b56d6d295bd955a0efd9d0eff81376267c07744e
+SHA256: f40214c9f92d13d4617f5059cf35aec0462747933c2aaa6b07c211da9d235243
 Section: 汉化
 Description: 为 Sileo 提供简体中文
 Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/image.png
-Name: zh-hans for Sileo
+Name: zh-Hans for Sileo
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/js.json
 
 Package: com.nan.sileo.zh-Hans
@@ -1950,15 +1987,32 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: org.coolstar.sileo
 Filename: debs/com.nan.sileo.zh-Hans_0.2.1_iphoneos-arm.deb
-Size: 7964
-MD5sum: 924463650e19694acaebf7ae6e15b558
-SHA1: a3cd567c0d507a507b9509be85fec07971a80ee4
-SHA256: 4877c689cbddaa4265ec9dcdcea955ddc8a3285ac12f49e823f5a07bf91b17b4
+Size: 7966
+MD5sum: 9590f9944f2b8153a7f085b8212a1491
+SHA1: e9e8bb07cb901e69af4c71d4b1592a28b9c36fde
+SHA256: 14788d5136edfb327e8ac19610e275f6dac17dd53f391883672baaf3c6c906d9
 Section: 汉化
 Description: 为 Sileo 提供简体中文
 Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/image.png
-Name: zh-hans for Sileo
+Name: zh-Hans for Sileo
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/js.json
+
+Package: com.nan.sileo.zh-Hans
+Version: 0.2.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: org.coolstar.sileo
+Filename: debs/com.nan.sileo.zh-Hans_0.2.2_iphoneos-arm.deb
+Size: 6674
+MD5sum: 467de89d259f82e76d3264c3dea4cc16
+SHA1: 565faaef66ff9a298d81a65b5020a0f6cd648df4
+SHA256: 8118e9377cd0e5165490d7c344e3d8a5cb3ed67cd54ddacc73a8dd736efdd677
+Section: 汉化
+Description: 为 Sileo 提供简体中文
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/image.png
+Name: zh-Hans for Sileo
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/js.json
 
 Package: com.nan.sileopurification
