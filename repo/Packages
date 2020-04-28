@@ -18,6 +18,26 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.3dbadgeclear/image.p
 Name: 3DBadgeClear
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.3dbadgeclear/js.json
 
+Package: com.nan.3dbadgeclear
+Version: 1.6.4
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Conflicts: com.isklikas.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
+Replaces: com.isklikas.3dbadgeclear
+Provides: com.isklikas.3dbadgeclear
+Filename: debs/com.nan.3dbadgeclear_1.6.4_iphoneos-arm.deb
+Size: 138716
+MD5sum: effc82a45b5a79e75ae2c30309c39e4a
+SHA1: dd694bfd3519708d4d9daa5e55d4e9bdc3d1a2a9
+SHA256: 8ec283344331afe82c807bdc08691f925192a55b62ac4ed22b5f77c8c755023e
+Section: Tweaks
+Description: 使用长按或者 3D Touch 菜单来清理桌面应用角标
+Author: isklikas
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.3dbadgeclear/image.png
+Name: 3DBadgeClear
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.3dbadgeclear/js.json
+
 Package: com.nan.a-bypass
 Version: 1.0.4
 Architecture: iphoneos-arm
