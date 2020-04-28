@@ -243,16 +243,16 @@ Name: Aweme AutoPlay
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemeautoplay/js.json
 
 Package: com.nan.awemepurification
-Version: 1.3-4
+Version: 1.3-5
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: netskao.awemehack
-Filename: debs/com.nan.awemepurification_1.3-4_iphoneos-arm.deb
-Size: 71280
-MD5sum: e313a1a898f3479441199a600b177f70
-SHA1: 546c4c6387547eea9b77cb8393a19a7d245dbfb0
-SHA256: 57f410f76269c763af470fc74594c6a8837dca694a6ba7d13bc2089c4943e2eb
+Filename: debs/com.nan.awemepurification_1.3-5_iphoneos-arm.deb
+Size: 52624
+MD5sum: c4f496053f5d30438bae3f9c83230bb2
+SHA1: 71a9ee24a3ca1e32b45621122ed8106a3feb856d
+SHA256: 30f9baf85d86a61ad4f7ab781e4e1f8a4b4fe3cf49e848f9844f8762ccef3577
 Section: Tweaks
 Description: 抖音净化！支持 6.x - 8.x 版本、去水印，显示状态栏，保存长视频，保存不可下载视频，保存风险视频，去除启动广告，去除 4G 情况下网络提示弹窗，去除青少年提示弹窗！无设置选项
 Author: Netskao <netskao@gmail.com>
