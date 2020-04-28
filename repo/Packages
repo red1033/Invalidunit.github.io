@@ -27,10 +27,10 @@ Conflicts: com.isklikas.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
 Replaces: com.isklikas.3dbadgeclear
 Provides: com.isklikas.3dbadgeclear
 Filename: debs/com.nan.3dbadgeclear_1.6.4_iphoneos-arm.deb
-Size: 138716
-MD5sum: effc82a45b5a79e75ae2c30309c39e4a
-SHA1: dd694bfd3519708d4d9daa5e55d4e9bdc3d1a2a9
-SHA256: 8ec283344331afe82c807bdc08691f925192a55b62ac4ed22b5f77c8c755023e
+Size: 138972
+MD5sum: f7e39fe9f2efd5177ee4d42276b2653b
+SHA1: a6bdb9146ec4d986e0c4d5b9210a20ec3b548130
+SHA256: 0b039086b33655326da66dffb55f4a792cfe7359d60bf6c4d2cc25a8fa4b0f82
 Section: Tweaks
 Description: 使用长按或者 3D Touch 菜单来清理桌面应用角标
 Author: isklikas
