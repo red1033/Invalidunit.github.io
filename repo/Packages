@@ -1436,16 +1436,33 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/image.p
 Name: Local SSH
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/js.json
 
+Package: com.nan.localhostssh
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 11.0), sed, com.bingner.plutil, openssh
+Filename: debs/com.nan.localhostssh_0.1.4_iphoneos-arm.deb
+Size: 1404
+MD5sum: be65797a4a5e36b3f23e281f43b69766
+SHA1: 5386e648e219563278a7fa3f51235c53059428f5
+SHA256: 4e3881a5d5cb21d2994173fb09fbe7d2a415b24f52026bf34a2c2e25ab14ae12
+Section: System
+Description: 为 iOS 本地主机 SSH 访问启用 2222 端口
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/image.png
+Name: Local SSH
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/js.json
+
 Package: com.nan.localhostssh10
-Version: 0.1.0
+Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (<= 10.9), sed, com.ericasadun.utilities, openssh
-Filename: debs/com.nan.localhostssh10_0.1.0_iphoneos-arm.deb
-Size: 1036
-MD5sum: a5c0cd27184e1473ff35ef97789c278e
-SHA1: d905460ace79c7d35cf69d8b4b37d034a0b8450e
-SHA256: ff86993692a36612bacdf4454b325c9eef57d4993618f30691afcda554eb9162
+Filename: debs/com.nan.localhostssh10_0.1.1_iphoneos-arm.deb
+Size: 932
+MD5sum: 37adb87368fe078c16a3204d3dd398f1
+SHA1: 3cd9b8d4dac660b981a940c7ddb75921d1045674
+SHA256: 37659dffb91edd1351c4cd553f1c480eb81c9d2860597f00b25e9fd3af3ba0ff
 Section: System
 Description: 为 iOS 本地主机 SSH 访问启用 2222 端口
 Author: zhaonan
