@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "运行 ft 即可恢复默认字体",
+                    "title": "一个从设备首张快照提取字体的脚本",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -28,18 +28,6 @@
                             "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.ft/Screenshot_03.png"
                         }
                     ]
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "只要默认快照还在",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "不知道快照是什么的不用管",
-                    "useBoldText": true,
-                    "useBottomMargin": false
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -69,7 +57,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.2.1",
+                    "text": "0.2.2",
                     "title": "最新版本"
                 },
                 {
@@ -79,7 +67,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 03 月 26 日",
+                    "text": "2020 年 05 月 02 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -104,6 +92,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "0.2.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "移除修复权限",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "0.2.1",
