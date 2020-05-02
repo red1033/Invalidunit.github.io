@@ -1007,6 +1007,24 @@ Description: 优雅设置,更好的设置
 Author: Netskao
 Name: Elegant Settings
 
+Package: com.nan.fh
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: sed
+Depends: com.bingner.plutil | com.ericasadun.utilities
+Filename: debs/com.nan.fh_0.1.0_iphoneos-arm.deb
+Size: 2556
+MD5sum: e7c8d57ae40a6b4ecd6d8c1b5f391f59
+SHA1: 6a1ec1cb9ba1c152ad781fdc9633ac733e490e54
+SHA256: 13c166265e49117e7e90305ebbf3d9489b0d318971598f06d536114392078845
+Section: Terminal_Support
+Description: 一个备份还原字体的小脚本，支持多个备份，支持恢复外部导入的备份
+Author: zhaonan <Invalidunit@icloud.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.fh/image.png
+Name: fh
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fh/js.json
+
 Package: com.nan.filza
 Version: 3.7.3-16
 Architecture: iphoneos-arm
@@ -1188,17 +1206,17 @@ Author: 字由心语 & zhaonan
 Name: マメロン-英文
 
 Package: com.nan.ft
-Version: 0.2.1
+Version: 0.2.2
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 10.3), com.bingner.snappy, diskdev-cmds
-Filename: debs/com.nan.ft_0.2.1_iphoneos-arm.deb
-Size: 1764
-MD5sum: b4aa19dca680c083ec7822933e270f2d
-SHA1: ef549a96eb898e20d509b6e6fdb365188a673726
-SHA256: 580755d9496dbf71eb30243cbf8e72fafdbf6c7111c6a9ec651a0af1b48c31dd
+Filename: debs/com.nan.ft_0.2.2_iphoneos-arm.deb
+Size: 1768
+MD5sum: 54e226d8dc5b269ff271de41423d7dc9
+SHA1: 4ca40a2753f01d8e8c4469bcdb0bb8065772e76e
+SHA256: 46f861e6257e156838b678dde40053861850ef71c4167eb4c9de67b9185864fd
 Section: Terminal_Support
-Description: 运行 ft 即可恢复默认字体。(只要默认快照还在)
+Description: 一个从设备首张快照提取字体的脚本
 Author: zhaonan <Invalidunit@icloud.com>
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/image.png
 Name: ft
