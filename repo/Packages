@@ -1480,12 +1480,12 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: openssh
 Depends: sed
-Recommends: com.bingner.plutil | com.ericasadun.utilities
+Suggests: com.bingner.plutil | com.ericasadun.utilities
 Filename: debs/com.nan.localhostssh_0.1.5_iphoneos-arm.deb
 Size: 1408
-MD5sum: 0186b12128a655b7bb3652b3984ef7a4
-SHA1: 416e6e033fef98f229e7c1a3e96a1124f8a3376e
-SHA256: fdf5690fa80905375bc61f54776ce475664292b61ad4817de2ef65196f23c516
+MD5sum: f5425707dedb19e98f25b9e740687d9e
+SHA1: 13ebac29a4e81e93b6dd42e62015600a0028608e
+SHA256: 981e1633e64cd5c19deb9649cd5b0666475836d5300bca763b96d651169df21f
 Section: System
 Description: 为 iOS 本地主机 SSH 访问启用 2222 端口
 Author: zhaonan
