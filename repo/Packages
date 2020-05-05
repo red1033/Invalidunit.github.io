@@ -1014,10 +1014,10 @@ Maintainer: zhaonan
 Pre-Depends: sed
 Depends: com.bingner.plutil | com.ericasadun.utilities
 Filename: debs/com.nan.fh_0.1.0_iphoneos-arm.deb
-Size: 2552
-MD5sum: a0180f4fa965714b960cc6c65fe3bf55
-SHA1: 431c1c025dd3b7fbe43df92c5561a5da154f6e03
-SHA256: dd337dcf8423a1e100ae8bad1650c29dd2a067b1f15c4243357670ae48e7a4b7
+Size: 2540
+MD5sum: 2862deb294ed15a75faf258776e85bd6
+SHA1: 91d8ee6ac7be82ef7dda592891bf806623c497dd
+SHA256: b54e43f2e7e2ff45a758f0f9b62d50b249189478c161680a92a0332180e352cb
 Section: Terminal_Support
 Description: 一个备份还原字体的小脚本，支持多个备份，支持恢复外部导入的备份
 Author: zhaonan <Invalidunit@icloud.com>
