@@ -1084,6 +1084,26 @@ Name: Filza File Manager
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js.json
 
 Package: com.nan.filza
+Version: 3.7.4-15
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza, com.nan.filza64bit
+Replaces: com.tigisoftware.filza
+Provides: com.tigisoftware.filza
+Filename: debs/com.nan.filza_3.7.4-15_iphoneos-arm.deb
+Size: 10182836
+MD5sum: 238c523af61c5ff2be8298e82aae9da9
+SHA1: 28d189f2977488152ce91389e537909adc4c3d1d
+SHA256: 866a8293b05d378d6c4fd5e79e0504a3cef849d092e4ad8a2ebfacf4eaf3e9f7
+Section: Utilities
+Description: iPhone, iPad, iPod Touch 的文件管理器
+Author: TIGI Software
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
+Name: Filza File Manager
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js.json
+
+Package: com.nan.filza
 Version: 3.7.4-4
 Architecture: iphoneos-arm
 Maintainer: zhaonan
@@ -1136,6 +1156,26 @@ Size: 8569022
 MD5sum: ef6e7a5bf4050e63d7bdeb391adf424f
 SHA1: c7f836b8263f7c35b87e930521e6045af0edce03
 SHA256: 396b2392eee314344f580a401859e2adf553b70587b8c86d7a9e1d3bf6419614
+Section: Utilities
+Description: iPhone, iPad, iPod Touch 的文件管理器
+Author: TIGI Software
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
+Name: Filza File Manager 64-bit
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js_64bit.json
+
+Package: com.nan.filza64bit
+Version: 3.7.4-15
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza64bit, com.nan.filza
+Replaces: com.tigisoftware.filza64bit
+Provides: com.tigisoftware.filza64bit
+Filename: debs/com.nan.filza64bit_3.7.4-15_iphoneos-arm.deb
+Size: 6988684
+MD5sum: c19e11c1af33add780b49a6a4052d80e
+SHA1: 6147061956baa78932f8ff0a15979c4d4cd47d83
+SHA256: bf1c880a2072614a214c969090dbc155c79e2ccdccb7d08e1f3fb2708ef0b028
 Section: Utilities
 Description: iPhone, iPad, iPod Touch 的文件管理器
 Author: TIGI Software
