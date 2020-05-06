@@ -369,6 +369,24 @@ Author: level3tjg <tjaygrantham@gmail.com>
 Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.bfdecrypt
 Name: bfdecrypt
 
+Package: com.nan.bioprotectxs.zh-hans
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: net.limneos.bioprotectxs
+Replaces: net.limneos.bioprotectxs
+Filename: debs/com.nan.bioprotectxs.zh-hans_0.1.0_iphoneos-arm.deb
+Size: 4596
+MD5sum: accfd1fb1e64e2dd992093b871d1b818
+SHA1: c6693fb23551406742a887be4d0f4b3ed597bb69
+SHA256: 66ae24e4de9aac686aa81c5fdae8953869836f5f3d00e929d642a195f323bc43
+Section: 汉化
+Description: 为 BioProtect XS 提供简体中文
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.bioprotectxs/image.png
+Name: zh-Hans for BioProtect XS
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bioprotectxs/js_zh_hans.json
+
 Package: com.nan.bolders
 Version: 1.0.1
 Architecture: iphoneos-arm
