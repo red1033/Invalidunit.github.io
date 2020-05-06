@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://Invalidunit.github.io/repo/Depictions/Default/top.png",
-    "tintColor": "#FF4500",
+    "tintColor": "#BE0821",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -70,6 +70,11 @@
                 },
                 {
                     "class": "DepictionTableTextView",
+                    "text": "4.4-45",
+                    "title": "支持版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
                     "text": "2020 年 05 月 05 日",
                     "title": "最后更新日期"
                 },
@@ -103,7 +108,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "初始版本,支持 BioProtect XS 4.4-45",
+                    "markdown": "初始版本",
                     "useRawFormat": true
                 }
             ]

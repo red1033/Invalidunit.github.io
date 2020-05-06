@@ -70,8 +70,8 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "13.0 - 13.4.1",
-                    "title": "支持系统范围"
+                    "text": "2.2",
+                    "title": "支持版本"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -108,7 +108,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "初始版本，适配 2.2 版本",
+                    "markdown": "初始版本",
                     "useRawFormat": true
                 }
             ]
