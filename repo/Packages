@@ -1026,16 +1026,16 @@ Author: Netskao
 Name: Elegant Settings
 
 Package: com.nan.fh
-Version: 0.1.1
+Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: sed
 Depends: com.bingner.plutil | com.ericasadun.utilities
-Filename: debs/com.nan.fh_0.1.1_iphoneos-arm.deb
-Size: 2572
-MD5sum: 827b88964411960eee89fac9febaf6e4
-SHA1: 7c7307c5eada27417d0662d3cec3a3bcfed76bf2
-SHA256: 7b664f618d9caa609e26462e709a02bf689618893f332649b5d5225e692abbcb
+Filename: debs/com.nan.fh_0.1.2_iphoneos-arm.deb
+Size: 37420
+MD5sum: 3ed2fac90d8bfc40aa8d5383fd9ad2e0
+SHA1: 981295383387729ca040c1cce249221fb5fb6f4b
+SHA256: babda253c7a4f6823123040f17ed23f37e9792e70de2634eea643a6f45452f0d
 Section: Terminal_Support
 Description: 一个备份还原字体的小脚本，支持多个备份，支持恢复外部导入的备份
 Author: zhaonan <Invalidunit@icloud.com>
