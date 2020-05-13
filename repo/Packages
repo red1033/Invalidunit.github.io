@@ -730,6 +730,27 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/image.png
 Name: CyDown
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/js.json
 
+Package: com.nan.cydown
+Version: 7.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cydown
+Provides: com.julioverne.cydown
+Filename: debs/com.nan.cydown_7.1.0_iphoneos-arm.deb
+Size: 2581516
+MD5sum: cbf2a171dcb7b2af8783d2e61c9ee827
+SHA1: e56933d59fe46b75eb262d06d0f8ea645701b4bc
+SHA256: 6cb29e422cfc4737af40d531311e524ca52f49f8f0d8a6d4faac142230fc6f29
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia 下载管理器 & 额外功能 !
+Author: julioverne <julioverne@me.com>
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/image.png
+Name: CyDown
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/js.json
+
 Package: com.nan.cydown-697
 Version: 6.9.7
 Architecture: iphoneos-arm
@@ -1490,6 +1511,26 @@ Size: 36590
 MD5sum: ff5d6dd2a02558aa7390b70a18e5eaca
 SHA1: 7a080964d278d4365bfd00b6a48bbf8c9aafb59d
 SHA256: 235ed08e58a3483df9efc0331e15ecac674f3b978c151092cb4679daf3a2de53
+Section: Tweaks
+Description: 适用于 iOS 13 的 iPhone X 手势
+Author: Ryan Nair
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
+Name: Little11
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js.json
+
+Package: com.nan.little11
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Ryan Nair
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Provides: com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune, com.ryannair05.little11
+Filename: debs/com.nan.little11_1.3.1_iphoneos-arm.deb
+Size: 26756
+MD5sum: f43eb59f2de533117ebbc17c4b57e96c
+SHA1: 1509e8d0c3f50b94cc465af0d0a896f1fbf5fa44
+SHA256: fa4c289f773a285abb180eab14e0acc10c4383b82bbbd431c22df1c094aefaaf
 Section: Tweaks
 Description: 适用于 iOS 13 的 iPhone X 手势
 Author: Ryan Nair
