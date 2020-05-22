@@ -1563,10 +1563,10 @@ Maintainer: zhaonan
 Pre-Depends: openssh, sed
 Depends: com.bingner.plutil | com.ericasadun.utilities
 Filename: debs/com.nan.localhostssh_0.1.5_iphoneos-arm.deb
-Size: 1416
-MD5sum: 262f1ff4a251cf137c8669b23cdb49db
-SHA1: 5fa32a63a43641764255a12ea1d8cc2b0c16cadd
-SHA256: ebdbb7bbc48101bedf7898caeedcc4e48a4d351ff6dc5f6dbdc644d75c202183
+Size: 1412
+MD5sum: 97285516bd4c706f1e2a644bede9eab5
+SHA1: 2cdeaaf71b392fb48aee78f34cfdbe579d3023c9
+SHA256: 5de3c2149e23c59fd6e79b8abafe0ddcf2f53294e0ae3f47665795c019a69d23
 Section: System
 Description: 为 iOS 本地主机 SSH 访问启用 2222 端口
 Author: zhaonan
