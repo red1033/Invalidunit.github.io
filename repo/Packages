@@ -1229,15 +1229,16 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: sed, openssh, com.ex.libsubstitute, org.coolstar.sileo
+Conflicts: cydia-lproj
 Filename: debs/com.nan.fixpubgcrash_0.1.0_iphoneos-arm.deb
-Size: 1196
-MD5sum: a812fab2ff81c7b4ceb4726174ccf580
-SHA1: 016ea8aed2dc4136413a93672c7d4b80e272a66c
-SHA256: 3adc96f6d717425dec6e23afbe218d333c9eef0c9ed2a1e12f20b054200bfc50
+Size: 1212
+MD5sum: 54c5cc7e8ea2b41330732c02c15b04e9
+SHA1: ba54216ecdeb357209a672305a140672e2c121d5
+SHA256: ed339317a540a465607d7c868aa0a08e6cf92080952029ae304dc64f7f6b02fe
 Section: System
-Description: 13系统专用，绕过腾讯检测越狱导致吃鸡10年。安装后即可卸载。不能开挂！！！(不支持)
+Description: 13 系统专用，绕过腾讯检测越狱导致吃鸡10年。不能开挂！！！(不支持)
 Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_system.png
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.fixpubgcrash/image.png
 Name: Fix PUBG Crash
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fixpubgcrash/js.json
 
