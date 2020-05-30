@@ -149,6 +149,22 @@ Author: halo_michael <yc992147156@me.com>
 Name: APFS Deletefs
 Sponsor: halo_michael <yc992147156@me.com>
 
+Package: com.nan.apfs-deletefs
+Version: 0.2.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: coreutils, firmware (>= 10.3)
+Filename: debs/com.nan.apfs-deletefs_0.2.0_iphoneos-arm.deb
+Size: 4444
+MD5sum: 8bf684307057acabbac6a1c92ae2463c
+SHA1: 2b2f991a976d661bebdace46876c32aeb3415e33
+SHA256: 4b758dbdb5efe2b8b63eaaf52e773d6968c50c52255ce0ae855fe99b3cec3e9e
+Section: Terminal_Support
+Description: 删除 apfs 分区的命令行工具
+Author: halo_michael <yc992147156@me.com>
+Name: APFS Deletefs
+Sponsor: halo_michael <yc992147156@me.com>
+
 Package: com.nan.appdatamanager
 Version: 1.5.1-10
 Architecture: iphoneos-arm
@@ -1341,6 +1357,27 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.icleanerpro/image.pn
 Name: iCleaner Pro
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.icleanerpro/js.json
 
+Package: com.nan.icleanerpro
+Version: 7.8.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner, com.exile90.icleanerpro, com.nan.icleanerpro-crack
+Replaces: org.altervista.exilecom.icleaner, com.exile90.icleanerpro, com.nan.icleanerpro-crack
+Filename: debs/com.nan.icleanerpro_7.8.2_iphoneos-arm.deb
+Size: 6707604
+MD5sum: f2dee0216d7be04eb8bdc96928080ae9
+SHA1: e07aa7a8fa502c7155c9db5ef6c2c80ae1162a26
+SHA256: 06ca8810d52eb6f2d347d5faee227d0ed3433f042640c94f1bafe6eecbb090af
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: iOS 系统清理 & 优化
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.icleanerpro/image.png
+Name: iCleaner Pro
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.icleanerpro/js.json
+
 Package: com.nan.icleanerpro-crack
 Version: 7.8.0
 Architecture: iphoneos-arm
@@ -2166,6 +2203,24 @@ Description: APFS 快照管理工具
 Tag: role::hacker
 Author: Sam Bingner <snappy@bingner.com>
 Name: Snappy
+
+Package: com.nan.snappy-modify
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 10.3)
+Conflicts: com.bingner.snappy, com.nan.snappy
+Provides: com.bingner.snappy
+Filename: debs/com.nan.snappy-modify_1.3.1_iphoneos-arm.deb
+Size: 17112
+MD5sum: 5a7f3abb8efa054e89d5b95d3ccb8e3d
+SHA1: c3031d9b2feea9852dcbc748e8a5b9c5e2ecd17d
+SHA256: 15673c13125c99d001350d8df514e431e96dabdaab4a20ffac2a4ef3295de410
+Section: Terminal_Support
+Description: APFS 快照管理工具，移除了iOS上禁止恢复的限制
+Tag: role::hacker
+Author: Sam Bingner & halo_michael
+Name: Snappy (modify)
 
 Package: com.nan.sutuplus
 Version: 2.8.3-1
