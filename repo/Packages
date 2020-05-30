@@ -1224,23 +1224,24 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
 Name: Filza File Manager 64-bit
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js_64bit.json
 
-Package: com.nan.fixpubgcrash
+Package: com.nan.fixtencentgamecrash
 Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: sed, openssh, com.ex.libsubstitute, org.coolstar.sileo
+Pre-Depends: sed, openssh, com.ex.libsubstitute, org.coolstar.sileo
+Depends: firmware (>= 13.0)
 Conflicts: cydia-lproj
-Filename: debs/com.nan.fixpubgcrash_0.1.0_iphoneos-arm.deb
-Size: 1212
-MD5sum: 54c5cc7e8ea2b41330732c02c15b04e9
-SHA1: ba54216ecdeb357209a672305a140672e2c121d5
-SHA256: ed339317a540a465607d7c868aa0a08e6cf92080952029ae304dc64f7f6b02fe
-Section: System
-Description: 13 系统专用，绕过腾讯检测越狱导致吃鸡10年。不能开挂！！！(不支持)
+Filename: debs/com.nan.fixtencentgamecrash_0.1.0_iphoneos-arm.deb
+Size: 1376
+MD5sum: 1854b3011da56576295b57fa8c4faafe
+SHA1: 3b76d7ebac5a6e659938e8b5e120c848b4532880
+SHA256: bc9ea4eb461b5b858617c65303eea1797d8bf53234bf4365fe817370fb963e21
+Section: Games
+Description: 13 系统专用，绕过腾讯检测越狱导致游戏闪退。通过修补 openssh 和删除 cydia。不能开挂！！！(不支持)
 Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.fixpubgcrash/image.png
-Name: Fix PUBG Crash
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fixpubgcrash/js.json
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image.png
+Name: Fix Tencent Game Crash
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fixtencentgamecrash/js.json
 
 Package: com.nan.fonts.zh.mamelon
 Version: 0.1.0
