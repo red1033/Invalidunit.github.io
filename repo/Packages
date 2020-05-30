@@ -1232,14 +1232,14 @@ Pre-Depends: sed, openssh, com.ex.libsubstitute, org.coolstar.sileo
 Depends: firmware (>= 13.0)
 Conflicts: cydia-lproj
 Filename: debs/com.nan.fixtencentgamecrash_0.1.0_iphoneos-arm.deb
-Size: 1376
-MD5sum: 1854b3011da56576295b57fa8c4faafe
-SHA1: 3b76d7ebac5a6e659938e8b5e120c848b4532880
-SHA256: bc9ea4eb461b5b858617c65303eea1797d8bf53234bf4365fe817370fb963e21
+Size: 1384
+MD5sum: a2cd1e2900cc77765015aa1fa296f180
+SHA1: 7a7bc6efd87c705270164c40cfbd5ef437ebacd2
+SHA256: f53964236041e6ba2897b3d92303da151ac12da5dfaced71fe0472de2a3a9c83
 Section: Games
 Description: 13 系统专用，绕过腾讯检测越狱导致游戏闪退。通过修补 openssh 和删除 cydia。不能开挂！！！(不支持)
 Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image.png
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_system.png
 Name: Fix Tencent Game Crash
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fixtencentgamecrash/js.json
 

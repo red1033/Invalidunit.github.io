@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://Invalidunit.github.io/repo/Depictions/com.nan.backgrounderaction13/top.png",
+    "headerImage": "https://Invalidunit.github.io/repo/Depictions/com.nan.backgrounderaction12/top.png",
     "tintColor": "#FF7F00",
     "minVersion": "0.3",
     "tabs": [
@@ -62,7 +62,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "13.0 - 13.4.1",
+                    "text": "13.0 - 13.5",
                     "title": "支持系统范围"
                 },
                 {
