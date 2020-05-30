@@ -1233,9 +1233,9 @@ Depends: firmware (>= 13.0)
 Conflicts: cydia-lproj
 Filename: debs/com.nan.fixtencentgamecrash_0.1.0_iphoneos-arm.deb
 Size: 1384
-MD5sum: a2cd1e2900cc77765015aa1fa296f180
-SHA1: 7a7bc6efd87c705270164c40cfbd5ef437ebacd2
-SHA256: f53964236041e6ba2897b3d92303da151ac12da5dfaced71fe0472de2a3a9c83
+MD5sum: d973e439e2b72546d381ec54ca0d6eea
+SHA1: 8528474235572cb1ba6a334c45f1884d98d1e5b9
+SHA256: 30ec5ede3600fc4512af9a0154337e80a3f279b178441f26de7d5403348ff34d
 Section: Games
 Description: 13 系统专用，绕过腾讯检测越狱导致游戏闪退。通过修补 openssh 和删除 cydia。不能开挂！！！(不支持)
 Author: zhaonan
