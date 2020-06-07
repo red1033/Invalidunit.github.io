@@ -49,7 +49,7 @@
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
-                }
+                },
                 {
                     "class": "DepictionTableTextView",
                     "text": "zhaonan",
