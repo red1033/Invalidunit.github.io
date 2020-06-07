@@ -184,22 +184,6 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.appdatamanager/image
 Name: Apps Manager
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appdatamanager/js.json
 
-Package: com.nan.appleturboboost
-Version: 0.5.1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 12.0), darwintools, com.bingner.plutil, sed, system-cmds
-Conflicts: com.michael.appleilluminator, com.michael.appleturboboost
-Filename: debs/com.nan.appleturboboost_0.5.1_iphoneos-arm.deb
-Size: 1874
-MD5sum: 062e62b8ac7c90d67ebf5ebb6977c3d2
-SHA1: b588a25cb35400a1578f7488a38ce34403a1025a
-SHA256: 5ac3eabcd4833c4a0eb3ecc822255e63bace1124756ba3088cee2edad829dab5
-Section: System
-Description: 去降频+去发热降亮度
-Author: Halo_Michael <yc992147156@me.com>
-Name: Apple Turbo Boost
-
 Package: com.nan.apppercent
 Version: 2.0.2
 Architecture: iphoneos-arm
@@ -1023,23 +1007,6 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: DownloadBar13
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.downloadbar13/js.json
 
-Package: com.nan.duo
-Version: 1.0.5
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.nan.duo_1.0.5_iphoneos-arm.deb
-Size: 291812
-MD5sum: e876c7f28b50a22433717a17a59820af
-SHA1: 3bf5a1c5eaaab64d23eb002d704ba186b37515b0
-SHA256: 7d3b1f97733cc647797ba52189f3404d5d664f3a7edb072ed3d65d0ad903932d
-Section: Tweaks
-Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=duo
-Description: Add a second page to the iOS 11 Control Center!
-Author: Muirey03 <repo@hackyouriphone.org>
-Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=duo
-Name: Duo
-
 Package: com.nan.elegantsettings
 Version: 1.2.0
 Architecture: iphoneos-arm
@@ -1639,12 +1606,12 @@ Version: 0.1.5
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: openssh, sed
-Depends: com.bingner.plutil | com.ericasadun.utilities
+Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
 Filename: debs/com.nan.localhostssh_0.1.5_iphoneos-arm.deb
-Size: 1412
-MD5sum: 97285516bd4c706f1e2a644bede9eab5
-SHA1: 2cdeaaf71b392fb48aee78f34cfdbe579d3023c9
-SHA256: 5de3c2149e23c59fd6e79b8abafe0ddcf2f53294e0ae3f47665795c019a69d23
+Size: 1408
+MD5sum: 73e22fe3425e5bbde6d278b375d50c49
+SHA1: 4c3f1f98738cb72f3805e721531aabb21dfaaf9d
+SHA256: 8a25f6e2b857761e7c30f9f8f2ba26690f1d1aea3b96e752abe5f1fea0060481
 Section: System
 Description: 为 iOS 本地主机 SSH 访问启用 2222 端口
 Author: zhaonan
@@ -1745,12 +1712,13 @@ Package: com.nan.openccmm
 Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: com.bingner.plutil , firmware (>= 11.0) , firmware (<= 13.9)
+Pre-Depends: firmware (>= 11.0), firmware (<= 13.9)
+Depends: plutil | com.bingner.plutil
 Filename: debs/com.nan.openccmm_0.1.2_iphoneos-arm.deb
-Size: 972
-MD5sum: d9610bdb823062a0a4bfc4dcada59515
-SHA1: 26d571b7f04253b97d514f7be4cb12160ca394a1
-SHA256: 353014dff67dd4e21e31de96652edafb6b01c66d4c238126dd485aca65405212
+Size: 1080
+MD5sum: e1bcf29a16f94a4e022aefd3690f0295
+SHA1: a23206f4cbff5dd2527cf4112fe97bc20e89e3f2
+SHA256: 51922bcb6a739e3ed0a9a643cb1d26a55fb29bb59b63d2a07ed28278523dbfc6
 Section: System
 Description: 激活原生 iPhone 控制中心静音模块，安装后未激活越狱也生效
 Author: zhaonan
@@ -1777,20 +1745,18 @@ Name: PencilChargingIndicator
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.pencilchargingindicator/js.json
 
 Package: com.nan.plutil
-Version: 0.2.1
+Version: 0.2.2-1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: firmware (>=2.0)
-Conflicts: com.ericasadun.utilities, com.bingner.plutil
-Provides: com.bingner.plutil
-Filename: debs/com.nan.plutil_0.2.1_iphoneos-arm.deb
-Size: 27276
-MD5sum: f765ee1ccbeed8fa4059c11ca5cc0d5f
-SHA1: 64d14d968539154cac4f684a49e5eb91b5c2461b
-SHA256: 0e9b1451a637e804bd2fa0613f58fc3de823afa589023f91dd74a9c078efccd8
-Section: Terminal_Support
-Multi-Arch: foreign
-Description: 来自 erica sadun 的 plutil
+Conflicts: com.ericasadun.utilities, com.bingner.plutil, plutil
+Provides: com.bingner.plutil (=0.2.2-1)
+Filename: debs/com.nan.plutil_0.2.2-1_iphoneos-arm.deb
+Size: 29880
+MD5sum: d7f469c667ec22505f4effaadbf93d23
+SHA1: 8461c0d17eba5d010e76e3b21f855d66c1513db9
+SHA256: 193d4b8da4752119dc0c8e4cb14171fc383574cd635e0f59e2f6db12f3dbdbff
+Section: System
+Description: 用于创建和编辑 Apple 属性列表文件的实用程序
 Tag: role::hacker
 Author: Samuel Bingner
 Name: plutil
@@ -2110,23 +2076,6 @@ Description: 更稳定的设置分类插件，类似明美的设置分类
 Author: CreatureSurvive
 Name: Shuffle
 
-Package: com.nan.shutup
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate
-Filename: debs/com.nan.shutup_1.0.1_iphoneos-arm.deb
-Size: 3682
-MD5sum: b6070363b8cf551568f7c125d302bb36
-SHA1: 57f993ab5a03aebbeaae3986c689d1f7aea12072
-SHA256: a6e8560175cc6bbc9edb792cf8c060045b2caa81da819c8a0ee20031988c8d9b
-Section: Tweaks
-Description: 从键盘上删除听写按钮。
-Author: Soh Satoh
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.shutup/image.png
-Name: ShutUp
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.shutup/js.json
-
 Package: com.nan.shynotifications
 Version: 0.0.1-2
 Architecture: iphoneos-arm
@@ -2214,13 +2163,13 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 10.3)
 Conflicts: com.bingner.snappy
-Provides: com.bingner.snappy
+Provides: com.bingner.snappy (=1.3.0)
 Filename: debs/com.nan.snappy_1.3.0_iphoneos-arm.deb
-Size: 15556
-MD5sum: 768ac9231c1459677466c7328ec57ea5
-SHA1: b55f0483f382f9b8ddb80a1a49871d265311790e
-SHA256: f64df64772acea029d06e299b36386d85bcdaf9fde90b4c3f42c3d470c1ac594
-Section: Terminal_Support
+Size: 15572
+MD5sum: 1fa366370b31ec01dbc42f3db7e150f4
+SHA1: 1937ff909f0f6fe4743edc2b91bbab9da775104b
+SHA256: 682bb6b8e1d6ec45cd0c0dd8042606cce13ba8a56039d5e3ffed45e1ec9154c1
+Section: System
 Description: APFS 快照管理工具
 Tag: role::hacker
 Author: Sam Bingner <snappy@bingner.com>
@@ -2232,14 +2181,14 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 10.3)
 Conflicts: com.bingner.snappy, com.nan.snappy
-Provides: com.bingner.snappy
+Provides: com.bingner.snappy (=1.3.0)
 Filename: debs/com.nan.snappy-modify_1.3.1_iphoneos-arm.deb
 Size: 17112
-MD5sum: 5a7f3abb8efa054e89d5b95d3ccb8e3d
-SHA1: c3031d9b2feea9852dcbc748e8a5b9c5e2ecd17d
-SHA256: 15673c13125c99d001350d8df514e431e96dabdaab4a20ffac2a4ef3295de410
-Section: Terminal_Support
-Description: APFS 快照管理工具，移除了iOS上禁止恢复的限制
+MD5sum: 3f30b55c9fc08770396f73b5f25a23f9
+SHA1: 5651581156cd061c412c10655dfbca26f3207366
+SHA256: 18a28e1272afd6bf20e9605393ac44a6c380468ca8a91c198637015610f13bd5
+Section: System
+Description: APFS 快照管理工具，移除了 iOS 上禁止恢复的限制
 Tag: role::hacker
 Author: Sam Bingner & halo_michael
 Name: Snappy (modify)
@@ -2427,21 +2376,6 @@ Depiction: http://repo.tetherme.net/net.tetherme.tetherme8.html
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.tetherme/image.png
 Name: TetherMe
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.tetherme/js.json
-
-Package: com.nan.togglow
-Version: 1.0.7
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: debs/com.nan.togglow_1.0.7_iphoneos-arm.deb
-Size: 355884
-MD5sum: 70815b94e63ab4a3040b1adc4d752150
-SHA1: 7e412759b152548ef9c942b3e116301841e756ae
-SHA256: 4e4d0de5bc35ec938f3025c0cb1c9282d28c1e97e62689f059cb2eb7741e2f15
-Section: Tweaks
-Description: 个性化控制中心,让控制中心外环发光
-Author: smokin1337
-Name: Togglow
 
 Package: com.nan.tsssaver
 Version: 1.2
