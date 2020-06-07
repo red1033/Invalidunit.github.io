@@ -1760,6 +1760,42 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.pencilchargingindica
 Name: PencilChargingIndicator
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.pencilchargingindicator/js.json
 
+Package: com.nan.playing
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common (>= 1.11), firmware (>=12.0)
+Filename: debs/com.nan.playing_1.3_iphoneos-arm.deb
+Size: 73548
+MD5sum: cd76e9d906670a43eb85d5d9350cb4c5
+SHA1: b7303922bc3c571183f15cf10ac52ff6541e0da0
+SHA256: 97dd06c3123315e3f272be779dfc07559f9475c0147a7b4ba517abd53d25d374
+Section: Tweaks
+Description: 得到新歌曲开始的通知！
+Author: ConorTheDev <conorthedev@gmail.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.playing/image.png
+Name: Playing
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.playing/js.json
+
+Package: com.nan.playing.zh-hans
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: dev.hyper.playing
+Conflicts: com.nan.playing
+Replaces: dev.hyper.playing
+Filename: debs/com.nan.playing.zh-hans_0.1.0_iphoneos-arm.deb
+Size: 1976
+MD5sum: fa983f359720a090cb9d570809375879
+SHA1: 4a5b72b9e16afb5636ff6758d777b500609eca47
+SHA256: f6f19c624792a966d032d1dd18194ba73bc97881c1be671333158ad8d7c5f9b1
+Section: 汉化
+Description: 为 Playing 提供简体中文
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.playing/image.png
+Name: zh-Hans for Playing
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.playing/js_zh_hans.json
+
 Package: com.nan.plutil
 Version: 0.2.2-1
 Architecture: iphoneos-arm
