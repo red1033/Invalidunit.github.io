@@ -1774,15 +1774,19 @@ Maintainer: zhaonan
 Pre-Depends: firmware (>= 11.0), firmware (<= 13.9)
 Depends: plutil | com.bingner.plutil
 Filename: debs/com.nan.openccmm_0.1.2_iphoneos-arm.deb
-Size: 1080
-MD5sum: e1bcf29a16f94a4e022aefd3690f0295
-SHA1: a23206f4cbff5dd2527cf4112fe97bc20e89e3f2
-SHA256: 51922bcb6a739e3ed0a9a643cb1d26a55fb29bb59b63d2a07ed28278523dbfc6
+Size: 1148
+MD5sum: cd2577018358b8c0e09f38d0c957172e
+SHA1: b493dc6aba9d8eaf3cd84deb64a976deb6b85e19
+SHA256: 6ee49c3c993029a55320bc4820b9d7ca167e158f553a5c0f8584d4f28025d0aa
 Section: System
 Description: 激活原生 iPhone 控制中心静音模块，安装后未激活越狱也生效
 Author: zhaonan
+Changelog:
+  更新支持 iOS13
+Header: https://Invalidunit.github.io/repo/Depictions/com.nan.openccmm/top.png
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.openccmm/image.png
 Name: Activation CC MuteModule
+Previews: https://Invalidunit.github.io/repo/Depictions/com.nan.openccmm/Screenshot_01.png, https://Invalidunit.github.io/repo/Depictions/com.nan.openccmm/Screenshot_02.png
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.openccmm/js.json
 
 Package: com.nan.pencilchargingindicator
