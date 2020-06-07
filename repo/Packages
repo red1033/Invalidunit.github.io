@@ -1663,19 +1663,15 @@ Maintainer: zhaonan
 Pre-Depends: openssh, sed
 Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
 Filename: debs/com.nan.localhostssh_0.1.5_iphoneos-arm.deb
-Size: 1540
-MD5sum: 9871004bf08ac6ff0e122581338ed544
-SHA1: 60824660597534c84413bdf6cf14f7a037c2f4a0
-SHA256: 84c041170a9cc7ba315fd178f8c6bceb8e63b9fad34c65f9a1bd250b35db1271
+Size: 1412
+MD5sum: 61ad540270e8eda6206447c6c1781340
+SHA1: fa01f301e82830561d586587cc30675d0e34eea4
+SHA256: f5a4013a86fb6222a8fd03cd9618aabc37d28308268c46a5444979c749c78e46
 Section: System
 Description: 为 iOS 本地主机 SSH 访问启用 2222 端口
 Author: zhaonan
-Changelog: 兼容更低版本
-  简单的修改了下依赖，现在 Local SSH 可以工作在 iOS 7-13
-Header: https://Invalidunit.github.io/repo/Depictions/Default/top.png
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/image.png
 Name: Local SSH
-Previews: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/Screenshot_01.png, https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/Screenshot_02.png, https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/Screenshot_03.png
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/js.json
 
 Package: com.nan.localiapstore
