@@ -184,6 +184,22 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.appdatamanager/image
 Name: Apps Manager
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appdatamanager/js.json
 
+Package: com.nan.appleturboboost
+Version: 0.5.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 12.0), darwintools, com.bingner.plutil (>= 0.1.0), sed, system-cmds
+Conflicts: com.michael.appleilluminator, com.michael.appleturboboost
+Filename: debs/com.nan.appleturboboost_0.5.2_iphoneos-arm.deb
+Size: 2104
+MD5sum: c411e7117de4b35dd55207d67b01e159
+SHA1: 26f2042849c5d8fd3c0c892f546a922f4142a9c8
+SHA256: 841d597a97cf9f43d711886db1efa9d529d5d9b0fe14a318ec236b613cb60c2c
+Section: System
+Description: 去降频+去发热降亮度
+Author: Halo_Michael <yc992147156@me.com>
+Name: Apple Turbo Boost
+
 Package: com.nan.apppercent
 Version: 2.0.2
 Architecture: iphoneos-arm
