@@ -301,16 +301,17 @@ Name: Aweme AutoPlay
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemeautoplay/js.json
 
 Package: com.nan.awemepurification
-Version: 1.4-1
+Version: 1.4-3
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: netskao.awemehack
-Filename: debs/com.nan.awemepurification_1.4-1_iphoneos-arm.deb
-Size: 95516
-MD5sum: 65a82a7370302703242e978e38ab1a96
-SHA1: 676c2968fc131ab655ea27d5e9a1320aab4f42e0
-SHA256: 3430fdd812fa2262093bab9049300b372f9956affb4d722ab1c129b406dbd5d7
+Conflicts: netskao.awemehack, netskao.awemepurification
+Provides: netskao.awemepurification (=1.4-3)
+Filename: debs/com.nan.awemepurification_1.4-3_iphoneos-arm.deb
+Size: 97668
+MD5sum: 1bf8b1c8ca1f3f17495166a247915002
+SHA1: 663b313b45e05773f1e6c94e68733d2ae9ac8474
+SHA256: 5e009334955e6550fefccae78a1b0e5b50d99a4956e4fe53bfc1d84f15a45ee6
 Section: Tweaks
 Description: 抖音净化！支持 6.x - 8.x 版本、去水印，显示状态栏，保存长视频，保存不可下载视频，保存风险视频，去除启动广告，去除 4G 情况下网络提示弹窗，去除青少年提示弹窗！无设置选项
 Author: Netskao <netskao@gmail.com>
@@ -1068,16 +1069,16 @@ Author: Netskao
 Name: Elegant Settings
 
 Package: com.nan.fh
-Version: 0.1.3
+Version: 0.1.4
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: sed
 Depends: com.bingner.plutil | com.ericasadun.utilities
-Filename: debs/com.nan.fh_0.1.3_iphoneos-arm.deb
-Size: 2668
-MD5sum: e9862c244f57b61a80184b7df06a16fd
-SHA1: 32f4a3992714e0fa299392c1770c2ef701e977d3
-SHA256: a883fadbe4aefcf19566ab00ee448f74d38607aea583b1574608cd2531bfeafc
+Filename: debs/com.nan.fh_0.1.4_iphoneos-arm.deb
+Size: 2756
+MD5sum: ab2793182610ce152def020165f8f8e4
+SHA1: 213005a4c82835da08dfacddae6179dd00c1bf2d
+SHA256: e2e161faac0528c392b53e197eac93bea8a311577821d55cc5f269a40ab6c4b7
 Section: Terminal_Support
 Description: 一个备份还原字体的小脚本，支持多个备份，支持恢复外部导入的备份
 Author: zhaonan <Invalidunit@icloud.com>
@@ -1325,15 +1326,15 @@ Author: 字由心语 & zhaonan
 Name: マメロン-英文
 
 Package: com.nan.ft
-Version: 0.2.2
+Version: 0.2.3
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 10.3), com.bingner.snappy, diskdev-cmds
-Filename: debs/com.nan.ft_0.2.2_iphoneos-arm.deb
-Size: 1768
-MD5sum: 54e226d8dc5b269ff271de41423d7dc9
-SHA1: 4ca40a2753f01d8e8c4469bcdb0bb8065772e76e
-SHA256: 46f861e6257e156838b678dde40053861850ef71c4167eb4c9de67b9185864fd
+Filename: debs/com.nan.ft_0.2.3_iphoneos-arm.deb
+Size: 1832
+MD5sum: c786a813cc351c14225bb2d0664f3e3f
+SHA1: f00921d91684d5789a858a988c6f93901bfbc305
+SHA256: 413db2a8154b1d85a9238434a9df2d731eca286d086d719c2d93911cc48f3f0a
 Section: Terminal_Support
 Description: 一个从设备首张快照提取字体的脚本
 Author: zhaonan <Invalidunit@icloud.com>
