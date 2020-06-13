@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://Invalidunit.github.io/repo/Depictions/Default/top.png",
-    "tintColor": "#B73302",
+    "tintColor": "#69A3F9",
     "minVersion": "0.3",
     "tabs": [
         {
