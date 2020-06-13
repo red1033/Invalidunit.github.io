@@ -1250,18 +1250,17 @@ Package: com.nan.fixpubgcrash
 Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Pre-Depends: sed, openssh, com.ex.libsubstitute, org.coolstar.sileo
-Depends: firmware (>= 13.0)
-Conflicts: cydia-lproj
+Pre-Depends: sed, openssh
+Depends: com.ex.libsubstitute | org.coolstar.libhooker
 Filename: debs/com.nan.fixpubgcrash_0.1.0_iphoneos-arm.deb
-Size: 1348
-MD5sum: c536e0d7404d5ca2502ca1f760f4ff11
-SHA1: 382e7ab08abb06f82d22d447ea9c7a7e8f640c1a
-SHA256: 7da8e3f96af3368909d21302f518a96deadbaf4d2b827ad2fab618df1b771cc7
+Size: 1316
+MD5sum: 1a73c76a6c73fe022189221475a25da8
+SHA1: f7a339eb10c4be47a404907b7f6e7c58f51b305d
+SHA256: bec6d07085cebcb0baff53564a93348c8738e0bd14615e80c5997d830e14c442
 Section: Games
 Description: 13 系统专用，绕过吃鸡检测越狱导致游戏闪退。不能开挂！！！(不支持)
 Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_system.png
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fix.png
 Name: Fix PUBG Crash
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fixpubgcrash/js.json
 
