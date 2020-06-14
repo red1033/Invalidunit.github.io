@@ -36,24 +36,6 @@
                     "useBottomMargin": false
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "必须删掉 bingner 版的 cydia",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "所以强制依赖 Sileo",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "想用 cydia 可以去 getsileo 源下载",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
                     "class": "DepictionSpacerView",
                     "spacing": 16
                 },
