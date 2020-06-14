@@ -222,6 +222,27 @@ Author: pxcex
 Name: App Percent
 
 Package: com.nan.appstoreplusplus
+Version: 0.9.11
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools, com.cokepokes.appstoreplusplus
+Provides: com.cokepokes.appstoreplusplus (=0.9.11)
+Filename: debs/com.nan.appstoreplusplus_0.9.11_iphoneos-arm.deb
+Size: 330832
+MD5sum: 89799a3e68fcfa1ded7397ceae3e3495
+SHA1: 8eabeac5abf1707361e72c5aa6ef356efb301a51
+SHA256: 6bc76cb06b3af581ddadd2cba190c50e5f47f08121c39d1e67b10f16753e2c2f
+Section: Tweaks
+Priority: optional
+Description: 允许你在 iOS11-13.3.1 上的 AppStore 中降级/升级应用程序
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/image.png
+Name: AppStore++
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
+
+Package: com.nan.appstoreplusplus
 Version: 0.9.9-5
 Architecture: iphoneos-arm
 Maintainer: zhaonan
