@@ -2419,6 +2419,28 @@ Name: SutuPLUS
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sutuplus/js.json
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.nan.sutuplus
+Version: 3.0.3
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Conflicts: org.thebigboss.sutuplus, com.sutuplus.release
+Provides: org.thebigboss.sutuplus, com.sutuplus.release
+Filename: debs/com.nan.sutuplus_3.0.3_iphoneos-arm.deb
+Size: 367848
+MD5sum: 2e84835db8834ff402dd3ef90591de9a
+SHA1: 204949eb81e48e94bdc17ee04da06608f3fcf04d
+SHA256: fe7286b4c2baa04e0ae7f840ec6c5a21365c0b3904c356d730008f6f1bad1f5e
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
+Description: 微信主题管理器
+Author: Carby <super.cat.rabbit@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Name: SutuPLUS
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sutuplus/js.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.nan.swipeselection
 Version: 1.5.6
 Architecture: iphoneos-arm
