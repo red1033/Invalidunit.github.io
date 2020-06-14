@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://Invalidunit.github.io/repo/Depictions/com.nan.setwallpaper/top.png",
-    "tintColor": "#1E1E1E",
+    "tintColor": "#6D98FB",
     "minVersion": "0.3",
     "tabs": [
         {
