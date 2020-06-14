@@ -1826,16 +1826,16 @@ Depends: dev.hyper.playing
 Conflicts: com.nan.playing
 Replaces: dev.hyper.playing
 Filename: debs/com.nan.playing.zh-hans_0.1.0_iphoneos-arm.deb
-Size: 1976
-MD5sum: fa983f359720a090cb9d570809375879
-SHA1: 4a5b72b9e16afb5636ff6758d777b500609eca47
-SHA256: f6f19c624792a966d032d1dd18194ba73bc97881c1be671333158ad8d7c5f9b1
+Size: 1980
+MD5sum: 8e8c5245d2411163e3f8460e49f836b7
+SHA1: 6ec78e61698622c10a926c24c1d0a8734644dee0
+SHA256: 13e86b5f1dae53d0c997afb6a0552a6a8f2d33673d99ba9e4ddebe25136622c8
 Section: 汉化
 Description: 为 Playing 提供简体中文
 Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.playing/image.png
 Name: zh-Hans for Playing
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.playing/js_zh_hans.json
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.playing/js_zh_Hans.json
 
 Package: com.nan.plutil
 Version: 0.2.2-1
@@ -2217,6 +2217,25 @@ Author: Netskao
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sileopurification/image.png
 Name: Sileo Purification
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sileopurification/js.json
+
+Package: com.nan.sirilight
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Conflicts: com.tr1fecta.sirilight
+Provides: com.tr1fecta.sirilight (=1.0)
+Filename: debs/com.nan.sirilight_1.0_iphoneos-arm.deb
+Size: 3068
+MD5sum: 371fcab7ed781ad43473637b2c0a7749
+SHA1: 695b007480fda5dbdf07b10e08629a5356117bcc
+SHA256: 2c293173fbaa2a5c0934e9093d15fe1e7f7b113d9c2e9591daf721a9b6eb209a
+Section: Tweaks
+Description: 高亮 Siri！
+Author: Tr1Fecta <tr1fecta@pm.me>
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sirilight/image.png
+Name: SiriLight
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sirilight/js.json
 
 Package: com.nan.sleepanywhere
 Version: 1.0.0
