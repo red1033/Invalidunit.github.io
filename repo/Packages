@@ -1069,16 +1069,16 @@ Author: Netskao
 Name: Elegant Settings
 
 Package: com.nan.fh
-Version: 0.1.4
+Version: 0.1.5
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: sed
 Depends: com.bingner.plutil | com.ericasadun.utilities
-Filename: debs/com.nan.fh_0.1.4_iphoneos-arm.deb
-Size: 2756
-MD5sum: ab2793182610ce152def020165f8f8e4
-SHA1: 213005a4c82835da08dfacddae6179dd00c1bf2d
-SHA256: e2e161faac0528c392b53e197eac93bea8a311577821d55cc5f269a40ab6c4b7
+Filename: debs/com.nan.fh_0.1.5_iphoneos-arm.deb
+Size: 2796
+MD5sum: 7e94ca80ad955d7b2285893997cc7f15
+SHA1: 8472aade60ec7fa74191a2076929852580c5c72a
+SHA256: e9348d0d52ab9033c52212d16c73b46611d5aaed4121bb1ef2424b3dd7670363
 Section: Terminal_Support
 Description: 一个备份还原字体的小脚本，支持多个备份，支持恢复外部导入的备份
 Author: zhaonan <Invalidunit@icloud.com>
@@ -1325,15 +1325,15 @@ Author: 字由心语 & zhaonan
 Name: マメロン-英文
 
 Package: com.nan.ft
-Version: 0.2.3
+Version: 0.2.4
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 10.3), com.bingner.snappy, diskdev-cmds
-Filename: debs/com.nan.ft_0.2.3_iphoneos-arm.deb
-Size: 1832
-MD5sum: c786a813cc351c14225bb2d0664f3e3f
-SHA1: f00921d91684d5789a858a988c6f93901bfbc305
-SHA256: 413db2a8154b1d85a9238434a9df2d731eca286d086d719c2d93911cc48f3f0a
+Filename: debs/com.nan.ft_0.2.4_iphoneos-arm.deb
+Size: 1864
+MD5sum: 3770da0ad27ebaf7bd94eb159d5ff882
+SHA1: de893fdc4b3d813804f41ce8751026a76c07aa41
+SHA256: a76f0cbd95181448b6a38298e16cc4a1b03453c7219a023b602c7f8d580689d0
 Section: Terminal_Support
 Description: 一个从设备首张快照提取字体的脚本
 Author: zhaonan <Invalidunit@icloud.com>
