@@ -134,22 +134,6 @@ Name: Alipay Steps
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.alipaysteps/js.json
 
 Package: com.nan.apfs-deletefs
-Version: 0.1.4
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: coreutils, firmware (>= 10.3)
-Filename: debs/com.nan.apfs-deletefs_0.1.4_iphoneos-arm.deb
-Size: 7574
-MD5sum: 703a562960a7808f45ec78d4992fe243
-SHA1: 1327aecf77ccba01ad4dfb91771ae34df0a48f91
-SHA256: c6dfc11862485aea0e45b786076eef9af338972b448417b8697ed08e1a7d2521
-Section: Terminal_Support
-Description: 删除 apfs 分区的命令行工具
-Author: halo_michael <yc992147156@me.com>
-Name: APFS Deletefs
-Sponsor: halo_michael <yc992147156@me.com>
-
-Package: com.nan.apfs-deletefs
 Version: 0.2.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
@@ -184,21 +168,43 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.appdatamanager/image
 Name: Apps Manager
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appdatamanager/js.json
 
-Package: com.nan.appleturboboost
-Version: 0.5.2
+Package: com.nan.appleilluminator
+Version: 0.6.5
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: firmware (>= 12.0), darwintools, com.bingner.plutil (>= 0.1.0), sed, system-cmds
-Conflicts: com.michael.appleilluminator, com.michael.appleturboboost
-Filename: debs/com.nan.appleturboboost_0.5.2_iphoneos-arm.deb
-Size: 2104
-MD5sum: c411e7117de4b35dd55207d67b01e159
-SHA1: 26f2042849c5d8fd3c0c892f546a922f4142a9c8
-SHA256: 841d597a97cf9f43d711886db1efa9d529d5d9b0fe14a318ec236b613cb60c2c
+Depends: firmware (>= 11.0)
+Conflicts: com.michael.appleturboboost, com.michael.appleilluminator, com.nan.appleturboboost
+Provides: com.michael.appleilluminator (=0.6.5)
+Filename: debs/com.nan.appleilluminator_0.6.5_iphoneos-arm.deb
+Size: 7832
+MD5sum: e661088af37d9375669761c262a39fa4
+SHA1: eebe0c94ff121530437b10ffcb70bedb9a1c74e5
+SHA256: 568be7a1ff337c3c246815eb35abafe4fbfa6c95cd029512b10f8a9245ae2f1b
 Section: System
-Description: 去降频+去发热降亮度
+Description: 去发热降亮度
 Author: Halo_Michael <yc992147156@me.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_system.png
+Name: Apple Illuminator
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appleilluminator/js.json
+
+Package: com.nan.appleturboboost
+Version: 0.6.5
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 12.0)
+Conflicts: com.michael.appleilluminator, com.michael.appleturboboost, com.nan.appleilluminator
+Provides: com.michael.appleturboboost (=0.6.5)
+Filename: debs/com.nan.appleturboboost_0.6.5_iphoneos-arm.deb
+Size: 10396
+MD5sum: 3854c3490722560e88fd1db41a9416b6
+SHA1: bf1bd07d8f3696c6e9e4e95af3d37a1d6cc423bb
+SHA256: 33c43eb7e9daa6e3fce04608f4adfb64b2e48b9fa74c5032eaf4f8e72fc329ce
+Section: System
+Description: 去降频 & 去发热降亮度
+Author: Halo_Michael <yc992147156@me.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_system.png
 Name: Apple Turbo Boost
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appleturboboost/js.json
 
 Package: com.nan.apppercent
 Version: 2.0.2
