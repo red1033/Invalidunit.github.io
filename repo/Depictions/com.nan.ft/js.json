@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://Invalidunit.github.io/repo/Depictions/Default/top.png",
-    "tintColor": "#B73302",
+    "tintColor": "#6D98FB",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -21,11 +21,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.ft/Screenshot_02.png"
+                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.ft/Screenshot_01.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.ft/Screenshot_03.png"
+                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.ft/Screenshot_02.png"
                         }
                     ]
                 },
@@ -57,7 +57,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.2.4",
+                    "text": "0.2.5",
                     "title": "最新版本"
                 },
                 {
@@ -92,6 +92,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "0.2.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "稍微修改了一下依赖项",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "0.2.4",
