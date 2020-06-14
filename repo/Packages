@@ -1102,14 +1102,14 @@ Maintainer: zhaonan
 Pre-Depends: sed
 Depends: com.bingner.plutil | com.ericasadun.utilities
 Filename: debs/com.nan.fh_0.1.5_iphoneos-arm.deb
-Size: 2804
-MD5sum: 581fbeb9d6e09c6ed983a8154b24c62c
-SHA1: 9333a59c0e0503091e1c4b24ad2ca649bce69d5d
-SHA256: 2686a05360386a6f513a0aff755814e022061d8568d5da83840e4857ffc67a0d
+Size: 2816
+MD5sum: cc243bbb5200bce1910247d92b838065
+SHA1: f16dec6ec2bb26ab517cc0e6136cd48104db6dcc
+SHA256: dada370f4b4bd66746628b75988c34364dcfe50431d0d48a19ac7ba074df81e0
 Section: Terminal_Support
 Description: 一个备份还原字体的小脚本，支持多个备份，支持恢复外部导入的备份
 Author: zhaonan <Invalidunit@icloud.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.fh/image.png
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
 Name: fh
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fh/js.json
 
@@ -1365,6 +1365,23 @@ Section: Terminal_Support
 Description: 一个从设备首张快照提取字体的脚本
 Author: zhaonan <Invalidunit@icloud.com>
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/image.png
+Name: ft
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/js.json
+
+Package: com.nan.ft
+Version: 0.2.5
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 10.3), diskdev-cmds, com.nan.snap
+Filename: debs/com.nan.ft_0.2.5_iphoneos-arm.deb
+Size: 1800
+MD5sum: 1683b917b60289be497d280b12be006b
+SHA1: 6b48624e2af6a0dfcfc0aebef70d54ae3018906b
+SHA256: a97b7715e6b74d50c1ef812d14adbd4d69ca237f442e0554e55f8ce86ee06d26
+Section: Terminal_Support
+Description: 一个从设备首张快照提取字体的脚本
+Author: zhaonan <Invalidunit@icloud.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
 Name: ft
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/js.json
 
