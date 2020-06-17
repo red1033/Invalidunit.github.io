@@ -1351,42 +1351,6 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
 Name: Filza File Manager 64-bit
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js_64bit.json
 
-Package: com.nan.fixpubgcrash
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Pre-Depends: sed, openssh
-Depends: com.ex.libsubstitute | org.coolstar.libhooker
-Filename: debs/com.nan.fixpubgcrash_0.1.0_iphoneos-arm.deb
-Size: 1316
-MD5sum: 1a73c76a6c73fe022189221475a25da8
-SHA1: f7a339eb10c4be47a404907b7f6e7c58f51b305d
-SHA256: bec6d07085cebcb0baff53564a93348c8738e0bd14615e80c5997d830e14c442
-Section: Games
-Description: 13 系统专用，绕过吃鸡检测越狱导致游戏闪退。不能开挂！！！(不支持)
-Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fix.png
-Name: Fix PUBG Crash
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fixpubgcrash/js.json
-
-Package: com.nan.fixpubgcrash
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Pre-Depends: sed, com.nan.openssh.virtual-depend
-Depends: com.ex.libsubstitute | org.coolstar.libhooker
-Filename: debs/com.nan.fixpubgcrash_0.1.1_iphoneos-arm.deb
-Size: 1372
-MD5sum: c9bc4e410e1e378582b902b092bb65a8
-SHA1: 3c15f668bc5bb97fb9340908fe113f997f118780
-SHA256: b7eb3d04005b6d3064477a70446b689b6fef04d4a36dea0452796e9c688c1993
-Section: Games
-Description: 13 系统专用，绕过吃鸡检测越狱导致游戏闪退。不能开挂！！！(不支持)
-Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fix.png
-Name: Fix PUBG Crash
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fixpubgcrash/js.json
-
 Package: com.nan.fonts.zh.mamelon
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -2187,47 +2151,6 @@ Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.respring.xr/image.png
 Name: iPhone XR 注销图标
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.respring.xr/js.json
-
-Package: com.nan.rootfs
-Version: 0.1.4
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: diskdev-cmds , com.bingner.snappy , firmware (>=11.3)
-Filename: debs/com.nan.rootfs_0.1.4_iphoneos-arm.deb
-Size: 14664
-MD5sum: cc4785bd3f3b2545730ad9fa9f109de1
-SHA1: dbb6c2b85afa907c536432d60f7337bdcafcd541
-SHA256: 00d88e2f179967b7553595a60d4529299e3b9f715dfdbfb522ad7a04e8312c02
-Section: System
-Description: rootfs && 重建缓存
- 恢复到未越狱状态并清空越狱 App 图标缓存
- SSH 卸载可撤销 (dpkg -r com.nan.rootfs)
- 特殊:
- 在 / 下创建 .only-orig-fs 将只恢复名为 orig-fs 的快照
- 在 / 下创建 .delete-feedback 会删除 Feedback 再重建缓存
- 在 / 下创建 .delete-setup 会删除 Setup 再重建缓存
- 在 / 下创建 .no-clean-caches 将不会移除 /var/mobile/Library/Caches
-Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/image.png
-Name: rootfs
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/js.json
-
-Package: com.nan.rootfs
-Version: 0.1.5-b5
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: diskdev-cmds, com.bingner.snappy,  com.bingner.plutil, firmware (>=11.3)
-Filename: debs/com.nan.rootfs_0.1.5-b5_iphoneos-arm.deb
-Size: 19280
-MD5sum: 2a610cc9b7e6016faa4794864e776aa1
-SHA1: e93664c30353a9a0c2f721342dba8557583fd12f
-SHA256: 8e6fe32c992ad797f4ea0c829ba0614ac2f536de6b6b1d1ddf81b5d067b04d33
-Section: System
-Description: rootfs && 重建缓存
-Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/image.png
-Name: rootfs
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/js.json
 
 Package: com.nan.setnonce
 Version: 0.1.0
