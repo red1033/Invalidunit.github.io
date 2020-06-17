@@ -168,6 +168,24 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.appdatamanager/image
 Name: Apps Manager
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appdatamanager/js.json
 
+Package: com.nan.appdatamanager
+Version: 1.5.3-2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Conflicts: com.tigisoftware.appdatamanager
+Provides: com.tigisoftware.appdatamanager (= 1.5.3-2)
+Filename: debs/com.nan.appdatamanager_1.5.3-2_iphoneos-arm.deb
+Size: 2458344
+MD5sum: 4efd0f7371c4e3d2e7c16b33ddbbe2c3
+SHA1: e57f0aef167753cc1821bdbd2346b9404278a05b
+SHA256: b28ea3d6b27c57d137be4b371c95e9b2693b56fb3e81a519c24b95b9a4aaae98
+Section: Utilities
+Description: 该工具为已安装的应用提供了擦除，备份，还原应用数据的方法
+Author: TIGI Software
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.appdatamanager/image.png
+Name: Apps Manager
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appdatamanager/js.json
+
 Package: com.nan.appleilluminator
 Version: 0.6.6
 Architecture: iphoneos-arm
@@ -304,6 +322,28 @@ Homepage: https://cydia.akemi.ai/
 Description: 允许安装未签名的 iOS 应用
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Name: AppSync Unified
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appsyncunified/js.json
+
+Package: com.nan.appsyncunified
+Version: 78.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 5.0), firmware (<= 13.5.5), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute, net.angelxwind.appsyncunified
+Replaces: us.hackulo.appsync50
+Provides: appsync, net.angelxwind.appsyncunified (=78.0)
+Filename: debs/com.nan.appsyncunified_78.0_iphoneos-arm.deb
+Size: 26564
+MD5sum: 91f590798272ab655834d1617b06741e
+SHA1: ca652371350f243db33c9c03dc8929f86c09a412
+SHA256: 96469fffa2053cb14845c288b7b4451f1d272a4e3e5ce9034c9a338d280c4327
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: 允许安装未签名的 iOS 应用
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified\
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: AppSync Unified
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appsyncunified/js.json
@@ -1099,13 +1139,13 @@ Package: com.nan.fh
 Version: 0.1.5
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Pre-Depends: sed
+Pre-Depends: sed, zip, unzip
 Depends: com.bingner.plutil | com.ericasadun.utilities
 Filename: debs/com.nan.fh_0.1.5_iphoneos-arm.deb
-Size: 2816
-MD5sum: cc243bbb5200bce1910247d92b838065
-SHA1: f16dec6ec2bb26ab517cc0e6136cd48104db6dcc
-SHA256: dada370f4b4bd66746628b75988c34364dcfe50431d0d48a19ac7ba074df81e0
+Size: 2828
+MD5sum: 875758022a2ac715c833dc553637e77f
+SHA1: 50184e62814566dbab707d378bd11e73b0ef2008
+SHA256: 6d9040032a2928f7a60ca469485c08f15c7037c22fa257932d23f5409bf12ef2
 Section: Terminal_Support
 Description: 一个备份还原字体的小脚本，支持多个备份，支持恢复外部导入的备份
 Author: zhaonan <Invalidunit@icloud.com>
@@ -1193,6 +1233,25 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
 Name: Filza File Manager
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js.json
 
+Package: com.nan.filza
+Version: 3.7.6-28
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza, com.nan.filza64bit
+Provides: com.tigisoftware.filza (=3.7.6-28)
+Filename: debs/com.nan.filza_3.7.6-28_iphoneos-arm.deb
+Size: 10538712
+MD5sum: b4a163f332281b161ed1ff3e3c896ee0
+SHA1: 53b272022fdcbce3372d7a70fee873f5f58ef964
+SHA256: e52a1c4bfaf40c66c5a7b5e2477c510921d8ac9f369ee5b1c7380164355742c5
+Section: Utilities
+Description: iPhone, iPad, iPod Touch 的文件管理器
+Author: TIGI Software
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
+Name: Filza File Manager
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js.json
+
 Package: com.nan.filza64bit
 Version: 3.7.3-16
 Architecture: iphoneos-arm
@@ -1266,6 +1325,25 @@ Size: 8568936
 MD5sum: 57d64fa81a05d780cb9cc5455554c68b
 SHA1: ebdcd0dd187bdba94a22a9b3c10e112df69eb3e2
 SHA256: a861d67dfb8ce3be4000d16c4665358710e790ab810cc6e06722ef385c872042
+Section: Utilities
+Description: iPhone, iPad, iPod Touch 的文件管理器
+Author: TIGI Software
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
+Name: Filza File Manager 64-bit
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js_64bit.json
+
+Package: com.nan.filza64bit
+Version: 3.7.6-28
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza64bit, com.nan.filza
+Provides: com.tigisoftware.filza64bit (=3.7.6-28)
+Filename: debs/com.nan.filza64bit_3.7.6-28_iphoneos-arm.deb
+Size: 7143064
+MD5sum: faa977d191992d3ea9f4b2504a8ff662
+SHA1: a292da2e768c07d52d933b824e642abbd1a11c07
+SHA256: a8f5aead877da5528175e53b74a57ce6a268c5dce42ded0cc583dad11c1368fa
 Section: Utilities
 Description: iPhone, iPad, iPod Touch 的文件管理器
 Author: TIGI Software

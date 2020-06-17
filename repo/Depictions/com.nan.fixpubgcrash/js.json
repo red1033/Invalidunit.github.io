@@ -63,7 +63,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.1.0",
+                    "text": "0.1.1",
                     "title": "最新版本"
                 },
                 {
@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 05 月 30 日",
+                    "text": "2020 年 06 月 17 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -98,6 +98,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "0.1.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "更新 OpenSSH 后会自动执行修改命令",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "0.1.0",
