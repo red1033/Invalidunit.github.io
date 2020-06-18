@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://Invalidunit.github.io/repo/Depictions/Default/top.png",
-    "tintColor": "#FC9600",
+    "tintColor": "#3E7383",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -21,19 +21,27 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.networkspeed13/Screenshot_01.png"
+                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.perfectnetworkspeedinfo/Screenshot_01.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.networkspeed13/Screenshot_02.png"
+                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.perfectnetworkspeedinfo/Screenshot_02.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.networkspeed13/Screenshot_03.png"
+                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.perfectnetworkspeedinfo/Screenshot_03.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.networkspeed13/Screenshot_04.png"
+                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.perfectnetworkspeedinfo/Screenshot_04.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.perfectnetworkspeedinfo/Screenshot_05.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.perfectnetworkspeedinfo/Screenshot_06.png"
                         }
                     ]
                 },
@@ -65,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.2",
+                    "text": "3.0",
                     "title": "最新版本"
                 },
                 {
@@ -75,7 +83,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 04 月 20 日",
+                    "text": "2020 年 06 月 18 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -102,7 +110,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "2.2",
+                    "title": "3.0",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },

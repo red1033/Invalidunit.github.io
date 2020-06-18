@@ -1850,43 +1850,6 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: MCPatch
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.mcpatch/js.json
 
-Package: com.nan.networkspeed13
-Version: 2.2
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13)
-Conflicts: com.johnzaro.networkspeed13
-Provides: com.johnzaro.networkspeed13
-Filename: debs/com.nan.networkspeed13_2.2_iphoneos-arm.deb
-Size: 96694
-MD5sum: 61174776515ae6686f907dc75746da86
-SHA1: 2f8b6cdb8482d308ac364f8463b1689933364457
-SHA256: de0ee9598ffd684dc6cef00b6c3975594c5f6c9e2fe015038b8a891b96633a61
-Section: Tweaks
-Description: 在状态栏中显示上传 & 下载速度
-Author: Johnzaro <johnzrgnns@gmail.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.networkspeed13/image.png
-Name: NetworkSpeed13
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.networkspeed13/js.json
-
-Package: com.nan.networkspeed13.zh-Hans
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: com.johnzaro.networkspeed13
-Conflicts: com.nan.networkspeed13
-Filename: debs/com.nan.networkspeed13.zh-Hans_0.1.0_iphoneos-arm.deb
-Size: 2480
-MD5sum: f71c74a1b973556940e25d3cdf19ad22
-SHA1: 1a8d775a48763b0249a10d3d63cba44f5651892f
-SHA256: 0c61cf970a431095a7d8574a7247061a113909ef61dabd10d863af859414fe1f
-Section: 汉化
-Description: 为 NetworkSpeed13 提供简体中文
-Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.networkspeed13/image.png
-Name: zh-Hans for NetworkSpeed13
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.networkspeed13/js_zh_Hans.json
-
 Package: com.nan.nodndbanner
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -1955,6 +1918,43 @@ Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilch
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.pencilchargingindicator/image.png
 Name: PencilChargingIndicator
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.pencilchargingindicator/js.json
+
+Package: com.nan.perfectnetworkspeedinfo
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12)
+Conflicts: com.johnzaro.networkspeed13
+Provides: com.johnzaro.networkspeed13 (=3.0)
+Filename: debs/com.nan.perfectnetworkspeedinfo_3.0_iphoneos-arm.deb
+Size: 486672
+MD5sum: 71f20313be4bc8faca3767eac9280271
+SHA1: 2887c400766fe673f2314ef8adbf0999814d356e
+SHA256: 5b303b270a34d0a8a1fbcc166af4fbce466a69f85cd47bd323d8ac1aaa939b54
+Section: Tweaks
+Description: 在状态栏中显示上传 & 下载速度
+Author: Johnzaro <johnzrgnns@gmail.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.perfectnetworkspeedinfo/image.png
+Name: PerfectNetworkSpeedInfo
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.perfectnetworkspeedinfo/js_zh_Hans.json
+
+Package: com.nan.perfectnetworkspeedinfo.zh-Hans
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.johnzaro.networkspeed13
+Conflicts: com.nan.perfectnetworkspeedinfo
+Filename: debs/com.nan.perfectnetworkspeedinfo.zh-Hans_0.1.0_iphoneos-arm.deb
+Size: 3492
+MD5sum: 76d05e8ac95aa58a501c946b7077df91
+SHA1: 85b5a42f1c925e7c8b0f27b42303753a209da0f4
+SHA256: 7c45eaaab1f4a3a2939ad933277c98cf94e8edf0b0b010d0d6dcff2e2f6bffe2
+Section: 汉化
+Description: 为 PerfectNetworkSpeedInfo 提供简体中文
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.perfectnetworkspeedinfo/image.png
+Name: zh-Hans for PerfectNetworkSpeedInfo
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.perfectnetworkspeedinfo/js_zh_Hans.json
 
 Package: com.nan.playing
 Version: 1.3
