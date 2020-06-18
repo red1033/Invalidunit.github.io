@@ -1927,16 +1927,16 @@ Depends: mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpic
 Conflicts: com.johnzaro.networkspeed13
 Provides: com.johnzaro.networkspeed13 (=3.0)
 Filename: debs/com.nan.perfectnetworkspeedinfo_3.0_iphoneos-arm.deb
-Size: 486672
-MD5sum: 71f20313be4bc8faca3767eac9280271
-SHA1: 2887c400766fe673f2314ef8adbf0999814d356e
-SHA256: 5b303b270a34d0a8a1fbcc166af4fbce466a69f85cd47bd323d8ac1aaa939b54
+Size: 486668
+MD5sum: d48b857e97a7aa3afb0302437879b924
+SHA1: f431a0dbd36d4a0d076471de0683ee03ab3dfdac
+SHA256: f17e488f6315bde58873ba2cf0b7db74b65bf9307790e67b9dba285764aa3bec
 Section: Tweaks
 Description: 在状态栏中显示上传 & 下载速度
 Author: Johnzaro <johnzrgnns@gmail.com>
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.perfectnetworkspeedinfo/image.png
 Name: PerfectNetworkSpeedInfo
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.perfectnetworkspeedinfo/js_zh_Hans.json
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.perfectnetworkspeedinfo/js.json
 
 Package: com.nan.perfectnetworkspeedinfo.zh-Hans
 Version: 0.1.0
