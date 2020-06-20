@@ -1161,10 +1161,10 @@ Maintainer: zhaonan
 Pre-Depends: sed, zip, unzip
 Depends: com.bingner.plutil | com.ericasadun.utilities
 Filename: debs/com.nan.fh_0.1.5_iphoneos-arm.deb
-Size: 2828
-MD5sum: 875758022a2ac715c833dc553637e77f
-SHA1: 50184e62814566dbab707d378bd11e73b0ef2008
-SHA256: 6d9040032a2928f7a60ca469485c08f15c7037c22fa257932d23f5409bf12ef2
+Size: 2768
+MD5sum: d91d00e41d3ab0349fe87ab3c1225bd7
+SHA1: 5e0042eef6dec7cd88294fd171f0aee287cbf4b4
+SHA256: 920775feb349154599501e4e3bf97d7907dd6067b61ab291599c0eb057caf294
 Section: Terminal_Support
 Description: 一个备份还原字体的小脚本，支持多个备份，支持恢复外部导入的备份
 Author: zhaonan <Invalidunit@icloud.com>
@@ -1436,10 +1436,10 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>=10.3), diskdev-cmds, rsync
 Filename: debs/com.nan.ft_0.2.6_iphoneos-arm.deb
-Size: 1960
-MD5sum: bad5a02d180e48c86f25eb74be74b813
-SHA1: ba89e69ba0bfbcdd41aea533dfad1ae3579b7f41
-SHA256: 5bd04731632a81da2c838e66c62012c7b47ce6edee16bafd6f5e1005070f1392
+Size: 1900
+MD5sum: ed374db990043783dfaef08ce602dc62
+SHA1: a6f7316dfd9425b2fa8b8804c78f8a579f96fd16
+SHA256: b2c44a6a7b2d5fb2b9278a14d0648be69cc7d8905abbbe1a8673c0e39298670e
 Section: Terminal_Support
 Description: 一个从设备首张快照提取字体的脚本
 Author: zhaonan <Invalidunit@icloud.com>
