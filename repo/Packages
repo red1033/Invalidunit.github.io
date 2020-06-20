@@ -2460,6 +2460,25 @@ Tag: role::hacker
 Author: Sam Bingner & halo_michael
 Name: Snappy (modify)
 
+Package: com.nan.snaputil
+Version: 10.15.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>=10.3)
+Conflicts: snaputil
+Provides: snaputil (=10.15.1)
+Filename: debs/com.nan.snaputil_10.15.1_iphoneos-arm.deb
+Size: 3372
+MD5sum: c6d6fff7836a90d90d3c099fcbc5d362
+SHA1: 04940230137e7c57ec18ec778031366bd459a4d4
+SHA256: 0618a251bd9251115a292dae7b25c717fc2fff78197359cf059a32ad6bcdc9a0
+Section: System
+Homepage: https://github.com/ahl/apfs/
+Description: APFS 快照管理工具
+Tag: role::hacker
+Author: Adam Leventhal
+Name: snaputil
+
 Package: com.nan.sutuplus
 Version: 2.8.3-1
 Architecture: iphoneos-arm
@@ -2819,62 +2838,43 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/i
 Name: WeChat Purification
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/js.json
 
-Package: com.nan.wechatpurification-11
-Version: 1.1-3
+Package: com.nan.wechatpurification
+Version: 1.2-8
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: mobilesubstrate, preferenceloader
-Conflicts: netskao.wechatpurification
-Provides: netskao.wechatpurification
-Filename: debs/com.nan.wechatpurification-11_1.1-3_iphoneos-arm.deb
-Size: 260430
-MD5sum: c61af8a77c86a72ab451f505d885db8c
-SHA1: f3161765a0e3b0b64a9889a9dae32e98b9bdebb0
-SHA256: 3a37fb14ccdab950a7604ca488afc542386b549c10f554f1c9e66c0aab226c62
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0)
+Conflicts: netskao.wechatpurification (=1.2-8), com.nan.wechatpurification-121
+Provides: netskao.wechatpurification (=1.2-8), com.nan.wechatpurification-121
+Filename: debs/com.nan.wechatpurification_1.2-8_iphoneos-arm.deb
+Size: 119080
+MD5sum: 34d042494b858947cc427f7abf55150b
+SHA1: 146e6a4a18c2aab746accd9b75425c9decb6d3f3
+SHA256: a647c86003da8e4686bcb0330431e0c5f79e304d630d397a98819041d02dee32
 Section: Tweaks
-Description: 微信净化！还原聊天本质，给你一个干净的微信
+Description: 微信净化！还原聊天本质，给你一个干净的微信。仅适用于 7.0.13 版本及以上
 Author: Netskao
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/image.png
-Name: WeChat Purification (1.1-x)
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/js_11x.json
+Name: WeChat Purification
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/js.json
 
-Package: com.nan.wechatpurification-11
-Version: 1.1-4
+Package: com.nan.wechatpurification-121
+Version: 1.2-1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate, preferenceloader
-Conflicts: netskao.wechatpurification
-Provides: netskao.wechatpurification
-Filename: debs/com.nan.wechatpurification-11_1.1-4_iphoneos-arm.deb
-Size: 260820
-MD5sum: 6226039991772296fa4ea161bc45ba8c
-SHA1: 7e1ca979f9ae984f7eab6adb9476973d040926b2
-SHA256: b9bac40d239df403405ac2b45474a0e060c8bef9fc8cfe532983271626499023
+Conflicts: netskao.wechatpurification (1.2-1)
+Provides: netskao.wechatpurification (1.2-1)
+Filename: debs/com.nan.wechatpurification-121_1.2-1_iphoneos-arm.deb
+Size: 68108
+MD5sum: 76bd441797976ee1d5f0a3aa81267750
+SHA1: df0338874fcbb4eca633035726824527cfefe696
+SHA256: 659196f6a468aa9e6a0912e432bbc5d9a5938ce85b862a996faf1eef0d455277
 Section: Tweaks
 Description: 微信净化！还原聊天本质，给你一个干净的微信
 Author: Netskao
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/image.png
-Name: WeChat Purification (1.1-x)
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/js_11x.json
-
-Package: com.nan.wechatpurification-11
-Version: 1.1-5
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, preferenceloader
-Conflicts: netskao.wechatpurification
-Provides: netskao.wechatpurification
-Filename: debs/com.nan.wechatpurification-11_1.1-5_iphoneos-arm.deb
-Size: 260228
-MD5sum: cd53aefaa69e959062c15de4ef39ec92
-SHA1: e070fec0ff579dd650b3524cb97bcfb1b843d97a
-SHA256: 6f15354d6b2bfc9ca898c282179dd70f9017d410debb828129dc5b424d117dbb
-Section: Tweaks
-Description: 微信净化！还原聊天本质，给你一个干净的微信
-Author: Netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/image.png
-Name: WeChat Purification (1.1-x)
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/js_11x.json
+Name: WeChat Purification (1.2-1)
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/js_121.json
 
 Package: com.nan.wxtheme.puzzle
 Version: 0.1.0
