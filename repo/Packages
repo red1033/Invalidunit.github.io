@@ -1431,40 +1431,6 @@ Author: 字由心语 & zhaonan
 Name: マメロン-英文
 
 Package: com.nan.ft
-Version: 0.2.4
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 10.3), com.bingner.snappy, diskdev-cmds
-Filename: debs/com.nan.ft_0.2.4_iphoneos-arm.deb
-Size: 1864
-MD5sum: 3770da0ad27ebaf7bd94eb159d5ff882
-SHA1: de893fdc4b3d813804f41ce8751026a76c07aa41
-SHA256: a76f0cbd95181448b6a38298e16cc4a1b03453c7219a023b602c7f8d580689d0
-Section: Terminal_Support
-Description: 一个从设备首张快照提取字体的脚本
-Author: zhaonan <Invalidunit@icloud.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/image.png
-Name: ft
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/js.json
-
-Package: com.nan.ft
-Version: 0.2.5
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 10.3), diskdev-cmds, com.nan.snap
-Filename: debs/com.nan.ft_0.2.5_iphoneos-arm.deb
-Size: 1800
-MD5sum: 1683b917b60289be497d280b12be006b
-SHA1: 6b48624e2af6a0dfcfc0aebef70d54ae3018906b
-SHA256: a97b7715e6b74d50c1ef812d14adbd4d69ca237f442e0554e55f8ce86ee06d26
-Section: Terminal_Support
-Description: 一个从设备首张快照提取字体的脚本
-Author: zhaonan <Invalidunit@icloud.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
-Name: ft
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/js.json
-
-Package: com.nan.ft
 Version: 0.2.6
 Architecture: iphoneos-arm
 Maintainer: zhaonan
@@ -2160,10 +2126,10 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 11.0), com.nan.ft
 Filename: debs/com.nan.resetfonts_0.1.0_iphoneos-arm.deb
-Size: 858
-MD5sum: debbef22fe77f75e758da332f8e9452c
-SHA1: 6591e6051a72e1cdde78e8311c9e1b820e0dfb0c
-SHA256: 1877d2218ecae691c52de3ed855ce018bc3261157ece33c0c4465ef8476a0466
+Size: 1024
+MD5sum: f350b9ec179b3de13b2cdfe52990bd57
+SHA1: 4cf872190da0f16a52993eeaee5b07d6d82f4398
+SHA256: 484fff77c894b83e358622c9362f7ec5f5cc33742d09052ebe859a579048a027
 Section: System
 Description: 安装卸载都会还原一次字体
 Tag: role::hacker
