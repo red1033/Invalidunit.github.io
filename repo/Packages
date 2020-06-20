@@ -1468,12 +1468,12 @@ Package: com.nan.ft
 Version: 0.2.6
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: firmware (>=10.3), diskdev-cmds, rsync, com.nan.snap
+Depends: firmware (>=10.3), diskdev-cmds, rsync
 Filename: debs/com.nan.ft_0.2.6_iphoneos-arm.deb
-Size: 1804
-MD5sum: b9b998438e70887f89caf9f935e9e0b6
-SHA1: c641548f19d481330f31a873890e447a8505564d
-SHA256: 16b81ee253e78af1f2b99676638066d742f6810661a2c3639b6961d977c76ac5
+Size: 1960
+MD5sum: bad5a02d180e48c86f25eb74be74b813
+SHA1: ba89e69ba0bfbcdd41aea533dfad1ae3579b7f41
+SHA256: 5bd04731632a81da2c838e66c62012c7b47ce6edee16bafd6f5e1005070f1392
 Section: Terminal_Support
 Description: 一个从设备首张快照提取字体的脚本
 Author: zhaonan <Invalidunit@icloud.com>
