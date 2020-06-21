@@ -2137,6 +2137,28 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpro/image.pn
 Name: PullOver Pro
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpro/js.json
 
+Package: com.nan.pulloverpro
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Conflicts: com.c1d3r.pulloverpro
+Provides: com.c1d3r.pulloverpro (=2.1.1)
+Filename: debs/com.nan.pulloverpro_2.1.1_iphoneos-arm.deb
+Size: 742056
+MD5sum: d42161b65856ce69e8a9696687ae7040
+SHA1: b950628b9d0455873bd9e8f6d5ff356ecc93c80a
+SHA256: 682b924cab1b08460d186a33a24ace1ec5934ad7771b30040dab16b1d102ce84
+Section: Tweaks
+Priority: optional
+Description: 一种更好的多任务!
+Author: c1d3r <c1d3rdev@gmail.com>
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.pulloverpro
+Dev: c1d3r <c1d3rdev@gmail.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpro/image.png
+Name: PullOver Pro
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpro/js.json
+
 Package: com.nan.pulloverpro.zh-Hans
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -2148,6 +2170,24 @@ Size: 1894
 MD5sum: 8211c8f7706f6462c174fee1a88cfe1f
 SHA1: 5749e79da707104b21b34ea99e0aff5240ac780d
 SHA256: ea7285e17547aab6ba22e99d9353cc0db2278b03af98c29a25d9cfc79e661765
+Section: 汉化
+Description: 为 PullOver Pro 提供简体中文
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpro/image.png
+Name: zh-Hans for PullOver Pro
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpro/js_zh_Hans.json
+
+Package: com.nan.pulloverpro.zh-Hans
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.c1d3r.pulloverpro
+Conflicts: com.nan.pulloverpro, com.nan.pulloverpro-beta
+Filename: debs/com.nan.pulloverpro.zh-Hans_0.1.1_iphoneos-arm.deb
+Size: 1956
+MD5sum: 6a9c621f3ca524b1fc93c9e5b8a1ee2b
+SHA1: 2477cb9599473f1cb7b09fdb9d02d3cd734be64d
+SHA256: 39be53b1e44f72291cec9478a6edc2b7485efbe4427f55c8b31ad52ed888d08d
 Section: 汉化
 Description: 为 PullOver Pro 提供简体中文
 Author: zhaonan
