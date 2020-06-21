@@ -367,6 +367,28 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: AppSync Unified
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appsyncunified/js.json
 
+Package: com.nan.appsyncunified
+Version: 80.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 5.0), firmware (<= 13.6), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute, net.angelxwind.appsyncunified
+Replaces: us.hackulo.appsync50
+Provides: appsync, net.angelxwind.appsyncunified (=80.0)
+Filename: debs/com.nan.appsyncunified_80.0_iphoneos-arm.deb
+Size: 26556
+MD5sum: a594293c9b97700c5e127f4cf3c7b2d0
+SHA1: 74330809c0ea43fae4aa9fe40be4966f685668e6
+SHA256: 3f200d9ed62956d1e660440ded94d467edbc0eb46bf39287c60b797fb9cbe2ba
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: 允许安装未签名的 iOS 应用
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified\
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Name: AppSync Unified
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appsyncunified/js.json
+
 Package: com.nan.awemeautoplay
 Version: 1.2-2
 Architecture: iphoneos-arm
@@ -1763,6 +1785,26 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
 Name: Little11
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js.json
 
+Package: com.nan.little11
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: Ryan Nair
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Provides: com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune, com.ryannair05.little11 (=1.4.1)
+Filename: debs/com.nan.little11_1.4.1_iphoneos-arm.deb
+Size: 44964
+MD5sum: ccae989b43e8e22fb90328ef5f013bdb
+SHA1: 893d6ff146c088619068fe58afa825526b718f18
+SHA256: 2dec723b629025bdc26c13acb8f316aea9ad5931d70bb006c71ad780ad726373
+Section: Tweaks
+Description: 适用于 iOS 13 的 iPhone X 手势
+Author: Ryan Nair
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
+Name: Little11
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js.json
+
 Package: com.nan.little11.zh-Hans
 Version: 0.1.3
 Architecture: iphoneos-arm
@@ -1793,6 +1835,25 @@ Size: 2876
 MD5sum: f640bbbc430d42b9bea4bc07b6329a1f
 SHA1: 4ee2110180515180061432abb109020979aa40d0
 SHA256: 9e0b6b690948fdbd35d426137f5314cb7ddcaf50f872f8ecab53a2669ce9030c
+Section: 汉化
+Description: 为 Little11 提供简体中文
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
+Name: zh-Hans for Little11
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js_zh_Hans.json
+
+Package: com.nan.little11.zh-Hans
+Version: 0.1.5
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.ryannair05.little11
+Conflicts: com.nan.little11
+Replaces: com.ryannair05.little11
+Filename: debs/com.nan.little11.zh-Hans_0.1.5_iphoneos-arm.deb
+Size: 2876
+MD5sum: 191f303cd2693b5beb633689198a6d4a
+SHA1: da16b20e1a63377b992a3fc87f0a613e5ff94886
+SHA256: 62b221789a541c0ff82f92f83f589a91b2728a506b1a234bddfaaeff1a18b2e8
 Section: 汉化
 Description: 为 Little11 提供简体中文
 Author: zhaonan
