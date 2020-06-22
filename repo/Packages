@@ -2316,16 +2316,16 @@ Package: com.nan.sentinel.zh-hans
 Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: com.julioverne.sentinel
-Conflicts: com.megadev.sentinel
+Depends: com.megadev.sentinel
+Conflicts: com.nan.sentinel
 Replaces: com.megadev.sentinel
 Filename: debs/com.nan.sentinel.zh-hans_0.1.0_iphoneos-arm.deb
-Size: 1364
-MD5sum: a7aafcc986a2bcd1f5f7acd437762063
-SHA1: f2a3c8abfffd39c844b065f85eb201f5fd7931d8
-SHA256: 535fad099d944ad16b1a30dd86c7039c73a45e239fb005df8967da575d6b1114
+Size: 1360
+MD5sum: fd0c4d263b0bffe8e8998ab8c4e437e8
+SHA1: 8bb4c8c25dd2173ac21a1ef23fe98211ae055fef
+SHA256: 6241aaf8880b6c68450419d7ec3f8fc522ae0a6a994b51281df53e8c543489e4
 Section: 汉化
-Description: 为 CyDown 提供简体中文
+Description: 为 Sentinel 提供简体中文
 Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sentinel/image.png
 Name: zh-Hans for Sentinel
