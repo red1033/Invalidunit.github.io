@@ -2293,6 +2293,44 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.respring.xr/image.pn
 Name: iPhone XR 注销图标
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.respring.xr/js.json
 
+Package: com.nan.sentinel
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader
+Conflicts: com.megadev.sentinel
+Provides: com.megadev.sentinel (=1.1)
+Filename: debs/com.nan.sentinel_1.1_iphoneos-arm.deb
+Size: 18132
+MD5sum: 90a87474e64d6300ad47191ff6f6c03a
+SHA1: 5966c8e8e4a85d2e754ae707e087ef632254d12f
+SHA256: 8e7bfbb0c852e661f9d7a83d3f9629f5f8d7cfeb8f8925e6c49c97747489e628
+Section: Tweaks
+Description: 在电量过低时休眠，防止丢失越狱环境
+Author: MegaDev
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sentinel/image.png
+Name: Sentinel
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sentinel/js.json
+
+Package: com.nan.sentinel.zh-hans
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.julioverne.sentinel
+Conflicts: com.megadev.sentinel
+Replaces: com.megadev.sentinel
+Filename: debs/com.nan.sentinel.zh-hans_0.1.0_iphoneos-arm.deb
+Size: 1364
+MD5sum: a7aafcc986a2bcd1f5f7acd437762063
+SHA1: f2a3c8abfffd39c844b065f85eb201f5fd7931d8
+SHA256: 535fad099d944ad16b1a30dd86c7039c73a45e239fb005df8967da575d6b1114
+Section: 汉化
+Description: 为 CyDown 提供简体中文
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sentinel/image.png
+Name: zh-Hans for Sentinel
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sentinel/js_zh_hans.json
+
 Package: com.nan.setnonce
 Version: 0.1.0
 Architecture: iphoneos-arm
