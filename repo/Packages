@@ -1299,12 +1299,31 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza, com.nan.filza64bit
-Provides: com.tigisoftware.filza (=3.7.6-28)
+Provides: com.tigisoftware.filza (=3.7.7-2)
 Filename: debs/com.nan.filza_3.7.7-2_iphoneos-arm.deb
-Size: 10552984
-MD5sum: 744d74931df8dc9bd2e1376605e44ba7
-SHA1: 6a0281733992473482c4d8d2d125e51a85ee3238
-SHA256: 2bfd7f36187be8a64d35a679aa1e665652a542c7b989f5e1a3d67f79ea630345
+Size: 10553912
+MD5sum: 82d457c0877733b06cab4b3e507bae59
+SHA1: 35d86814ab3be9290e2d57c26c6477a8642b6bb6
+SHA256: 72cf682e8a41519eb26e23246f2d066ee3c580fd65da8e363a03662b50507f29
+Section: Utilities
+Description: iPhone, iPad, iPod Touch 的文件管理器
+Author: TIGI Software
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
+Name: Filza File Manager
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js.json
+
+Package: com.nan.filza
+Version: 3.7.7-4
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza, com.nan.filza64bit
+Provides: com.tigisoftware.filza (=3.7.7-4)
+Filename: debs/com.nan.filza_3.7.7-4_iphoneos-arm.deb
+Size: 10592768
+MD5sum: d1e3ba1c397f29ae8f64f38255a6a770
+SHA1: aca3915677e7e26a7ebdaad2bea005fe7d7be3d4
+SHA256: 813907422748ce95df6da3344d252f96537c3d65be75bb1836239394bc988bd5
 Section: Utilities
 Description: iPhone, iPad, iPod Touch 的文件管理器
 Author: TIGI Software
@@ -1417,12 +1436,31 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza64bit, com.nan.filza
-Provides: com.tigisoftware.filza64bit (=3.7.6-28)
+Provides: com.tigisoftware.filza64bit (=3.7.7-2)
 Filename: debs/com.nan.filza64bit_3.7.7-2_iphoneos-arm.deb
-Size: 7149424
-MD5sum: 462aba3c67df8c40bd32ff8bd3e846f2
-SHA1: f32e721a8d0707ab30b4bb498e0dd61bcbb29f14
-SHA256: 66d38d808c099744a1107228cf5c06994d859b27b836c242ab4c7e5bc878e9d2
+Size: 7150236
+MD5sum: 5e325572c9d272c5ecc164639189ed7c
+SHA1: c501ee9af10a846141e652e667d2797ea9efa61e
+SHA256: a8d19c084f82e046e6cbac4c6a9b95d56880f3d184a96019ea67e7329c720c36
+Section: Utilities
+Description: iPhone, iPad, iPod Touch 的文件管理器
+Author: TIGI Software
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
+Name: Filza File Manager 64-bit
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js_64bit.json
+
+Package: com.nan.filza64bit
+Version: 3.7.7-4
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza64bit, com.nan.filza
+Provides: com.tigisoftware.filza64bit (=3.7.7-4)
+Filename: debs/com.nan.filza64bit_3.7.7-4_iphoneos-arm.deb
+Size: 7188308
+MD5sum: db752d7763b59ff0d71a0ab5f5fe1014
+SHA1: 2a3e412be4b7235931caaa3a4b1817163f274593
+SHA256: 2125882c79fdaf76b12d33276add2e8a1d1f7ac51419f0eaaa91e607ee5ee062
 Section: Utilities
 Description: iPhone, iPad, iPod Touch 的文件管理器
 Author: TIGI Software
