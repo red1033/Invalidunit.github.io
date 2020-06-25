@@ -1529,15 +1529,15 @@ Author: 字由心语 & zhaonan
 Name: マメロン-英文
 
 Package: com.nan.ft
-Version: 0.2.6
+Version: 0.3.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>=10.3), diskdev-cmds, rsync
-Filename: debs/com.nan.ft_0.2.6_iphoneos-arm.deb
-Size: 1900
-MD5sum: ed374db990043783dfaef08ce602dc62
-SHA1: a6f7316dfd9425b2fa8b8804c78f8a579f96fd16
-SHA256: b2c44a6a7b2d5fb2b9278a14d0648be69cc7d8905abbbe1a8673c0e39298670e
+Filename: debs/com.nan.ft_0.3.0_iphoneos-arm.deb
+Size: 1908
+MD5sum: 2348081df823dc997cb496a78492edf5
+SHA1: 388819984af6a38a2bec373954559384426032b4
+SHA256: 20c1bca9d17b782c8a417576b1b638ea16aa9d443dee6b0db66ecedfbf65909a
 Section: Terminal_Support
 Description: 一个从设备首张快照提取字体的脚本
 Author: zhaonan <Invalidunit@icloud.com>
@@ -2301,12 +2301,12 @@ Package: com.nan.resetfonts
 Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: firmware (>= 11.0), com.nan.ft
+Pre-Depends: com.nan.ft
 Filename: debs/com.nan.resetfonts_0.1.0_iphoneos-arm.deb
-Size: 1020
-MD5sum: 4aca2de9a0ccc0861fbd6e6eba2b441d
-SHA1: 7998d549e1001add6d6edada8253083fad7ce60f
-SHA256: e7959d0d76654fe831e2a08348cf1c5c79d538c7ad092839bbd7eaa59e43a6fd
+Size: 1004
+MD5sum: e181218cede0e32d112749a1ba579ac8
+SHA1: 1d46eb0ca8de292605149687e2b8d34b539dc310
+SHA256: 6d26bf2239eb94a22727f203ae2699edb812f3a88c8633c52cdbd5e98b61c1b5
 Section: System
 Description: 安装卸载都会还原一次字体
 Tag: role::hacker
