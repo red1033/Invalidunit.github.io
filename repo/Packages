@@ -2656,6 +2656,25 @@ Tag: role::hacker
 Author: Adam Leventhal
 Name: snaputil
 
+Package: com.nan.sshd2
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: sed, com.nan.openssh.virtual-depend
+Depends: com.ex.libsubstitute | org.coolstar.libhooker
+Filename: debs/com.nan.sshd2_0.1.0_iphoneos-arm.deb
+Size: 1424
+MD5sum: 71a916f2e72bb1c5203166d4f41f1ede
+SHA1: 287276d4a6aa7dc0008c14ecc9ce031c87fb3bbf
+SHA256: 785499499cf245a69d72536991d830ea08de82a4234f9bcb955dddd8f1fb49d5
+Section: Games
+Description: 13 系统专用，绕过部分腾讯游戏检测越狱导致游戏闪退。不能开挂！！！(不支持)
+ 安装前请自行安装 Sileo，Zebra 或者 Installer 安装时自动清理掉 Cydia.app
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fix.png
+Name: Fix Tencent Crash
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sshd2/js.json
+
 Package: com.nan.sutuplus
 Version: 2.8.3-1
 Architecture: iphoneos-arm
