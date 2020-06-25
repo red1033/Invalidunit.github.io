@@ -2590,10 +2590,10 @@ Maintainer: zhaonan
 Pre-Depends: firmware (>= 10.3)
 Depends: snaputil | com.bingner.snappy
 Filename: debs/com.nan.snap_0.1.0_iphoneos-arm.deb
-Size: 1900
-MD5sum: 7fbf7eab98db47c50b91e21c618b2831
-SHA1: 35d3f59f44975fe844a326768f98a5a99b7c54f8
-SHA256: 89e65eb253f491f993b781e9b5e6c2860d195250d1c39875874749823370bc5f
+Size: 1960
+MD5sum: 30719d4e77d15af4d514d3faa9c0124f
+SHA1: 2e6dc81ff328dce3210ccbd06a3f43f865e585e6
+SHA256: 6b0d4bc06fb07d67edb7752e34c0347f76bea5b5bd48d3a9717da3d91488d934
 Section: Terminal_Support
 Description: 更方便的 APFS 快照管理脚本，仅 /
 Author: zhaonan
