@@ -1545,6 +1545,48 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
 Name: ft
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/js.json
 
+Package: com.nan.halfipad
+Version: 3.3.3
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.hius.halfipad
+Provides: com.hius.halfipad (=3.3.3)
+Filename: debs/com.nan.halfipad_3.3.3_iphoneos-arm.deb
+Size: 44952
+MD5sum: cd08d5c66f31d7bcd305cfc6a1025aa3
+SHA1: efa83b70f8ab81097e8fb38d8b4c01f68aabe88d
+SHA256: ca89831494511c178eab324c13e3962c3c89f097e6cbfd497ec108c883b17778
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=halfipadDp
+Description: iPhone 11 手势，iPad 功能，以及很多独特的功能。
+Tag: purpose::extension, compatible::ios13
+Author: Hius <h.h.haiduog@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=halfipadDp
+Dev: hius
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.halfipad/image.png
+Name: HalFiPad
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.halfipad/js.json
+
+Package: com.nan.halfipad.zh-hans
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.hius.halfipad
+Conflicts: com.nan.halfipad
+Replaces: com.hius.halfipad
+Filename: debs/com.nan.halfipad.zh-hans_0.1.0_iphoneos-arm.deb
+Size: 4252
+MD5sum: 4113e09202a82dec90b45794212614c8
+SHA1: db896ec9b41b4026a24f856202ef9fcdb3bff5e3
+SHA256: ca57a124bedae11f8803876ab5616585d4927caecf2b614298cec1e44a43c227
+Section: 汉化
+Description: 为 HalFiPad 提供简体中文
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.halfipad/image.png
+Name: zh-Hans for HalFiPad
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.halfipad/js_zh_hans.json
+
 Package: com.nan.icleanerpro
 Version: 7.8.0
 Architecture: iphoneos-arm
@@ -1898,24 +1940,6 @@ Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
 Name: zh-Hans for Little11
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js_zh_Hans.json
-
-Package: com.nan.localhostssh
-Version: 0.1.5
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Pre-Depends: openssh, sed
-Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
-Filename: debs/com.nan.localhostssh_0.1.5_iphoneos-arm.deb
-Size: 1412
-MD5sum: 61ad540270e8eda6206447c6c1781340
-SHA1: fa01f301e82830561d586587cc30675d0e34eea4
-SHA256: f5a4013a86fb6222a8fd03cd9618aabc37d28308268c46a5444979c749c78e46
-Section: System
-Description: 为 iOS 本地主机 SSH 访问启用 2222 端口
-Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/image.png
-Name: Local SSH
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/js.json
 
 Package: com.nan.localhostssh
 Version: 0.1.6
