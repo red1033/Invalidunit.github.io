@@ -1576,10 +1576,10 @@ Depends: com.hius.halfipad
 Conflicts: com.nan.halfipad
 Replaces: com.hius.halfipad
 Filename: debs/com.nan.halfipad.zh-hans_0.1.0_iphoneos-arm.deb
-Size: 4252
-MD5sum: 4113e09202a82dec90b45794212614c8
-SHA1: db896ec9b41b4026a24f856202ef9fcdb3bff5e3
-SHA256: ca57a124bedae11f8803876ab5616585d4927caecf2b614298cec1e44a43c227
+Size: 4256
+MD5sum: 2c16dfc10f5f340d01c2fff128279044
+SHA1: 819eab579952ab83885f419c3136835f2be661c5
+SHA256: ab3a36879504f812fe5bb7ca82534e96d0b8d106148e7dbf2338f5f3fee2fbae
 Section: 汉化
 Description: 为 HalFiPad 提供简体中文
 Author: zhaonan
