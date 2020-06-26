@@ -1545,6 +1545,23 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
 Name: ft
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/js.json
 
+Package: com.nan.ft
+Version: 0.3.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>=10.3), diskdev-cmds, rsync
+Filename: debs/com.nan.ft_0.3.1_iphoneos-arm.deb
+Size: 1904
+MD5sum: ba316493b933385ae86c129afcce1530
+SHA1: 052f1d522a410fb05af49478739e6e6173b7b45d
+SHA256: 8ce8e1cac5864c09b117bce265d89d413226b1510b6a18c9dfef93eac351d80b
+Section: Terminal_Support
+Description: 一个从设备首张快照提取字体的脚本
+Author: zhaonan <Invalidunit@icloud.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
+Name: ft
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/js.json
+
 Package: com.nan.halfipad
 Version: 3.3.3
 Architecture: iphoneos-arm
@@ -2614,10 +2631,10 @@ Maintainer: zhaonan
 Pre-Depends: firmware (>= 10.3)
 Depends: snaputil | com.bingner.snappy
 Filename: debs/com.nan.snap_0.1.0_iphoneos-arm.deb
-Size: 1960
-MD5sum: 30719d4e77d15af4d514d3faa9c0124f
-SHA1: 2e6dc81ff328dce3210ccbd06a3f43f865e585e6
-SHA256: 6b0d4bc06fb07d67edb7752e34c0347f76bea5b5bd48d3a9717da3d91488d934
+Size: 1964
+MD5sum: 467cb5a261be350925bf26576bafbc19
+SHA1: 6dc44888aa03202faa0afe5f28bb486f2cf5a515
+SHA256: 8d95a39133db8625d957b5a190a9dcba9b8cc2f787d5f4c3ff640ff68141b385
 Section: Terminal_Support
 Description: 更方便的 APFS 快照管理脚本，仅 /
 Author: zhaonan
