@@ -1529,32 +1529,15 @@ Author: 字由心语 & zhaonan
 Name: マメロン-英文
 
 Package: com.nan.ft
-Version: 0.3.0
+Version: 0.3.2
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>=10.3), diskdev-cmds, rsync
-Filename: debs/com.nan.ft_0.3.0_iphoneos-arm.deb
-Size: 1908
-MD5sum: 2348081df823dc997cb496a78492edf5
-SHA1: 388819984af6a38a2bec373954559384426032b4
-SHA256: 20c1bca9d17b782c8a417576b1b638ea16aa9d443dee6b0db66ecedfbf65909a
-Section: Terminal_Support
-Description: 一个从设备首张快照提取字体的脚本
-Author: zhaonan <Invalidunit@icloud.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
-Name: ft
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/js.json
-
-Package: com.nan.ft
-Version: 0.3.1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>=10.3), diskdev-cmds, rsync
-Filename: debs/com.nan.ft_0.3.1_iphoneos-arm.deb
-Size: 1904
-MD5sum: ba316493b933385ae86c129afcce1530
-SHA1: 052f1d522a410fb05af49478739e6e6173b7b45d
-SHA256: 8ce8e1cac5864c09b117bce265d89d413226b1510b6a18c9dfef93eac351d80b
+Filename: debs/com.nan.ft_0.3.2_iphoneos-arm.deb
+Size: 1912
+MD5sum: 83cd7b0c225582e04adbf3367e927f98
+SHA1: 1ac4445c91b2d5503ba4bee8a724081ba13d344e
+SHA256: 120f96781ceb91943092f20623cbc359f5774ad6b5fe25fc51390edf45c6031f
 Section: Terminal_Support
 Description: 一个从设备首张快照提取字体的脚本
 Author: zhaonan <Invalidunit@icloud.com>
