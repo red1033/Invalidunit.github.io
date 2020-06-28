@@ -2156,16 +2156,16 @@ Name: zh-Hans for Playing
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.playing/js_zh_Hans.json
 
 Package: com.nan.plutil
-Version: 0.2.2-1
+Version: 0.2.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Conflicts: com.ericasadun.utilities, com.bingner.plutil, plutil
-Provides: com.bingner.plutil (=0.2.2-1)
-Filename: debs/com.nan.plutil_0.2.2-1_iphoneos-arm.deb
-Size: 29880
-MD5sum: d7f469c667ec22505f4effaadbf93d23
-SHA1: 8461c0d17eba5d010e76e3b21f855d66c1513db9
-SHA256: 193d4b8da4752119dc0c8e4cb14171fc383574cd635e0f59e2f6db12f3dbdbff
+Provides: com.bingner.plutil (=0.2.1)
+Filename: debs/com.nan.plutil_0.2.1_iphoneos-arm.deb
+Size: 27252
+MD5sum: 8a85bebaceb9d9dcb4cce826722b66cf
+SHA1: f1c70cd5bdf80d1acae9f038894c87dec7a3691b
+SHA256: b298c9e13c7adf98ba8e527f853ba84e40dc088c925af1d59ce26c231a42dd11
 Section: System
 Description: 用于创建和编辑 Apple 属性列表文件的实用程序
 Tag: role::hacker
