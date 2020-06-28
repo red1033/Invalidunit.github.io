@@ -1534,10 +1534,10 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>=10.3), diskdev-cmds, rsync
 Filename: debs/com.nan.ft_0.3.2_iphoneos-arm.deb
-Size: 1912
-MD5sum: 83cd7b0c225582e04adbf3367e927f98
-SHA1: 1ac4445c91b2d5503ba4bee8a724081ba13d344e
-SHA256: 120f96781ceb91943092f20623cbc359f5774ad6b5fe25fc51390edf45c6031f
+Size: 1964
+MD5sum: 4ea72fa8ceae88bfb8e0b75ce14fc441
+SHA1: 7f95ffdd2039a48b016b90b4dd306d5e4f7cb2d8
+SHA256: d4d88bb20618f1f64b06671b7fa1596d60c322021f130e3ec9cd13dc249dfebc
 Section: Terminal_Support
 Description: 一个从设备首张快照提取字体的脚本
 Author: zhaonan <Invalidunit@icloud.com>
