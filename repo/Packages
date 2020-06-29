@@ -1468,6 +1468,27 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
 Name: Filza File Manager 64-bit
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js_64bit.json
 
+Package: com.nan.flexlist
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: netskao.flexlist
+Provides: netskao.flexlist (=1.1-1)
+Filename: debs/com.nan.flexlist_1.1-1_iphoneos-arm.deb
+Size: 871196
+MD5sum: 8039e17b2803020c882f4923c8ce34e9
+SHA1: 1d36ff458d0e5bba831b43f2e153e1a9884b780a
+SHA256: cd4654da30836cf49af0957bc3a82999a1ba73f414b48f5d5c4f4a52c1dd02fd
+Section: Tweaks
+Description: FlexList 是一款通过设置选择应用，调用 Flex 视图工具进行应用界面分析的工具，当前版本调用 Flex 最新版 4.1.1，支持 Swift 应用。
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Netskao <netskao@gmail.com>
+Dev: netskao
+Icon: file:///Library/PreferenceLoader/Preferences/FlexList/FlexList@2x.png
+Name: FlexList
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.flexlist/js.json
+
 Package: com.nan.fonts.zh.mamelon
 Version: 0.1.0
 Architecture: iphoneos-arm
