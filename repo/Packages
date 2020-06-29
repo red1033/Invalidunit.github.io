@@ -1595,14 +1595,14 @@ Depends: mobilesubstrate
 Conflicts: com.castyte.iamchinese
 Provides: com.castyte.iamchinese (=1.0.0)
 Filename: debs/com.nan.iamchinese_1.0.0_iphoneos-arm.deb
-Size: 3700
-MD5sum: 729947aac37f06f9c6d83e2d944d942a
-SHA1: b1aaada73bf450643477429b8bfb2cd44f4d8c6a
-SHA256: 9b66ac08ffd2ae4aee6dbe6cad6fcea41cc3563ba5eaeb90bf2c839017837cc9
+Size: 3696
+MD5sum: 83d88c88b67bb742a3a7c97551bfa499
+SHA1: 66e1d269e77ad3d532d6660351504d1afe17c618
+SHA256: 51e855f5a2001f6fcc9f93a64c4db02107a5afbd7adf0f20d05a72e4cb4b7fcc
 Section: Tweaks
 Description: 启用通常国行才有的应用禁用 Wi-Fi 联网的选项。国行机完全不需要装。安装后在设置-蜂窝网络内可以更改程序联网权限。
 Author: Castyte
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_system.png
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: I Am Chinese
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.iamchinese/js.json
 
