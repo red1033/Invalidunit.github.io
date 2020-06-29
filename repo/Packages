@@ -1587,6 +1587,25 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.halfipad/image.png
 Name: zh-Hans for HalFiPad
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.halfipad/js_zh_hans.json
 
+Package: com.nan.iamchinese
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Conflicts: com.castyte.iamchinese
+Provides: com.castyte.iamchinese (=1.0.0)
+Filename: debs/com.nan.iamchinese_1.0.0_iphoneos-arm.deb
+Size: 3700
+MD5sum: 729947aac37f06f9c6d83e2d944d942a
+SHA1: b1aaada73bf450643477429b8bfb2cd44f4d8c6a
+SHA256: 9b66ac08ffd2ae4aee6dbe6cad6fcea41cc3563ba5eaeb90bf2c839017837cc9
+Section: Tweaks
+Description: 启用通常国行才有的应用禁用 Wi-Fi 联网的选项。国行机完全不需要装。安装后在设置-蜂窝网络内可以更改程序联网权限。
+Author: Castyte
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_system.png
+Name: I Am Chinese
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.iamchinese/js.json
+
 Package: com.nan.icleanerpro
 Version: 7.8.0
 Architecture: iphoneos-arm
