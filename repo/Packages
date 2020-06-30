@@ -1553,12 +1553,13 @@ Package: com.nan.ft
 Version: 0.3.2
 Architecture: iphoneos-arm
 Maintainer: zhaonan
+Pre-Depends: snaputil | com.bingner.snappy
 Depends: firmware (>=10.3), diskdev-cmds, rsync
 Filename: debs/com.nan.ft_0.3.2_iphoneos-arm.deb
-Size: 1964
-MD5sum: 4ea72fa8ceae88bfb8e0b75ce14fc441
-SHA1: 7f95ffdd2039a48b016b90b4dd306d5e4f7cb2d8
-SHA256: d4d88bb20618f1f64b06671b7fa1596d60c322021f130e3ec9cd13dc249dfebc
+Size: 1992
+MD5sum: c691f8c4be6360783f731cd25c1f8932
+SHA1: e05bcaa835341d6bb270c13c910ab0f4ed90f492
+SHA256: 500a2ec89cac360cebae384ba9d690d99bc9d714dcfbb57d2c77fe586f5e4ccd
 Section: Terminal_Support
 Description: 一个从设备首张快照提取字体的脚本
 Author: zhaonan <Invalidunit@icloud.com>
