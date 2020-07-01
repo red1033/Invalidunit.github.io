@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "切换歌曲时获得歌曲信息的通知",
+                    "title": "为 Playing 提供简体中文",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },

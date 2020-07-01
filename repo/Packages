@@ -2453,6 +2453,25 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sentinel/image.png
 Name: zh-Hans for Sentinel
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sentinel/js_zh_hans.json
 
+Package: com.nan.sentinel.zh-hans
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.megadev.sentinel
+Conflicts: com.nan.sentinel
+Replaces: com.megadev.sentinel
+Filename: debs/com.nan.sentinel.zh-hans_0.1.1_iphoneos-arm.deb
+Size: 1492
+MD5sum: 1e2eb351a9ba60affdea3d3ad25929e3
+SHA1: a1791fe71a9a188820e449b1df3d3756d5cf83fe
+SHA256: 52b1a10970e895451dc6dc1e0728176d94e6ad50a3829d32acf3af208a513946
+Section: 汉化
+Description: 为 Sentinel 提供简体中文
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sentinel/image.png
+Name: zh-Hans for Sentinel
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sentinel/js_zh_hans.json
+
 Package: com.nan.setnonce
 Version: 0.1.0
 Architecture: iphoneos-arm
