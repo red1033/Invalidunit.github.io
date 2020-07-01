@@ -2434,6 +2434,25 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sentinel/image.png
 Name: Sentinel
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sentinel/js.json
 
+Package: com.nan.sentinel
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader, com.opa334.ccsupport
+Conflicts: com.megadev.sentinel
+Provides: com.megadev.sentinel (=1.2)
+Filename: debs/com.nan.sentinel_1.2_iphoneos-arm.deb
+Size: 21980
+MD5sum: 8c93347132bfb46f06d5f044ace60e8c
+SHA1: a40ead7a3739ede533431b2955d1578da9882ea1
+SHA256: 9f21b5e04928ffdeda2bcb0374a52f7fcbde793bd3da3b2f60e5f957563d978c
+Section: Tweaks
+Description: 在电量过低时休眠，防止丢失越狱环境
+Author: MegaDev
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sentinel/image.png
+Name: Sentinel
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sentinel/js.json
+
 Package: com.nan.sentinel.zh-hans
 Version: 0.1.0
 Architecture: iphoneos-arm
