@@ -206,17 +206,17 @@ Name: Apps Manager
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appdatamanager/js.json
 
 Package: com.nan.appleilluminator
-Version: 0.6.6
+Version: 0.6.7
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 11.0)
 Conflicts: com.michael.appleturboboost, com.michael.appleilluminator, com.nan.appleturboboost
-Provides: com.michael.appleilluminator (=0.6.5)
-Filename: debs/com.nan.appleilluminator_0.6.6_iphoneos-arm.deb
-Size: 8136
-MD5sum: 9d39c7aba6840c98efa5683b4967ef4b
-SHA1: 64b330700590c6398096694c5866962e5a1d7e11
-SHA256: 2979feac4635c74b9681a25a2a33a370f32dfc70473cf6dc77d6a5e43034b4c3
+Provides: com.michael.appleilluminator (=0.6.7)
+Filename: debs/com.nan.appleilluminator_0.6.7_iphoneos-arm.deb
+Size: 8616
+MD5sum: 82db41818499b20bf3cc6c2b572f30a6
+SHA1: 3e504637cb74268fbb3d67fd65bbde471898cf47
+SHA256: 0fc8f63502d99014f296f0e0e7de3d4bb58b1bd545149be94006bc7091a30542
 Section: System
 Description: 去发热降亮度
 Author: Halo_Michael <yc992147156@me.com>
@@ -225,17 +225,17 @@ Name: Apple Illuminator
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appleilluminator/js.json
 
 Package: com.nan.appleturboboost
-Version: 0.6.6
+Version: 0.6.7
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 12.0)
 Conflicts: com.michael.appleilluminator, com.michael.appleturboboost, com.nan.appleilluminator
-Provides: com.michael.appleturboboost (=0.6.5)
-Filename: debs/com.nan.appleturboboost_0.6.6_iphoneos-arm.deb
-Size: 10576
-MD5sum: 92e782727fe50ab771c141a1f0d3bf6b
-SHA1: 3f01cca725ba35a365eac67ed01d234ed2853714
-SHA256: d6e31a3af9f57646a4b92054b90f7a4ccaf09b81dd123e7df8f2932845e752b5
+Provides: com.michael.appleturboboost (=0.6.7)
+Filename: debs/com.nan.appleturboboost_0.6.7_iphoneos-arm.deb
+Size: 11212
+MD5sum: a904a11323b24e10d33e5653b63ad778
+SHA1: a06f545a53c6df27c1ca3b1bfb0f90950d7c320e
+SHA256: 32e08c64f772fbbfb2c9957d094d27989d4efe9f45d8e411e1c9d9c9113d48d8
 Section: System
 Description: 去降频 & 去发热降亮度
 Author: Halo_Michael <yc992147156@me.com>
