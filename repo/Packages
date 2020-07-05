@@ -2081,10 +2081,10 @@ Depends: mobilesubstrate, me.nepeta.libcolorpicker | org.thebigboss.libcolorpick
 Conflicts: io.ominousness.modernxi, me.nepeta.libnepeta, me.nepeta.notifica, com.rpgfarm.notifica
 Provides: me.nepeta.notifica (=0.3.1), com.rpgfarm.notifica (=0.4.1)
 Filename: debs/com.nan.notifica_0.4.1_iphoneos-arm.deb
-Size: 429940
-MD5sum: 391039dcd43d211d2c09f8836355ded6
-SHA1: a9ab294e3f5e026c73766f7769a7cd4bf2bb62a6
-SHA256: ecf0061145761074b73afa5caf8d9ea151c8329b98f98cb660d753407cca4da6
+Size: 430040
+MD5sum: 4660ff1611fdbcc29e69e98b32ed59c5
+SHA1: 91819f09c962d13a92b14c6a8e7370109ac0e10a
+SHA256: ccacc7d786bf67aa63ebcaa9f92db74fe5fd77ca0431b465eacdb4236cf7bc52
 Section: Tweaks
 Description: 通知外观定制
 Author: Nepeta & BawAppie <pp121324@gmail.com>
