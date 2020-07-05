@@ -2079,12 +2079,12 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate, me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: io.ominousness.modernxi, me.nepeta.libnepeta, me.nepeta.notifica, com.rpgfarm.notifica
-Provides: me.nepeta.notifica (>=0.3.1), com.rpgfarm.notifica (=0.4.1)
+Provides: me.nepeta.notifica (=0.3.1), com.rpgfarm.notifica (=0.4.1)
 Filename: debs/com.nan.notifica_0.4.1_iphoneos-arm.deb
-Size: 429944
-MD5sum: b832a8660d4e63d34452d3433c193216
-SHA1: d6d9686012b11de02b0523e10b4162c6580ef142
-SHA256: a0b74296435e787651a258d2b90cd4512c676fee15a862ff6ec304f8a533885d
+Size: 429940
+MD5sum: 391039dcd43d211d2c09f8836355ded6
+SHA1: a9ab294e3f5e026c73766f7769a7cd4bf2bb62a6
+SHA256: ecf0061145761074b73afa5caf8d9ea151c8329b98f98cb660d753407cca4da6
 Section: Tweaks
 Description: 通知外观定制
 Author: Nepeta & BawAppie <pp121324@gmail.com>
