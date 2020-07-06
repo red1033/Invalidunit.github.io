@@ -280,6 +280,27 @@ Name: AppStore++
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
 
 Package: com.nan.appstoreplusplus
+Version: 0.9.12
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools, com.cokepokes.appstoreplusplus
+Provides: com.cokepokes.appstoreplusplus (=0.9.12)
+Filename: debs/com.nan.appstoreplusplus_0.9.12_iphoneos-arm.deb
+Size: 332720
+MD5sum: 5b4276fb063ce7b4b94c383216e759e8
+SHA1: f77dfe0a25acf1627a76bd4c446571e0f43f2a82
+SHA256: 07e4dd6e76822a639ea0efa01cc6d73999ce5e645be2b7d30a01819bc583af1f
+Section: Tweaks
+Priority: optional
+Description: AppStore 应用自由升降级工具
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/image.png
+Name: AppStore++
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
+
+Package: com.nan.appstoreplusplus
 Version: 0.9.9-5
 Architecture: iphoneos-arm
 Maintainer: zhaonan
