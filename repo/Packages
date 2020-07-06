@@ -1649,6 +1649,24 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.halfipad/image.png
 Name: zh-Hans for HalFiPad
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.halfipad/js_zh_hans.json
 
+Package: com.nan.handprintkb
+Version: 0.5.5
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.michael.handprint
+Filename: debs/com.nan.handprintkb_0.5.5_iphoneos-arm.deb
+Size: 3328
+MD5sum: 8aabd3b9da8ee08045598f3ae288c7ca
+SHA1: 68e88ff3deec6d99080e3dff4f3fb1b434f0b58a
+SHA256: adc5d649dfb0311f779405d39bb754a24a9b3cd8327b28005a3d618b94a56556
+Section: Tweaks
+Description: 将键盘设置为普通手机样式，用于修复 X 手势
+Author: Halo_Michael <yc992147156@me.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Name: HandPrintKB
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.handprintkb/js.json
+
 Package: com.nan.iamchinese
 Version: 1.0.0
 Architecture: iphoneos-arm
