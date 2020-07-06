@@ -1098,6 +1098,25 @@ Tag: role::hacker
 Author: 0x7ff
 Name: dimentio
 
+Package: com.nan.disablealerts
+Version: 2.4.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Conflicts: com.flex2areo.disablealerts2, netskao.disablealerts
+Provides: com.flex2areo.disablealerts2, netskao.disablealerts (=2.4.1)
+Filename: debs/com.nan.disablealerts_2.4.1_iphoneos-arm.deb
+Size: 9916
+MD5sum: 64748e4cad7b2acbb555a2d1f6916104
+SHA1: 1b7658836e3350d5913101e764ef04831bceafe7
+SHA256: ea3f1167a14c7d319351a972cf8c28c25d6ade4c9299a5fa2de24feec67f7425
+Section: Tweaks
+Description: 强效屏蔽软件和系统弹窗，支持单独选择某个应用。
+Author: aReo
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.disablealerts/image.png
+Name: DisableAlerts
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.disablealerts/js.json
+
 Package: com.nan.doubletaplock
 Version: 0.0.3
 Architecture: iphoneos-arm
