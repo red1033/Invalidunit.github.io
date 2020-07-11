@@ -61,17 +61,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.1.6",
+                    "text": "0.1.7",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "7.0 - 13.5",
+                    "text": "7.0 - 13.6",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 06 月 17 日",
+                    "text": "2020 年 07 月 12 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -96,6 +96,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "0.1.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "增加了 2222 是否已经开启的检查</br> (odyssey 的 openssh 本身已经开启了 2222 端口)",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "0.1.6",

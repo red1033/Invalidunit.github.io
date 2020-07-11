@@ -2062,16 +2062,16 @@ Name: zh-Hans for Little11
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js_zh_Hans.json
 
 Package: com.nan.localhostssh
-Version: 0.1.6
+Version: 0.1.7
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Pre-Depends: com.nan.openssh.virtual-depend, sed
+Pre-Depends: sed, openssh
 Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
-Filename: debs/com.nan.localhostssh_0.1.6_iphoneos-arm.deb
-Size: 1460
-MD5sum: 28ebac592b38eb04c0d4f4b60732fb8e
-SHA1: 9203035d7d005741ac610abcdf745b414f545968
-SHA256: 55d4fd2381b38616474a7c825de93234afdfdd3786ce938429baddb2d827ac4e
+Filename: debs/com.nan.localhostssh_0.1.7_iphoneos-arm.deb
+Size: 1636
+MD5sum: 06b3c2e858a45c69741a5a626a37db53
+SHA1: 44de0496acbd4312d13082f5a3659987c9123ec6
+SHA256: 1c82a6a48f04bf7280f10e085483be63e4361c8bef90c6b3fc173b30a8ee8b90
 Section: System
 Description: 为 iOS 本地主机 SSH 访问启用 2222 端口
 Author: zhaonan
@@ -2167,22 +2167,6 @@ Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.openccmm/image.png
 Name: Activation CC MuteModule
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.openccmm/js.json
-
-Package: com.nan.openssh.virtual-depend
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: openssh
-Filename: debs/com.nan.openssh.virtual-depend_0.1.0_iphoneos-arm.deb
-Size: 752
-MD5sum: 8f0f9a042ed85dc424e39e07113113e1
-SHA1: 7788dfb67f38916106cdfa3c0b7368a1555fd1b4
-SHA256: c7502e91b71d19750f6c3e96af4f74b13de8e90d5c9777061a0b1e2a0adee624
-Section: System
-Description: 一个用于依赖 OpenSSH 的依赖
-Tag: role::hacker
-Author: zhaonan
-Name: OpenSSH virtual depend
 
 Package: com.nan.pencilchargingindicator
 Version: 1.2~b7
@@ -2858,16 +2842,16 @@ Author: Adam Leventhal
 Name: snaputil
 
 Package: com.nan.sshd2
-Version: 0.1.0
+Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Pre-Depends: sed, com.nan.openssh.virtual-depend
+Pre-Depends: sed, openssh
 Depends: com.ex.libsubstitute | org.coolstar.libhooker
-Filename: debs/com.nan.sshd2_0.1.0_iphoneos-arm.deb
+Filename: debs/com.nan.sshd2_0.1.1_iphoneos-arm.deb
 Size: 1424
-MD5sum: 71a916f2e72bb1c5203166d4f41f1ede
-SHA1: 287276d4a6aa7dc0008c14ecc9ce031c87fb3bbf
-SHA256: 785499499cf245a69d72536991d830ea08de82a4234f9bcb955dddd8f1fb49d5
+MD5sum: 0ff84b709d1251fdfe4ff6f815d608a9
+SHA1: b785ba59c3b76eb2c87a57e6478b125e8afde560
+SHA256: e288b1fe8ce56dcadcacf7b65178dc549147fabb124325ffd70f4ff0e1740280
 Section: Games
 Description: 13 系统专用，绕过部分腾讯游戏检测越狱导致游戏闪退。不能开挂！！！(不支持)
  安装前请自行安装 Sileo，Zebra 或者 Installer 安装时自动清理掉 Cydia.app
