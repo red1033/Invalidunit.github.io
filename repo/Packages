@@ -2988,6 +2988,24 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: SutuPLUS
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sutuplus/js.json
 
+Package: com.nan.swipeextenderx.zh-hans
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.qiop1379.swipeextenderx
+Replaces: com.qiop1379.swipeextenderx
+Filename: debs/com.nan.swipeextenderx.zh-hans_0.1.0_iphoneos-arm.deb
+Size: 3328
+MD5sum: 3804f3a7996b51bb3934c457410d7274
+SHA1: 0cf0e7010247a05822c85f4874332f4919d1633f
+SHA256: d9fc42ec293a797ed1d2bacde40e5d440c79785980ca9d71e0b5dd399f096883
+Section: 汉化
+Description: 为 SwipeExtenderX 提供简体中文
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.swipeextenderx/image.png
+Name: zh-Hans for SwipeExtenderX
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.swipeextenderx/js_zh_hans.json
+
 Package: com.nan.swipeselection
 Version: 1.5.6
 Architecture: iphoneos-arm
