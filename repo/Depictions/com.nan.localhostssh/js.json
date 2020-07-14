@@ -17,7 +17,7 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 6,
-                    "itemSize": "{160, 284.58666666666664}",
+                    "itemSize": "{160, 346.4533333333333}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -26,10 +26,6 @@
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/Screenshot_02.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/Screenshot_03.png"
                         }
                     ]
                 },
