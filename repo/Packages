@@ -919,27 +919,6 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/image.png
 Name: CyDown
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/js.json
 
-Package: com.nan.cydown-697
-Version: 6.9.7
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Conflicts: com.julioverne.cydown
-Provides: com.julioverne.cydown
-Filename: debs/com.nan.cydown-697_6.9.7_iphoneos-arm.deb
-Size: 1085068
-MD5sum: 3f462220aca5b75e0566f3cb60efecba
-SHA1: 6aa87c348fb96f044207f39f071fef289a7618d0
-SHA256: f9e58ec6d58c10625a929947b916a6e678d68551b25ec568faa2ea4dd4cf8a0e
-Section: Tweaks
-Homepage: http://twitter.com/ijulioverne
-Description: Cydia 下载管理器 & 额外功能 !
-Author: julioverne <julioverne@me.com>
-Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/image.png
-Name: CyDown (6.9.7)
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/js_6.json
-
 Package: com.nan.cydown.zh-hans
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -1807,36 +1786,6 @@ Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.icleanerpro/image.png
 Name: iCleaner Pro Crack
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.icleanerpro/js_crack.json
-
-Package: com.nan.ioshelper12
-Version: 1.4.0
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: debs/com.nan.ioshelper12_1.4.0_iphoneos-arm.deb
-Size: 97344
-MD5sum: e506f2e2c81e7fd6d0e9a5d48f2f62d8
-SHA1: 411b6f89109ba56c7f7e8503e0e319bb8ebf2365
-SHA256: 988de8e6f0f70463405a547e83771c20486577ffa9fef0c6231c7c45b57bee63
-Section: Tweaks
-Description: iOS 系统多功能定义助手
-Author: iBreak
-Name: iOS Helper 12
-
-Package: com.nan.ioshelper12
-Version: 1.4.2
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: debs/com.nan.ioshelper12_1.4.2_iphoneos-arm.deb
-Size: 99328
-MD5sum: f378c47a2518d990f884a8afaa6e9f8f
-SHA1: 79e7dd526748b8c4253ad5959f4f0b9967e4e5d5
-SHA256: 7d8801d321a71c568e7323e000f547b6b1a52f2eeffbcd7e2d02a2ed0063f4ce
-Section: Tweaks
-Description: iOS 系统多功能定义助手
-Author: iBreak
-Name: iOS Helper 12
 
 Package: com.nan.ioshelper122
 Version: 2.0
