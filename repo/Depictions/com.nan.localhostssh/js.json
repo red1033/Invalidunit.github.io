@@ -104,7 +104,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "现支持使用 IPv6 地址来连接</br> 增加仅本机可连接 2222 端口的限制</br> (这才叫 Local SSH)",
+                    "markdown": "增加仅本机可连接 2222 端口的限制",
                     "useRawFormat": true
                 },
                 {
