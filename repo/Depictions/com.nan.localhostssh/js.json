@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "为 iOS 本地主机 SSH 访问启用 2222 端口",
+                    "title": "为 iOS 本地 SSH 访问启用 2222 端口",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.1.7",
+                    "text": "0.2.0",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 07 月 12 日",
+                    "text": "2020 年 07 月 14 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -96,6 +96,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "0.2.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "现支持使用 IPv6 地址来连接</br> 增加仅本机可连接 2222 端口的限制</br> (这才叫 Local SSH)",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "0.1.7",
