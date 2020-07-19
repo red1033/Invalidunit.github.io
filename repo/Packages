@@ -2398,15 +2398,15 @@ Author: wjg (TouGBao)
 Name: QQanitiRecallHook
 
 Package: com.nan.qqprocrack
-Version: 2.3-1
+Version: 2.3-3
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate
-Filename: debs/com.nan.qqprocrack_2.3-1_iphoneos-arm.deb
-Size: 200154
-MD5sum: 9298dd925c261a20eafe457f481aa78d
-SHA1: 516ae95e2986b6a0ac27261138286c5e17553387
-SHA256: 3ef50285edcf0cb294b7800985bb6b8fb64107ed31334783877e24fc70e6f652
+Filename: debs/com.nan.qqprocrack_2.3-3_iphoneos-arm.deb
+Size: 127764
+MD5sum: b0ec773b270b4e8fddc103e39d98bca6
+SHA1: 29e282baaf887a3702ec85fe92a9d23fd147707d
+SHA256: ec4b84a06cf9e0cedb30c831929f8622cc334de1a3d709adedf37901210a2ad5
 Section: Tweaks
 Description: QQ 和 TIM 增强，抢红包，虚拟机型破解版
 Author: 7Loopy
