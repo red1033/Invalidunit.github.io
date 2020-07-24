@@ -1628,16 +1628,16 @@ Author: 字由心语 & zhaonan
 Name: マメロン-英文
 
 Package: com.nan.ft
-Version: 0.3.3
+Version: 0.3.3-1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: snaputil | com.bingner.snappy
 Depends: firmware (>=10.3), diskdev-cmds, rsync
-Filename: debs/com.nan.ft_0.3.3_iphoneos-arm.deb
-Size: 2252
-MD5sum: 74bbf8e078f3182a691f9a22f838143d
-SHA1: 2536313fb890d7b74a3541699105accfaaf4650f
-SHA256: 4d67503738b4dea608e390fa19f23f99246d227edf257135bb71170ac67f09a1
+Filename: debs/com.nan.ft_0.3.3-1_iphoneos-arm.deb
+Size: 2256
+MD5sum: b1ce83b74be4acafb3867a9efde6d806
+SHA1: ac680455160b3e3841e71247c4192bbe4a61a49d
+SHA256: 02ff7ff8f679da296bc88d28a45c707c3c7d375581d6516a2d9d46ac2aa349a7
 Section: Terminal_Support
 Description: 一个从设备首张快照提取字体的脚本
 Author: zhaonan <Invalidunit@icloud.com>
