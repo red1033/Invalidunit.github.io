@@ -2846,21 +2846,6 @@ Author: iOS Creatix
 Name: WeatherVane
 
 Package: com.nan.wechathelper
-Version: 1.4.1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.nan.wechathelper_1.4.1_iphoneos-arm.deb
-Size: 55304
-MD5sum: d1d320618775d3a6c6e1dbdf31f21e8a
-SHA1: 56c5394dfd3669765b8f8093f6ac7c56d1743552
-SHA256: a258c6a0da549cac67a683cc423812eac5320dbedac24ed87859ae61cdac7cd1
-Section: Tweaks
-Description: 微信助手,可与WeChatHookPro一起用
-Author: iBreak
-Name: WeChat Helper
-
-Package: com.nan.wechathelper
 Version: 2.1.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
@@ -2895,25 +2880,6 @@ Name: WeChatHookPro
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechathookpro/js.json
 
 Package: com.nan.wechatpurification
-Version: 1.2-1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, preferenceloader
-Conflicts: netskao.wechatpurification, com.nan.wechatpurification-11
-Provides: netskao.wechatpurification, com.nan.wechatpurification-11
-Filename: debs/com.nan.wechatpurification_1.2-1_iphoneos-arm.deb
-Size: 68112
-MD5sum: 74a2c5441169558e6a8517be8dd2e643
-SHA1: a9afb9e5021b8e655a99d3e4c97a55b1ff7ff514
-SHA256: edc0f15b890ef4ccbd76c6067a05fd8b951f0ef0fd9fd2f57c11c15ed1776a2c
-Section: Tweaks
-Description: 微信净化！还原聊天本质，给你一个干净的微信
-Author: Netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/image.png
-Name: WeChat Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/js.json
-
-Package: com.nan.wechatpurification
 Version: 1.2-8
 Architecture: iphoneos-arm
 Maintainer: zhaonan
@@ -2925,6 +2891,25 @@ Size: 119080
 MD5sum: 34d042494b858947cc427f7abf55150b
 SHA1: 146e6a4a18c2aab746accd9b75425c9decb6d3f3
 SHA256: a647c86003da8e4686bcb0330431e0c5f79e304d630d397a98819041d02dee32
+Section: Tweaks
+Description: 微信净化！还原聊天本质，给你一个干净的微信。仅适用于 7.0.13 版本及以上
+Author: Netskao
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/image.png
+Name: WeChat Purification
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/js.json
+
+Package: com.nan.wechatpurification
+Version: 1.3-4
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: netskao.wechatpurification, com.nan.wechatpurification-121
+Provides: netskao.wechatpurification (=1.3-4), com.nan.wechatpurification-121
+Filename: debs/com.nan.wechatpurification_1.3-4_iphoneos-arm.deb
+Size: 123540
+MD5sum: 3369f5da4608df6ec0a6006824a5c4b4
+SHA1: c568cdeb3cb05a2060fb306bfd52a4f82cfbad59
+SHA256: 657f52a8bd7298391a016837e30cb011757371b1c03ee23a5adc2fed456197b9
 Section: Tweaks
 Description: 微信净化！还原聊天本质，给你一个干净的微信。仅适用于 7.0.13 版本及以上
 Author: Netskao
