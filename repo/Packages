@@ -372,39 +372,20 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: AppSync Unified
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appsyncunified/js.json
 
-Package: com.nan.awemeautoplay
-Version: 1.2-2
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: netskao.awemehack
-Filename: debs/com.nan.awemeautoplay_1.2-2_iphoneos-arm.deb
-Size: 116192
-MD5sum: 30a69ffbb5579b851376aa3ba0121661
-SHA1: a11e319667ba8bf2807324350a449c6da1216643
-SHA256: b53df872bc6ca0dd737a4a6204f77babc8a525f22d429379e8aafa27e7926d0e
-Section: Tweaks
-Description: 抖音短视频自动播放，支持最新版
-Author: Netskao <netskao@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=awemeautoplayDp
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.awemeautoplay/image.png
-Name: Aweme AutoPlay
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemeautoplay/js.json
-
 Package: com.nan.awemepurification
-Version: 1.4-3
+Version: 1.5-6
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate
 Conflicts: netskao.awemehack, netskao.awemepurification
-Provides: netskao.awemepurification (=1.4-3)
-Filename: debs/com.nan.awemepurification_1.4-3_iphoneos-arm.deb
-Size: 97668
-MD5sum: 1bf8b1c8ca1f3f17495166a247915002
-SHA1: 663b313b45e05773f1e6c94e68733d2ae9ac8474
-SHA256: 5e009334955e6550fefccae78a1b0e5b50d99a4956e4fe53bfc1d84f15a45ee6
+Provides: netskao.awemepurification (=1.5-6)
+Filename: debs/com.nan.awemepurification_1.5-6_iphoneos-arm.deb
+Size: 98520
+MD5sum: 49f82a923869e843f8a55ff191876d56
+SHA1: 5bf71aff6855c7d82b66ae7df4969e3f853ef0ec
+SHA256: c4f08f3e1c50bf2e78615cba4ed906ccf50b033f910cd0c1ffaff6b197611146
 Section: Tweaks
-Description: 抖音净化！支持 6.x - 8.x 版本、去水印，显示状态栏，保存长视频，保存不可下载视频，保存风险视频，去除启动广告，去除 4G 情况下网络提示弹窗，去除青少年提示弹窗！无设置选项
+Description: 抖音净化！
 Author: Netskao <netskao@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=awemepurificationDp
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurification/image.png

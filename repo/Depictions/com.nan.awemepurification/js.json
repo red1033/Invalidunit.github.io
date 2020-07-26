@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "抖音净化！支持 6.x - 8.x 版本",
+                    "title": "抖音净化！",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -31,25 +31,7 @@
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "去水印，显示状态栏，保存长视频。",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "保存不可下载视频，保存风险视频，去除启动广告。",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "去除 4G 情况下网络提示弹窗，去除青少年提示弹窗！",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "无设置选项",
+                    "title": "摇一摇有惊喜",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -81,17 +63,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.3-5",
+                    "text": "1.5-6",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "9.0 - 13.5",
+                    "text": "9.0 - 13.6",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 04 月 28 日",
+                    "text": "2020 年 07 月 26 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -118,13 +100,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.3-5",
+                    "title": "1.5-6",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "修复保存视频过慢，无网络闪退问题",
+                    "markdown": "你猜",
                     "useRawFormat": true
                 }
             ]
