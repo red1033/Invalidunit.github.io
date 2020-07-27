@@ -1,0 +1,7 @@
+Origin: BigBoss+
+Label: BigBoss+
+Description: 因为 BigBoss 刷新太慢所以做的镜像源
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
