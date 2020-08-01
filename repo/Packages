@@ -373,17 +373,17 @@ Name: AppSync Unified
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appsyncunified/js.json
 
 Package: com.nan.awemepurification
-Version: 1.5-6
+Version: 1.5-8
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate
 Conflicts: netskao.awemehack, netskao.awemepurification
 Provides: netskao.awemepurification (=1.5-6)
-Filename: debs/com.nan.awemepurification_1.5-6_iphoneos-arm.deb
-Size: 98520
-MD5sum: 49f82a923869e843f8a55ff191876d56
-SHA1: 5bf71aff6855c7d82b66ae7df4969e3f853ef0ec
-SHA256: c4f08f3e1c50bf2e78615cba4ed906ccf50b033f910cd0c1ffaff6b197611146
+Filename: debs/com.nan.awemepurification_1.5-8_iphoneos-arm.deb
+Size: 102760
+MD5sum: c6a0c017a7ad995db043ce41f41bc343
+SHA1: a17bcb87f0bfcef695435302729c87d0fa85cd7b
+SHA256: e04486f0b6e60f232828df44396d129aaef6029c45d8265d81b542d2e4f6d3fa
 Section: Tweaks
 Description: 抖音净化！
 Author: Netskao <netskao@gmail.com>
