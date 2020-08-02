@@ -1911,16 +1911,16 @@ Name: zh-Hans for Little11
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js_zh_Hans.json
 
 Package: com.nan.localhostssh
-Version: 0.2.1
+Version: 0.2.2
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: sed, openssh
 Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
-Filename: debs/com.nan.localhostssh_0.2.1_iphoneos-arm.deb
-Size: 1736
-MD5sum: 5b9d8e0bc885aaa626a4821eb8632f14
-SHA1: 057ba39a2d621023bab39f8122c5ac2336d26b16
-SHA256: f4afc2fc7ed27c67e0f127d802900860925fcc81079f5427020d3367f9fafeed
+Filename: debs/com.nan.localhostssh_0.2.2_iphoneos-arm.deb
+Size: 1836
+MD5sum: 2f2fa66b9f339e6ed3ed2373dfe773a1
+SHA1: c53840d751c199824ec6001f75c368f407a9ef12
+SHA256: 78ab45ea80c501789d4d10952747b45daa838df6d42fb8befe03a641bd2de1a3
 Section: System
 Description: 为 iOS 本地 SSH 访问启用 2222 端口
 Author: zhaonan
