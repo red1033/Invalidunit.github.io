@@ -2464,6 +2464,23 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/image.
 Name: zh-Hans for Sileo
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/js.json
 
+Package: com.nan.sileo.zh-Hans
+Version: 0.2.5
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: org.coolstar.sileo
+Filename: debs/com.nan.sileo.zh-Hans_0.2.5_iphoneos-arm.deb
+Size: 6532
+MD5sum: 0bdc962c10919e486c4de395cc4c1648
+SHA1: 1a60ec1f96493101e18c4db7e7562bbe2e459177
+SHA256: b284de920120a73ab2e87da02e0e56edca9d50a21f7bd37ee74cf010d768e477
+Section: 汉化
+Description: 为 Sileo 提供简体中文
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/image.png
+Name: zh-Hans for Sileo
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/js.json
+
 Package: com.nan.sileopurification
 Version: 1.2-2
 Architecture: iphoneos-arm
