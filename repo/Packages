@@ -1487,13 +1487,13 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts
 Filename: debs/com.nan.fonts.zh.mamelon_0.1.0_iphoneos-arm.deb
-Size: 9398824
-MD5sum: bebef8bef0ef5c8ade1e14c97b1de96e
-SHA1: 1aa2035e1f9936ca3fc520ab9f29fb7b0a7ac914
-SHA256: 09f7e7755b5c7e2f4cd4e8ab91b2d5ef53de14002ba830a395e5a025bad9da3a
+Size: 9395152
+MD5sum: bbef92e1b4b60150c5503e40562988be
+SHA1: 7bce9b3acd01ad27ce295cbec54fea03bc48cb08
+SHA256: 8d8882550da65c039a065aaedd5b1a4323362442e854e754a7f3407a00f0e62d
 Section: Fonts
-Description: 感谢字由心语分享的 マメロン 字体
-Author: 字由心语 & zhaonan
+Description: 感谢字由心雨分享的 マメロン 字体
+Author: 字由心雨
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fonts.png
 Name: マメロン-中文
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fonts/mamelon/js.json
