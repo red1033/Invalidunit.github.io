@@ -823,21 +823,6 @@ Description: 解决 cy+cpu.arm64 虚拟依赖报错
 Author: zhaonan
 Name: cy+cpu.arm64
 
-Package: com.nan.cycripter
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate (>= 0.9.6300), cycript
-Filename: debs/com.nan.cycripter_0.1.0_iphoneos-arm.deb
-Size: 25300
-MD5sum: 864709bb0e83dccd1a486d6e2f39e471
-SHA1: dc67ac41478432330e9e313f6bd1bd7e34613ac3
-SHA256: 3a1588947ab6a6cda99cfbef781f942119ce4d610e65377cc9b03264a3cc6dc1
-Section: Development
-Description: 使 cycript 更容易在 Chimera 中工作的工具最终将尝试使其在较早版本中工作，但目前仅支持 12+。
-Author: NitoTV
-Name: Cycripter
-
 Package: com.nan.cydown
 Version: 7.0.6
 Architecture: iphoneos-arm
@@ -1064,6 +1049,23 @@ Author: shepgoba
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: DownloadBar13
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.downloadbar13/js.json
+
+Package: com.nan.dsar
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: org.coolstar.sileo
+Filename: debs/com.nan.dsar_0.1.0_iphoneos-arm.deb
+Size: 1520
+MD5sum: b528f420cd5b6d205f54ac58e1094ff6
+SHA1: 7e4b81e9c50fc73e003b882cf5df324b780e81a3
+SHA256: 69ffa70fa4b51959ea355ea5136ca4b9a858e9eaa5dedc51f09ffe919a9171ad
+Section: Scripting
+Description: 去除 Sileo 无法移除默认源的限制
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.dsar/image.png
+Name: Disable Sileo Auto Rewrite
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.dsar/js.json
 
 Package: com.nan.elegantsettings
 Version: 1.2.0
