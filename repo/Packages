@@ -1056,10 +1056,10 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: org.coolstar.sileo
 Filename: debs/com.nan.dsar_0.1.0_iphoneos-arm.deb
-Size: 1524
-MD5sum: 7891d9b1a54858665ed3665698099f25
-SHA1: 76d5e76ddd833716c8cf33bb4d23925a9689fcc9
-SHA256: 9de849b8807090a7751ec2eb5f29a6c4673e5ebdab257ab3432a163f859a435e
+Size: 1520
+MD5sum: 29eb22028bd52ae8b5f826b7752fd6b8
+SHA1: fab857d12b517d0d4828b88706c0a6b2778b93f7
+SHA256: 757b5b4bb16d9c06aa0eecc3c814584793483c9ca6d56e5eb83d54cc6d84c82f
 Section: Scripting
 Description: 去除 Sileo 无法移除默认源的限制
 Author: zhaonan
