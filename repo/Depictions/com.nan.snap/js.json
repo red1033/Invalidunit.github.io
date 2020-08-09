@@ -57,7 +57,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.2.2-1",
+                    "text": "0.2.3",
                     "title": "最新版本"
                 },
                 {
@@ -67,7 +67,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 08 月 01 日",
+                    "text": "2020 年 08 月 09 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -94,13 +94,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "0.2.2-1",
+                    "title": "0.2.3",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "错误修复",
+                    "markdown": "增加统计快照数量功能",
                     "useRawFormat": true
                 },
                 {
