@@ -61,17 +61,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.4.1",
+                    "text": "1.5.1",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "13.0 - 13.5",
+                    "text": "11.0 - 13.6",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 06 月 21 日",
+                    "text": "2020 年 08 月 13 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -96,6 +96,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.5.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "添加了没有间距的 X 状态栏选项</br> 代码优化",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.4.1",

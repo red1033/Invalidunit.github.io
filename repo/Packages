@@ -1874,18 +1874,18 @@ Author: Ryley Angus
 Name: Liberty Lite (Beta)
 
 Package: com.nan.little11
-Version: 1.4.1
+Version: 1.5.1
 Architecture: iphoneos-arm
 Maintainer: Ryan Nair
-Depends: mobilesubstrate, preferenceloader
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
 Conflicts: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
 Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
-Provides: com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune, com.ryannair05.little11 (=1.4.1)
-Filename: debs/com.nan.little11_1.4.1_iphoneos-arm.deb
-Size: 44964
-MD5sum: ccae989b43e8e22fb90328ef5f013bdb
-SHA1: 893d6ff146c088619068fe58afa825526b718f18
-SHA256: 2dec723b629025bdc26c13acb8f316aea9ad5931d70bb006c71ad780ad726373
+Provides: com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune, com.ryannair05.little11 (=1.5.1)
+Filename: debs/com.nan.little11_1.5.1_iphoneos-arm.deb
+Size: 342752
+MD5sum: a3856c03fd12b90fad771c0ec5d338bf
+SHA1: a2a1364868ac46b403dfff2506ebb5cbe2d5313f
+SHA256: 7061c861dfc335a5dffd3b839d821c2d5df1b7f2f864c9ecc49bedc6783bac77
 Section: Tweaks
 Description: 适用于 iOS 13 的 iPhone X 手势
 Author: Ryan Nair
