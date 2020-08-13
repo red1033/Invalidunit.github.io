@@ -1930,6 +1930,24 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/image.p
 Name: Local SSH
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/js.json
 
+Package: com.nan.localhostssh
+Version: 0.2.3
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: sed, openssh | sed, openssh-server
+Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
+Filename: debs/com.nan.localhostssh_0.2.3_iphoneos-arm.deb
+Size: 1808
+MD5sum: 1095488a53c1ec802d40e31aa3247321
+SHA1: 1be77836fa766f1989b462c584ef43f56c771ed4
+SHA256: c1a5e7e0430ae5d840f1451001f9b04503fa6b8b4e956cc75edfa0423b1c6b49
+Section: Addons
+Description: 为 iOS 本地 SSH 访问启用 2222 端口
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/image.png
+Name: Local SSH
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/js.json
+
 Package: com.nan.localiapstore
 Version: 1.4-4
 Architecture: iphoneos-arm
