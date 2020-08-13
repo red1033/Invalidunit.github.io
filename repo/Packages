@@ -1894,17 +1894,17 @@ Name: Little11
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js.json
 
 Package: com.nan.little11.zh-Hans
-Version: 0.1.5
+Version: 0.1.6
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.ryannair05.little11
 Conflicts: com.nan.little11
 Replaces: com.ryannair05.little11
-Filename: debs/com.nan.little11.zh-Hans_0.1.5_iphoneos-arm.deb
+Filename: debs/com.nan.little11.zh-Hans_0.1.6_iphoneos-arm.deb
 Size: 2876
-MD5sum: 191f303cd2693b5beb633689198a6d4a
-SHA1: da16b20e1a63377b992a3fc87f0a613e5ff94886
-SHA256: 62b221789a541c0ff82f92f83f589a91b2728a506b1a234bddfaaeff1a18b2e8
+MD5sum: 2d531b662d097da6205147966088d8ed
+SHA1: 80d457a8c1b0341f28614e24db5d62ff4dd020cb
+SHA256: e06f66586d6cd147fcfe26d29b6732cd1019df57929a7d190849edcae7a9099c
 Section: 汉化
 Description: 为 Little11 提供简体中文
 Author: zhaonan
@@ -2625,22 +2625,21 @@ Author: Adam Leventhal
 Name: snaputil
 
 Package: com.nan.sshd2
-Version: 0.1.1
+Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Pre-Depends: sed, openssh
-Depends: com.ex.libsubstitute | org.coolstar.libhooker
-Filename: debs/com.nan.sshd2_0.1.1_iphoneos-arm.deb
-Size: 1424
-MD5sum: 0ff84b709d1251fdfe4ff6f815d608a9
-SHA1: b785ba59c3b76eb2c87a57e6478b125e8afde560
-SHA256: e288b1fe8ce56dcadcacf7b65178dc549147fabb124325ffd70f4ff0e1740280
-Section: Games
-Description: 13 系统专用，绕过部分腾讯游戏检测越狱导致游戏闪退。不能开挂！！！(不支持)
- 安装前请自行安装 Sileo，Zebra 或者 Installer 安装时自动清理掉 Cydia.app
+Pre-Depends: sed
+Depends: openssh | openssh-server
+Filename: debs/com.nan.sshd2_0.1.2_iphoneos-arm.deb
+Size: 1284
+MD5sum: ea15022cae7f247533f06564a105e861
+SHA1: 2fb351d730e4a28340a2cbc1efcf6be930e15cc5
+SHA256: c456bc9e9fc77c56d6f1608554ac4986d098f42defe64a960a46507802b846ed
+Section: Addons
+Description: 无聊的补丁，将 sshd 修改为 sshd2 并保留原功能
 Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fix.png
-Name: Fix Tencent Crash
+Name: sshd2
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sshd2/js.json
 
 Package: com.nan.sutuplus

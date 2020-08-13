@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "绕过部分腾讯游戏检测越狱导致游戏闪退",
+                    "title": "将 sshd 改为 sshd2",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -28,24 +28,6 @@
                             "url": "https://Invalidunit.github.io/repo/Depictions/Default/Screenshot_02.png"
                         }
                     ]
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "想开挂自己找屏蔽去，这个没用",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "安装前请先确保安装了 Sileo 或者 Zebra 或者 Installer",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "安装时将会清理 Cydia.app",
-                    "useBoldText": true,
-                    "useBottomMargin": false
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -75,7 +57,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.1.1",
+                    "text": "0.1.2",
                     "title": "最新版本"
                 },
                 {
@@ -85,7 +67,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 07 月 12 日",
+                    "text": "2020 年 08 月 13 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -112,7 +94,18 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "0.1.0",
+                    "title": "0.1.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "更新支持 openssh-server",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "0.1.1",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
