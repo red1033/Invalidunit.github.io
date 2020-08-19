@@ -30,18 +30,6 @@
                     ]
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "通过修改 Sileo 安装脚本实现",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "Sileo 安装脚本会在安装 App 时触发",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
                     "class": "DepictionSpacerView",
                     "spacing": 16
                 },
@@ -69,7 +57,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.1.3-1",
+                    "text": "0.1.4",
                     "title": "最新版本"
                 },
                 {
@@ -79,7 +67,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 08 月 13 日",
+                    "text": "2020 年 08 月 19 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -106,13 +94,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "0.1.3-1",
+                    "title": "0.1.4",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "修复了上个版本可能不能很好的清理缓存的问题",
+                    "markdown": "代码优化",
                     "useRawFormat": true
                 },
                 {
