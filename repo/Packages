@@ -2559,9 +2559,9 @@ Pre-Depends: firmware (>= 10.3), diskdev-cmds | firmware-sbin
 Depends: snaputil | com.bingner.snappy
 Filename: debs/com.nan.snap_0.2.4_iphoneos-arm.deb
 Size: 2568
-MD5sum: 1e3028bf3146bd804ae7f09ff5129486
-SHA1: e923e9a20ab39b2b7b8fac59ad9861462d7b0199
-SHA256: 3043a8b55c3b40ad0684ac0ee3e4bf3c8e7cd631d36f7addcd24e1e352fbc21a
+MD5sum: 8fa82dfb8a75b7f7bd348a8eced48f2f
+SHA1: bed6e78ca87906b3d81ab0c126edeee5d9f38bd4
+SHA256: e01c3f07c43e8aaf3aa558ddf83921decaa836033ea0e53a8f76712bb8a6a7f1
 Section: Terminal_Support
 Description: 更方便的 APFS 快照管理脚本，仅 /
 Author: zhaonan
