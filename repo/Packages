@@ -1615,10 +1615,10 @@ Maintainer: zhaonan
 Pre-Depends: snaputil | com.bingner.snappy
 Depends: firmware (>=10.3), rsync, diskdev-cmds | firmware-sbin
 Filename: debs/com.nan.ft_0.3.5_iphoneos-arm.deb
-Size: 2304
-MD5sum: 6a364a8d761dc499974b6cd587686887
-SHA1: 8021f37671ab175e78e9631a69a7dcdb516b6fdf
-SHA256: 47acd37b9c29b6cf4707e6357d965c3510754b109f3d493586c620793546d961
+Size: 2300
+MD5sum: db5dbf7d0d3e50c3fe4502796958d31a
+SHA1: 6f7ab81c9c01950461e52047d82f26b3f195d926
+SHA256: fcc8a34d5270f1f0702c67e6623760d8a20f6e6cb023fbd735c8e6e1ec8838ec
 Section: Terminal_Support
 Description: 一个从设备首张快照提取字体的脚本
 Author: zhaonan <Invalidunit@icloud.com>
@@ -2569,16 +2569,16 @@ Author: level3tjg
 Name: SlimVolumeHUD
 
 Package: com.nan.snap
-Version: 0.2.4
+Version: 0.2.5
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: firmware (>= 10.3), diskdev-cmds | firmware-sbin
 Depends: snaputil | com.bingner.snappy
-Filename: debs/com.nan.snap_0.2.4_iphoneos-arm.deb
-Size: 2568
-MD5sum: 8fa82dfb8a75b7f7bd348a8eced48f2f
-SHA1: bed6e78ca87906b3d81ab0c126edeee5d9f38bd4
-SHA256: e01c3f07c43e8aaf3aa558ddf83921decaa836033ea0e53a8f76712bb8a6a7f1
+Filename: debs/com.nan.snap_0.2.5_iphoneos-arm.deb
+Size: 2572
+MD5sum: 49fae0f131efc90fdc472dda666c44a3
+SHA1: 93fb637f79bc2dc5924e93bfa4fe94c3231f1792
+SHA256: 7c0950cca3958442fba89a487cecaf5626499e827fe5c422037475b9596138c3
 Section: Terminal_Support
 Description: 更方便的 APFS 快照管理脚本，仅 /
 Author: zhaonan
