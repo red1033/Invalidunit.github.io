@@ -1609,16 +1609,16 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fonts/xind
 Sponsor: zhaonan
 
 Package: com.nan.ft
-Version: 0.3.4
+Version: 0.3.5
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: snaputil | com.bingner.snappy
 Depends: firmware (>=10.3), rsync, diskdev-cmds | firmware-sbin
-Filename: debs/com.nan.ft_0.3.4_iphoneos-arm.deb
-Size: 2288
-MD5sum: c75fd97efdf5c3fe47d47b589eda9120
-SHA1: 0f8f4fab70f2460be3e05c6d2ad5f7a8313bd132
-SHA256: 371aa6be17aaca8ecc2afadce90546921a571089f8007fb640d138919c23d85e
+Filename: debs/com.nan.ft_0.3.5_iphoneos-arm.deb
+Size: 2304
+MD5sum: 6a364a8d761dc499974b6cd587686887
+SHA1: 8021f37671ab175e78e9631a69a7dcdb516b6fdf
+SHA256: 47acd37b9c29b6cf4707e6357d965c3510754b109f3d493586c620793546d961
 Section: Terminal_Support
 Description: 一个从设备首张快照提取字体的脚本
 Author: zhaonan <Invalidunit@icloud.com>
