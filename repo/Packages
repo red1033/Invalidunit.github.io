@@ -2272,6 +2272,23 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/image
 Name: QQ Purification
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/js.json
 
+Package: com.nan.qqpurification
+Version: 1.2-4
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs/com.nan.qqpurification_1.2-4_iphoneos-arm.deb
+Size: 114320
+MD5sum: b7a622c8c7d4e832448495bc16a5f439
+SHA1: 648d7b9438e8501967b4066de0f7ead15daad6c5
+SHA256: 328aa95661b0fd41c5d99d5157e2bbed3e163daf3c06dbb78d27eab59af45a11
+Section: Tweaks
+Description: QQ 净化！还原聊天本质，给你一个干净的 QQ。
+Author: Netskao
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/image.png
+Name: QQ Purification
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/js.json
+
 Package: com.nan.resetfonts
 Version: 0.1.0
 Architecture: iphoneos-arm
