@@ -1,19 +1,3 @@
-Package: com.michael.dimentio
-Version: 0.6.2
-Architecture: iphoneos-arm
-Maintainer: Halo_Michael <yc992147156@me.com>
-Depends: firmware(>= 10.0)
-Filename: debs/com.michael.dimentio_0.6.2_iphoneos-arm.deb
-Size: 10728
-MD5sum: 4079552130a35d8645e1ee3eeaa1e8bf
-SHA1: 313e58d3e5338a137061acbb1fc5db77ea3af4a5
-SHA256: 5b78fc73ba0c5349e83ccc3723ef7f8d8dc63c4b876e79ea93d0d71a44193bff
-Section: System
-Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
-Author: 0x7ff
-Depiction: https://halo-michael.github.io/repo/info/dimentio
-Name: dimentio
-
 Package: com.nan.3dbadgeclear
 Version: 1.4.0
 Architecture: iphoneos-arm
@@ -998,6 +982,24 @@ Section: Tweaks
 Description: 在删除照片的时候,增加永久删除选项(Permanently)
 Author: Creatix
 Name: DeleteForever
+
+Package: com.nan.dimentio
+Version: 0.6.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware(>= 10.0)
+Conflicts: com.michael.dimentio
+Provides: com.michael.dimentio (=0.6.2)
+Filename: debs/com.nan.dimentio_0.6.2_iphoneos-arm.deb
+Size: 10788
+MD5sum: 48c20c487c8bec0c74bf71405d9efafb
+SHA1: ef964a349839d25293646a395e4823254eb339a9
+SHA256: 37b35b7a4f352c75b5670ddf9a9f93d8fa1f035ef09454cca18ee81c3bcb7727
+Section: Terminal_Support
+Description: PoC 工具，用于设置随机数而不触发 KPP/KTRR/PAC。(需要 tfp0)
+Author: 0x7ff
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
+Name: dimentio
 
 Package: com.nan.disablealerts
 Version: 2.4.1
