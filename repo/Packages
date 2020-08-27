@@ -2224,34 +2224,23 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_qq.png
 Name: QQ 绘图红包 Bypass
 
 Package: com.nan.qqanitirecallhook
-Version: 0.1-1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate
-Filename: debs/com.nan.qqanitirecallhook_0.1-1_iphoneos-arm.deb
-Size: 14464
-MD5sum: 32604d7ab66dcd6806cfaa5aaa6813b6
-SHA1: 560b541ab7ed93954d3a45232a38148776c0a7ff
-SHA256: bc44a2d851ff3bdab015e1c83f2f3efbb394af2a4aac9dbd8e1a09a71fe872ae
-Section: Tweaks
-Description: QQ防撤回带提示，仅此功能无开关，使用前请关闭其他同类QQ防撤回！
-Author: wjg (TouGBao)
-Name: QQanitiRecallHook
-
-Package: com.nan.qqanitirecallhook
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate
+Conflicts: tougbao.qqanitirecallhook
+Provides: tougbao.qqanitirecallhook (=1.2)
 Filename: debs/com.nan.qqanitirecallhook_1.2_iphoneos-arm.deb
-Size: 26796
-MD5sum: 3faa13d8500e61285a18a4b8cdf8dac6
-SHA1: 80094681a36378470e914c6d6e2e52a4c9fc90f9
-SHA256: 3d61caf6218a079277483b074e9489e0ff3e8d9e3976b3e3cce55d4b01b83982
+Size: 26900
+MD5sum: bea88ffe3a52bfe55fa7b56cba10a187
+SHA1: cf1c9953065d77d0b7f43c2cbb3ab1d589a83dc6
+SHA256: f0ce1ec3261c21766ea046ab3c3ea3b45c6a0c1935399727c9e9fe6c54ec518a
 Section: Tweaks
 Description: QQ 和 TIM 防撤回带提示，仅此功能无开关，使用前请关闭其他同类 QQ 防撤回！
-Author: wjg (TouGBao)
+Author: TouGBao
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_qq.png
 Name: QQanitiRecallHook
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqanitirecallhook/js.json
 
 Package: com.nan.qqprocrack
 Version: 2.3-3
