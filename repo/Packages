@@ -2196,13 +2196,13 @@ Conflicts: com.lnsspsd.qnawr
 Provides: com.lnsspsd.qnawr (=0.0.1)
 Filename: debs/com.nan.qnawr_0.0.1_iphoneos-arm.deb
 Size: 4548
-MD5sum: 81c21f609ebc5a252eed6db92df28e85
-SHA1: 765f1e6ec0dfdfc8dcfec678da88779d013279b9
-SHA256: 89021ace8ef48e9c15ada88078f5b916034176b0b95d9963ecb0f13dfee504a0
+MD5sum: 90a5ee25971e0f4de5f002d1cdc814a6
+SHA1: 15bb6d138700f8ce23fbd67d5b7eafe0dffc3880
+SHA256: 3d963e3d8407d252ef0abf3d0739e662a3102ccba5f410bd26ae7336a615d343
 Section: Tweaks
 Description: 禁用回复时自动 @ 回复的人
 Author: LNSSPsd
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qnawr/image_qq.png
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_qq.png
 Name: QQDoNotAtWhenReplying
 
 Package: com.nan.qpe
@@ -2214,13 +2214,13 @@ Conflicts: nop.lnsspsd.qpe
 Provides: nop.lnsspsd.qpe (=0.0.1)
 Filename: debs/com.nan.qpe_0.0.1_iphoneos-arm.deb
 Size: 3232
-MD5sum: 57fe37db9075b23c5f4a81959199578a
-SHA1: 68b30a92afe749dd1ba0d31c567ca7c103fcd9b5
-SHA256: e8ae7aa2fa35a05e4993aa4b97320e4191068570084ef3e0847ee872c4d88781
+MD5sum: 1191776722040a323b5514fe9d763b89
+SHA1: 09d52209fac9a3e5fee7f22b7accd61a4f7ac700
+SHA256: f1063abc2ef0e0570d0cd297f880e257d168d6f5af9896da6ed1eb83fa8dc7db
 Section: Tweaks
 Description: 始终显示绘图红包的 "开红包" 按钮
 Author: LNSSPsd
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qnawr/image_qq.png
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_qq.png
 Name: QQ 绘图红包 Bypass
 
 Package: com.nan.qqanitirecallhook
@@ -2346,14 +2346,14 @@ Depends: mobilesubstrate
 Conflicts: com.lnsspsd.qrrp
 Provides: com.lnsspsd.qrrp (=0.2.0)
 Filename: debs/com.nan.qrrp_0.2.0_iphoneos-arm.deb
-Size: 4772
-MD5sum: 50f0a1ad5013b43fa37fa9e97eb82736
-SHA1: a4d007e756e2b7723f136960b37d659c8be9ec86
-SHA256: 71703473ae8d6a286c52aaa98436d8a20fbe4b3a202124f825b4fdbd288f3d31
+Size: 4768
+MD5sum: 99b55de0eaa8393b0705022239f58f1a
+SHA1: 941fe330c2e9eafe88cf523c4e7fb32de3c9c7fd
+SHA256: f82759e4742a0983e770b46ff50f90bdbad386c02721d473418b670b35d32287
 Section: Tweaks
 Description: 为每条信息添加用于撤回的按钮按钮 "Force Recall"
 Author: Ruphane
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qnawr/image_qq.png
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_qq.png
 Name: QQForceRecall
 
 Package: com.nan.resetfonts
