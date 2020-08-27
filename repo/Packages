@@ -991,12 +991,12 @@ Depends: firmware(>= 10.0)
 Conflicts: com.michael.dimentio
 Provides: com.michael.dimentio (=0.6.2)
 Filename: debs/com.nan.dimentio_0.6.2_iphoneos-arm.deb
-Size: 10788
-MD5sum: 48c20c487c8bec0c74bf71405d9efafb
-SHA1: ef964a349839d25293646a395e4823254eb339a9
-SHA256: 37b35b7a4f352c75b5670ddf9a9f93d8fa1f035ef09454cca18ee81c3bcb7727
+Size: 10756
+MD5sum: 52c967bb529c8d2758e18a6981bda86a
+SHA1: fa747430dfb2b47e9499da88091472b5249f39bc
+SHA256: d124a7bbc1d51301489c1ffb51beec888eb6a42b33684f9a31ac7625ee581f20
 Section: Terminal_Support
-Description: PoC 工具，用于设置随机数而不触发 KPP/KTRR/PAC。(需要 tfp0)
+Description: 用于设置随机数的命令行工具
 Author: 0x7ff
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
 Name: dimentio
