@@ -1483,6 +1483,25 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.flexlist/image.png
 Name: FlexList
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.flexlist/js.json
 
+Package: com.nan.flexlist
+Version: 1.1-7
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, applist
+Conflicts: netskao.flexlist
+Provides: netskao.flexlist (=1.1-7)
+Filename: debs/com.nan.flexlist_1.1-7_iphoneos-arm.deb
+Size: 1315100
+MD5sum: ca865950c5e5df08c141ccd329f844a5
+SHA1: 57df5c249b559e76e9239ec99a6b43247ce5fdcc
+SHA256: 27d917b968e59cecd1d27b74c30a96faf8b595dc8f30eb0daf37db3c88300482
+Section: Tweaks
+Description: FlexList 是一款通过设置选择应用，调用 Flex 视图工具进行应用界面分析的工具，当前版本调用 Flex 最新版 4.1.1，支持 Swift 应用。
+Author: Netskao <netskao@gmail.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.flexlist/image.png
+Name: FlexList
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.flexlist/js.json
+
 Package: com.nan.fonts.zh.mamelon
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -2947,6 +2966,25 @@ SHA1: c568cdeb3cb05a2060fb306bfd52a4f82cfbad59
 SHA256: 657f52a8bd7298391a016837e30cb011757371b1c03ee23a5adc2fed456197b9
 Section: Tweaks
 Description: 微信净化！还原聊天本质，给你一个干净的微信。仅适用于 7.0.13 版本及以上
+Author: Netskao
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/image.png
+Name: WeChat Purification
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/js.json
+
+Package: com.nan.wechatpurification
+Version: 1.3-9
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: netskao.wechatpurification, com.nan.wechatpurification-121
+Provides: netskao.wechatpurification (=1.3-9), com.nan.wechatpurification-121
+Filename: debs/com.nan.wechatpurification_1.3-9_iphoneos-arm.deb
+Size: 160796
+MD5sum: b5a2ed91a4e569f2d733fc5b0ea8d74e
+SHA1: e345e93baeb8864b3ee2e6359206306cf8ef07ed
+SHA256: 359d145276672f8f9acb4dc6685ee2f94d352360f73a134d4a5199df005dde35
+Section: Tweaks
+Description: 微信净化！还原聊天本质，给你一个干净的微信。
 Author: Netskao
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/image.png
 Name: WeChat Purification
