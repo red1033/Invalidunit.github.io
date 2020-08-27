@@ -4,13 +4,12 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate
 Conflicts: com.isklikas.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
-Replaces: com.isklikas.3dbadgeclear
-Provides: com.isklikas.3dbadgeclear
+Provides: com.isklikas.3dbadgeclear (=1.4.0), com.twickd.john-sklikas.3dbadgeclear (=1.4.0)
 Filename: debs/com.nan.3dbadgeclear_1.4.0_iphoneos-arm.deb
-Size: 21892
-MD5sum: f43761a6ee6664887a9335457dc03838
-SHA1: 1675d38328b7f1464f6f27d9da532f303c0e5865
-SHA256: 81d4fdfc276e7db4de77b5b5d7b8e9dadb1d73055f97e6214ec065aac34e89b9
+Size: 21900
+MD5sum: e8f61d40fa3c0975ee0f6cd2df8d4243
+SHA1: 599a5612d5c8d3481b2100d10f25fc58c0938942
+SHA256: e4f957180af744f25e0872144293b4fc1dd44489611fca5765871f2af8b09bce
 Section: Tweaks
 Description: 使用长按或者 3D Touch 菜单来清理桌面应用角标
 Author: isklikas
@@ -1288,6 +1287,25 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
 Name: Filza File Manager
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js.json
 
+Package: com.nan.filza
+Version: 3.8.0-20
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza, com.nan.filza64bit
+Provides: com.tigisoftware.filza (=3.8.0-20)
+Filename: debs/com.nan.filza_3.8.0-20_iphoneos-arm.deb
+Size: 10198076
+MD5sum: ec7d85ac83f37066c720a14518c16af0
+SHA1: 7fa015aff37af363fe1087bc99e29267a7dbfb33
+SHA256: 2ed7a04feacc75455b88af8b428736bc8eeef29ce1837b0d6c5a1bf3b8506e31
+Section: Utilities
+Description: iPhone, iPad, iPod Touch 的文件管理器
+Author: TIGI Software
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
+Name: Filza File Manager
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js.json
+
 Package: com.nan.filza64bit
 Version: 3.7.3-16
 Architecture: iphoneos-arm
@@ -1437,6 +1455,25 @@ Size: 7188308
 MD5sum: db752d7763b59ff0d71a0ab5f5fe1014
 SHA1: 2a3e412be4b7235931caaa3a4b1817163f274593
 SHA256: 2125882c79fdaf76b12d33276add2e8a1d1f7ac51419f0eaaa91e607ee5ee062
+Section: Utilities
+Description: iPhone, iPad, iPod Touch 的文件管理器
+Author: TIGI Software
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
+Name: Filza File Manager 64-bit
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js_64bit.json
+
+Package: com.nan.filza64bit
+Version: 3.8.0-20
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza64bit, com.nan.filza
+Provides: com.tigisoftware.filza64bit (=3.8.0-20)
+Filename: debs/com.nan.filza64bit_3.8.0-20_iphoneos-arm.deb
+Size: 6684224
+MD5sum: 7294b8e82dd4d41151828a42f965dcd5
+SHA1: b3f4e09e4c2977093432efa7fc5adb56c22e6788
+SHA256: 7ea35fa17510de6857b034a672e3b8de6c0cc48e3de98599cd4b41886c850385
 Section: Utilities
 Description: iPhone, iPad, iPod Touch 的文件管理器
 Author: TIGI Software

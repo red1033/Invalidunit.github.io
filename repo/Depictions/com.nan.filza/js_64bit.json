@@ -71,17 +71,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.7.7-16",
+                    "text": "3.8.0-20",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "8.0 - 13.5",
+                    "text": "8.0 - 13.7",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 07 月 14 日",
+                    "text": "2020 年 08 月 27 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -108,7 +108,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "3.7.7-16",
+                    "title": "3.8.0-20",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
