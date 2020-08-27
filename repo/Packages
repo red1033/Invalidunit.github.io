@@ -1,3 +1,19 @@
+Package: com.michael.dimentio
+Version: 0.6.2
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: firmware(>= 10.0)
+Filename: debs/com.michael.dimentio_0.6.2_iphoneos-arm.deb
+Size: 10728
+MD5sum: 4079552130a35d8645e1ee3eeaa1e8bf
+SHA1: 313e58d3e5338a137061acbb1fc5db77ea3af4a5
+SHA256: 5b78fc73ba0c5349e83ccc3723ef7f8d8dc63c4b876e79ea93d0d71a44193bff
+Section: System
+Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
+Author: 0x7ff
+Depiction: https://halo-michael.github.io/repo/info/dimentio
+Name: dimentio
+
 Package: com.nan.3dbadgeclear
 Version: 1.4.0
 Architecture: iphoneos-arm
@@ -115,18 +131,21 @@ Name: Alipay Steps
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.alipaysteps/js.json
 
 Package: com.nan.apfs-deletefs
-Version: 0.2.0
+Version: 0.2.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: coreutils, firmware (>= 10.3)
-Filename: debs/com.nan.apfs-deletefs_0.2.0_iphoneos-arm.deb
-Size: 4444
-MD5sum: 8bf684307057acabbac6a1c92ae2463c
-SHA1: 2b2f991a976d661bebdace46876c32aeb3415e33
-SHA256: 4b758dbdb5efe2b8b63eaaf52e773d6968c50c52255ce0ae855fe99b3cec3e9e
+Conflicts: com.michael.apfs-deletefs
+Provides: com.michael.apfs-deletefs (=0.2.1)
+Filename: debs/com.nan.apfs-deletefs_0.2.1_iphoneos-arm.deb
+Size: 4516
+MD5sum: 565d2a200db2de77eea12422f074c01c
+SHA1: 8ed4c348f694641b5723bc5572ca990f0ff18aa6
+SHA256: 3395a92fecbc83c362c10316b29991b25b0ce64380991226d6f8cecd381790e6
 Section: Terminal_Support
 Description: 删除 apfs 分区的命令行工具
 Author: halo_michael <yc992147156@me.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
 Name: APFS Deletefs
 Sponsor: halo_michael <yc992147156@me.com>
 
@@ -979,23 +998,6 @@ Section: Tweaks
 Description: 在删除照片的时候,增加永久删除选项(Permanently)
 Author: Creatix
 Name: DeleteForever
-
-Package: com.nan.dimentio
-Version: 0.5.4
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Conflicts: com.michael.dimentio
-Provides: com.michael.dimentio
-Filename: debs/com.nan.dimentio_0.5.4_iphoneos-arm.deb
-Size: 7984
-MD5sum: 4539ac6beb6daf80b25670a17225ad24
-SHA1: 80ff60a29c6cf2f3d7632565fe598d358500d231
-SHA256: 3857419ed473627c13b31c113f9dd1f0f899cc712c79a950286a303be7f4adc6
-Section: Terminal_Support
-Description: PoC 工具，用于设置随机数而不触发 KPP/KTRR/PAC。(需要 tfp0)
-Tag: role::hacker
-Author: 0x7ff
-Name: dimentio
 
 Package: com.nan.disablealerts
 Version: 2.4.1
