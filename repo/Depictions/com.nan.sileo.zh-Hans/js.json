@@ -34,18 +34,6 @@
                     ]
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "如果安装了 Sileo (Beta)",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "则安装时会同时写入 Sileo (Beta)",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
                     "class": "DepictionSpacerView",
                     "spacing": 16
                 },
@@ -73,17 +61,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.2.4",
+                    "text": "0.2.6",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.8.7",
+                    "text": "2.0.0",
                     "title": "支持版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 08 月 02 日",
+                    "text": "2020 年 08 月 27 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -108,6 +96,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "0.2.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "适配 2.0.0 同时修改安装方式",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "0.2.5",

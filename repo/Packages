@@ -2484,32 +2484,15 @@ Author: CydiaGeek
 Name: ShyNotifications
 
 Package: com.nan.sileo.zh-Hans
-Version: 0.2.4
+Version: 0.2.6
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: org.coolstar.sileo
-Filename: debs/com.nan.sileo.zh-Hans_0.2.4_iphoneos-arm.deb
-Size: 6288
-MD5sum: e5c827ca38bdef4869bdf1a6e8c96448
-SHA1: f8bd0b1e5da218917f27f4c732fc32978685d9ec
-SHA256: 8882f99a52f4d7ec9b7894208c996eabbe5eb29c2137769fef5a2da085deec23
-Section: 汉化
-Description: 为 Sileo 提供简体中文
-Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/image.png
-Name: zh-Hans for Sileo
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/js.json
-
-Package: com.nan.sileo.zh-Hans
-Version: 0.2.5
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: org.coolstar.sileo
-Filename: debs/com.nan.sileo.zh-Hans_0.2.5_iphoneos-arm.deb
-Size: 6532
-MD5sum: 0bdc962c10919e486c4de395cc4c1648
-SHA1: 1a60ec1f96493101e18c4db7e7562bbe2e459177
-SHA256: b284de920120a73ab2e87da02e0e56edca9d50a21f7bd37ee74cf010d768e477
+Filename: debs/com.nan.sileo.zh-Hans_0.2.6_iphoneos-arm.deb
+Size: 6768
+MD5sum: 30981c39662000177037539f609eb6d7
+SHA1: f21dd7ac2cfe999bf8f4a2fcf14d4ee2e8df684c
+SHA256: fa686e4c874bf0dc61380b76dd30cc1471556a25557c74ed4bab81718d5692c9
 Section: 汉化
 Description: 为 Sileo 提供简体中文
 Author: zhaonan
