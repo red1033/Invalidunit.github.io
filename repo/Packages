@@ -2425,10 +2425,10 @@ Depends: mobilesubstrate, ws.hbang.common, preferenceloader, com.opa334.ccsuppor
 Conflicts: com.megadev.sentinel
 Provides: com.megadev.sentinel (=1.3.0)
 Filename: debs/com.nan.sentinel_1.3.1_iphoneos-arm.deb
-Size: 76576
-MD5sum: bb04cfc4f92d00dba6b1f41a23070293
-SHA1: a6fe55e9e02eec1f16e4a697fcdb9f7efc0dc205
-SHA256: 646826fa425add29b2c3da2ab1b0a176b04f9b160b4051e5f106599e0f1a1d5e
+Size: 77000
+MD5sum: 52f2b6e50067a51a9e19f8026a4519a0
+SHA1: 121d01a6ecceb9a4d2277b1b3915b239c726af71
+SHA256: 5a20c6f1e5b3029d76250f4ca579cf4ba313899b49f73a22e35d273769efd9ff
 Section: Tweaks
 Description: 在电量过低时休眠，防止丢失越狱环境
 Author: MegaDev
