@@ -245,50 +245,6 @@ Name: AppStore++
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
 
 Package: com.nan.appsyncunified
-Version: 76.0
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 5.0), firmware (<= 13.5), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
-Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute, net.angelxwind.appsyncunified
-Replaces: us.hackulo.appsync50
-Provides: appsync, net.angelxwind.appsyncunified
-Filename: debs/com.nan.appsyncunified_76.0_iphoneos-arm.deb
-Size: 26564
-MD5sum: f0d6faa099dd4b2ae077409675aefd20
-SHA1: 6378ebbd67769810dfad717b48660ebe5b1724c8
-SHA256: 0843935329801c176ab00195cdf1b891a71d417bf6af26d4fdfb086f65675727
-Section: Tweaks
-Homepage: https://cydia.akemi.ai/
-Description: 允许安装未签名的 iOS 应用
-Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
-Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
-Name: AppSync Unified
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appsyncunified/js.json
-
-Package: com.nan.appsyncunified
-Version: 78.0
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 5.0), firmware (<= 13.5.5), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
-Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute, net.angelxwind.appsyncunified
-Replaces: us.hackulo.appsync50
-Provides: appsync, net.angelxwind.appsyncunified (=78.0)
-Filename: debs/com.nan.appsyncunified_78.0_iphoneos-arm.deb
-Size: 26564
-MD5sum: 91f590798272ab655834d1617b06741e
-SHA1: ca652371350f243db33c9c03dc8929f86c09a412
-SHA256: 96469fffa2053cb14845c288b7b4451f1d272a4e3e5ce9034c9a338d280c4327
-Section: Tweaks
-Homepage: https://cydia.akemi.ai/
-Description: 允许安装未签名的 iOS 应用
-Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
-Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified\
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
-Name: AppSync Unified
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appsyncunified/js.json
-
-Package: com.nan.appsyncunified
 Version: 80.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
@@ -459,12 +415,12 @@ Package: com.nan.bolders
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: mobilesubstrate, firmware (>= 9.0), com.chpwn.iconsupport
+Depends: mobilesubstrate, com.chpwn.iconsupport, firmware (>= 9.0), firmware (<< 13.0)
 Filename: debs/com.nan.bolders_1.0.1_iphoneos-arm.deb
 Size: 13984
-MD5sum: f4e19b2774235d15d4b5e64c8cca0d8a
-SHA1: 813919dae467ba0ea9bad82eb1bd6bb52b9cf07a
-SHA256: 5ada47dbceeb45bfe28414a1a9ee1b7c13bb8c1addd36c0f00bace88f472baf0
+MD5sum: 2bbe166264fae092c90f8cac4e1e4dc6
+SHA1: 88602981a395eaa70cb55cd72d115973bbcdad34
+SHA256: e161ba8559c929e8913c5c9f1e7c06eb5466ec03229341fd17503e77dda90457
 Section: Tweaks
 Description: 全屏桌面文件夹,全屏毛玻璃特效
 Author: candoizo
@@ -473,32 +429,16 @@ Name: Bolders
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bolders/js.json
 
 Package: com.nan.bootlogo.checkra1n
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Filename: debs/com.nan.bootlogo.checkra1n_0.1.0_iphoneos-arm.deb
-Size: 140680
-MD5sum: 1089a2ac1b7e072b7448000342b67fc6
-SHA1: 7c83a329a8cae293df303783a010d96d9c242322
-SHA256: 04febf86d7416180f1cae067402be9974fff80fdd3707fdb66cd80a4effa39c4
-Section: Themes (Bootlogos)
-Description: 自定义启动 Logo 为 checkra1n 微标, 感谢 @Flipp3rrr 。
-Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.bootlogo.checkra1n/image.png
-Name: checkra1n-Bootlogo
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bootlogo.checkra1n/js.json
-
-Package: com.nan.bootlogo.checkra1n
 Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Filename: debs/com.nan.bootlogo.checkra1n_0.1.1_iphoneos-arm.deb
-Size: 274704
-MD5sum: 6fe9f208f652a3301777b8f626f6e102
-SHA1: 5d9463c8abfb462c4708590080a5e0f380856a2c
-SHA256: 195631e05a6104d70abe74e6dd490576ba8050380a638c2f39c41bed1faca694
+Size: 274708
+MD5sum: fc08b9379bf25232efde89e4c8f7a7c0
+SHA1: 1f10ce77f20d7a84d9aea8abbc958bad39ad5de0
+SHA256: 951a2318c04288e8aea68a5d0aa487d238010f0dbc70110dcc527af45c1bbe07
 Section: Themes (Bootlogos)
-Description: 自定义启动 Logo 为 checkra1n 微标, 感谢 @Flipp3rrr 。
+Description: 将启动 Logo 替换为 checkra1n 微标。
 Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.bootlogo.checkra1n/image.png
 Name: checkra1n-Bootlogo
@@ -2383,10 +2323,10 @@ Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Filename: debs/com.nan.respring.xr_0.1.1_iphoneos-arm.deb
-Size: 503520
-MD5sum: 6494768c56becdb9fd8cc4bd70bd6aad
-SHA1: 8e31e144673055d13411f901ecea3fad2bc36e80
-SHA256: 2adc8afdecaff4b855ac769bbe5a81fba25e4636b2d7efb360ab6e7e8a88023e
+Size: 503612
+MD5sum: f3950c949e7f9104f9bcba938f73fbe4
+SHA1: 5cc253af0020abcc02f40d347185909742b27aae
+SHA256: dc8b6744ec7c542f34df13113e92d9144a566b6a5b6ba7b5053a7a5bc589e59a
 Section: Themes (Respring)
 Description: 漂亮的 XR 注销动画
 Author: zhaonan
