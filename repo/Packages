@@ -1961,6 +1961,21 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: MCPatch
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.mcpatch/js.json
 
+Package: com.nan.mobileicons3x
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Filename: debs/com.nan.mobileicons3x_0.1.0_iphoneos-arm.deb
+Size: 58556
+MD5sum: fe1c31e7c63ce53e642e08dc8e2e2ca5
+SHA1: 7f7cd6245031be3cb924b8389cb1451827fe41ae
+SHA256: b69e3d9af8e593a35d069d73a19a45c35cf0f546f6ceff55d4395be697891ee9
+Section: System
+Description: 为没有 3x 蒙板的设备补全
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fix.png
+Name: MobileIcons3x
+
 Package: com.nan.nodndbanner
 Version: 0.0.1
 Architecture: iphoneos-arm
