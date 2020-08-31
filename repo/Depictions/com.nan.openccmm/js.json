@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://Invalidunit.github.io/repo/Depictions/com.nan.openccmm/top.png",
-    "tintColor": "#FF4500",
+    "tintColor": "#FF4455",
     "minVersion": "0.3",
     "tabs": [
         {

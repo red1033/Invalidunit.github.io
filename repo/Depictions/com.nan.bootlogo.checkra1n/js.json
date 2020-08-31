@@ -30,12 +30,6 @@
                     ]
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "感谢 @Flipp3rrr 的图标",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
                     "class": "DepictionSpacerView",
                     "spacing": 16
                 },
