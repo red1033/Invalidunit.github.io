@@ -141,12 +141,13 @@ Depends: coreutils, firmware (>= 10.3)
 Conflicts: com.michael.apfs-deletefs
 Provides: com.michael.apfs-deletefs (=0.2.1)
 Filename: debs/com.nan.apfs-deletefs_0.2.1_iphoneos-arm.deb
-Size: 4516
-MD5sum: 565d2a200db2de77eea12422f074c01c
-SHA1: 8ed4c348f694641b5723bc5572ca990f0ff18aa6
-SHA256: 3395a92fecbc83c362c10316b29991b25b0ce64380991226d6f8cecd381790e6
+Size: 4532
+MD5sum: 70f67e1e8ba634c2c95e75172e37b57e
+SHA1: 676e2505964adc00939de67691557674084d7bb5
+SHA256: a0274d536c98fd97453bb58c109b05eb75c584f36d01d55ebb6862c20f4bb994
 Section: Terminal_Support
 Description: 删除 apfs 分区的命令行工具
+Tag: role::hacker
 Author: halo_michael <yc992147156@me.com>
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
 Name: APFS Deletefs
