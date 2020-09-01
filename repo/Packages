@@ -284,17 +284,17 @@ Name: AppSync Unified
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appsyncunified/js.json
 
 Package: com.nan.awemepurification
-Version: 1.6-4
+Version: 1.6-5
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate
 Conflicts: netskao.awemehack, netskao.awemepurification
-Provides: netskao.awemepurification (=1.6-4)
-Filename: debs/com.nan.awemepurification_1.6-4_iphoneos-arm.deb
-Size: 119372
-MD5sum: a7c3413fe679b9e88924f45f2509be97
-SHA1: 0eaa41c0290f1b4d986d197741b25b56cc7d0219
-SHA256: 7d9e8d2044554c66759579c4ad0792dace387f71c3e6620aecc6724404f69791
+Provides: netskao.awemepurification (=1.6-5)
+Filename: debs/com.nan.awemepurification_1.6-5_iphoneos-arm.deb
+Size: 119424
+MD5sum: cf9acacdce5242b35c0162759418fae4
+SHA1: caf42a2bd16759ccd44a6e9d87c0c3d6ef5c9467
+SHA256: aeef6fa69468c5c1a2fcf1288efe2dd2a760808499e07db40356ba06fd54e0cc
 Section: Tweaks
 Description: 抖音净化！
 Author: Netskao <netskao@gmail.com>
@@ -2217,57 +2217,6 @@ Name: QQ Pro Crack
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqprocrack/js.json
 
 Package: com.nan.qqpurification
-Version: 1.1-5
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: debs/com.nan.qqpurification_1.1-5_iphoneos-arm.deb
-Size: 161908
-MD5sum: befc4c64ab3b8b8822d956e5d780308a
-SHA1: 1b71ce5d8f308245a65d2ac73d59ff64839cfe28
-SHA256: 6e425232d72f9a2c7cf712e6692bb801a65dc8135b24117d4ae78d225afcc64a
-Section: Tweaks
-Description: QQ 净化！还原聊天本质，给你一个干净的 QQ。
-Author: Netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/image.png
-Name: QQ Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/js.json
-
-Package: com.nan.qqpurification
-Version: 1.1-8
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: debs/com.nan.qqpurification_1.1-8_iphoneos-arm.deb
-Size: 131880
-MD5sum: f9deaca215cbe49a019b65c0d1aba6db
-SHA1: 05fa4979e0aba0ecdf3836422912851e69b08967
-SHA256: 7137980253f120497fb8a605659729ee8af0812a666024b147f1a0eac56c82ba
-Section: Tweaks
-Description: QQ 净化！还原聊天本质，给你一个干净的 QQ。
-Author: Netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/image.png
-Name: QQ Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/js.json
-
-Package: com.nan.qqpurification
-Version: 1.2-4
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: debs/com.nan.qqpurification_1.2-4_iphoneos-arm.deb
-Size: 114320
-MD5sum: b7a622c8c7d4e832448495bc16a5f439
-SHA1: 648d7b9438e8501967b4066de0f7ead15daad6c5
-SHA256: 328aa95661b0fd41c5d99d5157e2bbed3e163daf3c06dbb78d27eab59af45a11
-Section: Tweaks
-Description: QQ 净化！还原聊天本质，给你一个干净的 QQ。
-Author: Netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/image.png
-Name: QQ Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/js.json
-
-Package: com.nan.qqpurification
 Version: 1.2-5
 Architecture: iphoneos-arm
 Maintainer: zhaonan
@@ -2277,6 +2226,25 @@ Size: 121120
 MD5sum: 5f247848b502dd9d5542dd5daf336ace
 SHA1: 6de5064fa5271e17fb991d6e4788018841ee0f1f
 SHA256: 639ae37722b6212a2ae36a5a5ddf81d9691f78c570f43089e2353ea892c2df04
+Section: Tweaks
+Description: QQ 净化！还原聊天本质，给你一个干净的 QQ。
+Author: Netskao
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/image.png
+Name: QQ Purification
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/js.json
+
+Package: com.nan.qqpurification
+Version: 1.2-8
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: netskao.qqpurification
+Provides: netskao.qqpurification (=1.2-8)
+Filename: debs/com.nan.qqpurification_1.2-8_iphoneos-arm.deb
+Size: 125428
+MD5sum: a65b1e1a27848be3e525ec92de2feb4c
+SHA1: 5668ea7355864fd03f309439cffa22dd2e824285
+SHA256: 1ddb455c934ddddb1876eee290defc271154a30fb5303b4a2772f88f08f36cb2
 Section: Tweaks
 Description: QQ 净化！还原聊天本质，给你一个干净的 QQ。
 Author: Netskao
