@@ -1360,48 +1360,6 @@ Name: Filza File Manager 64-bit
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js_64bit.json
 
 Package: com.nan.flexlist
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Conflicts: netskao.flexlist
-Provides: netskao.flexlist (=1.1-1)
-Filename: debs/com.nan.flexlist_1.1-1_iphoneos-arm.deb
-Size: 871176
-MD5sum: 68ef985231518bfd1d55b00e192d5dbf
-SHA1: d0615cfb6ddc67db87f2dc1a192a5301acce26b5
-SHA256: ee7597d1afdd626b0d240f23d6ae9669904addfb76a1caf8fa97d10ea0ea8cf7
-Section: Tweaks
-Description: FlexList 是一款通过设置选择应用，调用 Flex 视图工具进行应用界面分析的工具，当前版本调用 Flex 最新版 4.1.1，支持 Swift 应用。
-Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
-Author: Netskao <netskao@gmail.com>
-Dev: netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.flexlist/image.png
-Name: FlexList
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.flexlist/js.json
-
-Package: com.nan.flexlist
-Version: 1.1-2
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Conflicts: netskao.flexlist
-Provides: netskao.flexlist (=1.1-1)
-Filename: debs/com.nan.flexlist_1.1-2_iphoneos-arm.deb
-Size: 870216
-MD5sum: 3c5e874bbf0d2583a70211cfb2b70315
-SHA1: 56d4fea0a7bec6defb3581f4a829bd64aa9839c5
-SHA256: 25c4c48fb073b13e953eb47141735a647ec7988842190c99159b0f8eb7d6f2f6
-Section: Tweaks
-Description: FlexList 是一款通过设置选择应用，调用 Flex 视图工具进行应用界面分析的工具，当前版本调用 Flex 最新版 4.1.1，支持 Swift 应用。
-Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
-Author: Netskao <netskao@gmail.com>
-Dev: netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.flexlist/image.png
-Name: FlexList
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.flexlist/js.json
-
-Package: com.nan.flexlist
 Version: 1.1-7
 Architecture: iphoneos-arm
 Maintainer: zhaonan
@@ -1413,6 +1371,25 @@ Size: 1315100
 MD5sum: ca865950c5e5df08c141ccd329f844a5
 SHA1: 57df5c249b559e76e9239ec99a6b43247ce5fdcc
 SHA256: 27d917b968e59cecd1d27b74c30a96faf8b595dc8f30eb0daf37db3c88300482
+Section: Tweaks
+Description: FlexList 是一款通过设置选择应用，调用 Flex 视图工具进行应用界面分析的工具，当前版本调用 Flex 最新版 4.1.1，支持 Swift 应用。
+Author: Netskao <netskao@gmail.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.flexlist/image.png
+Name: FlexList
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.flexlist/js.json
+
+Package: com.nan.flexlist
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, applist
+Conflicts: netskao.flexlist
+Provides: netskao.flexlist (=1.2-1)
+Filename: debs/com.nan.flexlist_1.2-1_iphoneos-arm.deb
+Size: 1300576
+MD5sum: 87b3fb5f327652d788717ade94344c70
+SHA1: e3b24472070a13913fa671be55db50437c691a8b
+SHA256: fa0283e545f5a4e70fa36f3d075f151ce2bec1dc3cb8ed1296208a908dc492af
 Section: Tweaks
 Description: FlexList 是一款通过设置选择应用，调用 Flex 视图工具进行应用界面分析的工具，当前版本调用 Flex 最新版 4.1.1，支持 Swift 应用。
 Author: Netskao <netskao@gmail.com>
@@ -2217,23 +2194,6 @@ Name: QQ Pro Crack
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqprocrack/js.json
 
 Package: com.nan.qqpurification
-Version: 1.2-5
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: debs/com.nan.qqpurification_1.2-5_iphoneos-arm.deb
-Size: 121120
-MD5sum: 5f247848b502dd9d5542dd5daf336ace
-SHA1: 6de5064fa5271e17fb991d6e4788018841ee0f1f
-SHA256: 639ae37722b6212a2ae36a5a5ddf81d9691f78c570f43089e2353ea892c2df04
-Section: Tweaks
-Description: QQ 净化！还原聊天本质，给你一个干净的 QQ。
-Author: Netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/image.png
-Name: QQ Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/js.json
-
-Package: com.nan.qqpurification
 Version: 1.2-8
 Architecture: iphoneos-arm
 Maintainer: zhaonan
@@ -2245,6 +2205,25 @@ Size: 125428
 MD5sum: a65b1e1a27848be3e525ec92de2feb4c
 SHA1: 5668ea7355864fd03f309439cffa22dd2e824285
 SHA256: 1ddb455c934ddddb1876eee290defc271154a30fb5303b4a2772f88f08f36cb2
+Section: Tweaks
+Description: QQ 净化！还原聊天本质，给你一个干净的 QQ。
+Author: Netskao
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/image.png
+Name: QQ Purification
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/js.json
+
+Package: com.nan.qqpurification
+Version: 1.2-9
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: netskao.qqpurification
+Provides: netskao.qqpurification (=1.2-9)
+Filename: debs/com.nan.qqpurification_1.2-9_iphoneos-arm.deb
+Size: 127100
+MD5sum: fa82a78ee69a4b62b8e6ea25f3cd3f24
+SHA1: e36f5f964a8234f3af7cc5ecfc98fe661da29251
+SHA256: 7de0c39247beaf119d548b1b75a0d78d6911764c3e21a01c63454fbc610d5136
 Section: Tweaks
 Description: QQ 净化！还原聊天本质，给你一个干净的 QQ。
 Author: Netskao
