@@ -2444,16 +2444,16 @@ Author: CydiaGeek
 Name: ShyNotifications
 
 Package: com.nan.sileo.zh-Hans
-Version: 0.2.6-2
+Version: 0.2.7
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: org.coolstar.sileo
 Replaces: org.coolstar.sileo
-Filename: debs/com.nan.sileo.zh-Hans_0.2.6-2_iphoneos-arm.deb
-Size: 6784
-MD5sum: 0fbb98371fa5813bbe22d5fbb27a51e1
-SHA1: 88919fffe1c67f05ade2bd870a000d64d7c5323d
-SHA256: d8a6ad1c846272b7e656da57f31bd7ed949d9fdc534db262c9325c0e6a161428
+Filename: debs/com.nan.sileo.zh-Hans_0.2.7_iphoneos-arm.deb
+Size: 6848
+MD5sum: 44dadc1368335da658301d0ed0745544
+SHA1: 2c89800b69ba730a24aacc249abd4dbe5f68cb5c
+SHA256: 064fbf19ea42f35cdab4b780aa492ae55d143fcf8f365905804c32556422f31e
 Section: 汉化
 Description: 为 Sileo 提供简体中文
 Author: zhaonan
