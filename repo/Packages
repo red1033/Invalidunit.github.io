@@ -1360,25 +1360,6 @@ Name: Filza File Manager 64-bit
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js_64bit.json
 
 Package: com.nan.flexlist
-Version: 1.1-7
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, applist
-Conflicts: netskao.flexlist
-Provides: netskao.flexlist (=1.1-7)
-Filename: debs/com.nan.flexlist_1.1-7_iphoneos-arm.deb
-Size: 1315100
-MD5sum: ca865950c5e5df08c141ccd329f844a5
-SHA1: 57df5c249b559e76e9239ec99a6b43247ce5fdcc
-SHA256: 27d917b968e59cecd1d27b74c30a96faf8b595dc8f30eb0daf37db3c88300482
-Section: Tweaks
-Description: FlexList 是一款通过设置选择应用，调用 Flex 视图工具进行应用界面分析的工具，当前版本调用 Flex 最新版 4.1.1，支持 Swift 应用。
-Author: Netskao <netskao@gmail.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.flexlist/image.png
-Name: FlexList
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.flexlist/js.json
-
-Package: com.nan.flexlist
 Version: 1.2-1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
@@ -1390,6 +1371,25 @@ Size: 1300576
 MD5sum: 87b3fb5f327652d788717ade94344c70
 SHA1: e3b24472070a13913fa671be55db50437c691a8b
 SHA256: fa0283e545f5a4e70fa36f3d075f151ce2bec1dc3cb8ed1296208a908dc492af
+Section: Tweaks
+Description: FlexList 是一款通过设置选择应用，调用 Flex 视图工具进行应用界面分析的工具，当前版本调用 Flex 最新版 4.1.1，支持 Swift 应用。
+Author: Netskao <netskao@gmail.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.flexlist/image.png
+Name: FlexList
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.flexlist/js.json
+
+Package: com.nan.flexlist
+Version: 1.2-3
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, applist
+Conflicts: netskao.flexlist
+Provides: netskao.flexlist (=1.2-3)
+Filename: debs/com.nan.flexlist_1.2-3_iphoneos-arm.deb
+Size: 1290588
+MD5sum: 4377cdb3485c18c53f8c3ea0655d3264
+SHA1: f64dfd2532fc85434c82ec70ef336feb89a14310
+SHA256: 1b3068896da089ca89e974d79f46225cd154e0596c418a9cb95c9a4ec91ee34e
 Section: Tweaks
 Description: FlexList 是一款通过设置选择应用，调用 Flex 视图工具进行应用界面分析的工具，当前版本调用 Flex 最新版 4.1.1，支持 Swift 应用。
 Author: Netskao <netskao@gmail.com>
@@ -1698,25 +1698,6 @@ Author: iBreak
 Name: iOS Helper 12
 
 Package: com.nan.kalm
-Version: 1.2.2
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum, hi.my.name.is.ubik.kalm
-Filename: debs/com.nan.kalm_1.2.2_iphoneos-arm.deb
-Size: 124912
-MD5sum: f3db09be38fbeafeab0749914e417d76
-SHA1: db4573e9a586d0c0e4fb761342cf4e812f670e3a
-SHA256: 0862596047411727d191e72b13dc21ef4e5b7e9ef712f2f6e5b65eb4a24c5373
-Section: Tweaks
-Description: 一个漂亮的锁屏插件
-Author: ubik <cydia@ubikstyl.es>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/image.png
-Name: Kalm
-Procides: hi.my.name.is.ubik.kalm
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js.json
-
-Package: com.nan.kalm
 Version: 1.3.4
 Architecture: iphoneos-arm
 Maintainer: zhaonan
@@ -1734,24 +1715,6 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/image.png
 Name: Kalm
 Procides: hi.my.name.is.ubik.kalm
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js.json
-
-Package: com.nan.kalm.zh-Hans
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: hi.my.name.is.ubik.kalm
-Conflicts: com.nan.kalm
-Filename: debs/com.nan.kalm.zh-Hans_0.1.1_iphoneos-arm.deb
-Size: 3160
-MD5sum: 4572a23f2a7e10a4f0d16a424b632941
-SHA1: 70d17bd442ea8bbc555038136708e1bfdd89b94f
-SHA256: 880a442965e63ea5edd3fc36f062fd99c4ebb11dc440d4342f02f695833092de
-Section: 汉化
-Description: 为 Kalm 提供简体中文
-Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/image.png
-Name: zh-Hans for Kalm
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js_zh_Hans.json
 
 Package: com.nan.kalm.zh-Hans
 Version: 0.1.2
@@ -1893,6 +1856,25 @@ Description: 为没有 3x 蒙板的设备补全
 Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fix.png
 Name: MobileIcons3x
+
+Package: com.nan.networkmanage
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 12.0), preferenceloader, applist
+Conflicts: netskao.networkmanage
+Provides: netskao.networkmanage (=1.1-1)
+Filename: debs/com.nan.networkmanage_1.1-1_iphoneos-arm.deb
+Size: 33472
+MD5sum: 4027b0980d6936759c9db0ffe926f3a1
+SHA1: 2ab4cd9d1eecee32f4d9969b3a6073fc786b53d4
+SHA256: a8f6790793ba45246d0cfef69b9a39f18a2ad5b8f7f8f01de448ab03aa237e81
+Section: Tweaks
+Description: 管理蜂窝和WIFI联网权限
+Author: Netskao <netskao@gmail.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.networkmanage/image.png
+Name: NetWorkManage
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.networkmanage/js.json
 
 Package: com.nan.nodndbanner
 Version: 0.0.1
@@ -2530,18 +2512,18 @@ Author: level3tjg
 Name: SlimVolumeHUD
 
 Package: com.nan.snap
-Version: 0.2.6
+Version: 0.2.7
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: firmware (>= 10.3), diskdev-cmds | firmware-sbin
-Depends: snaputil | com.bingner.snappy
-Filename: debs/com.nan.snap_0.2.6_iphoneos-arm.deb
-Size: 2592
-MD5sum: e8fc4256b0002754974b65d69bee7c9e
-SHA1: f0f06a130d3e794dde3cebf3a12a680a457e3aa4
-SHA256: dac1b174bd89c053e3e997b177961a85eb3f67d696869f4084c83651512e579e
+Depends: com.nan.apfs-snapshot | snaputil | com.bingner.snappy
+Filename: debs/com.nan.snap_0.2.7_iphoneos-arm.deb
+Size: 2644
+MD5sum: c0c672fd43f20b691affd7d1b8f52f25
+SHA1: 9dbc1c5891725857cb1703784ff9fc91243a4268
+SHA256: 1c1b828e3e2e5ad5a178431cfdc90058713020950373662c4d0601aba25bf9b7
 Section: Terminal_Support
-Description: 更方便的 APFS 快照管理脚本，仅 /
+Description: 更便捷的快照管理
 Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
 Name: snap
