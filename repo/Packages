@@ -2512,16 +2512,16 @@ Author: level3tjg
 Name: SlimVolumeHUD
 
 Package: com.nan.snap
-Version: 0.2.8
+Version: 0.2.9
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: firmware (>= 10.3), diskdev-cmds | firmware-sbin
 Depends: com.nan.apfs-snapshot | snaputil | com.bingner.snappy
-Filename: debs/com.nan.snap_0.2.8_iphoneos-arm.deb
-Size: 2912
-MD5sum: 54cc18638701d1373a80b6288a34217e
-SHA1: bff88821d144badd3b0d4781c360b2edbd18985e
-SHA256: 53b5fb9dfd1c842a743adab3e77d409bff34bed3211ad34831d9cb78b00ffef8
+Filename: debs/com.nan.snap_0.2.9_iphoneos-arm.deb
+Size: 2968
+MD5sum: d687410933889216f182b171b875f635
+SHA1: c8c2d9d1f4d4321133c251e617c3be8fe7330fbc
+SHA256: b8c789911564608ea1b3b080c1313ba8f3089568655fbd4311b2e0dbef397627
 Section: Terminal_Support
 Description: 更便捷的快照管理
 Author: zhaonan
