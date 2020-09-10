@@ -1414,6 +1414,24 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fonts.png
 Name: マメロン-中文
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fonts/mamelon/js.json
 
+Package: com.nan.fonts.zh.newcinema
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts
+Filename: debs/com.nan.fonts.zh.newcinema_0.1.0_iphoneos-arm.deb
+Size: 10214928
+MD5sum: 1eb18aa4a6b0d12ee54f349fc6390d99
+SHA1: 223ce12d52435fcbbdfbba5407f42c2b91d0fa79
+SHA256: 17461b0207a4e1c4ef3fefe3b81677261603cdf847f7e851cc06a272e1a5c03e
+Section: Fonts
+Description: 感谢字由心雨分享的 ニューシネマ
+Author: 字由心雨
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: ニューシネマ-中文
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fonts/newcinema/js_zh.json
+Sponsor: zhaonan
+
 Package: com.nan.fonts.zh.xindixiawucha
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -1430,6 +1448,42 @@ Author: 字由心雨
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fonts.png
 Name: 新蒂下午茶-中文
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fonts/xindixiawucha/js.json
+Sponsor: zhaonan
+
+Package: com.nan.fonts11.en.mamelon
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts, firmware (>=11.0), firmware (<<12.0)
+Filename: debs/com.nan.fonts11.en.mamelon_0.1.0_iphoneos-arm.deb
+Size: 2324220
+MD5sum: 18ba2ccd5fbe85ea3b2ff03a5ef41967
+SHA1: 66d8def6e1254507baf603f588fd9af19b5e7819
+SHA256: cf1400f31aebf845b04b56b4bc871270b4ed10dfc6dbbdba635a49c556478f09
+Section: Fonts (iOS11)
+Description: 感谢字由心语分享的 マメロン 字体
+Author: 字由心雨
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: マメロン-英文-11
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fonts/mamelon/js_en.json
+Sponsor: zhaonan
+
+Package: com.nan.fonts11.en.newcinema
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts, firmware (>=11.0), firmware (<<12.0)
+Filename: debs/com.nan.fonts11.en.newcinema_0.1.0_iphoneos-arm.deb
+Size: 2332664
+MD5sum: be7f78d183397ae5a33fe4f043fa5218
+SHA1: 16444a7398ecca60ff87c5a9f928f2f025e55a07
+SHA256: 61d6543908597f2c5fc73411157953685ceb721bfb394f1b697f8514e9316d23
+Section: Fonts (iOS11)
+Description: 感谢字由心雨分享的 ニューシネマ
+Author: 字由心雨
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: ニューシネマ-中文-11
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fonts/newcinema/js_en.json
 Sponsor: zhaonan
 
 Package: com.nan.fonts11.en.xindixiawucha
@@ -1468,6 +1522,24 @@ Name: マメロン-英文-12
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fonts/mamelon/js.json
 Sponsor: zhaonan
 
+Package: com.nan.fonts12.en.newcinema
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts, firmware (>=12.0), firmware (<<13.0)
+Filename: debs/com.nan.fonts12.en.newcinema_0.1.0_iphoneos-arm.deb
+Size: 2332712
+MD5sum: 9bce597da06d340d017c7f92ce67aa7a
+SHA1: 723d48bd40402a217a275424d8fa83f60193d653
+SHA256: 00fdcad778a12ca0e21abf5f2ec06c035b38330698200efabe3121a0bde36769
+Section: Fonts (iOS12)
+Description: 感谢字由心雨分享的 ニューシネマ
+Author: 字由心雨
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: ニューシネマ-中文-12
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fonts/newcinema/js_en.json
+Sponsor: zhaonan
+
 Package: com.nan.fonts12.en.xindixiawucha
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -1502,6 +1574,24 @@ Author: 字由心雨
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fonts.png
 Name: マメロン-英文-13
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fonts/mamelon/js.json
+Sponsor: zhaonan
+
+Package: com.nan.fonts13.en.newcinema
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts, firmware (>=13.0), firmware (<<14.0)
+Filename: debs/com.nan.fonts13.en.newcinema_0.1.0_iphoneos-arm.deb
+Size: 2201748
+MD5sum: 45fa59b12dc0d51ede44140ece6591c3
+SHA1: 80e7646003afa7439a74990021fbd51bc9a628e3
+SHA256: d9d576142872a2b77ab2db49ad2409af22031226b400fcf587714c27885c033c
+Section: Fonts (iOS13)
+Description: 感谢字由心雨分享的 ニューシネマ
+Author: 字由心雨
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: ニューシネマ-中文-13
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fonts/newcinema/js_en.json
 Sponsor: zhaonan
 
 Package: com.nan.fonts13.en.xindixiawucha
