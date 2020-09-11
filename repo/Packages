@@ -1474,15 +1474,15 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts, firmware (>=11.0), firmware (<<12.0)
 Filename: debs/com.nan.fonts11.en.haipaiqiangdiaoqingxia_0.1.0_iphoneos-arm.deb
-Size: 2296664
-MD5sum: 06c6af04fb659930dd2e8380778e143e
-SHA1: 29b1ffcf7e9e6e709677f53a4fbf3ac89e465573
-SHA256: 8b851f3c2cdc6df019501b5e9a2ca8e432f5a9d009563f75c7be94280eafb4ab
+Size: 2296992
+MD5sum: 663b56872cdea6a7ab99f2a6a72ab6df
+SHA1: 5233b43788e07e5ef542f088adbfa4425e2e7662
+SHA256: 662433b00e3becbaabd207dbeacbf6c50ce7bd7b45d54662d5a3135b7b899a15
 Section: Fonts (iOS11)
 Description: 感谢字由心雨分享的海派腔调清夏
 Author: 字由心雨
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fonts.png
-Name: 海派腔调清夏-11
+Name: 海派腔调清夏-英文-11
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fonts/haipaiqiangdiaoqingxia/js_en.json
 Sponsor: zhaonan
 
@@ -1510,15 +1510,15 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts, firmware (>=11.0), firmware (<<12.0)
 Filename: debs/com.nan.fonts11.en.newcinema_0.1.0_iphoneos-arm.deb
-Size: 2332496
-MD5sum: 96c4cf744d74f207c2519c0e048f7c6c
-SHA1: a515fdb1c1387bcff41219a476c6fcfe56c4e6cb
-SHA256: e44ffb4ca0ddf4696b035d821dd30a592c19102c88108f752a8bfde9cebc7795
+Size: 2332508
+MD5sum: 3721e7fded1a311906fbfbee99a98b48
+SHA1: 0ce56452d053ac9a6b355240e893f7a70cf35431
+SHA256: 337eef50ed16bb38f898a287b18cc45c0f4b29d97e89d894409b21c3acaab14b
 Section: Fonts (iOS11)
 Description: 感谢字由心雨分享的 ニューシネマ
 Author: 字由心雨
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fonts.png
-Name: ニューシネマ-中文-11
+Name: ニューシネマ-英文-11
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fonts/newcinema/js_en.json
 Sponsor: zhaonan
 
@@ -1546,15 +1546,15 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts, firmware (>=12.0), firmware (<<13.0)
 Filename: debs/com.nan.fonts12.en.haipaiqiangdiaoqingxia_0.1.0_iphoneos-arm.deb
-Size: 2297008
-MD5sum: 4d4aea68b63d2de45fae1e5a51f7fe2d
-SHA1: 4bc3f6452b8ee52d83ae8d073db5f2c6bf296327
-SHA256: adc08c26ec7898a7b27eb182d623e0124e658063bba3e1359224a171ca13ea06
+Size: 2297320
+MD5sum: c5b14fa25be993a955a931b9bf92ef07
+SHA1: 7b4c42766c5bb040480f405841edcea724babeeb
+SHA256: 88132924d56e809e31608d569e020b20870be02213b633c68c8ecc68420c2fcd
 Section: Fonts (iOS12)
 Description: 感谢字由心雨分享的海派腔调清夏
 Author: 字由心雨
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fonts.png
-Name: 海派腔调清夏-12
+Name: 海派腔调清夏-英文-12
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fonts/haipaiqiangdiaoqingxia/js_en.json
 Sponsor: zhaonan
 
@@ -1582,15 +1582,15 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts, firmware (>=12.0), firmware (<<13.0)
 Filename: debs/com.nan.fonts12.en.newcinema_0.1.0_iphoneos-arm.deb
-Size: 2332632
-MD5sum: 8f4a35e8150401c19fa00bbd4198cc9e
-SHA1: e2021133adb9337f7d881fd42e576545dfbd6265
-SHA256: c55fdb9c7c35e491fb02ac04e31c9e305506b5c8507bb992e613e5893e35a4b7
+Size: 2332080
+MD5sum: acbeb19b8cc73aa6b72f847d174d2ee7
+SHA1: 6ec49b2bffebdf300c2c497eba52a82caf705a60
+SHA256: 950074508909cea401f9d09f475e103f99de6333cd810212085130a2abb67443
 Section: Fonts (iOS12)
 Description: 感谢字由心雨分享的 ニューシネマ
 Author: 字由心雨
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fonts.png
-Name: ニューシネマ-中文-12
+Name: ニューシネマ-英文-12
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fonts/newcinema/js_en.json
 Sponsor: zhaonan
 
@@ -1618,15 +1618,15 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts, firmware (>=13.0), firmware (<<14.0)
 Filename: debs/com.nan.fonts13.en.haipaiqiangdiaoqingxia_0.1.0_iphoneos-arm.deb
-Size: 2123928
-MD5sum: a7133da6a6550a4a7e8e52318c59a8aa
-SHA1: ccadf42dee2519fcbca4b416503a102d2efb4a7a
-SHA256: 4a75aecb592c49e79c5bcc6f6d9405841ad559246672bac9dadc91b8eb425880
+Size: 2124184
+MD5sum: 39f5d6b7cb515e6c6992740031bd8d63
+SHA1: 78d030f000c7a0250b7645b195b8aadc6dbf2a70
+SHA256: fdbd8db61c3148be01b951774a930412b8efda96c63e76517acd862498645bc2
 Section: Fonts (iOS13)
 Description: 感谢字由心雨分享的海派腔调清夏
 Author: 字由心雨
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fonts.png
-Name: 海派腔调清夏-13
+Name: 海派腔调清夏-英文-13
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fonts/haipaiqiangdiaoqingxia/js_en.json
 Sponsor: zhaonan
 
@@ -1654,15 +1654,15 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts, firmware (>=13.0), firmware (<<14.0)
 Filename: debs/com.nan.fonts13.en.newcinema_0.1.0_iphoneos-arm.deb
-Size: 2202388
-MD5sum: 12b138d1263f8e09c6a2f24b2fe3095c
-SHA1: f80670c06dea429e4e600e67b9966dfba2c9768b
-SHA256: 0094df959fd36d79fc231aed028f26398a18388690c8e3de3046a546f97cf502
+Size: 2202324
+MD5sum: c2f58a8a7680e2076e6497b7016f96a4
+SHA1: 5d08cd89fb9e6f82cdc1bd52db9ef2740fbf6fe8
+SHA256: 15825c349d52a182dde264759a4487fd1de9e9a298335bb199ff0bc665539c5a
 Section: Fonts (iOS13)
 Description: 感谢字由心雨分享的 ニューシネマ
 Author: 字由心雨
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fonts.png
-Name: ニューシネマ-中文-13
+Name: ニューシネマ-英文-13
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fonts/newcinema/js_en.json
 Sponsor: zhaonan
 
