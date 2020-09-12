@@ -1,0 +1,47 @@
+Package: com.saurik.substrate.safemode
+Version: 1.1-1-1
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: mobilesubstrate (>= 0.9.3667+38)
+Filename: debs/com.saurik.substrate.safemode_1.1-1-1_iphoneos-arm.deb
+Size: 20340
+MD5sum: b29dda3dddbb8c9ea1e2ab7d4f718053
+SHA1: 53912f150e9d89666a1b7bd8e08609b744efd012
+SHA256: 553b3e29fb0b244aa53a3bbb22d0a808752c3ba41dbfc1bfde3cc1c94b593132
+Section: Tweaks
+Priority: optional
+Description: safe mode safety extension (safe)
+Name: Safe Mode
+
+Package: libapt
+Version: 1.8.2-sileo6-1
+Architecture: iphoneos-arm
+Essential: yes
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Pre-Depends: dpkg (>= 1.18)
+Depends: bzip2, dpkg (>= 1.19.4), gnupg, gzip, lzma, cy+cpu.arm64
+Conflicts: apt7-ssl, cydia-gui
+Replaces: apt7-lib, libapt-pkg5.0, libapt-pkg-dev
+Provides: apt7-ssl, apt7-lib (= 1.8.2), libapt-pkg5.0 (= 1.8.2-sileo), apt-lib (= 1.8.2-sileo), libapt-pkg-dev
+Filename: debs/libapt_1.8.2-sileo6-1_iphoneos-arm.deb
+Size: 1295412
+MD5sum: 17b9573aab0d8a2e60404922e472d9d7
+SHA1: 844e8d45f530c57d0b2682b9d267c427034c5015
+SHA256: 06e2a2005111e602ae3bdd724f17785604c6d6e58fa13f4cd8fd152f76788fd3
+Section: Packaging
+Priority: required
+Description: the advanced packaging library from Debian
+Name: APT 1.8 Strict (lib)
+
+Package: sileoprep
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Filename: debs/sileoprep_1.1-1_iphoneos-arm.deb
+Size: 924
+MD5sum: 91931a1e8b51fa189d9952762d108533
+SHA1: 94cb04e0d911abd576a8f40121069b9b45ab9eaf
+SHA256: f29af558162db4bac5f4be49862f34fb2785d578f7b95961eda6438d7c5765b3
+Description: Prepare checkra1n for Sileo installation
+Name: Sileo Prep
+
