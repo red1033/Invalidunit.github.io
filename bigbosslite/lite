@@ -1,0 +1,10 @@
+#!/bin/bash
+
+
+sed -i. '/Depiction: /d' ${1}
+sed -i. '/homepage: /d' ${1}
+sed -i. '/Website: /d' ${1}
+sed -i. '/Installed-Size: /d' ${1}
+sed -i. '/sileodepiction: /d' ${1}
+sed -i. '/Sponsor: /d' ${1}
+rm -rf ${1}.
