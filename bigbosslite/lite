@@ -1,23 +1,24 @@
 #!/bin/bash
 
 
-aaa="${1}"
-echo -n 'file size: '
-echo `du -h "${aaa}" | sed "s#${aaa}##g"`
-echo -n 'Streamlining'
-sed -i. '/Depiction: /d' "${1}"
-echo -n '.'
-sed -i. '/homepage: /d' "${1}"
-echo -n '.'
-sed -i. '/Website: /d' "${1}"
-echo -n '.'
-sed -i. '/Installed-Size: /d' "${1}"
-echo -n '.'
-sed -i. '/sileodepiction: /d' "${1}"
-echo -n '.'
-sed -i. '/Sponsor: /d' "${1}"
-echo -n '.'
-rm -rf "${1}."
-echo 'OK!'
-echo -n 'now file size: '
-echo `du -h "${aaa}" | sed "s#${aaa}##g"`
+_do(){
+	sed -i. '/Depiction: /d' "${aaa}"
+	sed -i. '/homepage: /d' "${aaa}"
+	sed -i. '/Website: /d' "${aaa}"
+	sed -i. '/Installed-Size: /d' "${aaa}"
+	sed -i. '/sileodepiction: /d' "${aaa}"
+	sed -i. '/Sponsor: /d' "${aaa}"
+	rm -rf "${aaa}."
+}
+
+
+for aaa in "${@}"; do
+	unset size_0
+	unset size_1
+	size_0=`du -h "${aaa}" | sed "s#	${aaa}##g"`
+	_do
+	size_1=`du -h "${aaa}" | sed "s#	${aaa}##g"`
+	aaa="${aaa##*/}"
+	echo -n "${aaa}: "
+	echo "${size_0} ---> ${size_1}"
+done
