@@ -14,7 +14,7 @@ Description: safe mode safety extension (safe)
 Name: Safe Mode
 
 Package: libapt
-Version: 1.8.2-sileo6-1
+Version: 1.8.2.2-sileo6-1
 Architecture: iphoneos-arm
 Essential: yes
 Maintainer: CoolStar <coolstarorganization@gmail.com>
@@ -23,11 +23,11 @@ Depends: bzip2, dpkg (>= 1.19.4), gnupg, gzip, lzma, cy+cpu.arm64
 Conflicts: apt7-ssl, cydia-gui
 Replaces: apt7-lib, libapt-pkg5.0, libapt-pkg-dev
 Provides: apt7-ssl, apt7-lib (= 1.8.2), libapt-pkg5.0 (= 1.8.2-sileo), apt-lib (= 1.8.2-sileo), libapt-pkg-dev
-Filename: debs/libapt_1.8.2-sileo6-1_iphoneos-arm.deb
-Size: 1295412
-MD5sum: 17b9573aab0d8a2e60404922e472d9d7
-SHA1: 844e8d45f530c57d0b2682b9d267c427034c5015
-SHA256: 06e2a2005111e602ae3bdd724f17785604c6d6e58fa13f4cd8fd152f76788fd3
+Filename: debs/libapt_1.8.2.2-sileo6-1_iphoneos-arm.deb
+Size: 1295416
+MD5sum: 04a9069566c11ba7fce49eb485b95003
+SHA1: 7ee0a8bef69680af1fd699735779e5d818a3eb84
+SHA256: f012019a7a72d4c76ddcc46e47dcf48c98954d7c5b3da5d9d50a68af8f66bdff
 Section: Packaging
 Priority: required
 Description: the advanced packaging library from Debian
