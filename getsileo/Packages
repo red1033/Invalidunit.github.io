@@ -114,14 +114,14 @@ Name: Sileo
 Sileodepiction: https://featuredpage.getsileo.app/depiction.json
 
 Package: sileoprep
-Version: 1.1-1
+Version: 1.1-2
 Architecture: iphoneos-arm
 Maintainer: CoolStar <coolstarorganization@gmail.com>
-Filename: debs/sileoprep_1.1-1_iphoneos-arm.deb
-Size: 924
-MD5sum: 91931a1e8b51fa189d9952762d108533
-SHA1: 94cb04e0d911abd576a8f40121069b9b45ab9eaf
-SHA256: f29af558162db4bac5f4be49862f34fb2785d578f7b95961eda6438d7c5765b3
+Filename: debs/sileoprep_1.1-2_iphoneos-arm.deb
+Size: 1032
+MD5sum: bef61b5a6f57488ff76ea9a9868d81c0
+SHA1: 989075807f6aa38b8b2250547ff17b3012f2b781
+SHA256: 835fc75c1599c9de6810ee50c308f44b8966fd7610254e06f26fb967575f97e3
 Description: Prepare checkra1n for Sileo installation
 Name: Sileo Prep
 
