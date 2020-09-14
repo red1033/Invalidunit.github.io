@@ -1,3 +1,20 @@
+Package: com.nan.dsar
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: org.coolstar.sileo
+Filename: debs/com.nan.dsar_0.1.4_iphoneos-arm.deb
+Size: 1544
+MD5sum: d02ce220ea4138c258b0654e8e1f77e5
+SHA1: c3b9c589523eda61b2eaae3685b7b07073257c88
+SHA256: 7d5c53915340f5ab6062169da96b268bf3e14e1dae64789c201c9c55f1f3d6d7
+Section: Scripting
+Description: 去除 Sileo 无法移除默认源的限制
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.dsar/image.png
+Name: Disable Sileo Auto Rewrite
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.dsar/js.json
+
 Package: com.nan.sileo.zh-Hans
 Version: 0.2.7
 Architecture: iphoneos-arm
