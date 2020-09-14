@@ -1,3 +1,21 @@
+Package: com.nan.sileo.zh-Hans
+Version: 0.2.7
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: org.coolstar.sileo
+Replaces: org.coolstar.sileo
+Filename: debs/com.nan.sileo.zh-Hans_0.2.7_iphoneos-arm.deb
+Size: 6848
+MD5sum: 44dadc1368335da658301d0ed0745544
+SHA1: 2c89800b69ba730a24aacc249abd4dbe5f68cb5c
+SHA256: 064fbf19ea42f35cdab4b780aa492ae55d143fcf8f365905804c32556422f31e
+Section: 汉化
+Description: 为 Sileo 提供简体中文
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/image.png
+Name: zh-Hans for Sileo
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/js.json
+
 Package: com.saurik.substrate.safemode
 Version: 1.1-1-1
 Architecture: iphoneos-arm
@@ -41,10 +59,10 @@ Pre-Depends: debianutils, dpkg (>= 1.18)
 Depends: apt (>= 1.8.0), apt (>= 2.1.0) | apt-lib (>= 1.8.0-sileo) | libapt (>=1.8.2-sileo2), apt (>= 2.1.0) | apt-key (>= 1.8.0), dpkg (>= 1.19.2-4), procursus-keyring | cydia, zsh | bash, cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0)
 Conflicts: cydia-gui (<<99.0)
 Filename: debs/org.coolstar.sileo_1.9.3-1_iphoneos-arm.deb
-Size: 3164540
-MD5sum: 6c43c610ad4960e040ecf56d97b171ff
-SHA1: 721242466910830ee9396f9d8fa0a68e386532f8
-SHA256: cf36241eab2a1b3485cd1477a4d4868a4fd174adccec6c0b51fc032c05549982
+Size: 3164548
+MD5sum: f83ccee817e69a58ac0016cd69c8cc6f
+SHA1: e2a1924ed652795d05e981f05126c7618fa5c119
+SHA256: f4438ee928a5752efce11ed61fc3ec668fa1b1e03d5403386c711a08aa4fe15e
 Section: Packaging
 Priority: required
 Description: A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)
