@@ -33,6 +33,27 @@ Priority: required
 Description: the advanced packaging library from Debian
 Name: APT 1.8 Strict (lib)
 
+Package: org.coolstar.sileo
+Version: 1.9.3-1
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Pre-Depends: debianutils, dpkg (>= 1.18)
+Depends: apt (>= 1.8.0), apt (>= 2.1.0) | apt-lib (>= 1.8.0-sileo) | libapt (>=1.8.2-sileo2), apt (>= 2.1.0) | apt-key (>= 1.8.0), dpkg (>= 1.19.2-4), procursus-keyring | cydia, zsh | bash, cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0)
+Conflicts: cydia-gui (<<99.0)
+Filename: debs/org.coolstar.sileo_1.9.3-1_iphoneos-arm.deb
+Size: 3164540
+MD5sum: 6c43c610ad4960e040ecf56d97b171ff
+SHA1: 721242466910830ee9396f9d8fa0a68e386532f8
+SHA256: cf36241eab2a1b3485cd1477a4d4868a4fd174adccec6c0b51fc032c05549982
+Section: Packaging
+Priority: required
+Description: A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)
+Tag: cydia::essential
+Author: Sileo Team <getsileoapp@gmail.com>
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo
+Sileodepiction: https://featuredpage.getsileo.app/depiction.json
+
 Package: sileoprep
 Version: 1.1-1
 Architecture: iphoneos-arm
