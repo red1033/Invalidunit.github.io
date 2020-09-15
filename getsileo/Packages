@@ -59,10 +59,10 @@ Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispa
 Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd, cydia-lproj
 Provides: bigbossbetarepo, cydia-sources, cydia-lproj
 Filename: debs/cydia_3.1.1.36_iphoneos-arm.deb
-Size: 1327760
-MD5sum: 99207b42ac77babcf298957f18464344
-SHA1: 90106ece5555fb576f5fc1507250f96a72c57cd3
-SHA256: 0f3af6c4bb79cb819616846c8bd942a658d411e5c6a6cf5a68de0dd13e079ac4
+Size: 1325796
+MD5sum: b08e60005ead73765f4395ab6771e1ff
+SHA1: 829a78a738d86569e4fdeaf437eb939349d2d304
+SHA256: 5210a4c00d14cd98b21fb65e6a26e29adba6ae2e6197805dc135413a40a51634
 Section: Packaging
 Priority: required
 Description: graphical iPhone front-end for APT
