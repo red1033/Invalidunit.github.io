@@ -118,10 +118,10 @@ Version: 1.1-3
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Filename: debs/sileoprep_1.1-3_iphoneos-arm.deb
-Size: 1268
-MD5sum: 0de9a9ce62bf2169d9cd2d9d66fabf7c
-SHA1: ddede2ea6f7a27f1735145d807668af4eaf231a4
-SHA256: ff6b4c28ed048d782f832e6b4e091180826b92677d8645de90735e36a054a862
+Size: 1264
+MD5sum: f5e3ae135360cff389f179ff001c248f
+SHA1: 599491521fb56f1b77385564eefaff62ccbf13a8
+SHA256: f322c84b9a3b9411705e699998396dabe95c5d4914be1c586e726bdc9e4c5d69
 Description: Prepare checkra1n for Sileo installation
 Author: CoolStar <coolstarorganization@gmail.com>
 Name: Sileo Prep
