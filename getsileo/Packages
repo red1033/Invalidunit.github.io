@@ -56,13 +56,13 @@ Installed-Size: 6472
 Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=5.0)
 Depends: darwintools, debianutils, dpkg (>= 1.19.1), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xz
 Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd, cydia-lproj
-Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd, cydia-lproj
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
 Provides: bigbossbetarepo, cydia-sources, cydia-lproj
 Filename: debs/cydia_3.1.1.36_iphoneos-arm.deb
-Size: 1325796
-MD5sum: b08e60005ead73765f4395ab6771e1ff
-SHA1: 829a78a738d86569e4fdeaf437eb939349d2d304
-SHA256: 5210a4c00d14cd98b21fb65e6a26e29adba6ae2e6197805dc135413a40a51634
+Size: 1327912
+MD5sum: 155266d968c9378a3f8f559016423601
+SHA1: 9bb807da5f9c2549bf4b431e8167c4da8958a460
+SHA256: fea4748edcc13e5c04c0a0991c9cb1f306d7a6619a23d82da93ef57dfba0f7d2
 Section: Packaging
 Priority: required
 Description: graphical iPhone front-end for APT
