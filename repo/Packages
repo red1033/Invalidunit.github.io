@@ -664,6 +664,25 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.cracktool/image.png
 Name: CrackTool4
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cracktool/js_4.json
 
+Package: com.nan.cracktool4
+Version: 4.0~beta9e
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Conflicts: com.julioverne.cracktool4
+Provides: com.julioverne.cracktool4 (=4.0~beta9e)
+Filename: debs/com.nan.cracktool4_4.0~beta9e_iphoneos-arm.deb
+Size: 485064
+MD5sum: aaebb5953c56b9de9f48d492b66ad803
+SHA1: 98f7979866f27641b079692dd51b630b5c6f0d1b
+SHA256: 986067cd5d9252b6ac41be95a645a9d3f41eece780f125d9a9e0c8d4685ba78e
+Section: Utilities
+Description: 插件破解器
+Author: julioverne
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.cracktool/image.png
+Name: CrackTool4
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cracktool/js_4.json
+
 Package: com.nan.crash-reporter
 Version: 1.16.0-1
 Architecture: iphoneos-arm
@@ -1360,36 +1379,17 @@ Name: Filza File Manager 64-bit
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js_64bit.json
 
 Package: com.nan.flexlist
-Version: 1.2-1
+Version: 1.2-5
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, applist
+Depends: firmware (>= 8.0), preferenceloader
 Conflicts: netskao.flexlist
-Provides: netskao.flexlist (=1.2-1)
-Filename: debs/com.nan.flexlist_1.2-1_iphoneos-arm.deb
-Size: 1300576
-MD5sum: 87b3fb5f327652d788717ade94344c70
-SHA1: e3b24472070a13913fa671be55db50437c691a8b
-SHA256: fa0283e545f5a4e70fa36f3d075f151ce2bec1dc3cb8ed1296208a908dc492af
-Section: Tweaks
-Description: FlexList 是一款通过设置选择应用，调用 Flex 视图工具进行应用界面分析的工具，当前版本调用 Flex 最新版 4.1.1，支持 Swift 应用。
-Author: Netskao <netskao@gmail.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.flexlist/image.png
-Name: FlexList
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.flexlist/js.json
-
-Package: com.nan.flexlist
-Version: 1.2-3
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, applist
-Conflicts: netskao.flexlist
-Provides: netskao.flexlist (=1.2-3)
-Filename: debs/com.nan.flexlist_1.2-3_iphoneos-arm.deb
-Size: 1290588
-MD5sum: 4377cdb3485c18c53f8c3ea0655d3264
-SHA1: f64dfd2532fc85434c82ec70ef336feb89a14310
-SHA256: 1b3068896da089ca89e974d79f46225cd154e0596c418a9cb95c9a4ec91ee34e
+Provides: netskao.flexlist (=1.2-5)
+Filename: debs/com.nan.flexlist_1.2-5_iphoneos-arm.deb
+Size: 1337904
+MD5sum: 5c64c655e7bab6e94f202a6f3116daec
+SHA1: d699a3efe396fd318595dba92f1c2540501e951a
+SHA256: 29195dc2e4567ded995d65057f7bdd3375c21dc9f9c25da6731f69efce29b964
 Section: Tweaks
 Description: FlexList 是一款通过设置选择应用，调用 Flex 视图工具进行应用界面分析的工具，当前版本调用 Flex 最新版 4.1.1，支持 Swift 应用。
 Author: Netskao <netskao@gmail.com>
@@ -2020,19 +2020,19 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fix.png
 Name: MobileIcons3x
 
 Package: com.nan.networkmanage
-Version: 1.1-1
+Version: 1.1-2
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: firmware (>= 12.0), preferenceloader, applist
+Depends: firmware (>= 10.0), preferenceloader
 Conflicts: netskao.networkmanage
-Provides: netskao.networkmanage (=1.1-1)
-Filename: debs/com.nan.networkmanage_1.1-1_iphoneos-arm.deb
-Size: 33472
-MD5sum: 4027b0980d6936759c9db0ffe926f3a1
-SHA1: 2ab4cd9d1eecee32f4d9969b3a6073fc786b53d4
-SHA256: a8f6790793ba45246d0cfef69b9a39f18a2ad5b8f7f8f01de448ab03aa237e81
+Provides: netskao.networkmanage (=1.1-2)
+Filename: debs/com.nan.networkmanage_1.1-2_iphoneos-arm.deb
+Size: 66816
+MD5sum: fb30230d1576a0451ea1a9d630957b6a
+SHA1: 5162e25052440c86f0f8875ece2a0f28a18d000d
+SHA256: 0a0ec331fbe67ebf843e87b00e9282dce27cddf4d8561491bdd878f1c7d36bfa
 Section: Tweaks
-Description: 管理蜂窝和WIFI联网权限
+Description: 管理蜂窝和 Wi-Fi 联网权限
 Author: Netskao <netskao@gmail.com>
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.networkmanage/image.png
 Name: NetWorkManage
@@ -2338,36 +2338,17 @@ Name: QQ Pro Crack
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqprocrack/js.json
 
 Package: com.nan.qqpurification
-Version: 1.2-8
+Version: 1.3-1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: netskao.qqpurification
-Provides: netskao.qqpurification (=1.2-8)
-Filename: debs/com.nan.qqpurification_1.2-8_iphoneos-arm.deb
-Size: 125428
-MD5sum: a65b1e1a27848be3e525ec92de2feb4c
-SHA1: 5668ea7355864fd03f309439cffa22dd2e824285
-SHA256: 1ddb455c934ddddb1876eee290defc271154a30fb5303b4a2772f88f08f36cb2
-Section: Tweaks
-Description: QQ 净化！还原聊天本质，给你一个干净的 QQ。
-Author: Netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/image.png
-Name: QQ Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/js.json
-
-Package: com.nan.qqpurification
-Version: 1.2-9
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, firmware (>= 9.0)
-Conflicts: netskao.qqpurification
-Provides: netskao.qqpurification (=1.2-9)
-Filename: debs/com.nan.qqpurification_1.2-9_iphoneos-arm.deb
-Size: 127100
-MD5sum: fa82a78ee69a4b62b8e6ea25f3cd3f24
-SHA1: e36f5f964a8234f3af7cc5ecfc98fe661da29251
-SHA256: 7de0c39247beaf119d548b1b75a0d78d6911764c3e21a01c63454fbc610d5136
+Provides: netskao.qqpurification (=1.3-1)
+Filename: debs/com.nan.qqpurification_1.3-1_iphoneos-arm.deb
+Size: 244168
+MD5sum: a572af71690dda3dc07fb066a09ede64
+SHA1: 7221d9c652821cb8a48d51d0ecee447717bea286
+SHA256: b2f630a94c09803a283d074ef98569b3cff328a00e434872f4110c1f57c9a17f
 Section: Tweaks
 Description: QQ 净化！还原聊天本质，给你一个干净的 QQ。
 Author: Netskao
@@ -3023,36 +3004,17 @@ Name: WeChatHookPro
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechathookpro/js.json
 
 Package: com.nan.wechatpurification
-Version: 1.3-9
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, firmware (>= 10.0)
-Conflicts: netskao.wechatpurification, com.nan.wechatpurification-121
-Provides: netskao.wechatpurification (=1.3-9), com.nan.wechatpurification-121
-Filename: debs/com.nan.wechatpurification_1.3-9_iphoneos-arm.deb
-Size: 160796
-MD5sum: b5a2ed91a4e569f2d733fc5b0ea8d74e
-SHA1: e345e93baeb8864b3ee2e6359206306cf8ef07ed
-SHA256: 359d145276672f8f9acb4dc6685ee2f94d352360f73a134d4a5199df005dde35
-Section: Tweaks
-Description: 微信净化！还原聊天本质，给你一个干净的微信。
-Author: Netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/image.png
-Name: WeChat Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/js.json
-
-Package: com.nan.wechatpurification
-Version: 1.4-1
+Version: 1.4-2
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: netskao.wechatpurification
-Provides: netskao.wechatpurification (=1.4-1)
-Filename: debs/com.nan.wechatpurification_1.4-1_iphoneos-arm.deb
-Size: 166820
-MD5sum: 944035e05f9c082989d7c57693dcd255
-SHA1: 2834b8ddf3a6fd101e98334267587a4f735178b4
-SHA256: 0cbfc614a493cdec722a0e15288d3f77b1c6245ac7c0afcc32fc0a75403b9251
+Provides: netskao.wechatpurification (=1.4-2)
+Filename: debs/com.nan.wechatpurification_1.4-2_iphoneos-arm.deb
+Size: 317636
+MD5sum: baf84bd6ff2da21fe056ab3e1fd200a7
+SHA1: 7321990c70de748cc356c17eb3c2e4a0fa74f366
+SHA256: 916b100ea02d6af3dd13dab30e352987401db1a06b09d50082bb653eebf8e07a
 Section: Tweaks
 Description: 微信净化！还原聊天本质，给你一个干净的微信。
 Author: Netskao
