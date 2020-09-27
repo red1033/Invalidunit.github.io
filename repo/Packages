@@ -1685,16 +1685,16 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fonts/xind
 Sponsor: zhaonan
 
 Package: com.nan.ft
-Version: 0.3.5
+Version: 0.3.6
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: snaputil | com.bingner.snappy
 Depends: firmware (>=10.3), rsync, diskdev-cmds | firmware-sbin
-Filename: debs/com.nan.ft_0.3.5_iphoneos-arm.deb
-Size: 2300
-MD5sum: db5dbf7d0d3e50c3fe4502796958d31a
-SHA1: 6f7ab81c9c01950461e52047d82f26b3f195d926
-SHA256: fcc8a34d5270f1f0702c67e6623760d8a20f6e6cb023fbd735c8e6e1ec8838ec
+Filename: debs/com.nan.ft_0.3.6_iphoneos-arm.deb
+Size: 2640
+MD5sum: ad735ed20d2959c4f90c69fa85d0b99e
+SHA1: c8204ce8b4996bf02b6d10c95c29bc63e1629239
+SHA256: c08d8d63867802c03f78a237397198fe7bacbff3836b96801a99b5c39d1fa56b
 Section: Terminal_Support
 Description: 一个从设备首张快照提取字体的脚本
 Author: zhaonan <Invalidunit@icloud.com>
@@ -2655,16 +2655,16 @@ Author: level3tjg
 Name: SlimVolumeHUD
 
 Package: com.nan.snap
-Version: 0.3.2
+Version: 0.3.3
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: firmware (>= 10.3), diskdev-cmds | firmware-sbin
 Depends: com.nan.apfs-snapshot | snaputil | com.bingner.snappy
-Filename: debs/com.nan.snap_0.3.2_iphoneos-arm.deb
-Size: 3416
-MD5sum: 1acbfb4dbd9b560ee14826328b02c8a0
-SHA1: 84d988d1da837920262d41659e16df3c26821f8f
-SHA256: d623b967042514beeba466ecd164b5e0a6f845aa4653bca38b44da284aec6b9b
+Filename: debs/com.nan.snap_0.3.3_iphoneos-arm.deb
+Size: 3424
+MD5sum: 33f572672e50a5532718b1e8f3aa7004
+SHA1: f3797481952186b00306f5404c2d577275b7393a
+SHA256: 7b96b399ce322608ef8b249c34a865b745b0f1778fece7f3d863a736190123d8
 Section: Terminal_Support
 Description: 更便捷的快照管理
 Author: zhaonan
