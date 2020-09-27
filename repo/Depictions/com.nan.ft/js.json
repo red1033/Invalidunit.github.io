@@ -177,7 +177,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "现在应该恢复会更快",
+                    "markdown": "现在恢复应该会更快",
                     "useRawFormat": true
                 },
                 {
@@ -188,7 +188,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "稍微修改了一下依赖项",
+                    "markdown": "修改依赖项",
                     "useRawFormat": true
                 },
                 {
@@ -221,7 +221,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "移除修复权限",
+                    "markdown": "移除修复权限功能",
                     "useRawFormat": true
                 },
                 {
@@ -232,7 +232,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "增加修复权限",
+                    "markdown": "增加修复权限功能",
                     "useRawFormat": true
                 },
                 {
@@ -248,18 +248,7 @@
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "0.1.8",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "优化",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "0.1.8",
+                    "title": "0.1.9",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
