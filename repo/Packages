@@ -1666,16 +1666,37 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fonts/xind
 Sponsor: zhaonan
 
 Package: com.nan.ft
-Version: 0.3.6
+Version: 0.3.7
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Pre-Depends: snaputil | com.bingner.snappy
+Pre-Depends: com.nan.apfs-snapshot | snaputil | com.bingner.snappy
 Depends: firmware (>=10.3), rsync, diskdev-cmds | firmware-sbin
-Filename: debs/com.nan.ft_0.3.6_iphoneos-arm.deb
-Size: 2640
-MD5sum: ad735ed20d2959c4f90c69fa85d0b99e
-SHA1: c8204ce8b4996bf02b6d10c95c29bc63e1629239
-SHA256: c08d8d63867802c03f78a237397198fe7bacbff3836b96801a99b5c39d1fa56b
+Filename: debs/com.nan.ft_0.3.7_iphoneos-arm.deb
+Size: 2724
+MD5sum: 6974aadad26213f364b8ba880a0b02a7
+SHA1: 6ef34e29370947cc1a549108195e377c116d029d
+SHA256: 26af21e3c3bba12d987df25a2edf39285ef0206261791f578ef3f70db47258d3
+Section: Terminal_Support
+Description: 一个从设备首张快照提取字体的脚本
+Tag: role::hacker
+Author: zhaonan <Invalidunit@icloud.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
+Name: ft
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/js.json
+
+Package: com.nan.ft-lite
+Version: 0.3.7
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: com.nan.apfs-snapshot | snaputil | com.bingner.snappy
+Depends: firmware (>=10.3), rsync, diskdev-cmds | firmware-sbin
+Conflicts: com.nan.ft
+Provides: com.nan.ft
+Filename: debs/com.nan.ft-lite_0.3.7_iphoneos-arm.deb
+Size: 2496
+MD5sum: a7c0011361b2e4e9f4a1e75ee1e4f376
+SHA1: 805b3981d24ab7628f2b7ed7387fa59b6e22edaa
+SHA256: dc19f8fd8336bc98180a5b86f2d95ebf85386b90253abb6bb67672e427314aec
 Section: Terminal_Support
 Description: 一个从设备首张快照提取字体的脚本
 Author: zhaonan <Invalidunit@icloud.com>
