@@ -1672,10 +1672,10 @@ Maintainer: zhaonan
 Pre-Depends: com.nan.apfs-snapshot | snaputil | com.bingner.snappy
 Depends: firmware (>=10.3), rsync, diskdev-cmds | firmware-sbin
 Filename: debs/com.nan.ft_0.3.7_iphoneos-arm.deb
-Size: 2724
-MD5sum: 6974aadad26213f364b8ba880a0b02a7
-SHA1: 6ef34e29370947cc1a549108195e377c116d029d
-SHA256: 26af21e3c3bba12d987df25a2edf39285ef0206261791f578ef3f70db47258d3
+Size: 2720
+MD5sum: 6c57905720f91490c464f434021aeed1
+SHA1: eae24991e6a40896947de9025a8d7d591ed2a48f
+SHA256: 1084317d68aa636a3afb14a0a89288eb9ff7ec31b701cbfac8d8bed040488295
 Section: Terminal_Support
 Description: 一个从设备首张快照提取字体的脚本
 Tag: role::hacker
@@ -1693,10 +1693,10 @@ Depends: firmware (>=10.3), rsync, diskdev-cmds | firmware-sbin
 Conflicts: com.nan.ft
 Provides: com.nan.ft
 Filename: debs/com.nan.ft-lite_0.3.7_iphoneos-arm.deb
-Size: 2496
-MD5sum: a7c0011361b2e4e9f4a1e75ee1e4f376
-SHA1: 805b3981d24ab7628f2b7ed7387fa59b6e22edaa
-SHA256: dc19f8fd8336bc98180a5b86f2d95ebf85386b90253abb6bb67672e427314aec
+Size: 2488
+MD5sum: 2e2f8270189da738f9e7585458d73e83
+SHA1: 218a4892df20cca2b09fc00bfb2d825a03f2ca67
+SHA256: da335655ee2b13e7a5e325c785f15ffb7d183f09f364a2061fde85cc9800a5a4
 Section: Terminal_Support
 Description: 一个从设备首张快照提取字体的脚本
 Author: zhaonan <Invalidunit@icloud.com>
@@ -2380,15 +2380,14 @@ Package: com.nan.resetfonts
 Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Pre-Depends: com.nan.ft
+Pre-Depends: com.nan.ft-lite | com.nan.ft
 Filename: debs/com.nan.resetfonts_0.1.0_iphoneos-arm.deb
-Size: 1004
-MD5sum: e181218cede0e32d112749a1ba579ac8
-SHA1: 1d46eb0ca8de292605149687e2b8d34b539dc310
-SHA256: 6d26bf2239eb94a22727f203ae2699edb812f3a88c8633c52cdbd5e98b61c1b5
+Size: 1120
+MD5sum: 21699b2cd5bf02b1ae2c18bcffa6fc40
+SHA1: 0e45949305b4a4c52e76963c8b93053e75ff2b5a
+SHA256: 653a9b06ab633200b4c11886a9f1e4d722beccaba4e7b30f07426a893c93719b
 Section: System
 Description: 安装卸载都会还原一次字体
-Tag: role::hacker
 Author: zhaonan <Invalidunit@icloud.com>
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.resetfonts/image.png
 Name: reset fonts
