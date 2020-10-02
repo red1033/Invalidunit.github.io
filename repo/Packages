@@ -36,25 +36,6 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.3dbadgeclear/image.p
 Name: 3DBadgeClear
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.3dbadgeclear/js.json
 
-Package: com.nan.a-bypass
-Version: 1.0.8
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
-Conflicts: com.rpgfarm.a-bypass
-Provides: com.rpgfarm.a-bypass (=1.0.8)
-Filename: debs/com.nan.a-bypass_1.0.8_iphoneos-arm.deb
-Size: 32048
-MD5sum: 56960f77218912864d643fdc5e4b3525
-SHA1: 13053271541bc11fed84f855590a6b61ecf38319
-SHA256: 708d9c55ec097d8906485b3428688cab1911de85af1af302514b7ca7ae5928b7
-Section: Tweaks
-Description: 一款强力有效，设置简单的屏蔽越狱插件
-Author: Baw Appie <pp121324@gmail.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.a-bypass/image.png
-Name: A-Bypass
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.a-bypass/js.json
-
 Package: com.nan.accent
 Version: 1.3.1
 Architecture: iphoneos-arm
