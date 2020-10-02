@@ -6,9 +6,12 @@ _do(){
 	sed -i. '/homepage: /d' "${aaa}"
 	sed -i. '/Website: /d' "${aaa}"
 	sed -i. '/Installed-Size: /d' "${aaa}"
-	sed -i. '/Size: /d' "${aaa}"
+	sed -i. '/MD5sum: /d' "${aaa}"
 	sed -i. '/sileodepiction: /d' "${aaa}"
 	sed -i. '/Sponsor: /d' "${aaa}"
+	sed -i. '/Icon: /d' "${aaa}"
+	sed -i. '/Tag: /d' "${aaa}"
+	sed -i. '/dev: /d' "${aaa}"
 	rm -rf "${aaa}."
 }
 
