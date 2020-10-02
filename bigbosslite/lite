@@ -12,6 +12,7 @@ _do(){
 	sed -i. '/Icon: /d' "${aaa}"
 	sed -i. '/Tag: /d' "${aaa}"
 	sed -i. '/dev: /d' "${aaa}"
+	sed -i. 's/BigBoss <bigboss@thebigboss.org>/null/g' "${aaa}"
 	rm -rf "${aaa}."
 }
 
