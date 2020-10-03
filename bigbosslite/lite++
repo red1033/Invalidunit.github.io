@@ -88,8 +88,6 @@ _run(){
 	_do
 	_find_text='Cydgets'
 	_do
-	_find_text='Cydgets'
-	_do
 }
 
 
@@ -99,6 +97,7 @@ for aaa in "${@}"; do
 	size_0=`du -h "${aaa}" | sed "s#	${aaa}##g"`
 	starttime=`date +%s`
 	_run
+	aaaa=`./lite "${aaa}"`
 	endtime=`date +%s`
 	sumtime=$[ ${endtime} - ${starttime} ]
 	size_1=`du -h "${aaa}" | sed "s#	${aaa}##g"`
