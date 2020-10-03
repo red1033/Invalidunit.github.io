@@ -21,9 +21,12 @@ for aaa in "${@}"; do
 	unset size_0
 	unset size_1
 	size_0=`du -h "${aaa}" | sed "s#	${aaa}##g"`
+	starttime=`date +%s`
 	_do
+	endtime=`date +%s`
+	sumtime=$[ ${endtime} - ${starttime} ]
 	size_1=`du -h "${aaa}" | sed "s#	${aaa}##g"`
 	aaa="${aaa##*/}"
 	echo -n "${aaa}: "
-	echo "${size_0} ---> ${size_1}"
+	echo "${size_0} ---> ${size_1}		Used ${sumtime} seconds"
 done
