@@ -76,7 +76,7 @@ _run(){
 	_do
 	_find_text='Localization'
 	_do
-	_find_text='App Addons ('
+	_find_text='App Addons'
 	_do
 	_find_text='Social'
 	_do
@@ -85,6 +85,10 @@ _run(){
 	_find_text='Productivity'
 	_do
 	_find_text='Education'
+	_do
+	_find_text='Cydgets'
+	_do
+	_find_text='Cydgets'
 	_do
 }
 

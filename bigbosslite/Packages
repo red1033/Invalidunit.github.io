@@ -6142,19 +6142,6 @@ Name: iPhone 2.0 Toolchain
 Description: Full *compatibility* toolchain with one click! Use this to compile your 1.1.x apps for 2.0 with some limitations. BigBoss' headers for 1.1.1 from working Cygwin toolchain. Also depends on all other necessary packages. Copies to /var/include and symlinks /usr/local/include to /var/include if possible. Also links gcc to arm-apple-darwin-gcc.
 Author: null
 
-Package: com.bigboss.airplane.bossprefs
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.bossprefs
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bpairplane.deb
-Size: 3294
-SHA256: 250678e9687bd2d39b0a9544ca65976ce19c255c87dd5af2f4f5df0052173c6f
-Name: BossPrefs Airplane Toggle
-Description: Adds bossprefs airplane mode toggle.
-Author: null
-
 Package: com.bigboss.aptbackup
 Version: 1.1-9
 Section: Utilities
@@ -6205,19 +6192,6 @@ Size: 2083154
 SHA256: 7b1449276cfef1518f809f1d4d3cbfae360498176d835229e72494e46f26e12e
 Name: Categories
 Description: Move your springboard icons into folders!
-Author: null
-
-Package: com.bigboss.categoriesicons1
-Version: 1.1
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.categories (>= 2.99.4)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/categories_v1_icons_1.1.deb
-Size: 636000
-SHA256: a825c2fdfac7d6b3d2646558e338e1ba961819b48d019db68a451685e6770507
-Name: Categories v1 Icons
-Description: Categories v1.0 folder icon addon pack.
 Author: null
 
 Package: com.bigboss.exchangeunlock
@@ -6273,31 +6247,6 @@ Name: Respring
 Description: This performs a fast, non-locking restart of your springboard.
 Author: null
 
-Package: com.bigboss.safari.bossprefs
-Version: 2.0
-Section: App Addons
-Maintainer: Big Boss <bigboss@thebigboss.org>
-Depends: com.bigboss.bossprefs, com.misurda.filedownload.plugin
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bpsafaridl_2.0.deb
-Size: 2506
-SHA256: cc9479e5e5801447a44e08665b77378b5b429bd165732fe96ff38cf609a1f724
-Name: BossPrefs Safari DL Control
-Description: Adds bossprefs safari DL control for Jonathan Misurda's Safari Download Plug-In. Only install if you the plugin. Adding unneeded plugins makes BossPrefs slower to load.
-
-Package: com.bigboss.ultra.bossprefs
-Version: 1.3
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.bossprefs, com.ericasadun.utilities
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bp_ultrasn0w_1.3.deb
-Size: 3428
-SHA256: 7012b4ad0c0d77c83f7104413542ec53d188753d44e8a127fdfdfa6d68bb1579
-Name: BossPrefs ultraSn0w Toggle
-Description: BossPrefs UltraSn0w toggle for Bossprefs. You must have bossprefs and ultrasn0w installed already for this to work. This will toggle on or off your ultrasn0w (after you reboot your iPhone). Useful if you travel and only want the unlock temporarily. Version 1.3 handles ultrasn0w >=0.9
-Author: Christian <osth@freesurf.ch>
-
 Package: com.bigboss.voltohome
 Version: 1.0-1
 Section: Utilities
@@ -6310,19 +6259,6 @@ SHA256: 250ac991804875c95856e06a326c67a7926a667c58b82f9ce6418f65b07f28cc
 Name: VolToHome
 Description: Changes your down vol button to home button. Useful if your home button is broken.
 Author: null
-
-Package: com.bigboss.yellow.bossprefs
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.bossprefs
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bp_yellowsn0w_1.0.deb
-Size: 2556
-SHA256: d4e16e1eef5806c777704bc5b5d16e69ff79e27bb644a22c4a1174e266c52891
-Name: BossPrefs YellowSn0w Toggle
-Description: BossPrefs yellowsn0w toggle.
-Author: Christian <osth@freesurf.ch>
 
 Package: com.billyellis.earthlockscreen
 Version: 1.0
@@ -6715,45 +6651,6 @@ SHA256: 334d32d8a884e1ae627d15006f5deaffc6f4eb1abad6edd946535480dfe9dbbd
 Name: WiCarrier
 Description: Display WiFi network in status bar
 Author: Ryan Petrich <rpetrich+wicarrier@gmail.com>
-
-Package: com.bossprefs.autolock
-Version: 1.0-1
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.bossprefs, com.ericasadun.utilities
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bpautolock-1.deb
-Size: 2660
-SHA256: 42469ee7a70f7860339af7af72cc94129a116a308f77faec617aeed0f7c43053
-Name: BossPrefs Autolock Toggle
-Description: Adds an autlock toggle to bossprefs
-Author: Brandom Overmyer <ufapple@gmail.com>
-
-Package: com.bossprefs.ctoggle
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.bossprefs
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bpctoggle.deb
-Size: 7068
-SHA256: 0df2cf29792987d507d2299254aeb6217ee60118c97913b47bd2b7fdb09855f4
-Name: CToggle BossPrefs Addon
-Description: Add autocorrect toggle to BossPrefs to enable / disable keyboard auto correct..
-Author: ipodtouchmaster05 <madpike05@aol.com>
-
-Package: com.bossprefs.syslog
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.bossprefs
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bpsyslog.deb
-Size: 1184
-SHA256: ac1335e877523213de467fae4a6f68fdc48339501d4f460a18b195b9f500e33b
-Name: Syslog BossPrefs Toggle
-Description: Add system log toggle to bossprefs. If you don't know what syslog is about you do not need this toggle.
-Author: jeremy1701 <ffndev@gmail.com>
 
 Package: com.brandon.messageenhancer
 Version: 0.0.1-121
@@ -8536,19 +8433,6 @@ Name: HideStatusBarItems
 Description: Hide specific elements in the status bar.
 Author: Chashmeet Singh <chashmeetsingh@gmail.com>
 
-Package: com.chattaboxa.blogwiki
-Version: 1.21
-Section: App Addons
-Maintainer: null
-Depends: lighttpd, php
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/blogwiki_1.21.deb
-Size: 91188
-SHA256: 8b9aca21b27bd08ef39f28961887ee92153b0578cc81c87d268c5a4529d68d12
-Name: BlogWiki
-Description: customizable blog/wiki of lighttpd/php
-Author: Chattaboxa <chattaboxa@gmail.com>
-
 Package: com.cheapcalls
 Version: 2.1
 Section: Utilities
@@ -10202,20 +10086,6 @@ Description: cool improvements for the app switcher
 	Drag to reorder, show close buttons by default, make exited apps transparent, show active app
 	Maintained by Optimo
 Author: Optimo and rpetrich <switchermod@forios.com>
-
-Package: com.comconradkramer.actionmenutinyurl
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: null
-Depends: actionmenu, gdata-objectivec-client
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/actionmenutinyurl_1.2.1-1.deb
-Size: 74282
-SHA256: bd904981dbfefbba5282f08290b4b5a16b33a36afcc7e0540d3db25cdd925d49
-Name: Shorten URL for ActionMenu
-Description: Adds URL shortening to ActionMenu!
-	Supports TinyURL, bit.ly, is.gd, goo.gl, xrl.us and tinyarro.ws
-Author: Conrad Kramer <support@kramerapps.com>
 
 Package: com.comex.fastcopy
 Version: 1.0
@@ -16738,20 +16608,6 @@ Name: Bluetooth Service Manager
 Description: manage BT; A2DP, Keyboard, accessory
 Author: Eric Day <ibluever@gmail.com>
 
-Package: com.ericday.erichooks
-Version: 1.2.1
-Section: App Addons
-Maintainer: null
-Pre-Depends: firmware (>= 3.0)
-Depends: mobilesubstrate, shell-cmds, coreutils-bin, com.ericasadun.utilities, libstatusbar | firmware (<< 4.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/com.ericday.erichooks_1.2.1.deb
-Size: 8384
-SHA256: 6e8f51eae697dac5347e0e674274937d293c116fcb2896b8dd750c238f58ba5a
-Name: erichooks
-Description: Support hooks for iBluever and iTether.
-Author: Eric Day <ibluever@gmail.com>
-
 Package: com.ericday.ibluever
 Version: 2.6.0
 Section: Networking
@@ -19601,96 +19457,6 @@ Name: BPages
 Description: search & browse listings on backpage.com
 Author: Gal Blank <galblank@gmail.com>
 
-Package: com.gameandgadgets.abluedesirecydget
-Version: 1.0
-Section: Cydgets (Lock)
-Maintainer: null
-Depends: cydget
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.gameandgadgets.abluedesirecydget_v1.0.deb
-Size: 1313018
-SHA256: c8bf0a38ee01f285c869e1894a9dd9021718440c7db6f989a0fa22f5a8f10977
-Name: A Blue Desire Cydget
-Description: Weather panel, Analogue clock, Scrollable calendar, Animated cydget
-Author: gameandgadgets <gaijin.blog@gmail.com>
-
-Package: com.gameandgadgets.africaworldcup2010cydget
-Version: 1.3
-Section: Cydgets (Lock)
-Maintainer: null
-Depends: cydget
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/africaworldcup2010cydget_1.3.deb
-Size: 3544222
-SHA256: 5527186a3b92ff28b875a826b3320434379b61f3d325ba4c880658f5a2f9f4f3
-Name: Africa World Cup 2010 Cydget
-Description: FIFA World Cup Dashboard for iPhone / iPod Touch lockscreen
-Author: gameandgadgets <gaijin.blog@gmail.com>
-
-Package: com.gameandgadgets.alllcddashboardcydget
-Version: 1.0
-Section: Cydgets (Lock)
-Maintainer: null
-Depends: cydget
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/alllcddashboardcydget_1.0.deb
-Size: 102570
-SHA256: 81da056cb2403380215407f9f621ee90857696413cceee592b78cfa3103810f4
-Name: All LCD Dashboard Cydget
-Description: An awesome collection of LCD clock, calendar, calculator, currency quotes, stock market indices all in one package in this LCD dashboard
-Author: gameandgadgets <gaijin.blog@gmail.com>
-
-Package: com.gameandgadgets.awimbledondashboardcydget
-Version: 1.0
-Section: Cydgets (Lock)
-Maintainer: null
-Depends: cydget
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/awimbledondashboardcydget_1.0.deb
-Size: 439696
-SHA256: 38dd79e4dbb29f56646f14c42e7d6fb6366e3474cde0a4c29cefeb0f150f38d6
-Name: A Wimbledon Dashboard Cydget
-Description: Wimbledon for your lockscreen. Wimbledon clock and news and tweets.
-Author: gameandgadgets <gaijin.blog@gmail.com>
-
-Package: com.gameandgadgets.awsomecitytowers
-Version: 2.0
-Section: Cydgets (Lock)
-Maintainer: null
-Depends: cydget
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.gameandgadgets.awsomecitytowers_2.0.deb
-Size: 683968
-SHA256: 57b6f41b931f4e89498126ecd4211e106077305276e5f0da08f391e1083c90fc
-Name: Awsome City Towers Cydget
-Description: Five City towers, animated colorful background with various color gradients.
-Author: gameandgadgets <gaijin.blog@gmail.com>
-
-Package: com.gameandgadgets.cooltictactoecydget
-Version: 1.0
-Section: Cydgets (Lock)
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cooltictactoecydget_1.0.deb
-Size: 100636
-SHA256: 571c0615a9bc3747e317fb3ce99cba27617fe3dddec821d49ecc150f85e6fb2f
-Name: Cool Tic Tac Toe Cydget
-Description: Simple Tic-Tac-toe game on your lockscreen!
-Author: gameandgadgets <gaijin.blog@gmail.com>
-
-Package: com.gameandgadgets.otakuclockcydget
-Version: 1.0
-Section: Cydgets (Lock)
-Maintainer: null
-Depends: cydget
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.gameandgadgets.otakuclockcydget_1.0.deb
-Size: 344846
-SHA256: cf3e73617fa692cfd508a89ed5be85c22c48f48f74d7d470e5c44545f2f7ffdb
-Name: Otaku Clock Cydget
-Description: The Otaku Analog clock on the lockscreen. Animated backgrounds of Mirai chan and Haruka chan.
-Author: gameandgadgets <gaijin.blog@gmail.com>
-
 Package: com.gamefuzzy.timereplacer
 Version: 2.1
 Priority: optional
@@ -21208,19 +20974,6 @@ Name: WinForLife
 Description: Gioca a WinForLife, Genera i tuoi numeri preferiti, controlla le vincite online e tanto altro! For Italian users Only.
 Author: Alberto Gizzi <alfamitoclip@yahoo.it>
 
-Package: com.hackthatifone.actogglebossprefs
-Version: 4.0
-Section: App Addons
-Maintainer: HackThatiFone <htifrepo@gmail.com>
-Depends: com.bigboss.bossprefs
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/htif_actogglebossprefs_4.0.deb
-Size: 2518
-SHA256: 9ec060f481f6c8c32c74800f8f57fbfd6dc96684e5ea845ea79df0d1f83f1265
-Name: ACtoggle BossPrefs Addon
-Description: Auto-correction toggle. Works with All keyboard languages.
-Author: Yuri2017 <yuri2017@yuri2017.net>
-
 Package: com.hackthatifone.icoming
 Version: 1.2
 Section: Utilities
@@ -22513,20 +22266,6 @@ SHA256: 70658bf78e220375c601602a61cbea16cb564fc6532ae9166c42d1c62a0b998b
 Name: SBTaps
 Description: toggle system functions by tapping statusbar icons
 Author: Hydri <twitchtv.hydri@gmail.com>
-
-Package: com.hypernado.twitlock
-Version: 2.1
-Priority: optional
-Section: Cydgets (Lock)
-Maintainer: null
-Depends: cydget, preferenceloader, php, lighttpd
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/twitlock_2.1.deb
-Size: 49812
-SHA256: 982490ceb0ee11a97b94c72a2350f9b8c493b3d0ae5ac4620e7bef17ecc9c13f
-Name: TwitLock for Cydget
-Description: Twitter from the convienence of your LockScreen! Currently supports only tweeting, but im developing more features every day!
-Author: Zapp Jackson <hypernado@gmail.com>
 
 Package: com.hypernado.volumesensitivity
 Version: 1.0
@@ -24391,18 +24130,6 @@ SHA256: 0faac24622e6c25ba3edff4b133a8baf866b3b2cd04b06d8313d01b195325423
 Name: KeekCopied
 Description: For copy Direct video link in Keek app.
 Author: Hatem Fayed <php3man@gmail.com>
-
-Package: com.ihelpiphone.smokingcydget
-Version: 1.0
-Section: Cydgets (Lock)
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/smokingcydget_1.0.deb
-Size: 4808
-SHA256: 6d74c0483d0e1aac78e0639733dd8c49d9564d36aa34b43de6c59a348fcef372
-Name: Smoking Cydget
-Description: Smoking cydia CYDGET! See the effects smoking has on your money and health with the Smoking Cydget!
-Author: Mike Hawke <revoiphone@gmail.com>
 
 Package: com.iicall.ailiaoproduction
 Version: 1.1.5
@@ -28133,19 +27860,6 @@ Name: Password Generator
 Description: You can finally generate passwords for free with no charge right on your iPhone or iPod Touch! This app also will email it to you if you like. Download now!
 Author: John Perez <johnperez1672@yahoo.com>
 
-Package: com.jmeosbn.appquit
-Version: 0.95-1
-Section: App Addons
-Maintainer: null
-Depends: mobilesubstrate, libactivator, com.jmeosbn.simplealert
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/appquitactivatoraction_0.95-1.deb
-Size: 5910
-SHA256: e0bd242113f3571b1d1d9e3f5871f33579e26d32a7d3cafb10a15a64cdfa7447
-Name: AppQuit Activator Actions
-Description: actions to Terminate current/all apps
-Author: Jamie Osborne <jmeosbn.ios@gmail.com>
-
 Package: com.jmeosbn.gonative
 Version: 0.98-1
 Section: Tweaks
@@ -28532,110 +28246,6 @@ SHA256: 1602349265ec686584e997ab12cf4c2e6749ff3899f90f77ee80a504b427811f
 Name: QubeTown Jailbreak Bypass
 Description: Bypass the QubeTown jailbreak detection.
 Author: Joka <jooeeeee@hotmail.com>
-
-Package: com.jokes.animals
-Version: 1.1
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.jokes
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/animals_jokes_1.1.deb
-Size: 2293380
-SHA256: 43d930fbdcc8bbcfb6e36703281e4332d27a20d58fd8e820a8f28267f0233837
-Name: Animals Jokes
-Description: Animals Jokes add-on for Jokes app
-Author: Jay Gooch <Jayman5446@yahoo.com>
-
-Package: com.jokes.dirtyjokes
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.jokes
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/dirtyjokes_1.0.deb
-Size: 792862
-SHA256: 069d04a4c01d338b50054543d96aaf6b8a9326bedbbee6dc1020909d8bb8b69e
-Name: Dirty Jokes
-Description: Dirty Jokes add-on for Jokes app
-Author: Diego Huyke <diegohuyke@gmail.com>
-
-Package: com.jokes.kornyjokes
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.jokes
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/kornyjokes.deb
-Size: 264202
-SHA256: 19e86a16896b4ecdd896b2fe5e5546d7a3c828b1b4b87fecd881aab4ac71eeaf
-Name: Korny Jokes
-Description: Korny Jokes add-on for Jokes app
-Author: Diego Huyke <diegohuyke@gmail.com>
-
-Package: com.jokes.marriage
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.jokes
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/marriage_1.0.deb
-Size: 1135850
-SHA256: 36a459b2ae1db78d3edd8768b411492e24cc7a1814437f5b52374927dc077294
-Name: Marriage
-Description: Marriage Jokes add-on for Jokes app
-Author: bigmcq77 <bigmcq77@aim.com>
-
-Package: com.jokes.musician
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.jokes
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/musician_jokes_1.0.deb
-Size: 1716798
-SHA256: 9d97fcb67f485d91d3930515b49073d749c91fc5826dad79a5a7a3a7a02d9374
-Name: Musician Jokes
-Description: Musician Jokes add-on for Jokes app
-Author: Jay Gooch <Jayman5446@yahoo.com>
-
-Package: com.jokes.questions
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.jokes
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/questions_1.0.deb
-Size: 439134
-SHA256: f681f00e176574c99f33d8cf6cd4fff4edd4200ec57dd8104fd2b20b5576b729
-Name: Questions
-Description: Questions Jokes add-on for Jokes app
-Author: bigmcq77 <bigmcq77@aim.com>
-
-Package: com.jokes.santabanta
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.jokes
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/santabanta_1.0.deb
-Size: 2364530
-SHA256: 0ccc11b50ce3803154a91986b4d2b82d7e21554d17e566bc2ffc28734e48f59f
-Name: SantaBanta
-Description: SantaBanta add-on for Jokes app
-Author: Sayam <sayam_aggarwal_93@hotmail.com>
-
-Package: com.jokes.yomama
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.jokes
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/yomama_jokes_1.0.deb
-Size: 156332
-SHA256: 554783d6f85f739211988d64216c2792416506ed9406516e986c53ea072f9b01
-Name: Yo Mama Jokes
-Description: Yo Mama! Jokes add-on for Jokes app
-Author: Andrew Juarez <rdragona1994@yahoo.com>
 
 Package: com.jonluca.sclenses4all
 Version: 1.0-4
@@ -29176,32 +28786,6 @@ Name: NetflixSubtitleFix
 Description: Change subtitles size in Netflix app
 Author: Joshua Seltzer <joshua.seltzer90@gmail.com>
 
-Package: com.jpifher.apacheswitchbossprefs
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.bossprefs
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/apacheswitchbossprefs_1.0.deb
-Size: 2710
-SHA256: a16d51fde4263c8ac7b13fda326cd800fb4dcb1898d721f2c14f55ae4f832fa0
-Name: Apache BossPrefs Switch
-Description: Turn Apache on and off with bossprefs
-Author: Jacob Pifher <pifanater@gmail.com>
-
-Package: com.jpifher.lighttpdswitchbossprefs
-Version: 2.0
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.bossprefs, lighttpd
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/lighttpdswitchbossprefs_2.0.deb
-Size: 27946
-SHA256: e95beb4ad37f1619a3768cb48f43ce767d6aa60132f1025555e1cdaf3cb1cc12
-Name: lighttpd Switch for bossprefs
-Description: Turn your own lightttpd on and off with bossprefs
-Author: Jacob Pifher <pifanater@gmail.com>
-
 Package: com.jpifher.phppod
 Version: 4.0
 Section: Utilities
@@ -29647,19 +29231,6 @@ Name: MicroPlayer
 Description: Sleek systemwide music player; Spotify, Apple Music, Soundcloud and more
 Author: IndieDevKB <Kanebuckthorpe@live.co.uk>
 
-Package: com.kanthj.sivagajanpgraphyss
-Version: 2.0
-Section: App Addons
-Maintainer: null
-Depends: com.wynd.perpage
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/sivagajanphotoperpagehtml_2.0.deb
-Size: 66328
-SHA256: 134f6af55f3b09523fe71e139823d5e29e0c0b54a1dae0c89bcf31271d85bb30
-Name: Sivagajan Photo Slideshow PerPageHTML Widget
-Description: PerPageHTML Slideshow featuring Sivagajan photos
-Author: Umakanth <umakanth.eng@gmail.com>
-
 Package: com.kayceepress.auto3g
 Version: 3.0.2
 Section: Tweaks
@@ -29725,19 +29296,6 @@ Size: 285740
 SHA256: deaebcb86b277099b4a0dd74f36404c40c47c506c972a9a44dad371956634b82
 Name: iDitDahText
 Description: Type text fast using morse code!
-Author: Marc Vaillant (kb1ooo) <kb1ooo@kb1ooo.com>
-
-Package: com.kb1ooo.iditdahtextfonts
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: com.kb1ooo.iditdahtext (>= 1.2)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/iditdahtextfonts_1.0.deb
-Size: 3185094
-SHA256: 66373d793b16bc90d8a88d85043b0657fde6f9b4f84aeb54f67a699d8e1f5dda
-Name: iDitDahText Fonts
-Description: Additional fonts for iDitDahText
 Author: Marc Vaillant (kb1ooo) <kb1ooo@kb1ooo.com>
 
 Package: com.kb1ooo.snappy5
@@ -29874,18 +29432,6 @@ SHA256: ad1557e5bd26a38e8238fce4a52e6c8eb7b376f9f42662d50552f58fa10de3f4
 Name: WeChatRedEnvelopesHelper
 Description: 微信自动抢红包助手
 Author: kevll <kevliule@gmail.com>
-
-Package: com.kikenkun.kensaquickcydget
-Version: 1.0
-Section: Cydgets (Lock)
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/kensaquickcydget_1.0.deb
-Size: 9136
-SHA256: bb7da4495a62f30121f3eefe98137ff4fccf9e219b6c7a36b2e9b294cd74955e
-Name: Kensaquick Cydget
-Description: JAPANESE Quick search on Lock Screen
-Author: kikenkun <kikenkun@gmail.com>
 
 Package: com.kinansaeb.unlimsafaritabs
 Version: 0.0.1-1
@@ -33328,84 +32874,6 @@ Name: aTimeTool
 Description: Auto on/off airplane mode, power, edge, 3G, Location, bluetooth, wi-fi and ssh at pre-defined time. Support silent,pushmail,notifications,ring vibrate and silent vibrate toggle. Only support 3.0+ OS.
 Author: niufenfen <niu-fenfen@live.cn>
 
-Package: com.mcleaner.atimetooltogglefetch
-Version: 1.1
-Section: App Addons
-Maintainer: null
-Depends: com.mcleaner.aTimeTool (>= 1.2)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/atimetooltogglefetch_1.1.deb
-Size: 3054
-SHA256: 58b35d522666d86d3828272c79b279f8ce5bb5373e99dba9d37cdf1f5bfcce95
-Name: aTimeTool_Toggle_Fetch
-Description: aTimeTool Fetch Toggle. Auto set fetch mail manually/every 15 minutes at pre-defined time.
-Author: niufenfen <niu-fenfen@live.cn>
-
-Package: com.mcleaner.atimetooltogglenotifications
-Version: 1.1
-Section: App Addons
-Maintainer: null
-Depends: com.mcleaner.aTimeTool (>= 1.2)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/atimetooltogglenotifications_1.1.deb
-Size: 2836
-SHA256: 87d6572f773354baae41066c818d13cf639834965f5865cfe3d8662c0c8e9bf9
-Name: aTimeTool_Toggle_Notifications
-Description: aTimeTool Notifications Toggle. Auto on/off Notifications at pre-defined time.
-Author: niufenfen <niu-fenfen@live.cn>
-
-Package: com.mcleaner.atimetooltogglepush
-Version: 1.3
-Section: App Addons
-Maintainer: null
-Depends: com.mcleaner.aTimeTool (>= 1.2)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/atimetooltogglepush_1.3.deb
-Size: 3012
-SHA256: 64f50e5940e1e7a63b3aac6d6e7e0b6a938483d385326d96e4676729e14b67d8
-Name: aTimeTool_Toggle_PushMail
-Description: aTimeTool PushMail Toggle. Auto on/off Push Mail at pre-defined time.
-Author: niufenfen <niu-fenfen@live.cn>
-
-Package: com.mcleaner.atimetooltoggleringvibrate
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: com.mcleaner.aTimeTool (>= 1.2)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/atimetooltoggleringvibrate_1.0.deb
-Size: 2918
-SHA256: 65fa1fba3e6c818bc8e8e2d413c96bea8d4db72e9a861fa6e3f0224b7624f79b
-Name: aTimeTool_Toggle_RingVibrate
-Description: aTimeTool Ring Vibrate Toggle. Auto on/off ring vibrate at pre-defined time.
-Author: niufenfen <niu-fenfen@live.cn>
-
-Package: com.mcleaner.atimetooltogglesilent
-Version: 1.4
-Section: App Addons
-Maintainer: null
-Depends: com.mcleaner.aTimeTool (>= 1.2)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/atimetooltogglesilent_1.4.deb
-Size: 4474
-SHA256: 491e2e7dbabacc9a18af45075878a7fc0c4f30acadf60cbcfe689acdeb58f6c3
-Name: aTimeTool_Toggle_Silent
-Description: aTimeTool Silent Toggle. Auto on/off silent mode at pre-defined time. When silent mode on, it will set ringone volume to 0, set sms,emails,calendar events,voice mail sound off. When off silent mode, will return to original state.
-Author: niufenfen <niu-fenfen@live.cn>
-
-Package: com.mcleaner.atimetooltogglesilentvibrate
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: com.mcleaner.aTimeTool (>= 1.2)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/atimetooltogglesilentvibrate_1.0.deb
-Size: 2916
-SHA256: c4ca4f62b08fad137fe3fb8eb26fe942c2f1f76d1c564fdc62e62d7a5df9da74
-Name: aTimeTool_Toggle_SilentVibrate
-Description: aTimeTool Silent Vibrate Toggle. Auto on/off silent vibrate at pre-defined time.
-Author: niufenfen <niu-fenfen@live.cn>
-
 Package: com.mcnight.nowlistening
 Version: 1.9.9.9-1
 Section: Tweaks
@@ -35981,19 +35449,6 @@ SHA256: 06a07082c638a9d2093c6b7b143a958a19d8d6c3bb4460c53ebec150c93b71cf
 Name: ZoomUp
 Description: move the zoom button up in the Camera app
 Author: NickSB2013 <nicksb2013@gmail.com>
-
-Package: com.niles.ipplugin
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: com.wynd.perpage
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/whatsmyipperpage_1.0.deb
-Size: 1100
-SHA256: 997bb59cf72f8a1017d641b5bb7c44e336476d070b2bb722314b3f3b7760b6c0
-Name: WhatsMyIP PerPageHTML Plugin
-Description: PerPageHTML addon shows IP address on wallpaper
-Author: Niles Rogoff <nilesrogoff@gmail.com>
 
 Package: com.nin9tyfour.bouncenotify
 Version: 1.0.1-1
@@ -39917,19 +39372,6 @@ Name: BarMagnet
 Description: Remotely control popular torrent clients
 Author: Carlo Tortorella <carlo.tortorella@me.com>
 
-Package: com.quiksand.bpflushinetfiles
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.bossprefs
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bpflushinetfiles_1.0.deb
-Size: 3226
-SHA256: 944f56f02a41a9be26a6e8b741280853a50cbac7983874f994b096f3c6935d28
-Name: Flush Inet Files BossPrefs Toggle
-Description: Remove History and Cookies files without having to navigate to Settings > Safari > to clear them.
-Author: Quiksand <webbt@zapps.com>
-
 Package: com.qwertyoruiop.homepage
 Version: 0.0.1-7
 Section: Tweaks
@@ -40665,19 +40107,6 @@ Name: Reveal Loader
 Description: dynamically loads Reveal into applications
 	RevealLoader dynamically loads libReveal.dylib (Reveal.app support) into iOS apps on jailbroken devices. Configuration is via the Reveal menu in Settings.app. For more info, see http://github.com/heardrwt/RevealLoader and http://revealapp.com
 Author: Richard Heard <cydia@rheard.com>
-
-Package: com.rherman.holybibileindonesianbookreader
-Version: 1.0.1-1
-Section: App Addons
-Maintainer: null
-Depends: com.jaw.bookreader
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/holybibileindonesianbookreader_1.0.1-1.deb
-Size: 1536750
-SHA256: a40c40ad79d361541fb8f6ae04347dd162a161a33401dde3f0e5fd7c37780d05
-Name: Holy Bible in Indonesian (BookReader)
-Description: Holy Bible - Indonesian version This is an add-on for the "BookReader" application
-Author: Romeo Herman <romeoherman@gmail.com>
 
 Package: com.rhinoise.vkmusic
 Version: 1.0-1
@@ -41507,32 +40936,6 @@ SHA256: 76ef7440e288bcdedb699608823b95c3d0d99e0421e8db8a017735839adb10eb
 Name: MesaVibrate
 Description: vibrate when fingerprint is rejected on lockscreen
 Author: rootwheel <rootwheel@i.hs.vc>
-
-Package: com.roverturbo.lockdock
-Version: 1.3.3
-Section: Cydgets (Lock)
-Maintainer: null
-Depends: cydget, preferenceloader
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.roverturbo.lockdock_v1.3.3.deb
-Size: 48296
-SHA256: 43609c0fd04ca11738dd1aa7adcf07533fe37a878957cacadeb45f7aed75f72c
-Name: LockDock
-Description: Build an icon dock for lockscreen. From 1x1 to 4x5.
-Author: roverturbo <uc_roverturbo@hotmail.co.uk>
-
-Package: com.roverturbo.lockdocklite
-Version: 1.1.7
-Section: Cydgets (Lock)
-Maintainer: null
-Depends: cydget
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/lockdocklite_1.1.7.deb
-Size: 46806
-SHA256: 88ffa735fe483d1a58f0a40ef36d8d269e0f4da45f058b035e4d249fcf7c513d
-Name: LockDock Lite
-Description: Build an icon dock for lockscreen. Limited version
-Author: roverturbo <uc_roverturbo@hotmail.co.uk>
 
 Package: com.rpetrich.activoice
 Version: 1.0.1
@@ -43075,19 +42478,6 @@ SHA256: 78d143e628888c68dc1626d0f0feb9bc4c16480ac90937118503c9715e5bfe29
 Name: MusicWidget
 Description: easy access your music controls
 Author: Samball <samball.dev@gmail.com>
-
-Package: com.samball.notificationgrip
-Version: 4.0.5
-Section: App Addons
-Maintainer: Bigboss <bigboss@thebigboss.org>
-Depends: mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/notificationgrip_4.0.5.deb
-Size: 599584
-SHA256: 77e1e73c970f5b3501481db57518f9335e8726caaf31b5326c755ee27639ab4b
-Name: Notification GriP for Notified Pro
-Description: A new notification in GriP style
-Author: Samball <mark@devocht.net>
 
 Package: com.samball.remindmeagain
 Version: 0.9
@@ -46571,21 +45961,6 @@ Name: Switcher Speedster
 Description: Speed up the iOS 9 switcher.
 Author: Raymond Velasquez <at.supermamon@gmail.com>
 
-Package: com.supernes.whirlpool
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/whirlpool_1.0-1.deb
-Size: 164326
-SHA256: 2e14965bbc2f3a27d0ffce3a102e0092f738fb73f9189469ab3aefe7d74174cd
-Name: Whirlpool
-Description: Download torrents remotely from Safari
- A Mobile Safari plugin that recognizes BitTorrent
- files and downloads them on your home PC or Mac
- running the Transmission client.
-Author: supernes <snes.iphone@gmail.com>
-
 Package: com.supernova.gmail
 Version: 0.0.1-1
 Section: Tweaks
@@ -46761,63 +46136,6 @@ SHA256: f8fe2a2bcc31fc83bd2b5a7193e05d5b9a1f60d9ba19b4c2b630ad0f32898db4
 Name: WeChatRedEnvelop
 Description: 微信抢红包插件
 Author: Zhichao Yang <wordbeyondyoung@gmail.com>
-
-Package: com.swirlyspace.appsupport
-Version: 1.0.1
-Priority: optional
-Section: App Addons
-Maintainer: null
-Depends: sqlite3-lib (>= 3.5)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/swirlysupport_1.0.1.deb
-Size: 16232
-SHA256: 7bf18f06c9142bd21507d615285fc9a24fa156e3d1607215c50371bd765a4e22
-Name: swirlyappsupport
-Description: SwirlySpace app support libs
-Author: SwirlySpace AB <mats@swirlyspace.com>
-
-Package: com.swirlyspace.swirlyscreen
-Version: 2.1.6
-Priority: optional
-Section: Cydgets (Lock)
-Maintainer: null
-Depends: mobilesubstrate (>= 0.9.3005-1), firmware (>= 3.0), cydget, preferenceloader, com.swirlyspace.appsupport
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.swirlyspace.swirlyscreen_v2.1.6.deb
-Size: 1280760
-SHA256: e63264d2efe786707ad14c1d91e865ac300620fcc69bb66a830e6c4698c2de29
-Name: SwirlyScreen
-Description: A Speaking Lock-screen Cydget with clock/week, weather, fotos etc
-Author: SwirlySpace AB <SwirlyScreen@swirlyspace.com>
-
-Package: com.swirlyspace.weekincalendar
-Version: 1.4.3
-Priority: optional
-Section: App Addons
-Maintainer: null
-Depends: mobilesubstrate (>= 0.9.3005-1), firmware (>= 3.0), preferenceloader
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/weekincalendar_1.4.3.deb
-Size: 19610
-SHA256: 3d9ba94ad727ca770997e6271b2d0f742739a64da9eaa7396f153d105b83e641
-Name: WeekInCal by Swirly
-Description: An extension for the built-in Calendar app that shows the week number *within* the calendar as well as on its icon
-Author: SwirlySpace AB <mats@swirlyspace.com>
-
-Package: com.swirlyspace.weekincalendar2
-Version: 1.1.1
-Priority: optional
-Section: App Addons
-Maintainer: null
-Depends: mobilesubstrate (>= 0.9.4001), firmware (>= 3.0), preferenceloader
-Conflicts: com.swirlyspace.weekincalendar
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.swirlyspace.weekincalendar2_v1.1.1.deb
-Size: 52262
-SHA256: 8fb7bb84a9905d9e66078ad851d962236760f8c51bd5e4f023a8863a65a22015
-Name: WeekInCal++
-Description: An extension for the built-in Calendar app that shows the week number *within* the calendar as well as on its icon
-Author: SwirlySpace AB <mats@swirlyspace.com>
 
 Package: com.sylar.turkishfullqwerty
 Version: 1.2
@@ -49116,34 +48434,6 @@ Size: 69306
 SHA256: 6fa1581b859f882ed04f9adee769f73352e1f46711f87d4288f9841b6f23fd0c
 Name: iconNotifier
 Description: Icon-based scrolling notifications system
-Author: Trinitus01 <trinitus01@googlemail.com>
-
-Package: com.trinitus.nbfn
-Version: 0.0.2-11
-Section: App Addons
-Maintainer: Bigboss <bigboss@thebigboss.org>
-Depends: mobilesubstrate, com.zimm.libdisplaystack, preferenceloader, com.trinitus.notifiedaddon
-Conflicts: com.trinitus.nbfn
-Replaces: com.trinitus.nbfn, com.trinitus.NotifiedBar
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/nbfn_0.0.2-11.deb
-Size: 203080
-SHA256: 79c004005bdb3128c6947fdcff4993f921976b7253e49b125f1acf355918eda1
-Name: NotifiedBar for Notified Pro
-Description: new notification bar for Notified Pro
-Author: Trinitus01 <trinitus01@googlemail.com>
-
-Package: com.trinitus.notifiedaddon
-Version: 0.0.2-7
-Section: App Addons
-Maintainer: Bigboss <bigboss@thebigboss.org>
-Depends: mobilesubstrate, preferenceloader, com.ashman.libweather
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/notifiedaddon_0.0.2-7.deb
-Size: 12546
-SHA256: 69bdad94b5bb05ecf0a81e556d5d1bf12182a42ac1975a04d2b6ae9d82f6fd16
-Name: NotifiedAddon
-Description: Notified Pro extras: Music, battery, memory, itunes
 Author: Trinitus01 <trinitus01@googlemail.com>
 
 Package: com.trinitus.perpage
@@ -52451,22 +51741,6 @@ Name: WiFi助手
 Description: wifi免费共享软件，可无需密码直接连接!
 Author: wifizhushou <wifizhushou@163.com>
 
-Package: com.wiki.wikisrvd-bossprefs
-Version: 1:1.0
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.bossprefs, com.wiki.wikisrvd
-Conflicts: com.wiki.wikisrvd-bossprefs
-Provides: com.wiki.wikisrvd-bossprefs
-Replaces: com.wiki.wikisrvd-bossprefs
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/wiki2touchswitchbossprefs_1.0.137.deb
-Size: 2960
-SHA256: dacdc14b2bdf70c27caacaa5bbf12de76040ee12cdffa22599f00820a6900cec
-Name: Wiki2Touch BossPrefs Switch
-Description: Turn Wiki2Touch Server on and off with BossPrefs.
-Author: Tom Haukap
-
 Package: com.willstrafach.camerapreviewdisabler
 Version: 1.0.0-1
 Section: Tweaks
@@ -54100,18 +53374,6 @@ Name: iProxifyPad
 Description: Anonymous web browsing through dedicated servers. Your privacy is guaranteed to be safe.
 Author: Yvan Janssens <yvan@yvansoftware.be>
 
-Package: com.yvansoftware.newyearscountdowncydget
-Version: 1.2
-Section: Cydgets (Lock)
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/newyearscountdowncydget_1.2.deb
-Size: 9868
-SHA256: e66c9fd1e083d2d6207c5fd2287f3789246e2a67fe8116f7be34afc16ef77c8c
-Name: New Years Countdown Cydget
-Description: A countdown cydget that will show fire works on New Years
-Author: fman23 <fkmclane@gmail.com>
-
 Package: com.zachatrocity.exsto
 Version: 0.0.1.2-1
 Section: Tweaks
@@ -55589,279 +54851,6 @@ Name: DreamCoin
 Description: customizable actions for special app icon
 Author: ClausCartel <unibo.trippa@gmail.com>
 
-Package: eu.heinelt.doc-ifile-am
-Version: 1.0.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.0.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-am_1.0.0-1_all.deb
-Size: 1344062
-SHA256: 2eedd6920f39c05cb652bcbd56193383c54685dc365276c0f6c072c57ffe3b1d
-Name: iFile Documentation (am)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-ar
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-ar_1.2.0-1_all.deb
-Size: 1949262
-SHA256: d8f2a26963382839abfd034a81948aa18890be7815d0542fca921a444a332c2a
-Name: iFile Documentation (ar)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-cs
-Version: 1.2.1-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.1-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-cs_1.2.1-1_all.deb
-Size: 1961122
-SHA256: 2734494d29a0e5de065e3620e7fddd5dfd50c4107ea7a30776ae2e425cfcdaa5
-Name: iFile Documentation (cs)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-de
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-de_1.2.0-1_all.deb
-Size: 2051940
-SHA256: 7e6a24d1c624adedbbb20345cf344a3c054b5f40f6e0744842e098b6d693790f
-Name: iFile Documentation (de)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-el
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-el_1.2.0-1_all.deb
-Size: 2069326
-SHA256: e39a35d3f125b30cd247f0683ffb0711a29e2ccf7d5cab90ce4f1b6503f218ef
-Name: iFile Documentation (el)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-en
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-en_1.2.0-1_all.deb
-Size: 2009980
-SHA256: 3c9f32dfcee46263afa07875171d034b0715a0c04c3b1c7f3b4bc9778aadd4ac
-Name: iFile Documentation (en)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-es
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-es_1.2.0-1_all.deb
-Size: 2010712
-SHA256: 0ffee6f91733867e2c4d01347fb4c1a831b5f55a4aa04779abea502b4da6361f
-Name: iFile Documentation (es)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-fi
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-fi_1.2.0-1_all.deb
-Size: 1999204
-SHA256: 66eb03cf4e59f1b0d5d679063946bdf2948f7f89d9eaaab71adfa6e8b801f856
-Name: iFile Documentation (fi)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-fr
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-fr_1.2.0-1_all.deb
-Size: 1993416
-SHA256: 37ccac985f8e64c9771aae868b0216d5430711d6047b447e300ec9c820cdd3d3
-Name: iFile Documentation (fr)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-hr
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-hr_1.2.0-1_all.deb
-Size: 1984404
-SHA256: 59b4bada0b97009a8b3b9ab6a746c12022fe03084ce14fc254b0b9dd42c85f3a
-Name: iFile Documentation (hr)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-it
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-it_1.2.0-1_all.deb
-Size: 2015440
-SHA256: d9bcd244a38bcd808edd7de4413286bc9ac58b836045532a541f677fa9e67a74
-Name: iFile Documentation (it)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-ja
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-ja_1.2.0-1_all.deb
-Size: 2006642
-SHA256: a8afcd75398a04af1509561a5a80c9fbbbd88dfa3065274e841cbab81ea51926
-Name: iFile Documentation (ja)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-nl
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-nl_1.2.0-1_all.deb
-Size: 2011122
-SHA256: 8b5a6e4bcff2a721bbc9cf08c6a0d0e71a4b4e2c57c6010beee0866a205bc077
-Name: iFile Documentation (nl)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-pl
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-pl_1.2.0-1_all.deb
-Size: 2022370
-SHA256: 580d30bcb5b8eea88bdf004508eed6067167dab330ba418dce5aa1b6b415699d
-Name: iFile Documentation (pl)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-pt
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-pt_1.2.0-1_all.deb
-Size: 2024128
-SHA256: b811f67342aa560ec4022eadaf45630ee8431cbc52a0acc304321096627076ff
-Name: iFile Documentation (pt)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-ru
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-ru_1.2.0-1_all.deb
-Size: 2065012
-SHA256: e7802d1d2103553567a4000ee0b06302c8b311e920a4ac1d07b057619a2ada7f
-Name: iFile Documentation (ru)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-sk
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-sk_1.2.0-1_all.deb
-Size: 2004054
-SHA256: 57a0541071c20ae97f032790ff1358312ca77055ae336291520fbd56e8b83ab8
-Name: iFile Documentation (sk)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-tr
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-tr_1.2.0-1_all.deb
-Size: 1998986
-SHA256: b09ebaedc4430da327350d519aa840b0eb6c0b90e941531ae5404883f7e69a61
-Name: iFile Documentation (tr)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-uk
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-uk_1.2.0-1_all.deb
-Size: 2022228
-SHA256: 7728390f2e7320959bf10be47faded12b334b9665057d57c5e098bbf83ce39b4
-Name: iFile Documentation (uk)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-zhcn
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-zhcn_1.2.0-1_all.deb
-Size: 1980884
-SHA256: 3869b6373e4789bd386a796c16eca929bffa54c4cad552d4b57f8c63efcc02e3
-Name: iFile Documentation (zh_CN)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
-Package: eu.heinelt.doc-ifile-zhtw
-Version: 1.2.0-1
-Section: App Addons
-Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
-Depends: eu.heinelt.ifile (>= 1.2.0-1)
-Architecture: all
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eu.heinelt.doc-ifile-zhtw_1.2.0-1_all.deb
-Size: 2010314
-SHA256: 03c131445c6676916e597fa38a600d121db612c35799e971ed9ffe5215c8cff8
-Name: iFile Documentation (zh_TW)
-Description: iFile Documentation. This is the localized documentation for iFile.
-Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
-
 Package: eu.heinelt.ifile
 Version: 2.2.0-1
 Section: System
@@ -56036,19 +55025,6 @@ Size: 639544
 SHA256: 3913643110083ef160962682349b4aef93f808a6565fb0f0805e73315cc2e53f
 Name: Freepops
 Description: An extensible mail proxy. Its primary use is to allow checking and downloading of e-mail from webmails from any conventional POP3 client program like Yahoo!, Hotmail, AOL
-Author: www.freepops.org <onaips@gmail.com>
-
-Package: freeppopsbossprefs
-Version: 1.0-1
-Section: App Addons
-Maintainer: null
-Depends: freeppops, com.bigboss.bossprefs
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bpfreepop.deb
-Size: 2366
-SHA256: 4039c65b936a2b08f622257fab46a01f453b0b7ec025ac6d6d4dcd010aea93c0
-Name: Freepops BossPrefs Toggle
-Description: Toggle the freepops control on and off with ease inside BossPrefs.
 Author: www.freepops.org <onaips@gmail.com>
 
 Package: fun.asmo.wechatfriendcheck
@@ -56293,19 +55269,6 @@ SHA256: 87f3761040f72944dd269c118839ee7fc21a9d5142fb2ced6501ef16af685f4e
 Name: HapticPro
 Description: Customizable haptic feedback for the keyboard, buttons and more!
 Author: Ryan Petrich <rpetrich@gmail.com>
-
-Package: hk.alim.amharicfont
-Version: 1.0-3
-Section: App Addons
-Maintainer: Ali M <ali@chronzz.com>
-Depends: com.gauravgiri.fontswap
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/amharic_font_1.0-3.deb
-Size: 890722
-SHA256: 2f2859650cbd6bbd30e8c44d38b4d5e38817081c8eb75bb145c086cd12e2a30b
-Name: Amharic Font
-Description: Amharic Font for FontSwap app
-Author: Ali M <ali@chronzz.com>
 
 Package: hk.alim.arabic5row
 Version: 1.0
@@ -56560,19 +55523,6 @@ SHA256: 74e6e17e9ada9d4ed5b23bb736a6eb2d5cce4a35785313814682f3894a5fc458
 Name: QuickScroll 2
 Description: Quickly scroll through anything. PDF paging. Initiate with two-finger or triple tap.
 Author: KennyTM~ <kennytm+QuickScroll@gmail.com>
-
-Package: hk.sabek.amargnafont
-Version: 1.0-1
-Section: App Addons
-Maintainer: Ermiyas Sabek <ermiyelt@gmail.com>
-Depends: com.gauravgiri.fontswap
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/amargna_font_1.0-1.deb
-Size: 890744
-SHA256: 4f1307ef0d150224e8f9e1d154cfd7b9edf1959a0d8abb0e96c78db172937a2e
-Name: Amargna Font
-Description: Amargna Font for FontSwap app
-Author: Ermiyas Sabek <ermiyelt@gmail.com>
 
 Package: hk.sabek.amharic
 Version: 2.0-1
@@ -58197,19 +57147,6 @@ Name: TapTweetPlus
 Description: tweet button to insert Now Playing info
 Author: IPON３G <ipon3gml@gmail.com>
 
-Package: jp.r-plus.actionmenuwikipanion
-Version: 0.5-1
-Section: App Addons
-Maintainer: null
-Depends: actionmenu, mobilesubstrate
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/actionmenuwikipanion_0.5-1.deb
-Size: 11404
-SHA256: 96b9eb809a961a6b466eddc47976363aef774330d4578449bc81759927ebe7db
-Name: WikiApps ActionMenu Plugin
-Description: perform word search; Articles/Wikipanion/Wikiamo app
-Author: r_plus <anasthasia.r@gmail.com>
-
 Package: jp.r-plus.autoscroller
 Version: 0.0.1-2
 Priority: optional
@@ -58701,19 +57638,6 @@ SHA256: c8460b946def8b30ff97a5957e5442d2fe5264e69c1298ffd67a277a1c0a2edd
 Name: Tapp
 Description: launch multiple applications using a single icon
 Author: rono23 <rono23@gmail.com>
-
-Package: jp.tom-go.actionmenuvoice
-Version: 0.6-4
-Section: App Addons
-Maintainer: null
-Depends: firmware(>= 3.1), preferenceloader, actionmenu
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/actionmenuvoice_0.6-4.deb
-Size: 11394
-SHA256: 0582f85ec2ab89b74e7662c72366112c525673512e0bb31e1c03cd8b43b873ad
-Name: Voice ActionMenu Plugin
-Description: plugin for reading aloud text selection
-Author: tom-go <tomgo.76@gmail.com>
 
 Package: jp.tom-go.backforwardlist
 Version: 1.1-1
@@ -61878,19 +60802,6 @@ Name: CopierciN
 Description: Copy and Paste on your iPhone! An extended text editor with copy/paste functionality and import/export features among different applications (SMS, Mail and Notes for now). Be aware that it is still beta and make sure to read release notes at http://copiercin.gomercin.net before using it.
 Author: GomerciN <gomercin@gmail.com>
 
-Package: net.guilleme.actionmenuicoz
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: actionmenu
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/actionmenuicoz_1.0.deb
-Size: 9402
-SHA256: a0fbb71c9c456d319a9f422ef71273e52db2c843b135a2cd5d5afc9bc7d3f8a9
-Name: iCoz for ActionMenu
-Description: Speak highlighted text from ActionMenu. 3GS Only.
-Author: Francois Guilleme <francois@guilleme.net>
-
 Package: net.howett.blanknull
 Version: 1.1.0
 Section: Tweaks
@@ -61949,19 +60860,6 @@ SHA256: 2b3c6d611144a25ff1c4ca301b443f1037638b2012861b703eb8c7d2b12beaa5
 Name: SCStoryTimer
 Description: restore the story timer which snapchat removed in 10.8.0.0+
 Author: Ibrahim <ii_qa@live.com>
-
-Package: net.ichi2.ankiminibp
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: com.bigboss.bossprefs, net.ichi2.ankimini
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bp_anki_mini_1.0.deb
-Size: 882
-SHA256: 559f6c6f5654aa9c9bae1b731c8b4dee2bdb0f2d62339b86fa360a291475efc3
-Name: BossPrefs AnkiMini
-Description: BossPrefs AnkiMini toggle.
-Author: Damien Elmes <resolve@ichi2.net>
 
 Package: net.infinitelabs.mover.edge
 Version: 3.2
@@ -62653,21 +61551,6 @@ Description: Data & HotSpot Bandwidth Monitor
 	This tweak is a money-saver! It allows you to monitor the cellular data traffic, live on your statusbar.  While you browse in any networking application such as safari, facebook, youtube, twitter etc,  you can watch the data bandwidth usage right on your statusbar, ensuring you won't exceed your data plan's limit, plus knowing what does an application actually download in MBs. It also shows live data usage for Personal Hotspot clients! Customizations allow you to set what should be shown in real time. You can also specify a bandwidth limit in MB so you will be notified if you exceed it. It also adds a LIFETIME data usage in its settings.
 Author: Elias Limneos <iphone@limneos.net>
 
-Package: net.limneos.dockaddonsbsettings
-Version: 1.20
-Section: App Addons
-Maintainer: null
-Depends: firmware (>= 4.0), mobilesubstrate, sbsettings, preferenceloader, com.chpwn.iconsupport
-Conflicts: com.chpwn.infinidock, com.chpwn.infinifolders, com.saurik.iphone.fid
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/net.limneos.dockaddonsbsettings_1.20.deb
-Size: 18250
-SHA256: 3a1cdb63afc44f3c3d6c4117372ef89d6f1f1104d0989c4db72bfd06aa9bb64a
-Name: ScrollingBoard SBSettings Dock
-Description: Add SBSettings Toggles to the Dock!
-	Using ScrollingBoard's library, this addon adds an extra view to your scrolling dock with SBSettings Toggles.
-Author: Elias Limneos <iphone@limneos.net>
-
 Package: net.limneos.foldersinfolders
 Version: 0.93-1
 Section: Tweaks
@@ -63099,19 +61982,6 @@ Size: 4948
 SHA256: a032a2030da8ceb853e5f8793a580b53e463167b0ae7723551413f0243c65b0c
 Name: TapClockInfo
 Description: Tap lockscreen's clock to display info
-Author: Elias Limneos <iphone@limneos.net>
-
-Package: net.limneos.twitscreen
-Version: 1.2-1
-Section: Cydgets (Lock)
-Maintainer: null
-Depends: cydget (>= 0.9.3101-1), curl, php
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_net.limneos.twitscreen_v1.2-1.deb
-Size: 428038
-SHA256: 907a82f56a0441dbc45ae441b07b7617c55d06c1bec1a77612c611115ad96869
-Name: TwitScreen
-Description: The must-have app for any Twitter fan! This cydget won't let you get off your lockscreen!
 Author: Elias Limneos <iphone@limneos.net>
 
 Package: net.limneos.vision
@@ -63588,48 +62458,6 @@ SHA256: 8e6cd455441fffa40595c8706db6d8497da717e7ce965c5137043cd7dbd61a9d
 Name: SpringBoard Invaders
 Description: classic game with your homescreen icons!
 Author: Velocity Apps <velocityapps@gmail.com>
-
-Package: net.vishun.facebookcydget
-Version: 1.0
-Priority: optional
-Section: Cydgets (Lock)
-Maintainer: null
-Depends: cydget
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/facebookcydget_1.0.deb
-Size: 2220
-SHA256: a4eb6f84a4ef728ea94e642df63990ec384d4221b8fc889b6cbc64ea2715497c
-Name: Facebook Cydget
-Description: Login and do all the magic that is iphone.facebook.com like browse your friends updates, post a status update, see your friends list, profiles, and more.
-Author: styol <kevin@vishun.net>
-
-Package: net.vishun.placescydget
-Version: 1.0
-Priority: optional
-Section: Cydgets (Lock)
-Maintainer: null
-Depends: cydget
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/placescydget_1.0.deb
-Size: 2818
-SHA256: 4d62db902944fa6d6c17d4363a25311b22bdcdbdcae5255e4f59086553e9dd07
-Name: Places Cydget
-Description: Randomly displays places you you need to see in your lifetime, along with the normal date and time view.
-Author: styol <kevin@vishun.net>
-
-Package: net.vishun.twydget
-Version: 1.2
-Priority: optional
-Section: Cydgets (Lock)
-Maintainer: null
-Depends: cydget
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/twydget_1.2.deb
-Size: 24574
-SHA256: d9c1ae17a7bb4cd573f45538a81078810c1a80b1ee6d7e7f2524e4227610dfe6
-Name: Twydget
-Description: A simple client-side Twitter Cydget client to post status updates right from your lock screen.
-Author: styol <kevin@vishun.net>
 
 Package: net.vx.theme
 Version: 1.6
@@ -66297,19 +65125,6 @@ Name: ActIf 2
 Description: Conditionals for Activator!
 Author: Jay Zuerndorfer <jzplusplus@gmail.com>
 
-Package: org.thebigboss.actionmenuoxforddeluxe
-Version: 1.0.1
-Section: App Addons
-Maintainer: null
-Depends: actionmenu, mobilesubstrate
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/actionmenuoxforddeluxe_1.0.1.deb
-Size: 2614
-SHA256: 0956d80f520c63a5540ec2b0b3f3824c5399452c4a373d7c2765ade270a7b1f5
-Name: Oxford Deluxe ActionMenu Plugin
-Description: perform word search with Oxford Deluxe app
-Author: Kurt Fredericks <Kurt Fredericks>
-
 Package: org.thebigboss.acute
 Version: 2.1
 Section: Tweaks
@@ -68014,19 +66829,6 @@ SHA256: d3708d554299f4a88434e0d1659b1a5759e9b33b8f8dba1ebb3107df84a84fdc
 Name: Brevity 2 (iOS 8)
 Description: A Shortcut for your Messages
 Author: B. Dougherty & B. Zweig <bryce.dougherty@gmail.com>
-
-Package: org.thebigboss.brightnessactivatoraction
-Version: 1.3
-Section: App Addons
-Maintainer: null
-Depends: mobilesubstrate, libactivator, preferenceloader
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/brightnessactivatoraction_1.3.deb
-Size: 5528
-SHA256: 9cf144ceabacab71f89ca83eb7e84f0fdfac1219d431d37e895c3781c074d13f
-Name: Brightness Activator Action
-Description: new brightness-setting action for libactivator
-Author: Will Homer <willfour20@sky.com>
 
 Package: org.thebigboss.browserbreadcrumbcleanup
 Version: 2.0-1
@@ -70583,19 +69385,6 @@ SHA256: eb0b2e1b9cd54f4b9906e778cb0403c40d874e753b5b5002c7ea299964330327
 Name: Yellow Flash 7.0
 Description: Highlight Flash button in Camera app like iOS 7.1
 Author: PoomSmart <poomst@hotmail.com>
-
-Package: org.thebigboss.flatweatherperpagehtml
-Version: 1.10
-Section: App Addons
-Maintainer: null
-Depends: com.wynd.perpage
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/flatweatherperpagehtml_1.10.deb
-Size: 518656
-SHA256: 398f9e80e6d49d1b5417b9259ed3a1b9a0acd7b24709dbb2fdcc29e13979753d
-Name: Flat Weather PerPageHTML Widget
-Description: PerPage addon shows weather on homescreen
-Author: Jorge Andres P?rez Garc?a <cacheton12_mx@hotmail.com>
 
 Package: org.thebigboss.flickscroll
 Version: 0.9-1
@@ -77668,19 +76457,6 @@ SHA256: 46e75214d3bab57e93300140abb097990498002f25956b67083d78f01e2cd2ff
 Name: TVLocker Pro
 Description: Lock animation like an old tv!
 Author: Bensge <bensge@me.com>
-
-Package: org.thebigboss.twitterfeedperpagehtml
-Version: 1.0
-Section: App Addons
-Maintainer: null
-Depends: com.wynd.perpage
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/twitterfeedperpagehtml_1.0.deb
-Size: 1220
-SHA256: b140a78abdf3f660a6ae60f72e8789f711adabb163453dc851ad7df78e327568
-Name: Twitter Feed PerPageHTML Widget
-Description: PerPage addon shows Twitter lists on homescreen
-Author: Jorge Andres P?rez Garc?a <cacheton12_mx@hotmail.com>
 
 Package: org.thebigboss.twitternewsenabler
 Version: 1.8-4
