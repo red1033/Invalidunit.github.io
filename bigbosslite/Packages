@@ -2286,18 +2286,6 @@ Name: Azerbaijan Latin Keyboard for iKeyEx
 Description: Keyboard layout for use with iKeyEx
 Author: 10bit <10bit@box.az>
 
-Package: com.1fenqi.betterprice
-Version: 3.0.1
-Section: Productivity
-Maintainer: 1FENQI <help@1fenqi.com>
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/better_price_3.0.1.deb
-Size: 2286548
-SHA256: 6449f065aeab4a53860c8ace6287f4c9048398f71fac498750a5d824ba56175f
-Name: BetterPrice
-Description: For China Only! Find the latest prices on the merchandises that you like and use this as a reference during your shopping. After providing the merchandise bar code or searching by keyword, "BetterPrice" will immediately provide you with the latest prices found over internet. Never overpay for anything ever!
-Author: 1FENQI <help@1fenqi.comm>
-
 Package: com.1func.xxtouch.bigboss
 Version: 1.2-3-1
 Section: Tweaks
@@ -2338,19 +2326,6 @@ SHA256: 1b7d922cff8ea40b6bccaacac0db14901aec86e5564e88644b0a0711508b5fa6
 Name: WeChatHook-微信辅助功能
 Description: 朋友圈一键转发 自动抢红包(可延迟和自动回复) ...
 Author: Aiwmao <admin@25mao.com>
-
-Package: com.360.cloud.b
-Version: 4.1
-Section: Productivity
-Maintainer: null
-Depends: firmware (>= 5.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/360yunpan_4.1.deb
-Size: 13698122
-SHA256: e35b7588b3fa39f646ba1161ad3197c660edf22911a8113272564564fa4d9eed
-Name: 360云盘
-Description: 36T永久免费空间快来拿呀！
-Author: 360, Inc <2022330337@qq.com>
 
 Package: com.3bang.cambright
 Version: 1.0.1-1
@@ -3288,18 +3263,6 @@ Name: ChromaHomeBarX
 Description: Razer Chroma insprird HomeBar coloring tweak for iPhone X, also works with LittleX.
 Author: Afnan Ahmad <afnanahmaddd@gmail.com>
 
-Package: com.ahertlein.admobapp
-Version: 1.00
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/admobapp_1.00.deb
-Size: 124366
-SHA256: d26fc8018ee11766f233dbaec917c757afe36f6c0bc4eb688f5716ce6fff87e5
-Name: Ad Mob App
-Description: this is the unofficial ad mob app! with the app you see you balances  at ad mob ! and you can see all your other things with this at admob so dont wait ! get it and you dont need safari for admob anymore
-Author: Alexander Hertlein <alexander.hertlein1@gmx.net>
-
 Package: com.ahmad.allbyetweaks
 Version: 1.1
 Section: Tweaks
@@ -4140,18 +4103,6 @@ Name: unlimitedphotos
 Description: unlimited marking/selection for photos
 Author: Alltim3h4ckers <alltimehackers@hotmail.com>
 
-Package: com.almubin.holyquran
-Version: 1
-Section: Education
-Maintainer: Samed <info@almubin.com>
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/holy_quran_1.0.deb
-Size: 13476
-SHA256: d6f1086f41ff4470310faac6ab5d5be040f571b7cf85627da889e34551335152
-Name: Holy Quran
-Description: Entire Holy Quran with Farsi & English translation.
-Author: Samed <info@almubin.com>
-
 Package: com.alopez.flashlite
 Version: 1.1
 Section: Utilities
@@ -4178,19 +4129,6 @@ SHA256: 7e630bb2d005b97e524feb6bf0851f98448bdbda042fb378283df5840bc00f69
 Name: iLostFinder Anti-Theft Pro
 Description: Find stolen/lost iPhone by taking photo of the thief
 Author: iLostFinder <support@ilostfinder.com>
-
-Package: com.amorrow.2x2wtopdocklayouticonocolasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/2x2wtopdocklayouticonocolasm_1.0.deb
-Size: 1076
-SHA256: 3a3c57cc6ba38c4d29fc11dcb175fc1e58630a98f9748ead947215e49d66aa75
-Name: 2x2 w Top Dock Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Avery Morrow <averym@gmail.com>
 
 Package: com.andoumiao.exmessager
 Version: 1.0
@@ -4437,19 +4375,6 @@ SHA256: 43a86e2376e0e44a39d4761fc9a6164dbd6d519235dfd1ed260a99dd92616613
 Name: Velox
 Description: Velox, the tweak you have been waiting for
 Author: Apex Tweaks <support@apextweaks.com>
-
-Package: com.aphase.ktfkoreacarrierbundle
-Version: 4.0
-Section: Carrier Bundles
-Maintainer: null
-Depends: firmware (>= 4.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ktfkoreacarrierbundle_4.0.deb
-Size: 6578
-SHA256: 2d2dcff0b0ac71364d920e9a0da7e21ce21a8b5b57c7a5d32209a5f8c2ea8bef
-Name: KTF Korea Carrier Bundle for iOS4
-Description: Re-enables 'Find My Phone' on KTF Telecom
-Author: aphase <alteredphase@gmail.com>
 
 Package: com.apocolipse.batteryinfolite
 Version: 1.3.0-1
@@ -5625,19 +5550,6 @@ Name: 百度输入法(iPad)
 Description: 最好用的iPad输入法(iOS5.0以上)
 Author: Baiduinput <baiduinput@baidu.com>
 
-Package: com.baidu.baidusearch
-Version: 2.1
-Section: Productivity
-Maintainer: null
-Depends: firmware (>= 4.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/baidusearch_2.1.deb
-Size: 9164838
-SHA256: 628be16a3a358ab0239192da9b3e8b105b7524cc5479c0f279be10d8f7f72d06
-Name: 百度搜索
-Description: 百度搜索是百度推出的一款方便手机用户随时随地使用百度搜索服务的应用
-Author: Baidu <mservice@baidu.com>
-
 Package: com.baileyseymour.appdye
 Version: 1.0.1
 Section: Tweaks
@@ -5945,31 +5857,6 @@ SHA256: abc0f90fb0cbed60c149f44c8ef80f188ec707a9a6bc276c853becf0b3b24a90
 Name: Pyro
 Description: A lightweight Tinder tweak that brings back user last active, adds auto-like, and some other minor adjustments.
 Author: BeanbagStartup <beanbagstartup@gmail.com>
-
-Package: com.bedwa.asterisklayoutsiconoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/asterisklayoutsiconoclasm_1.0.deb
-Size: 1150
-SHA256: d4188fc9ab07856f25cb4f5afa520a9de79fe1a1efa949c43ba85a2dae542fcc
-Name: Asterisk Layouts for Iconoclasm
-Description: Icon layouts for Iconoclasm.
-Author: bedwa <bedwablackburn@yahoo.com>
-
-Package: com.beesley.jim.textreader
-Version: 2.1
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/textreader_2.1.deb
-Size: 1033612
-SHA256: 19439706198f5414bd682e745e7794b3e7e1cb722f57ce88eed628726684ec9b
-Name: textReader
-Description: App for viewing large Text and Palm Doc .pdb eBook files
-Author: Jim Beesley <iphonetextreader@gmail.com>
 
 Package: com.bengerard.snapselect
 Version: 1.3
@@ -6333,18 +6220,6 @@ Name: Categories v1 Icons
 Description: Categories v1.0 folder icon addon pack.
 Author: null
 
-Package: com.bigboss.docs2
-Version: 2.3.3
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/docs_2.3.3.deb
-Size: 310158
-SHA256: fefb827e97390840ec28132cb6723c5e17cc99220a450f864b3717ae9d5112c2
-Name: Docs
-Description: PDF, word, excel, powerpoint, (and more) doc reader.
-Author: null
-
 Package: com.bigboss.exchangeunlock
 Version: 1.0
 Section: Utilities
@@ -6434,18 +6309,6 @@ Size: 3638
 SHA256: 250ac991804875c95856e06a326c67a7926a667c58b82f9ce6418f65b07f28cc
 Name: VolToHome
 Description: Changes your down vol button to home button. Useful if your home button is broken.
-Author: null
-
-Package: com.bigboss.websearch
-Version: 1:1.0-1
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/websearch_1.0-1.deb
-Size: 151020
-SHA256: c49ea80ac35d3f17e3d41f161ae8202ca373aa118d905aa2a90bb06b8de4cd63
-Name: WebSearch
-Description: Customizable web search program. Totally rewritten from scratch. See the "More Info" link.
 Author: null
 
 Package: com.bigboss.yellow.bossprefs
@@ -6677,18 +6540,6 @@ SHA256: 09c3a31639a6f189816b2d28a281ef13debf82983b2aced14819fcc9e08adcc7
 Name: LINE Tools
 Description: More Tools for LINE app
 Author: BlueSquareJB <bluesquarejb@icloud.com>
-
-Package: com.bobbypage.isocial
-Version: 1.0
-Section: Social
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/isocial_1.0.deb
-Size: 150398
-SHA256: 8319926fe48dd088daaef3758a880d3039dabbabb89ebcd1861e94a871c3c24d
-Name: iSocial
-Description: Brings most popular internet socializing websites in one app like Myspace, Facebook, Twitter, etc. So there's no need for you to switch different applications on your device. Do all your work within one app. Will be adding more sites in future updates.
-Author: David Porter <software@bobbypage.net>
 
 Package: com.bolencki13.appendix
 Version: 1.1.2
@@ -7269,97 +7120,6 @@ Name: WiJoin
 Description: Show the network you connected to when you connect like in Android!
 Author: Bruno Andrade <brubiluco@globo.com>
 
-Package: com.brycecrowe.4x4plus4docklayouticonoclasm
-Version: 1.1
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/4x4plus4docklayouticonoclasm_1.1.deb
-Size: 1084
-SHA256: 50bfbaa5554ab85adcc3250923cb8d33da8b027865d36211824a09bfae32421e
-Name: 4x4 plus 4 Icon Dock Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Bryce Crowe <sporadicc@gmail.com>
-
-Package: com.brycecrowe.7x7layouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/7x7layouticonoclasm_1.0.deb
-Size: 1084
-SHA256: 77d27d86f0f7143e37f3bf91ba058209729df488d20eeac12b359dfeb3649bfa
-Name: 7x7 Layout for Iconoclasm
-Description: Use with "Shrink". Icon layout for Iconoclasm.
-Author: Wassim <wassim_shomali@hotmail.com>
-
-Package: com.brycecrowe.bigboardlayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bigboardlayouticonoclasm_1.0.deb
-Size: 1108
-SHA256: 09afac722ebbdf8f6ca206981e1d09d12025a800386b4c8a0c82f45877837a0e
-Name: Bigboard Layout for Iconoclasm
-Description: 18x20 layout for use w/ Shrink.
-Author: Bryce Crowe <sporadicc@gmail.com>
-
-Package: com.brycecrowe.coillayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/coillayouticonoclasm_1.0.deb
-Size: 1100
-SHA256: 0027a7b8d772c2011f15766705ad4e595ef978f9e23c43a33050ca9a41c3c215
-Name: Coil Layout for Iconoclasm
-Description: Icon layouts for Iconoclasm.
-Author: Bryce Crowe <sporadicc@gmail.com>
-
-Package: com.brycecrowe.egglayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/egglayouticonoclasm_1.0.deb
-Size: 1082
-SHA256: 811d9418e00c300f9251e18446a39695fae3a2707bd85ad8fad2c5220955fcbb
-Name: Egg Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Bryce Crowe <sporadicc@gmail.com>
-
-Package: com.brycecrowe.nutlayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/nutlayouticonoclasm_1.0.deb
-Size: 1086
-SHA256: 4d19f2822890c4f850b2125988325cfe7aefb329e34f91b288b99ec670d359e0
-Name: Nut Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Bryce Crowe <sporadicc@gmail.com>
-
-Package: com.brycecrowe.starlayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/starlayouticonoclasm_1.0.deb
-Size: 1076
-SHA256: 3680e1c32f6d3bbaa63803704d31126501b851fed8b34163c73d94ad9930a367
-Name: Star Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Bryce Crowe <sporadicc@gmail.com>
-
 Package: com.brycedev.convos
 Version: 1.0-1
 Section: Tweaks
@@ -7619,42 +7379,6 @@ SHA256: 8ebba5739c4fbf5f263db2819254c57c06b9bfdec57ce24e7f51432a96a7ec17
 Name: Dockify
 Description: configure appearance of the Dock
 Author: burrit0z <carsonzielinski@gmail.com>
-
-Package: com.bustedappz.flashcardzalphabet
-Version: 1.0
-Section: Education
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/flashcardzalphabet_1.0.deb
-Size: 1509802
-SHA256: 16bec8d95fb5919759e3418619de3c2c0a975afa7b174faf6709f0af5fcd6f0b
-Name: Flash CardZ! - ALPHABET
-Description: Fun and Educational app for your iPhone. Flash CardZ! is a learning tool for young children. They will learn their A, B, C's the fun way.
-Author: Patrick Calderone <patrick@bustedappz.com>
-
-Package: com.bustedappz.flashcardznumbers
-Version: 1.0
-Section: Education
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/flashcardznumbers_1.0.deb
-Size: 743716
-SHA256: 1008135d88a59f6892aa815a5415984bc8d312fcf34a33732c4a65d25f34d3a0
-Name: Flash CardZ! - Numbers
-Description: Fun and Educational app for your iPhone. Flash CardZ! Numbers was designed for kids just getting started with their numbers.
-Author: Patrick Calderone <patrick@bustedappz.com>
-
-Package: com.bustedappz.flashcardzspanish
-Version: 1.2
-Section: Education
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/flashcardzspanish_1.2.deb
-Size: 4773464
-SHA256: 9336eca6254292b02ad2df9d3a049b66cefcdd5020a5cade7b018915046d20cf
-Name: Flash CardZ! - Spanish
-Description: Learn your Spanish A, B, C's the easy way. With pictures and sound!
-Author: Patrick Calderone <patrick@bustedappz.com>
 
 Package: com.bustedappz.passwordzlite
 Version: 1.0
@@ -8426,18 +8150,6 @@ Name: SMSContactPhotos7
 Description: contact photos in Messages list & conversation threads
 Author: David Harkey <caphis@gmail.com>
 
-Package: com.cappfactory.bcards
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bcards_1.0.deb
-Size: 204644
-SHA256: 5035801c8d0b7833cca474df757b608567f27f4d49e48861344f7cf7aeffbb07
-Name: B-Cards
-Description: Make and save business cards.
-Author: CApp Factory <cydiaman@gmail.com>
-
 Package: com.cappfactory.photoedithd
 Version: 1.0
 Section: Utilities
@@ -8448,18 +8160,6 @@ Size: 850420
 SHA256: 23511d6456a9f1dc4a09dea7374372c9a9a6018913804ffff20ae02b5179916b
 Name: Photo Edit HD
 Description: photo effects editor for iPad
-Author: CApp Factory <cydiaman@gmail.com>
-
-Package: com.cappfactory.search
-Version: 2.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/searchapp_2.0.deb
-Size: 179642
-SHA256: 29e35003eea77f95c418f64296c1782216dfec090021bd8e592763274a915e9b
-Name: Search App
-Description: Search all the great sites on the Internet from one app. It has LOTS Of functionality! Settings, In App Web - Browser.
 Author: CApp Factory <cydiaman@gmail.com>
 
 Package: com.captinc.batchomatic
@@ -9574,18 +9274,6 @@ Name: Cerebro
 Description: Locates your iPhone incase it gets lost or stolen, it has more features than apple's mobile me, and gets a more accurate reading faster.
 Author: Chris Alvares <calvares@gmail.com>
 
-Package: com.chrissoftware.admobdashboard
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/admobdashboard_1.0.deb
-Size: 188274
-SHA256: e7d62e317ff8d7e716b1cb44531d605997a9b36b0f29a722cdc30a910d87408c
-Name: AdMob Dashboard
-Description: Display your earnings in native (not official) app. You can access not only pending earnings, but detailed information current day, but as well custom reports from given period of time for a given application - or all of them.
-Author: Chris <krzysiekr@mac.com>
-
 Package: com.chrissoftware.anonymous
 Version: 2.0.2
 Section: Utilities
@@ -9596,18 +9284,6 @@ Size: 210620
 SHA256: 09c0f6a9b916b8c08c6b19b6154dae3a5177187db2626dc643b94568d30ec2ba
 Name: Anonymous Email
 Description: Anonymous? Have you ever wanted to be anonymous? Now you have a chance, don't waste it. This application allows you to send an email that comes from any email account you wish, it works without any configuration. Using this program you can send an email to anybody you know, doesn't know or wish to know, but your identity will be a secret until you reveal yourself.
-Author: Chris <krzysiekr@mac.com>
-
-Package: com.chrissoftware.apppopularity
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/apppopularity_1.0.deb
-Size: 135890
-SHA256: 02e4bad6cb018d8a0f84542ba8f55e89de8140277132155b864cc56c5838c601
-Name: App Popularity
-Description: App Popularity helps you track the popularity of any apps available in BigBoss - the most popular Cydia repository. These can be either your apps, or competitors, or any others you care about. App Popularity gives you the current stats and the previous from the last refresh informing you about the popularity increase. These are the same stats available in Cydia, except the fact, that you don't have to 1. wait for Cydia to load and reload it's data and accept or ignore update suggestions 2. find your app in the list of thousands of applications, wait till every next component loads and rich stats by scrolling dozens of commercials
 Author: Chris <krzysiekr@mac.com>
 
 Package: com.chrissoftware.badpixelfixer
@@ -9622,78 +9298,6 @@ Name: Bad Pixel Fixer
 Description: Bad Pixel is very simple application created to remove any hardware defects from your iPhone/iPod Touch screen.
 Author: Chris <krzysiekr@mac.com>
 
-Package: com.chrissoftware.bluetoothimage
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bluetoothimage_1.0.deb
-Size: 225156
-SHA256: 51ef696928304409df7def70489ea361ddc6f623ee30b914fb76b0895aff62f7
-Name: Bluetooth Image
-Description: Bluetooth Image let's you quickly share your Photo Library between two iPhones (3G/3GS) or iPod Touches (2Gen). Nothing more to explain. Clean interface, easy and quick.
-Author: Chris <krzysiekr@mac.com>
-
-Package: com.chrissoftware.browsertranslator
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/browsertranslator_1.0.deb
-Size: 153772
-SHA256: c6686b0a77f83d91a4a130d4564d419e1eb67361928977aeaaa630040fdbd693
-Name: Browser Translator
-Description: Translate any* website to any* language you want.
-Author: Chris <krzysiekr@mac.com>
-
-Package: com.chrissoftware.freebrowser
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/freebrowser_1.0.deb
-Size: 239568
-SHA256: 98d43a62f800615533f8e1576b934c7bd0ceed006902d96a796e732e1afb46ea
-Name: Free Browser
-Description: Free Browser gives you the opportunity to browse any disabled websites by your network administrator or boss in the Internet.
-Author: Chris <krzysiekr@mac.com>
-
-Package: com.chrissoftware.hashgenerator
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/hashgenerator_1.0.deb
-Size: 111582
-SHA256: 19485745823c842f7aa608c8337b2a2b26efa642146cb24c76e33058425776f0
-Name: Hash Generator
-Description: Preview how your password or anything else you typed is visible when hashed.
-Author: Chris <krzysiekr@mac.com>
-
-Package: com.chrissoftware.imageshack
-Version: 1.1
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/imageshack_1.1.deb
-Size: 412256
-SHA256: 8892218344fd3983349da4789e1c0eebed38e9ddc1aefbfc169fcfca7f26d197
-Name: ImageShack
-Description: Quickly upload any image from your Photo Library or Camera to the one of the most popular hosting service for free!
-Author: Chris <krzysiekr@mac.com>
-
-Package: com.chrissoftware.irunner
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/irunner_1.0.deb
-Size: 6710550
-SHA256: 048780f964dc70fbd36685da9af67c656c51bb2520779472aa42bca4a33eebb7
-Name: iRunner
-Description: iRunner is a powerful application that delivers you the accurate and up-to-date statistics about your work out. Using GPS feature in iPhone it gives you the info about the distance you have run, your current, average and max speed. Of course the time is measured with accuracy to miliseconds. Everything is displayed using large fonts on your iPhone screen. You can also press the "Voice over" button, and they will be read for you. Voice over doesn't stop the iPod playback. Units can be displayed in imperial and metric units.
-Author: Chris <krzysiekr@mac.com>
-
 Package: com.chrissoftware.realbattery
 Version: 1.0-1
 Section: Utilities
@@ -9706,18 +9310,6 @@ Name: Real Battery
 Description: Real Battery is simple application that gives you exact battery level of your device in percent. It doesn't estimate how much you have battery left, it gives you the accurate state with accuracy to 5% - due to limitations of your hardware.
 Author: Chris <krzysiekr@mac.com>
 
-Package: com.chrissoftware.shoppinglist
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/shoppinglist_1.0.deb
-Size: 146464
-SHA256: bf762a7f71a99131184d48ab59ea84b6d4dd6fda3745388106fd284b1f16162e
-Name: Shopping List
-Description: Easily create your shopping list be providing the name of the product, price (in any currency) and the quantity. Shopping List is extremely handful and easy to use application.
-Author: Chris <krzysiekr@mac.com>
-
 Package: com.chrissoftware.smsswitcher
 Version: 1.0
 Section: Utilities
@@ -9728,30 +9320,6 @@ Size: 508058
 SHA256: ef304537b4c8a5e86836620a90bd41793ca7fc9f6b97f4631a43f834a4ab3a8b
 Name: SMS Switcher
 Description: SMS Switcher allows you to have multiple SMS Libraries, so you can quickly without any technical knowledge switch them (no reboot/respring needed).
-Author: Chris <krzysiekr@mac.com>
-
-Package: com.chrissoftware.strangerchat
-Version: 1.0
-Section: Social
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/strangerchat_1.0.deb
-Size: 572774
-SHA256: 1f369b7686d79eddbff0b3b1ec9de4a1325990576affa89dffe825173a7622a6
-Name: Stranger Chat
-Description: Chatting with completely unknown person located somewhere in the world. Ask about anything you are curious about - it's all up to you, gender, name, age, interests
-Author: Chris <krzysiekr@mac.com>
-
-Package: com.chrissoftware.whatsnext
-Version: 1.1.1
-Section: Education
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/whatsnext_1.1.1.deb
-Size: 1529020
-SHA256: 70f9692c0d1309bd6a403c33db3640425463c3ee2dfa6abc89ab45dd92b65e62
-Name: Whats next
-Description: Tutorials for new jailbroken users.
 Author: Chris <krzysiekr@mac.com>
 
 Package: com.chronic-dev.cdevreporter
@@ -10286,18 +9854,6 @@ SHA256: 6b73821fd4e353f6536483d0056841c5335d2a0fca51a61d0c84b4ee37ae91ec
 Name: LiveWallpaper
 Description: widescreen wallpaper, animation & interactive
 Author: DDT <IOSDeveloperAllen@gmail.com>
-
-Package: com.cnebai.iwebtools
-Version: 1.1
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/iwebtools_1.1.deb
-Size: 85300
-SHA256: 70f7b0ecd00f1142c071913a637e9baecb7540214644e00e15bab509b1fb1ae7
-Name: iWebTools
-Description: (Chinese) CNEBAI iWebTools is used to load our web applications on iPhone . It enables users to upload local pictures to server and shows pictures on web page like the iPhone Photo album
-Author: Chris <zjb0574@gmail.com>
 
 Package: com.cocoahuke.iospq
 Version: 1.0-2
@@ -15421,42 +14977,6 @@ Description: Because iOS4 multitasking sucks...
 	Tired of having to return to SpringBoard, double-tap the home button, tap&hold, then press the small quit button to quit an app? Tired of removing closed apps manually from the multitask bar? With MultiCleaner you can quit apps with just an Activator shortcut and customize the multitask bar however you like. You can even reorder apps in the bar or pin certain apps for quick access to the left side of the bar.
 Author: Petcu Marius (da_petcu21) <dapetcu21@gmail.com>
 
-Package: com.darioshi.fixmyeyes
-Version: 1.0.0
-Section: Education
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/fixmyeyes_1.0.0.deb
-Size: 4450426
-SHA256: 62ef4087f48fb63e52e478079974090b37e5731d40955dfb3c546a001d38c215
-Name: Fix My Eyes
-Description: Eye excercises using the Bates method
-Author: Roy Darioshi <darioshi@nana.co.il>
-
-Package: com.dariosid.earthquakesid
-Version: 0.9.0a
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/earthquakesid_0.9.0a.deb
-Size: 477828
-SHA256: 6bf28ad9592d0c4f9a22944b23d62b39019752cd83188168c5d3fae9364afa88
-Name: Earthquake.SID
-Description: iPhone earthquake monitoring and geolocation of event
-Author: Dario.SID <dariodotsid@gmail.com>
-
-Package: com.darkmalloc.tweetast
-Version: 0.3
-Section: Social
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/tweetast_0.3.deb
-Size: 268466
-SHA256: fdf4691ab00f1cf1539b0d082f388f4df8411d4eab594ccc706a6a9977455175
-Name: Tweetast
-Description: Tweetast is an extremely lightweight Twitter client which allows you to post tweets. The purpose of Tweetast is to be placed in your dock for quick tweeting.
-Author: DarkMalloc <darkmalloc@gmail.com>
-
 Package: com.darkness.azekey
 Version: 1.2
 Section: Keyboards
@@ -15765,18 +15285,6 @@ Name: AutoToggle for DisplayOut
 Description: auto enable DisplayOut when launching apps
 Author: Mike DeCaro <cydia@mikedecaro.com>
 
-Package: com.dedoware.snapshop
-Version: 1.0.1
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/snapshop_1.0.1.deb
-Size: 508444
-SHA256: 203f468b2d845bc4947ff6412e2a74ca228cc293be6d58b98c8fc1262275b968
-Name: SnapShop
-Description: SnapShop is barcode scanner for the iphone.
-Author: Andres Douglas <andres.douglas@gmail.com>
-
 Package: com.dekesto.dynamictext
 Version: 1.2-5
 Section: Tweaks
@@ -16031,18 +15539,6 @@ Name: AirplaneModeNotif (iOS 9)
 Description: Replaces the airplane mode alert with a notification!
 Author: Devastator <dev-astator234@hotmail.com>
 
-Package: com.develapphot.devmyappjb
-Version: 2.0
-Section: Education
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/devmyappjb_2.0.deb
-Size: 3989712
-SHA256: d272fb8e7eb1478f691502b4a6c638122e83a5b4807e489100acbac17e450d05
-Name: DevmyApp JB
-Description: interactive development examples & source code
-Author: Andres Lopez <develappment11@gmail.com>
-
 Package: com.developersbliss.cchide
 Version: 1.1.1-4
 Section: Tweaks
@@ -16081,19 +15577,6 @@ SHA256: 64dad95a1f3c60b400df94cc8b189f0e84df86db7aea1e00a78730024f94a5b1
 Name: NoSpot (iOS 9/8/7)
 Description: Makes Spotlight inaccessible on iOS 7
 Author: developersBliss <andrew@developersbliss.com>
-
-Package: com.devinsnipes.first
-Version: 1.0.1
-Section: Education
-Maintainer: null
-Depends: firmware (>= 4.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/firststeps_1.0.1.deb
-Size: 3697472
-SHA256: 10b51184595b3606a46b96582c8a476e7b4665d358e89fd179722190261e95ea
-Name: First Steps
-Description: child's math exercises to help develop skills
-Author: Devin Snipes <support-firststeps@devinsnipes.com>
 
 Package: com.devteam.bootneuter
 Version: 2.10
@@ -16386,18 +15869,6 @@ SHA256: 1f63aede85089cdc05c3792cadff3891fcbfa5da57a6b4751988da9dc785c036
 Name: CSources2
 Description: manage & toggle apt source entries
 Author: DirtyBeans <DirtyBeans@ca.rr.com>
-
-Package: com.dkm.circleoffriends
-Version: 1.1
-Section: Social
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/circleoffriends_1.1.deb
-Size: 707930
-SHA256: 093f8d4ae0e8eb4897421302c5aeaa24ed415794e3698fc6734053caafabf321
-Name: CircleOfFriends
-Description: All people are connected by 6 degrees of separation.
-Author: Darren Turetzky <palindromicprime@gmail.com>
 
 Package: com.domg.holdtoviewnotification
 Version: 1.0.2
@@ -16940,19 +16411,6 @@ Name: EasyCallBack 3G & WiFi Calls
 Description: Save on your phone costs easily, when roaming or exceeding your monthly plan!
 Author: EasyCallBack <payment@finarea.ch>
 
-Package: com.efiko.qtweeter
-Version: 3.66-1
-Section: Social
-Maintainer: null
-Depends: mobilesubstrate, libactivator, firmware (<< 5.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/qtweeter_3.66-1.deb
-Size: 1530612
-SHA256: a65c1f581de0602370a99fe68614f1a736f730e2f8f7fd3cf096f67fb9418851
-Name: qTweeter
-Description: Update your Twitter and Facebook status from within any application, fast and easily!
-Author: Efiko Software <support@efksoft.com>
-
 Package: com.efiko.rtshuffler
 Version: 1.13
 Section: Utilities
@@ -16992,19 +16450,6 @@ Size: 970296
 SHA256: a21a379f59730acb975cad7aa163a54d361e5c035b3a7f3a9e44471d61daef3e
 Name: ToneFXs 2 (Pro)
 Description: Customize your iPhone’s sounds. Shuffle your ringtones, customize your text message tones and more
-Author: Efiko Software <support@efksoft.com>
-
-Package: com.efiko.universalsearch
-Version: 1.08-1
-Section: Productivity
-Maintainer: null
-Depends: firmware (>= 3.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.efiko.universalsearch_v1.08-1.deb
-Size: 406058
-SHA256: e6d940eadefc1d1b405e61b0f633b12439a4b5ce450546cefa2274f719f62d40
-Name: Universal Search
-Description: Search the web, right from Spotlight!
 Author: Efiko Software <support@efksoft.com>
 
 Package: com.efrederickson.almpoum
@@ -17806,19 +17251,6 @@ Name: Shazam On Start
 Description: Shazam starts tagging just after opening.
 Author: evilgoldfish <epdev@icloud.com>
 
-Package: com.exmormon.exmormon
-Version: 1.0
-Section: Education
-Maintainer: null
-Pre-Depends: firmware (>= 3.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/exmormon_1.0.deb
-Size: 169450
-SHA256: b5726946ebfeba024c3164fdbc272e567f52c6c68e27678674d5b4759381d9fc
-Name: ExMormon
-Description: Info for Mormons and Ex-Mormons
-Author: Brad Hintze <bhintze2@gmail.com>
-
 Package: com.exormeter.alarmfade
 Version: 1.1.1
 Priority: optional
@@ -18185,18 +17617,6 @@ SHA256: 306852837626d79637f084c7f6c947199f88ad5bb7c89be1fd5ed168f5e38e23
 Name: YTCopyDescription
 Description: Copy or Share The YouTube Description
 Author: fahadaljuwausri <bofahadkwt5@gmail.com>
-
-Package: com.fabiosoft.parkme
-Version: 1.1
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/parkme_1.1.deb
-Size: 519228
-SHA256: ce36e93180c80b83ce188fc4215a5e30e3299519ccff01255ddb524a4104b1cb
-Name: ParkMe
-Description: REMEMBER WHERE HAVE YOU PARKED YOUR CAR IN EASY WAY. ParkMe uses Google Maps direction of Maps appliation on your device.
-Author: fabiosoft <staff@fabiosoft.com>
 
 Package: com.fahadaljuwausri.phtoggleoff
 Version: 1.0.0
@@ -19072,20 +18492,6 @@ SHA256: fb8254b69e84f7700039cda79baf9e04586a0f075e3fcca96b1ee18116f6dc01
 Name: SpotSMS
 Description: Native SpotLight extension to search SMS and MMS
 Author: Federico Carpi (floop) <fedecarpi@gmail.com>
-
-Package: com.fluffymcduff.neopage
-Version: 1.0
-Priority: optional
-Section: Productivity
-Maintainer: null
-Depends: firmware (>= 3.2), gsc.wildcat
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/neopage_1.0.deb
-Size: 79812
-SHA256: 4f507b96c426bf834cc7b063e3ac97934a736fdc31ae013cb1d26f102862d908
-Name: neoPage
-Description: iPad-only. HTML and CSS editor, adaptive keyboard
-Author: Fluffy McDuff <kingofthehill87@gmail.com>
 
 Package: com.flux.aoproximity
 Version: 1.3
@@ -20195,31 +19601,6 @@ Name: BPages
 Description: search & browse listings on backpage.com
 Author: Gal Blank <galblank@gmail.com>
 
-Package: com.galblank.iclassniki
-Version: 1.9.5
-Section: Social
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/iclassniki_1.9.5.deb
-Size: 353366
-SHA256: 4f5f85bc9f801ca7671a1bf43e5249e1ce2c8ba38de1e4d25963ec638135d2b0
-Name: iClassniki
-Description: RUSSIAN Users log in to odnoklassniki.ru accounts and interact with their friends by chatting/posting forum messages, checking out photos and profiles of other friends.
-Author: Gal <iclassniki@gmail.com>
-
-Package: com.galblank.ilibru
-Version: 0.1.7
-Section: Education
-Maintainer: null
-Depends: firmware (>= 3.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ilibru_0.1.7.deb
-Size: 5439900
-SHA256: 16890fa31019e72790ce7a0b5217882c08dd1111efe197a3ac4f707574aa25a8
-Name: iLibRu
-Description: reader for popular Russian book library
-Author: Gal Blank <galblank@gmail.com>
-
 Package: com.gameandgadgets.abluedesirecydget
 Version: 1.0
 Section: Cydgets (Lock)
@@ -20389,18 +19770,6 @@ Name: Parental Controls For iOS
 Description: Time Limit for apps, passcode protection
 Author: Ge0rges <ge0rges@ge0rges.com>
 
-Package: com.gengarstudios.whiteboard
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/whiteboard_1.0.deb
-Size: 132704
-SHA256: 5249f57393ac1bd8d9f9db3a0156a52f23b7b43bdbafbf71cece2f53abbc959b
-Name: Collaborative Whiteboard
-Description: Whiteboard allows 2 iPhone or iPod touch devices to draw pictures together over wi-fi.
-Author: Gengar56 <cydia@intelliot.com>
-
 Package: com.geofferey.termbackgrounder
 Version: 1.4-1
 Section: Terminal_Support
@@ -20427,18 +19796,6 @@ SHA256: 8e78ee83f1a0dc3fea494be01d9bd6081c06a1a233cd542f1c346508d53d26c5
 Name: IconKeyb10
 Description: Replaces letters with emojis
 Author: GeoSn0w <office@fce365.info>
-
-Package: com.gerardsapps.ferrycombo
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ferry_combo_1.0.deb
-Size: 48572
-SHA256: 56a7e4b3856c0ed71082d140dfc1f98accce69d16b32d46e0012e04c0d16c104
-Name: FerryCombo
-Description: Tip calculator written in French.
-Author: Gerard <gerarddiazperlas@gmail.com>
 
 Package: com.gh0stbyte.volbright
 Version: 1.0.1
@@ -20792,18 +20149,6 @@ Name: NoStoreButton
 Description: removes the Store button from Music app
 Author: John Heaton <gojohnnyboi@me.com>
 
-Package: com.glaucodesigns.repocreate7
-Version: 1.9.1-1
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/repocreate7_7.0.deb
-Size: 3079318
-SHA256: 75a7a705c35fcdabdb6cd422c6566d2bb1231ec9b740c3b4b8d99bd9e0a6a6bd
-Name: Repocreate7
-Description: Guía para crear repos en linux.
-Author: glaucodesigns <jaherrero@glaucodesigns.es>
-
 Package: com.gmoran.esraassistant
 Version: 2.0-1
 Section: Utilities
@@ -20856,18 +20201,6 @@ Name: Bloard
 Description: Universal dark keyboard for iOS 7/8
 Author: GN-OS <techboy6601@gmail.com>
 
-Package: com.godogshomie.bettyscookbook
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bettyscookbook.deb
-Size: 160388
-SHA256: 2f148f935a5177780d681ff5ef34d2815782f6328a9fd5b383f7b0085386aae0
-Name: Betty's Cookbook
-Description: A nice cookbook with 24 recipes and pictures.
-Author: Godogshomie <cdmac@cablelynx.com>
-
 Package: com.godogshomie.myfox
 Version: 1.5
 Section: Networking
@@ -20878,18 +20211,6 @@ Size: 63844
 SHA256: 261198b0f7c01e3dece1d88b8e864dff3796a93e3f438c70bf9dd7ea81412e29
 Name: myFox
 Description: A mobile safari replacement with some nice features.
-Author: Godogshomie <cdmac@cablelynx.com>
-
-Package: com.godogshomie.myhtml
-Version: 1.3
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/myHtml_1.3.deb
-Size: 28394
-SHA256: 98d7f79255bedb30327205d5bb037e17d4ef4eeb57fcdbaf07fc828b4aa2b968
-Name: myHtml
-Description: myHtml is a nice HTML editor that runs on the iPhone. You can edit your HTML and then preview it and see how it looks. Save documents for later in formatted text
 Author: Godogshomie <cdmac@cablelynx.com>
 
 Package: com.gojohnnyboi.glauncher
@@ -21264,18 +20585,6 @@ Name: Siphon
 Description: SIP-VoIP for iPhone and iPod Touch. Siphon is a SIP/VoIP client for the iPhone and iPod Touch that allows you to save money on calls when Wi-Fi coverage is available. You can enable VoIP on 3G/GSM, if your carrier subscription allows it.
 Author: Samuel Vinson <samuelv0304@gmail.com>
 
-Package: com.grafcoding.syncontacts
-Version: 1.0
-Section: Social
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/syncontacts_1.0.deb
-Size: 441096
-SHA256: 9fae3e9942d0980d034cfe92c0778ae3cec2a260fdd6c3ddaea3e743b9c6d56c
-Name: Syncontacts
-Description: Add Twitter and Facebook photos to contacts.
-Author: grafele <grafkofler@gmail.com>
-
 Package: com.greenpaperclip.purpleboard
 Version: 1.0.2
 Section: Tweaks
@@ -21461,18 +20770,6 @@ SHA256: 5423b371726631ac572ce60eff02c619e439da635515ac3a5741e0f9dce721a9
 Name: xImage
 Description: convert Safari Reader content for SinaWeibo
 Author: noolua <noolua@163.com>
-
-Package: com.gsquared.addexchange
-Version: 1.5.1
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/addexchange_1.5.1.deb
-Size: 181994
-SHA256: 95ab130e8c1eb822d11e2609ca86d7ab2fb39025a4d2a7837d4e645e1de5f0cd
-Name: AddExchange
-Description: This app will add a Microsoft Exchange account to your iPhone or iPod Touch. Up to 3+ additional accounts.
-Author: GSquared <apps@gsquaredtechnology.com>
 
 Package: com.gsquared.alarmdisplay
 Version: 1.1
@@ -24690,18 +23987,6 @@ Name: PreviousResults
 Description: Keep track of older results in Calculator app!
 Author: iCraze & TylerD3V <icrazeios@protonmail.com>
 
-Package: com.idevalfa.buzzy
-Version: 1.0-1
-Section: Social
-Maintainer: Bigboss <bigboss@thebigboss.org>
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.idevalfa.buzzy_v1.0-1.deb
-Size: 892046
-SHA256: 83efcb2b0adbdbb9dfd55f9c665a7b8f35e764c560420705dc87785534556ab4
-Name: Buzzy
-Description: Cydia's First Fully Featured Google Buzz Application! With alfaDesign's Quick-Access Design!
-Author: Suhaib Alfaqeeh <itsiphoneboston@gmail.com>
-
 Package: com.idevhaice.artistswitcher
 Version: 2.0
 Priority: optional
@@ -25106,30 +24391,6 @@ SHA256: 0faac24622e6c25ba3edff4b133a8baf866b3b2cd04b06d8313d01b195325423
 Name: KeekCopied
 Description: For copy Direct video link in Keek app.
 Author: Hatem Fayed <php3man@gmail.com>
-
-Package: com.ihelpiphone.mympg
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/mympg_1.0.deb
-Size: 11512
-SHA256: 1e4c0d9359a66202245a34bfcf8c0e510003cc875167e4a4edef4ff47a58d2fb
-Name: myMPG
-Description: Figure out how efficient your car really is with myMPG! Input all the stats such as distance and price of gas, and receive the results!
-Author: Mike Hawke <revoiphone@gmail.com>
-
-Package: com.ihelpiphone.pwnchat
-Version: 2.0
-Section: Social
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/pwnchat_2.0.deb
-Size: 12780
-SHA256: 771dac8d6a89fd179e1baa5e8213030e8af15cfb5f21555f2c86e413544b229f
-Name: PwnChat
-Description: PwnChat is a talk and discussion hub for iPhone and iPod touch users. From jailbreaking and tips, to themes and mods, PwnChat is the ultimate discussion application!
-Author: Mike Hawke <revoiphone@gmail.com>
 
 Package: com.ihelpiphone.smokingcydget
 Version: 1.0
@@ -26918,19 +26179,6 @@ Name: VolumePercentage
 Description: Display volume percentage in HUD
 Author: iPawk <pockysoftware@gmail.com>
 
-Package: com.iphone266.a266collectionlayoutsiconoclasm
-Version: 2.2
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Replaces: com.iphone266.a266collection (<< 2.1)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/a266collectionlayoutsiconoclasm_2.2.deb
-Size: 2290
-SHA256: aaa0c616e118963056441662bad839f45aeb63525bc2ed3c2b0722f5fafb4087
-Name: 266 Iconoclasm
-Description: Icon Layouts, ready for A 266 Collection
-Author: Jonny Wood <hello@ux266.com>
-
 Package: com.iphone4life1.dimtoblackscreen
 Version: 1.0
 Priority: optional
@@ -27078,19 +26326,6 @@ Name: Full Charge Alert
 Description: get alerted when device is fully charged
 Author: ipodtouchmaster <madpike05@aol.com>
 
-Package: com.iptm.hwplanner
-Version: 3.1
-Section: Productivity
-Maintainer: null
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/hwplanner_3.1.deb
-Size: 481904
-SHA256: c25cb0eef28b8830e8726892cf849d7b2e5f7ba58d71005adc77051d8ceec2cf
-Name: HWPlanner
-Description: A Homework planner that adds events to your calendar for reminders!
-Author: ipodtouchmaster05 <madpike05@aol.com>
-
 Package: com.iptm.keeptextnew
 Version: 1.0
 Section: Tweaks
@@ -27226,19 +26461,6 @@ SHA256: 857adfa23fded2b562b12686589725f15e1aa7a76eed79bea394640609695327
 Name: Power Security
 Description: enter password to turn off your device
 Author: David M <iptmDeveloper@yahoo.com>
-
-Package: com.iptm.sbadmob
-Version: 1.2
-Section: Productivity
-Maintainer: null
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/sbadmob_v1.2.deb
-Size: 197472
-SHA256: 82ef495491bfc9fa425a4915c46676a7cd26f4748c4a3e99c830727afc30e753
-Name: SBAdmob
-Description: Admob total revenue on your status bar. It will automatically refresh at a set interval to show you the most up to date total.
-Author: ipodtouchmaster05 <Madpike05@aol.com>
 
 Package: com.iptm.sbinfograbber
 Version: 1.1.6
@@ -27408,19 +26630,6 @@ Size: 315376
 SHA256: e2bc4f78e3454a5c18b990ca48f2c0185d50815bec550bbe210c37ff71b4b84b
 Name: QuickBoard (3.0)
 Description: QuickBoard - powerfull platform for quick apps.
-Author: isoftcom.com <isoftteamsupport@gmail.com>
-
-Package: com.isoftru.quickcalendar
-Version: 1.7.9-1
-Section: Productivity
-Maintainer: isoftcom.com <isoftteamsupport@gmail.com>
-Depends: com.isoftru.quickboard(>=1.7.9-1)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/quickcalendar_1.7.9-1.deb
-Size: 53092
-SHA256: d87711a2b75ea95cd6d40402682d2b50c9f9b472a485190ee2a94dd7871c911d
-Name: QuickCalendar (3.0)
-Description: QuickCalendar! Manage your time. Quick add events and display its on lockscreen.
 Author: isoftcom.com <isoftteamsupport@gmail.com>
 
 Package: com.israelcall.israelcall
@@ -27768,18 +26977,6 @@ Name: QuickBrightness
 Description: change brightness from a popup alert
 Author: Henri gil <henri.m.gil@gmail.com>
 
-Package: com.itechparadise.password
-Version: 2.0.1
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/passgen_2.0.1.deb
-Size: 2681652
-SHA256: 74ca4cbe7f54a752bd8ba36085b18c31977725d0e6601d269638861653a86692
-Name: PassGen
-Description: generate strong passwords from criteria
-Author: iTechParadise <itechparadise@gmail.com>
-
 Package: com.iter99.roundme
 Version: 1.4
 Section: Tweaks
@@ -27929,19 +27126,6 @@ Name: RespringLoader
 Description: This little tweak puts a respring toggle into PreferenceLoader.
 Author: iTopher <iTopher.cydia@gmail.com>
 
-Package: com.itopher.ringlayouticonoclasm
-Version: 1.1
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ringlayouticonoclasm_1.1.deb
-Size: 1136
-SHA256: 868f23f04b1bf37d8d776d872c661169ebfe533118ea5ce3440b4f3c8ebc864c
-Name: Ring Layout for Iconoclasm
-Description: A pre-made Iconoclasm layout that puts your icons in a ring on the springboard. Activate through Iconoclasm settings.
-Author: Chris Anselmo (iTopher) <iTopher.cydia@gmail.com>
-
 Package: com.itortrix.appswisizer
 Version: 1.0.1-1
 Priority: optional
@@ -28069,42 +27253,6 @@ SHA256: 6ba8fd3f83bbdc9d56a6a0898c8de82703c3035e0352f2988c15e1a094b87bae
 Name: StopPlayin12'
 Description: Disables autoplay for the Music.app
 Author: thazsar <thazsar@yahoo.com>
-
-Package: com.itoursoftware.idayswsource
-Version: 1.0
-Section: Education
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/idayswsource_1.0.deb
-Size: 770812
-SHA256: d71e9e3d81c6fd10ab4f45b48aea3d930491d70bf68369419d09faf4b7b691c1
-Name: iDays with Source
-Description: Keep track of your days ;) And learn basic iPhone programming See how it works and what's under the hood! This program displays it's sourcecode where you can learn: - Basics on how to work with Dates, Calendar - Perform basic mathematics - Set Button's title, label's title - Save settings This program is using the internal API of the iPhone for calculations To fully implement this code you have to understand the Apple's Model View Controller concept and know how to use the Interface Builder. You may use this sourcecode as you need. Please, don't email with the questions regarding the code. It comes with absolutely no warranty. Thank you for checking us out!
-Author: Radif Sharafullin <itoursoftware@gmail.com>
-
-Package: com.itoursoftware.mandarinbibleaudiobookne
-Version: 1.0
-Section: Education
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/mandarinbibleaudiobookne_1.0.deb
-Size: 2294668
-SHA256: 50e072702c3267c5c56d42ea110e152a5e97db1ea73454822bf62511db524804
-Name: Mandarin Bible Audiobook NE
-Description: Mandarin Bible Audiobook Network Edition is a FREE pocket Bible solution This version of the application needs the internet connection in order to play audio and show maps. Perfect when on the go. This application will let you to: - Read the Scriptures - Listen to the Scriptures - Listen and follow the text at the same time - See the maps of the Biblical Times We have also included handy tools such as search, notes bookmarks etc Special Thanks to Julius Maxdyanto (http://www.1somang.com) for preparing the text, audio materials and interface translation.
-Author: Radif Sharafullin <itoursoftware@gmail.com>
-
-Package: com.itoursoftware.summerstreetchurch
-Version: 2.0
-Section: Social
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/summerstreetchurch_2.0.deb
-Size: 2289252
-SHA256: f604f9b1d79489f28711fe49571f28a13afaa143dc3a7f6be4c71aa6459e41c5
-Name: Summer Street Church
-Description: Nantucket Summer Street Church. Fellowship news
-Author: Radif Sharafullin <radif.sharafullin@gmail.com>
 
 Package: com.itsjafer.stopshortcutsnotifications
 Version: 1.0.0
@@ -28527,34 +27675,6 @@ Name: OpenOther for iOS 8
 Description: Redirect app icons to launch different apps
 Author: Jake Januzelli <januzellij@gmail.com>
 
-Package: com.janusec.webcruiser
-Version: 1.1
-Priority: optional
-Section: Productivity
-Maintainer: null
-Depends: firmware (>= 5.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.janusec.webcruiser_1.1.deb
-Size: 144516
-SHA256: ca2bf8e5efd797eee4e91197d051e9c08e2ca41823c63c13e761adf052339009
-Name: WebCruiser Web Vulnerability Scanner
-Description: website auditing, penetration testing tool
-Author: Janusec <janusecurity@gmail.com>
-
-Package: com.janusec.webcruiserfree
-Version: 1.1
-Priority: optional
-Section: Productivity
-Maintainer: null
-Depends: firmware (>= 5.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/webcruiserfree_1.1.deb
-Size: 156364
-SHA256: f6cc2f8e6022ee529ff1c479e42c4a772d17b3897a1905c9c581c2c3c457b625
-Name: WebCruiser Free
-Description: website auditing, penetration testing tool
-Author: Janusec <janusecurity@gmail.com>
-
 Package: com.japaneatahand.manualcorrect
 Version: 1.1.6-1
 Section: Tweaks
@@ -28634,18 +27754,6 @@ SHA256: e856f713e84cdc80ed0c82f819f55051fc9c9d23c22f63538c2eb0e9775c036b
 Name: PopShare
 Description: Add share feature in Action Menu.
 Author: Jat Waston <support@jatwaston.com>
-
-Package: com.jaw.bookreader
-Version: 0.95
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bookreader_0.95.deb
-Size: 53814
-SHA256: c70a3832b018ccd546bdbac24d36bd123bd398eba9a649211228000538b10727
-Name: BookReader
-Description: HTML BookReader for iPhone OS 2.0.
-Author: PocketTiger <pockettiger@gmail.com>
 
 Package: com.jayja1lbreak.carrierpigeon
 Version: 1.0-1
@@ -32275,18 +31383,6 @@ Name: Wolf
 Description: The all-in-one tweak for Facebook
 Author: Michael Lema <samewhitetee@gmail.com>
 
-Package: com.lemkin.earthquakes
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/quake_monitor_1.0.deb
-Size: 253998
-SHA256: 46ddc5731790aa47ea0a76d0d78dc04cb95e672722d25e02e3f8ff3c41054d8c
-Name: Quake Monitor
-Description: A little tool that update Earthquakes from around the world in real-time
-Author: Max Lemkin <maxhax94@gmail.com>
-
 Package: com.lenglengyu.shortvideodl
 Version: 1.0.0-1
 Section: Tweaks
@@ -33113,84 +32209,6 @@ Name: iBigBang
 Description: 微信大爆炸分词工具（Bigbang）
 Author: mikeshihua <mikeshihua@gmail.com>
 
-Package: com.luanromo.parallel2x4layouticonoclasm
-Version: 1.1
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/parallel2x4layouticonoclasm_1.1.deb
-Size: 1074
-SHA256: 9fe1ebe42e50279e9ba3c1ab2ae20c039b731121eaa9fe785d97943bd0c2fb4b
-Name: Parallel 2x4 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Luanromo <luanromo@hotmail.com>
-
-Package: com.luanromo.parallel2x4leftsidelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/parallel2x4leftsidelayouticonoclasm_1.0.deb
-Size: 1102
-SHA256: cf316e99def6f6ae9cd9a831612777e4f5f393d54fe8b50743e7addc2d9639f6
-Name: Parallel 2x4 Left Side Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Luanromo <luanromo@hotmail.com>
-
-Package: com.luanromo.parallel2x5layouticonoclasm
-Version: 1.1
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/parallel2x5layouticonoclasm_1.1.deb
-Size: 1080
-SHA256: 17d7206a0b419beb9ac25747c3dfe9ccddc07329ec62e5651d04dcedeb26bbf2
-Name: Parallel 2x5 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Luanromo <luanromo@hotmail.com>
-
-Package: com.luanromo.parallel2x5leftsidelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/parallel2x5leftsidelayouticonoclasm_1.0.deb
-Size: 1102
-SHA256: f4fa2c07ccbd3c428d1efbff4aa04b3b319a6486ebd49af645558f0df4ac488a
-Name: Parallel 2x5 Left Side Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Luanromo <luanromo@hotmail.com>
-
-Package: com.luanromo.parallelproportional42layouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/parallelproportional42layouticonoclasm_1.0.deb
-Size: 1086
-SHA256: 30558b3cf39838785e9ca9772f2751db5f90824191b982f2a340f5653b1e8247
-Name: Parallel Proportional 4-2 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Luanromo <luanromo@hotmail.com>
-
-Package: com.luanromo.parallelproportional52layouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/parallelproportional52layouticonoclasm_1.0.deb
-Size: 1090
-SHA256: ac19912b6f73af11523a9059d971efed2fd5fdf005a64a9d829bb4562dedd714
-Name: Parallel Proportional 5-2 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Luanromo <luanromo@hotmail.com>
-
 Package: com.lucas.extendedprefs
 Version: 1.0
 Section: System
@@ -33393,18 +32411,6 @@ Name: AntiSpamSMS
 Description: NOW FREE! ( This program just for chinese users, because the smart analyze model depends on a spam words-db in chinese. ). The AntiSpamSMS(OX shield) help you reject spam/ads sms in quiet mode for your iphone. smart analyze model inside, reject mostly spam sms without any manual operation. Feature list: sms smart analyze model, preview be filtered sms, custom filter settings, filter sms status alert, close normal sms preview.
 Author: macfeng <macfengcn@gmail.com>
 
-Package: com.macrominds.adsenser
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/adsenser_1.0.deb
-Size: 476512
-SHA256: b30c494c1b109a33fc3ef480cc47053534608869337b66b642638a1ef061cad5
-Name: AdSenser
-Description: Manage your Google Adsense account from your iPhone and iPod Touch.
-Author: Emanuel P <contacto@macrominds.net>
-
 Package: com.macwinexpert.safemode
 Version: 1.0
 Section: Utilities
@@ -33537,19 +32543,6 @@ SHA256: 8aae907fcf5ce7c9f41b221b188b9e2c760168b3581980a2987cdf37d08679de
 Name: MakTorch
 Description: Real torch/flashlight using iPhone4 LED flash
 Author: Mak software <contact@mak-software.com>
-
-Package: com.makeyourdaymedia.remindyou
-Version: 2.4
-Section: Productivity
-Maintainer: Make Your Day Media <contact@makeyourdaymedia.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/remind_you_2.4.deb
-Size: 131350
-SHA256: 7337b733457688f822f29ac13b30f9763a2021d6cb66a289ba3d617c8ebf8044
-Name: RemindYou
-Description: Never miss another appointment! Displays your daily Outlook or Calendar events every time you pick-up your phone. 7-day free trial.
-Author: Make Your Day Media <contact@makeyourdaymedia.com>
 
 Package: com.malcolmhall.appsusinglocation
 Version: 1.2
@@ -34018,279 +33011,6 @@ Name: sysnet
 Description: Get system and network information.
 Author: matteyeux <mathieu.hautebas@gmail.com>
 
-Package: com.matthewbatey.3x3layouticonoclasm
-Version: 1.1
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/3x3layouticonoclasm_1.1.deb
-Size: 1104
-SHA256: b64c4203ab0928e4b1392dcecad4a13abb1a8f339c9d35342121e1dfec221a32
-Name: 3x3 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.matthewbatey.4554layouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/4554layouticonoclasm_1.0.deb
-Size: 1146
-SHA256: 183748bf44202ff0a8586cd8c031cb7cde0de709e8803534b0c442bb407357c6
-Name: 4-5-5-4 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.matthewbatey.4x3layouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/4x3layouticonoclasm_1.0.deb
-Size: 1060
-SHA256: 252db780d02e91779f11a1df9b7ece456ca7aa3944e745d290526cd2b0d0ff3a
-Name: 4x3 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.matthewbatey.4x3wblanktoprowlayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/4x3wblanktoprowlayouticonoclasm_1.0.deb
-Size: 1100
-SHA256: a0a1e50b428e25f0d6d49464b84da577298b89270e0cfd9b2b5ecab8c45441e6
-Name: 4x3 with a Blank Top Row Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.matthewbatey.4x4denselayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/4x4denselayouticonoclasm_1.0.deb
-Size: 1068
-SHA256: 6d9f6e06adf80bf00ca4fcd82c13a230c124f19287a212abe76494e3a0630444
-Name: 4x4 Dense Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.matthewbatey.5topandbottomlayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/5topandbottomlayouticonoclasm_1.0.deb
-Size: 1080
-SHA256: 5813b659f6a0443747864e91635c6d2c758015ca2238a7e0b60242a9aed48151
-Name: 5 Top and Bottom Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.matthewbatey.5x3layouticonoclasm
-Version: 1.2.1
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/5x3layouticonoclasm_1.2.1.deb
-Size: 1152
-SHA256: 5234f981c9b4162f15aa0eb91764296e3d4e37507736c4be80bb3b45204a7761
-Name: 5x3 Layouts for Iconoclasm
-Description: Icon layouts for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.matthewbatey.5x4layouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/5x4layouticonoclasm_1.0.deb
-Size: 1058
-SHA256: cab81d88618048fcfa96c8548a9de9330928abf43f937f787ad5492068274955
-Name: 5x4 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.matthewbatey.5x4wblanktoprowlayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/5x4wblanktoprowlayouticonoclasm_1.0.deb
-Size: 1100
-SHA256: d3480bd7a3ed3f5b7dc29af877c330b6533ee33472955b4e05e454fd462c16b1
-Name: 5x4 with a Blank Top Row Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.matthewbatey.8x5layouticonoclasm
-Version: 1.1
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/8x5layouticonoclasm_1.1.deb
-Size: 1076
-SHA256: e3cf9192d75171188ee665ca0fe0133460b4084cac9ecb263ace9000ef1b5034
-Name: 8x5 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.matthewbatey.9x5layouticonoclasm
-Version: 1.1
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/9x5layouticonoclasm_1.1.deb
-Size: 1082
-SHA256: a799c451be07a912e276548247e631d467a130d11a1b0e66aecf8bede3b4b30a
-Name: 9x5 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.matthewbatey.9x6layouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/9x6layouticonoclasm_1.1.deb
-Size: 1086
-SHA256: 339690f5b45cec336ab9ec6366ed6287653262d57c4e87efa268a6509ffcbbdf
-Name: 9x6 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.matthewbatey.ashapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ashapelayouticonoclasm_1.0.deb
-Size: 1092
-SHA256: 1734e776da1091f743159350de624cc67912dff906295b4b1944cc88f036d209
-Name: A Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.matthewbatey.cornerlesslayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cornerlesslayouticonoclasm_1.0.deb
-Size: 1114
-SHA256: 237b769b809e998bdb2f1b6df42c15adb0279aa599b8105832f6bd0e223e0116
-Name: Cornerless Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Mark Garcia <CydiaSmurf@gmail.com>
-
-Package: com.matthewbatey.diagonallayouticonoclasm
-Version: 1.1
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/diagonallayouticonoclasm_1.1.deb
-Size: 1122
-SHA256: c98878d2ee19509c7ad016384c510a5f0be2506a636514172950e97436c0511b
-Name: Diagonal Layout for Iconoclasm
-Description: Diagonal icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.matthewbatey.plusshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/plusshapelayouticonoclasm_1.0.deb
-Size: 1086
-SHA256: 24ad2d27cc85a3b62ab02d8a80bf1548358350239d6b1bab5ad09f10c1fb76df
-Name: Plus Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.matthewbatey.righthandsidebarlayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/righthandsidebarlayouticonoclasm_1.0.deb
-Size: 1086
-SHA256: 614f02124eaa582d7dbaad58f9cdcfd3a682d6297e6aadfabe1e1a2655c1b788
-Name: Right-hand Sidebar Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.matthewbatey.wavelayoutsiconoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/wavelayoutsiconoclasm_1.0.deb
-Size: 1156
-SHA256: 06151a31b42c39199547cf30d82089ec36d661fcec668eb100efa161b7c3b57e
-Name: Wave Layouts for Iconoclasm
-Description: Icon layouts for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.matthewbatey.wavelengthlayoutsiconoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/wavelengthlayoutsiconoclasm_1.0.deb
-Size: 1436
-SHA256: 7b9050f60f5fb9a241b14c35c78cc3c44229ef3ae9d5db003d9ac75c3d277078
-Name: Wavelength Layouts for Iconoclasm
-Description: Icon layouts for Iconoclasm.
-Author: Bryce Crowe <sporadicc@gmail.com>
-
-Package: com.matthewbatey.whitokenthemelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/whitokenthemelayouticonoclasm_1.0.deb
-Size: 1112
-SHA256: 520b1556d65e8939368db726ea76f9288d6517e3c8cc9316180da3ef45ddf9b5
-Name: Whitoken Theme Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.matthewbatey.xshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/xshapelayouticonoclasm_1.0.deb
-Size: 1100
-SHA256: e2401781f46e0251dfd9175c8f7edaec4f0bb84b262dcfd52e7023fff6913092
-Name: X Shape Layout for Iconoclasm
-Description: X Shape icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
 Package: com.mattwoodhams.ichan
 Version: 1.1
 Section: Utilities
@@ -34568,890 +33288,6 @@ Name: Transparency
 Description: variety fx mods for homescreen icons
 Author: Mr. Russian <mr_russian@rocketmail.com>
 
-Package: com.mbatey.2x2layouticonoclasm
-Version: 1.1
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/2x2layouticonoclasm_1.1.deb
-Size: 1052
-SHA256: 0f0f0297f586585b3466662fbe51962f2f9f70f2ca465cb13e45453ad10ad13f
-Name: 2x2 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.3x3squarelyaouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/3x3squarelyaouticonoclasm_1.0.deb
-Size: 1086
-SHA256: 912af9dff45c56628a1aa31c0fc9536c919497353c2719bfeb3619c34f2da8d8
-Name: 3x3 Square Layout for Iconoclasm
-Description: Icon layouts for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.3x4layouticonoclasm
-Version: 1.1
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/3x4layouticonoclasm_1.1.deb
-Size: 1098
-SHA256: 4a5e219d134cecad4b8b50477673b1cfb7865c9378c66ee6dade9dfb3d7bdcdc
-Name: 3x4 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.3x5rightsidelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/3x5rightsidelayouticonoclasm_1.0.deb
-Size: 1076
-SHA256: 19d0d40fb8fc9001b774e025925d43fa8b7269abe570f02358579f107f6b79a9
-Name: 3x5 Right-Side Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.4x2layoutsiconoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/4x2layoutsiconoclasm_1.0.deb
-Size: 1118
-SHA256: 700308833446840b6cf404c8fc0aac276b47e6e2863a4574101c36df12db2f97
-Name: 4x2 Layouts Layout for Iconoclasm
-Description: Icon layouts for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.4x4blankmiddlelayouticonoclasm
-Version: 1.0-1
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/4x4blankmiddlelayouticonoclasm_1.0-1.deb
-Size: 1136
-SHA256: a0c9bea97093948a51471bebecdc804dd0766a0fa4621362f432b16d003b371e
-Name: 4x4 w Blank Middle Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.4x4bottom5layouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/4x4bottom5layouticonoclasm_1.0.deb
-Size: 1154
-SHA256: 4fd09d76400c677cb637706289ec0d1dd422351908c7965229ffa3017073166f
-Name: 4x4 w 5-Icon Bottom Row Layout for Iconoclasm
-Description: Special Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.4x4framelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/4x4framelayouticonoclasm_1.0.deb
-Size: 1072
-SHA256: 983b63ba8a57910b3fc82cf7504932e766878779b8bf1282c797084ec29d5041
-Name: 4x4 Frame Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.4x4nothirdrowlayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/4x4nothirdrowlayouticonoclasm_1.0.deb
-Size: 1076
-SHA256: 149e4f8b467e60e163616bd62cf8088be02041012c97759aaed2033b8eaba0ca
-Name: 4x4 w No Third Row Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.4x4notoprowlayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/4x4notoprowlayouticonoclasm_1.0.deb
-Size: 1070
-SHA256: f1ce792fbb93ce2076318bef23ea4cf716ea7bec5cbc2bb5381fa53d75604ea2
-Name: 4x4 w No Top Row Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.4x4w2blanklayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/4x4w2blanklayouticonoclasm_1.0.deb
-Size: 1138
-SHA256: 908496f6e23b6805c498544f680f571fff6c35a6bebfa6989b9d0616cda63ac4
-Name: 4x4 with Top Middle 2 Blank Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.5topbottom1centrelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/5topbottom1centrelayouticonoclasm_1.0.deb
-Size: 1100
-SHA256: 5655f93e643b8e3d3bd10cd2e855c1a455129328b6f9ae14acfeb298e0cd7ff3
-Name: 5 Top Bottom 1 Centre Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.5x5framelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/5x5framelayouticonoclasm_1.0.deb
-Size: 1086
-SHA256: 527eafca3bb1a1018e2ca4b4854ca2b5a5f1a80915e9ae3737515ddb5f5e48fd
-Name: 5x5 Frame Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.5x6layouticonoclasm
-Version: 1.1
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/5x6layouticonoclasm_1.1.deb
-Size: 1120
-SHA256: 5f4f3ee0803bab628e6d20738fd6ba6705bb9acaafb9166833d4111959c60337
-Name: 5x6 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.5x7layouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/5x7layouticonoclasm_1.0.deb
-Size: 1056
-SHA256: 283cee0d5752ba8c2fe47c6881904066f4a0eaa2a6e1f794a155228fa436f1e0
-Name: 5x7 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.6x4layouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/6x4layouticonoclasm_1.0.deb
-Size: 1054
-SHA256: 9605a0650b39c18ab802a8c6a6115d389eb503b3a13ca2921e068f37d4917207
-Name: 6x4 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.6x5layouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/6x5layouticonoclasm_1.0.deb
-Size: 1058
-SHA256: 4824670a819e7c5913af256ba5b9f56361ed5504cbdb1ff622cd73eb62ca70f9
-Name: 6x5 Layout for Iconoclasm
-Description: Icon layouts for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.6x6layouticonoclasm
-Version: 1.1
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/6x6layouticonoclasm_1.1.deb
-Size: 1060
-SHA256: 94b2ad66a9c66816f7e9c9781992a9c07e457fa660380630e654259b94a282e1
-Name: 6x6 Layout for Iconoclasm
-Description: Icon layouts for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.7x4layouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/7x4layouticonoclasm_1.0.deb
-Size: 1056
-SHA256: 3789d52c9b85d4d2a38cef184f17f0749d529d17772658e9d1e9ed59985de1a2
-Name: 7x4 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.7x5layouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/7x5layouticonoclasm_1.0.deb
-Size: 1058
-SHA256: fd27dccd3984624c028d6c1bfac620a4cffac7cdca932f65962da6fd1b7aaa3b
-Name: 7x5 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.7x6layouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/7x6layouticonoclasm_1.0.deb
-Size: 1060
-SHA256: be308e86fb431a431f71a0d9bfbed3bf192c67ff3cb673de8311063e61a473d7
-Name: 7x6 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.8x6layouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/8x6layouticonoclasm_1.0.deb
-Size: 1076
-SHA256: db630a8deeec6589560bb553a41d218fdb3dda242fe1cd3626dacfb4e4bc1284
-Name: 8x6 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.a1apremiumthemelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/a1apremiumthemelayouticonoclasm_1.0.deb
-Size: 1106
-SHA256: b5229b6291b80a00c6922ff69eef9916a909ebc0df47dd3bd65b117e766ce10e
-Name: A1A Premium Theme Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.a1aproject441themelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/a1aproject441themelayouticonoclasm_1.0.deb
-Size: 1116
-SHA256: af901edee3678b74cee71af12ff4b26161c296e11fa04ff65a617253edf0599c
-Name: A1A Project441 Theme Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.backwards4x4layouticonoclasm
-Version: 1.0-1
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/backwards4x4layouticonoclasm_1.0-1.deb
-Size: 1132
-SHA256: 9af51bf6fa9144c9041b33121c80aaddb0f04e49af8055142beb9cfd58e1fd23
-Name: Backwards 4x4 Layout for Iconoclasm
-Description: Special Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.boxedindlayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/boxedindlayouticonoclasm_1.0.deb
-Size: 1094
-SHA256: 883fe7d02c44f61610ea686f766326010faf9fc527b79e3c9da913ec83b50554
-Name: Boxed In Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.boxedinnobottomlayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/boxedinnobottomlayouticonoclasm_1.0.deb
-Size: 1094
-SHA256: 39e38c94d52c146f3e436b1591719925a0f625f2ac47c1e9eed824147ab735b2
-Name: Boxed In with No Bottom Layout for Iconoclasm
-Description: Icon layouts for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.boxedinsparselayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/boxedinsparselayouticonoclasm_1.0.deb
-Size: 1074
-SHA256: 51e2a7cfdd2eb9ed396e61029ee88c69a448159b8f88ff201cfa992b02293b78
-Name: Boxed In Sparse Layout for Iconoclasm
-Description: Icon layouts for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.bshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bshapelayouticonoclasm_1.0.deb
-Size: 1078
-SHA256: b4f05d37603f972caa8fce2180dffbdac7a07622a4d61c7a12d1a41fee949e08
-Name: B Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.cshapelayouticonoclasm
-Version: 1.1
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cshapelayouticonoclasm_1.1.deb
-Size: 1068
-SHA256: cb62e679e17eac3c7ad9c643611c32d07f0c627b297bff0823f8de561131bccd
-Name: C Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.diamondlayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/diamondlayouticonoclasm_1.0.deb
-Size: 1074
-SHA256: dc211b481eecd45424ddb6352ec38cf8fe773239ef70e41b58f445f75d26ecc0
-Name: Diamond Layout for Iconoclasm
-Description: Diamond shape icon layout for Iconoclasm.
-Author: Matthew Matey <matthewbatey@me.com>
-
-Package: com.mbatey.dollarsignlayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/dollarsignlayouticonoclasm_1.0.deb
-Size: 1126
-SHA256: 0dc61212da94bb81db60ef99780d444e389c05e3096773686eaba2d94514eddd
-Name: Dollar Sign Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.doubledocklayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/doubledocklayouticonoclasm_1.0.deb
-Size: 1122
-SHA256: 4d4fa56e018e60b074f464cec1bef91d10522c5c58c595e32da7a2639769284b
-Name: Double Dock Layout for Iconoclasm
-Description: Special Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.dshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/dshapelayouticonoclasm_1.0.deb
-Size: 1086
-SHA256: 16e09ba0742e03c724406ffefa4404bfde248ff52d1038a5a5c40c2b73c031cc
-Name: D Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.eshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eshapelayouticonoclasm_1.0.deb
-Size: 1054
-SHA256: eaf4d2cae882246727e1e0969013b6fbe2718df47f555017d41d34cffb5b2b67
-Name: E Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.fourcornerslayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/fourcornerslayouticonoclasm_1.0.deb
-Size: 1052
-SHA256: 66b1bfbbbf25d7b619dbed000cf1885c1b78b2632badcd1b7318b646d097066e
-Name: Four Corners Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.fshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/fshapelayouticonoclasm_1.0.deb
-Size: 1048
-SHA256: 56d901ab8ac2caa5009c7a6e3c71984e7e1832663ba62581b17d60fe919b052b
-Name: F Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.gdjbthemelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/gdjbthemelayouticonoclasm_1.0.deb
-Size: 1106
-SHA256: ff3dfef7fe9163197f80f15a2817cd45b6eda3606aa10a6b6a64addc0432763f
-Name: GDJB Theme Layout for Iconoclasm
-Description: Icon layouts for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.gshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/gshapelayouticonoclasm_1.0.deb
-Size: 1074
-SHA256: cd316b8e864b43d320bd44aac091e3af26466002be438396b0d42fdb5e7c9a22
-Name: G Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.heartshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/heartshapelayouticonoclasm_1.0.deb
-Size: 1094
-SHA256: f99faf8900ee466b75c6187b48553508dd3b9ddb2d1dab1fbc16ce7767c6cf1c
-Name: Heart Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.homeseriesthemelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/homeseriesthemelayouticonoclasm_1.0.deb
-Size: 1064
-SHA256: ae6d86036e149bebd40d61f1c9195080f4118aac6432ac2ce17c193ffd1d9698
-Name: Home [S]eries Theme Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.hshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/hshapelayouticonoclasm_1.0.deb
-Size: 1068
-SHA256: 9e5abf6687fcfd356856816fc3d1b6d59d4ec8a49f668b5eb05610d92ba148b7
-Name: H Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.infiniboard5coldenselayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: BigBoss <marino76610@hotmail.fr>
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/infiniboard5coldenselayouticonoclasm_1.0.deb
-Size: 1574
-SHA256: e4fe052e52acd298ce159356725a46a7fdb24f4aaec71a9fe67ccc510817744e
-Name: [Infiniboard] 5Col Dense Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Marin Mouquet <matthewbatey@me.com>
-
-Package: com.mbatey.infiniboard5columnlayoutconoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: BigBoss <marino76610@hotmail.fr>
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/infiniboard5columnlayoutconoclasm_1.0.deb
-Size: 1324
-SHA256: 6bd67725bff6c16b40d05fc9b27e68d1437be1fbd5d4e2d4c48afd8ae630065e
-Name: [Infiniboard] 5-Column Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Marin Mouquet <matthewbatey@me.com>
-
-Package: com.mbatey.ishapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ishapelayouticonoclasm_1.0.deb
-Size: 1086
-SHA256: a97b46290d85aa27c57afc65237c3c71bcf2a025ec9e76230a26e5241b706054
-Name: I Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.iwarphd2prothemelayoutsiconoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/iwarphd2prothemelayoutsiconoclasm_1.0.deb
-Size: 1292
-SHA256: 5ced6fc6c2b174c0e46f0b1d53719359862de3b1b6bffbe8c38996e5970ad5a8
-Name: iWarp HD2 PRO Theme Layout for Iconoclasm
-Description: Icon layouts for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.jshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/jshapelayouticonoclasm_1.0.deb
-Size: 1084
-SHA256: 176c284e72dca1d54d9ef69eb9344f598dd0e1d01f181c0e7b338655c63b2d6a
-Name: J Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.kshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/kshapelayouticonoclasm_1.0.deb
-Size: 1084
-SHA256: 0629596baf8b71013257ffa988a4330eb2a29e2addda227dad3b2c777e19571b
-Name: K Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.lshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/lshapelayouticonoclasm_1.0.deb
-Size: 1048
-SHA256: 1e8a03dc39e73efdb1151932ffb09e7ac30c0967c82778315c7fa2f73dc81e0f
-Name: L Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.mshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/mshapelayouticonoclasm_1.0.deb
-Size: 1084
-SHA256: d55bf17b9fdb12864527e3d995d8bd19483f9d88793b565aadcc871dcd85152b
-Name: M Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.nshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/nshapelayouticonoclasm_1.0.deb
-Size: 1092
-SHA256: 51bfc14d71394a684461c57da3df21718a38413d8b0686db31f8b9b842c6c6a7
-Name: N Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.oshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/oshapelayouticonoclasm_1.0.deb
-Size: 1078
-SHA256: fb4518c484913b61801229a7b440b359d4965c32ad3ae45a546bfa316c7f9bf1
-Name: O Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.parallel2x5rightsidelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/parallel2x5rightsidelayouticonoclasm_1.0.deb
-Size: 1086
-SHA256: 4245afe3b2a5f498ddf13fa5fe1ab71472bbac37101cca092b89a1ac33566468
-Name: Parallel 2x5 Right Side Layout for Iconoclasm
-Description: Icon layouts for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.pshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/pshapelayouticonoclasm_1.0.deb
-Size: 1064
-SHA256: b51e2a37a1fe21c0a392b9ef058dbcc9daebc674bb5e8d7d04fe16e5afafca13
-Name: P Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.qshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/qshapelayouticonoclasm_1.0.deb
-Size: 1082
-SHA256: 0076ece939f90d499c92900fb2ac73bd24e4d759057c4b3046fabca50855fe3b
-Name: Q Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.rshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/rshapelayouticonoclasm_1.0.deb
-Size: 1082
-SHA256: 3567791c305135f8722f7e2e7261f2909e3f59787762f84c2fd7b7828dc502bc
-Name: R Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.sshapelayouticonoclasm
-Version: 1.1
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/sshapelayouticonoclasm_1.1.deb
-Size: 1096
-SHA256: f9c2056c5af581d13adaf1151a0d3d1b0ca26d9cdd97be004ccde2a9982f7b5c
-Name: S Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.teknologiklthemeayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/teknologiklthemeayouticonoclasm_1.0.deb
-Size: 1114
-SHA256: ed6c542418eb63950d44abaf1f81a77978bbbd9c25db62b71b5bae5ab65d03df
-Name: Teknologik Theme Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.tshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/tshapelayouticonoclasm_1.0.deb
-Size: 1078
-SHA256: 80abd69c451d50f6fd41e425678e9d103d0887889a02e2c158b3fc1222732ede
-Name: T Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.upsidedownushapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/upsidedownushapelayouticonoclasm_1.0.deb
-Size: 1094
-SHA256: 7a541b44a34913af0ae14a138d103a85b4736763c5aeb5c3692d9be1e6a3ca98
-Name: Upside-Down U Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.ushapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ushapelayouticonoclasm_1.0.deb
-Size: 1072
-SHA256: beccb63d672bf93b7b0c64f756c6ed84850fa523f72b1b42bf5b0736cf0219f2
-Name: U Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.vshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/vshapelayouticonoclasm_1.0.deb
-Size: 1054
-SHA256: 43ce5dfd2c238a91b440ecd4a7f5d9b1aedd782aba7f01da5fae895e36c9fa75
-Name: V Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.winvistaplayathemelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/winvistaplayathemelayouticonoclasm_1.0.deb
-Size: 1310
-SHA256: 4fa392f8b391ee53e43ea976914a49a97ee9a91acf1eea4620bfcc961543770c
-Name: WinVista Playa iNav Theme Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.wshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/wshapelayouticonoclasm_1.0.deb
-Size: 1084
-SHA256: d815e8dea76136bb03ff3e0c6a224e5cebdb4c0ec2c6ea3794726ed0ee295094
-Name: W Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.xthemelayoutsiconoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/xthemelayoutsiconoclasm_1.0.deb
-Size: 1362
-SHA256: 92cd1cfe2f36f4577806f424a3c1ffb2cff19396e5ef7b7b8fa03d7acbe41f25
-Name: x Theme Layouts for Iconoclasm
-Description: Icon layouts for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.yshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/yshapelayouticonoclasm_1.0.deb
-Size: 1070
-SHA256: 0ef997a5ea9d5feaf1f596d17c6f25ecdd26d542efe7298c85321c8b90c79cc5
-Name: Y Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matty-batey@hotmail.com>
-
-Package: com.mbatey.zshapelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/zshapelayouticonoclasm_1.0.deb
-Size: 1100
-SHA256: cb2109c6a4f45112c184c8723c00932cddddac4d72a58e8945fb66e82d764322
-Name: Z Shape Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
-Package: com.mbatey.zx4themelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/zx4themelayouticonoclasm_1.0.deb
-Size: 1266
-SHA256: 827acb91e8a2fdd375442ca51e7aa78a887a48434aeebba998597afdc8465cee
-Name: ZX4 Theme Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Matthew Batey <matthewbatey@me.com>
-
 Package: com.mbo42.proxyswitcher
 Version: 1.0.2-1
 Priority: optional
@@ -35702,18 +33538,6 @@ SHA256: fb8b72f46d6cbcae8cc14b169d4177f5c12497e01bd753afc9b7633c4f7239b4
 Name: SMSEnhancer
 Description: Adds contact pic & timestamps to each message
 Author: Alexandros Melakis <amelakis@gmail.com>
-
-Package: com.meowmix23f.iedit
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/iedit_1.0.deb
-Size: 43346
-SHA256: d0f35c5c03c11b5d3be625a865c5dadace788d37ef64ea3a51bddf35e1d34d31
-Name: iEdit
-Description: iEdit is a text editor with an integrated file browser optimized for iPhone OS 3.0, with an image viewer and web viewer (view files as if they were in safari).
-Author: Meowmix23F <baseballer1149@aol.com>
 
 Package: com.merdok.awakespeech
 Version: 1.4.0-13
@@ -36319,58 +34143,6 @@ SHA256: f7602c0d107ffb4c79fd187da6769bc607f22247b8ae0a076f645fe52ddbf14c
 Name: Share+ for Safari
 Description: add page title to Tweets in Safari
 Author: mkn0dat <mkn0dat@aol.com>
-
-Package: com.mmouquet.infiniboard5rowslayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: BigBoss <marino76610@hotmail.fr>
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/infiniboard5rowslayouticonoclasm_1.0.deb
-Size: 1560
-SHA256: 7f237c9b94dc65f244a0f6244b22d04eb5e22073375e9817f2d50de74f6baa1d
-Name: [Infiniboard] 5-Rows Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Marin Mouquet <matthewbatey@me.com>
-
-Package: com.mmouquet.infiniboard5x6layouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: BigBoss <marino76610@hotmail.fr>
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/infiniboard5x6layouticonoclasm_1.0-1.deb
-Size: 1524
-SHA256: 8658dbfd8aacb134ccbf66ea29e5887b40d81f24a70a4d73e0c75403b500bbd3
-Name: [Infiniboard] 5x6 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Marin Mouquet <matthewbatey@me.com>
-
-Package: com.mmouquet.infiniboard6x5layouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: BigBoss <marino76610@hotmail.fr>
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/infiniboard6x5layouticonoclasm_1.0.deb
-Size: 1558
-SHA256: 2393ec40a3e7512878e7a521c092aa56438b94a70f6484b661c8368936c30670
-Name: [Infiniboard] 6x5 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Marin Mouquet <matthewbatey@me.com>
-
-Package: com.mmouquet.infiniboard6x6layouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: BigBoss <marino76610@hotmail.fr>
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/infiniboard6x6layouticonoclasm_1.0.deb
-Size: 1530
-SHA256: 253c14f9d41bc8c2d3b8239c23a221d3bd4b6714309ce17f4694ed207d8e788e
-Name: [Infiniboard] 6x6 Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Marin Mouquet <matthewbatey@me.com>
 
 Package: com.mmrobot.mmemoticon
 Version: 1.0-3
@@ -37403,19 +35175,6 @@ Name: mSpy (trial)
 Description: synchronise your phone data with remote server.
 Author: Mtechnology <support@mspy.com>
 
-Package: com.mtgoxlive.trader
-Version: 3.14-1
-Section: Productivity
-Maintainer: null
-Depends: firmware (>= 4.3)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/mtgoxlivebitcointrader_3.14-1.deb
-Size: 11884690
-SHA256: 666235fbc36882b00128f0d35af4a1de0f7247097b297fff94886f976bb44771
-Name: Bitcoin by MtGox Mobile
-Description: manage your bitcoin trades & investments
-Author: Andrew Lee (rasengan) <andrew@tibanne.com>
-
 Package: com.mtrotzinski.pastenote
 Version: 0.0.1-24
 Priority: optional
@@ -38222,18 +35981,6 @@ SHA256: 06a07082c638a9d2093c6b7b143a958a19d8d6c3bb4460c53ebec150c93b71cf
 Name: ZoomUp
 Description: move the zoom button up in the Camera app
 Author: NickSB2013 <nicksb2013@gmail.com>
-
-Package: com.nicktech.shopping
-Version: 1.4
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/shopping_1.4.deb
-Size: 167208
-SHA256: 910fa344d2b56adda440532dd8b92ca4e7f395ca99c5978932192ec488912afb
-Name: Shopping
-Description: Simple shopping or todo list, just add to and delete from list.
-Author: Nick Upson <iphone@nicktech.com>
 
 Package: com.niles.ipplugin
 Version: 1.0
@@ -39765,19 +37512,6 @@ Name: SpringSorter
 Description: SpringSorter sorts your iPhone / iPod Touch SpringBoard icon layout by putting the most used applications on top.
 Author: Tom Zickel <openhebrew@gmail.com>
 
-Package: com.openhebrew.timekeeper
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Depends: firmware (>= 3.0), mobilesubstrate, libactivator
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/timekeeper_1.0.deb
-Size: 11822
-SHA256: 7a04a299baed61ea18f50f37c52137122dfbacbf2f66afc1d0f96b0c87d03f16
-Name: TimeKeeper
-Description: Keep Track of your application running time and current time notifications anywhere (even in games).
-Author: Tom Zickel <openhebrew@gmail.com>
-
 Package: com.openhebrew.voicemailblock
 Version: 0.1
 Section: Tweaks
@@ -40022,19 +37756,6 @@ SHA256: becbcadcfc9f45c32dda338a94ea96f33742c8b3078bc524ff00f910df9085d5
 Name: StoreSwitcher
 Description: Switch App Store accounts easily
 Author: Ori Kadosh <support@orikad.com>
-
-Package: com.otayel.etisalategyptcarrierbundle
-Version: 1.0
-Section: Carrier Bundles
-Maintainer: null
-Depends: firmware (>= 3.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/etisalategyptcarrierbundle_1.0.deb
-Size: 9638
-SHA256: fbe4a6cdfb597399333e66041d4c005e3e8ef2fe2130b5a4c783963a62a1e4a8
-Name: Etisalat Egypt Carrier Bundle
-Description: Carrier logo, Carrier services codes, APN settings pre-defined
-Author: Omar Tayel <omartayel@gmail.com>
 
 Package: com.ouraigua.audicy
 Version: 1.0.6
@@ -40339,30 +38060,6 @@ SHA256: 0d61ecd85344de14d4fc7f1d9ae9e46bd6a5f4ad46cbafadf8a85066a29332eb
 Name: SafePowerOff
 Description: Hold shutdown cancel button to power off device.
 Author: Paparajote Team <paparajote.team@gmail.com>
-
-Package: com.papaya.papaya
-Version: 3.1
-Section: Social
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/papaya_3.1.deb
-Size: 3546638
-SHA256: 2352e8e4e701e8f1a7cf6b72cf18db20477ae3c4ac5d313b5a4b40bef7cbda71
-Name: Papaya
-Description: Papaya is the game community in your pocket. You can play games with friends on Papaya, including Bejeweled, Chess, and Blackjack. Papaya also integrates IMs (Gtalk, MSN, AIM, Yahoo), chat rooms, social network features, and picture sharing. Available in iPhone OS 2.2 and later.
-Author: Wodes <wodes@papayamobile.com>
-
-Package: com.papaya.papayapro
-Version: 1.0
-Section: Social
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.papaya.papayapro_v1.0.deb
-Size: 2627504
-SHA256: fdc70953b3169c621536d91162dc16e1579d8e5f420845ee7696928b5cbcffaf
-Name: Papaya Pro
-Description: Get 1000 "papayas" when you buy this. Papaya is a gaming social network to connect with people, create your own avatar, and personalize it. You can also use Papaya as an IM/VOIP application on which you can use AIM, MSN (including VOIP), Google Talk (including VOIP), Yahoo IM, and ICQ.
-Author: Wodes <wodes@papayamobile.com>
 
 Package: com.parmett.numpad
 Version: 0.1
@@ -40675,18 +38372,6 @@ Name: MorseCode
 Description: type using morse code for FREE
 Author: Kenneth Ackerson <PearApps@gmail.com>
 
-Package: com.pear.notaemihi
-Version: 1.5
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/notaemihi_1.5.deb
-Size: 832128
-SHA256: f66e079a2bfb8048d8234d542321955e6f16f22a5010dfe496360788adb12906
-Name: Notae Mihi
-Description: User-freindly Notes AND To-Dos
-Author: Kenneth Ackerson <pearapps@gmail.com>
-
 Package: com.pear.numbertostring
 Version: 1.0
 Section: Utilities
@@ -40710,18 +38395,6 @@ SHA256: b25c51655288215cb0db3e7564aed027353c1e9d0cc2960e442f2d2ce56aeeda
 Name: PasswordGen
 Description: generate passwords with many options
 Author: Kenneth Ackerson <PearApps@gmail.com>
-
-Package: com.pear.shorturl
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/shorturl_1.0.deb
-Size: 531286
-SHA256: 50628a7e856e82f470228c9d5d4eff184e80b6412287c1cd0ffbf7b7ba4968b9
-Name: ShortURL
-Description: shorten URLs with CutHut link service
-Author: Kenneth Ackerson <pearapps@gmail.com>
 
 Package: com.pear.sourcemaster
 Version: 2.0
@@ -40782,18 +38455,6 @@ SHA256: f9a0b9dd84d1ab3a66dec9298794bbeca5f29c035916b28863db393416194b04
 Name: WriteHTML
 Description: write and view HTML code on device
 Author: Kenneth Ackerson <PearApps@gmail.com>
-
-Package: com.pearapps.energysaver
-Version: 2.0
-Section: Education
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/energysaver_2.0.deb
-Size: 270596
-SHA256: 3013de30d3c2da33a9ada579b1f8c853683988cb12a090e81b9fd99152ea71a8
-Name: EnergySaver
-Description: Provides tips to help you save energy, the environment, and money.
-Author: Kenneth Ackerson <pearapps@gmail.com>
 
 Package: com.pearapps.findermobile
 Version: 2.6
@@ -41243,20 +38904,6 @@ Name: Bolt
 Description: Statusbar battery icon replacement.
 Author: phoenix3200 <phoenix3200.dev@gmail.com>
 
-Package: com.phoenix.calendarpro4
-Version: 1.0-4
-Section: Productivity
-Maintainer: null
-Depends: mobilesubstrate (>= 0.9.3072), firmware (>= 4.0)
-Conflicts: com.phoenix.cpprofiles
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.phoenix.calendarpro4_v1.0-4.deb
-Size: 64380
-SHA256: 3c19f000bb7042f01cb3c96d18b7210e2a327f3d3a968a4018932199c0f87cdb
-Name: CalendarPro4
-Description: Schedule-based profile manager
-Author: phoenix3200 <phoenix3200.dev@gmail.com>
-
 Package: com.phoenix.cicero
 Version: 1.0
 Section: Tweaks
@@ -41269,19 +38916,6 @@ Size: 21330
 SHA256: 62051d90cfe25048bfb46de144beb593e71614e04822fcaa4dcf1cd5eaa89c84
 Name: Cicero
 Description: More search engines in Safari - OpenSearch compatible.
-Author: phoenix3200 <phoenix3200.dev@gmail.com>
-
-Package: com.phoenix.cpprofiles
-Version: 1.1.0-7
-Section: Productivity
-Maintainer: null
-Depends: mobilesubstrate (>= 0.9.3072), firmware (>= 3.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.phoenix.cpprofiles_v1.1.0-7.deb
-Size: 79536
-SHA256: eb3e2451c77ca4af91801a673c63c04714bfad18921f7ee594a4a7fe7ed02945
-Name: CalendarPro (Profiles)
-Description: Schedule-based profile manager
 Author: phoenix3200 <phoenix3200.dev@gmail.com>
 
 Package: com.phoenix.dialershield
@@ -42528,18 +40162,6 @@ Name: Zeal
 Description: Take control over your battery alerts
 Author: Rabih M. & Stijn <rabihmteyrek@hotmail.com>
 
-Package: com.rafael.fileviewer
-Version: 2.2.1
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/fileviewer_2.2.1.deb
-Size: 71564
-SHA256: c59763b8b70a70fcdff0c34004bc7e7bb1dabd24eda8cd1454c5c923e3abbcf6
-Name: FileViewer
-Description: Simple app to read local files, including pdf, html and images.
-Author: element <suporte@myiphone.com.br>
-
 Package: com.rafaelcosta.jb.mapsallcountries
 Version: 1.5.1
 Section: Tweaks
@@ -43001,18 +40623,6 @@ SHA256: ff72de9937101a12a5d600fc867d743851a863de6bd17190bb14f2eba48a8e48
 Name: NoMoreAppBar
 Description: Hide that annoying app bar in iMessage
 Author: Reed Haffner <reedhaffner@pm.me>
-
-Package: com.remotenote.remotenoteplus
-Version: 1.1
-Section: Productivity
-Maintainer: BigBoss <bigboss@thebigboss.net>
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/remotenoteplus_1.1.deb
-Size: 231558
-SHA256: 0de42fd6ea84c05e36bf3d9120df8611497c74ace9db7bf71c10e7a9d7037ff8
-Name: RemoteNote Plus
-Description: RemoteNote Plus is a quick and fast applications which allows you to manage notes from your iPhone and the web at www.remotenote.co.uk
-Author: RemoteNote <support@remotenote.co.uk>
 
 Package: com.reubensammut.maltesekeyboard
 Version: 0.1-1
@@ -43923,18 +41533,6 @@ SHA256: 88ffa735fe483d1a58f0a40ef36d8d269e0f4da45f058b035e4d249fcf7c513d
 Name: LockDock Lite
 Description: Build an icon dock for lockscreen. Limited version
 Author: roverturbo <uc_roverturbo@hotmail.co.uk>
-
-Package: com.royakkers.ebook
-Version: 1.0
-Section: Productivity
-Maintainer: Jens Royakkers <royakkers.jens@gmail.com>
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ebooks_1.0.deb
-Size: 87416
-SHA256: ab84d1111524d2e81c39a239b1f4b1e5fd36826266919f117e2de7b6576df1dc
-Name: eBook
-Description: eBook reader for iPhone.
-Author: Jens Royakkers <royakkers.jens@gmail.com>
 
 Package: com.rpetrich.activoice
 Version: 1.0.1
@@ -45993,18 +43591,6 @@ Name: securedContacts
 Description: Upload contacts to a webserver securely for you to download as CSV file (microsoft excel, OpenOffice.org SpreadSheet).
 Author: Hicham Mallah <mallah.hicham@securedcontacts.com>
 
-Package: com.sendspace.ishare
-Version: 3.0.2
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ishare_3.0.2.deb
-Size: 341282
-SHA256: 6ab9bdce8767bc92303997e542bfa01dd6e3c9fc039dbc75605e72bc3ed80668
-Name: iShare
-Description: Send and receive files through Sendspace service.
-Author: sendspace <ishare@sendspace.com>
-
 Package: com.serbapple.notifications10
 Version: 1.0-8
 Section: Tweaks
@@ -47594,19 +45180,6 @@ Name: 易天行
 Description: 易天行是一款超强的伪装地理位置的工具，完美的支持微信、QQ、陌陌、探探等基于LBS定位的APP
 Author: skywalk <skywalk2015@qq.com>
 
-Package: com.slacky.iphonesync
-Version: 0.9.9
-Section: Productivity
-Maintainer: null
-Pre-Depends: firmware (>= 3.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/iphonesync_0.9.9.deb
-Size: 791000
-SHA256: 81846e47b28e452dfa527c0ea79fa71bada5696382c9f3cd7bc6543ff3be6141
-Name: iPhoneSync
-Description: Syncs your Contacts, Calendar and Notes with a Funambol-Server
-Author: Roman Hecht <no_spam@slacky.org>
-
 Package: com.slugrail.ipainstaller
 Version: 3.23
 Section: Utilities
@@ -48005,19 +45578,6 @@ Name: iTouchSecure for iOS 9
 Description: Touch ID Password Autofill everywhere FingerPrintSensorScanningTouchIDHomeButtonLoginAuthorizationBiometricPasswordsGlobalSafariAppProtectionSecureSecurityAuthenticationTweakSBSettingsSwitchNoCrack
 Author: SpiritOfLogic <support@itouchsecure.com>
 
-Package: com.spiritoflogic.ncunify
-Version: 1.1.3.1
-Section: Productivity
-Maintainer: SpiritOfLogic <support@unify-tweak.com>
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5015), preferenceloader, com.rpetrich.rocketbootstrap
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.spiritoflogic.ncunify_v1.1.3.1.deb
-Size: 255774
-SHA256: c02b52f76b591332013a1fb830499e36191c834b961b3cfd32392c183f79513d
-Name: Unify
-Description: Notifications Grouped by App at LockScreen/NotificationCenter sorted by app or by time-received, SpringBoard notifications organized into sections, many options via PreferenceLoader settings
-Author: SpiritOfLogic <support@unify-tweak.com>
-
 Package: com.spiritoflogic.photoalbumsplus
 Version: 2.0.0.1-1
 Section: Data Storage
@@ -48208,36 +45768,6 @@ SHA256: caf1c0f4e7ead1b0118d2b46d08d7388b0a4ef3525cad642a5324c6bde0552cd
 Name: RetinaAppIcons
 Description: HighRes for ALL AppStore App Icons... - Features: Automatic high definition app icons for all AppStore apps,Works with most themes supported by WinterBoard,from the makers of PwnTunes iRealSMS 3.0 iRealQuickSMS iRealSMS 2.0 PhotoAlbums+ SpiritOfLogic,no crack,only on Cydia Store,works with jailbreak 3.0 4.0 3.x 4.x firmware,highres high resolution appicons appstore lowres retinadisplay iphone 4 retina display iphone4 theme fullres resolution icons
 Author: SpiritOfLogic <support@irealsms.com>
-
-Package: com.spiritoflogic.tabplusplus
-Version: 1.0.0.0
-Section: Productivity
-Maintainer: SpiritOfLogic <support@tabplusplus.com>
-Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
-Conflicts: com.phoenix.tabplus
-Replaces: com.phoenix.tabplus
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.spiritoflogic.tabplusplus_v1.0.0.0.deb
-Size: 101130
-SHA256: 50318dd757f92d4a1730148000874e9b6d1638ef64adc629edffa6e64cc2bd87
-Name: Tabby
-Description: Truly Unlimited Tabs in Safari - no tab limit of 8 or 24 tabs in Safari browser,more tabs,tab count,tab number,WebbrowserWebbrowsingWebKitImprovementPluginAddonTweakSBSettingsSwitchNoCrack
-Author: SpiritOfLogic <support@tabplusplus.com>
-
-Package: com.spiritoflogic.unifyx
-Version: 1.0.0.0
-Section: Productivity
-Maintainer: SpiritOfLogic <support@unify-tweak.com>
-Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
-Conflicts: com.spiritoflogic.ncunify
-Replaces: com.spiritoflogic.ncunify
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.spiritoflogic.unifyx_v1.0.0.0.deb
-Size: 432372
-SHA256: dd26aa1149c56c768e00f56067a3a691f7c3fd2927202b1217705d4f274be033
-Name: Unify X
-Description: Notifications Grouped by App at LockScreen/NotificationCenter sorted by app or by time-received, SpringBoard notifications organized into sections, many options via PreferenceLoader settings
-Author: SpiritOfLogic <support@unify-tweak.com>
 
 Package: com.spooftel.spooftelcalleridspoofing
 Version: 1.0
@@ -48570,18 +46100,6 @@ Name: TIFF Disabler
 Description: Disables ImageIO TIFF support to protect against CVE-2016-4631.
 Author: Hans Nielsen, Ryan Hileman <hans@stackallocated.com>
 
-Package: com.stanyangroup.similacmom
-Version: 1.0-1
-Section: Education
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/similacmom_1.0-1.deb
-Size: 654272
-SHA256: 8b5acd8f03ddffddccd012967f87af1c25fb524d1ce92aade7248f83ee59ae3b
-Name: Similac Mom
-Description: information tool for pregnant mothers and babies
-Author: Jimmy Quach <similacmom.repo@vn.3apharma.com>
-
 Package: com.steventroughtonsmith.orbit
 Version: 1.1.4-1
 Section: System
@@ -48823,19 +46341,6 @@ Name: Forcy
 Description: Quick Actions on older devices.
 Author: Straya Dev Team <ninjaprawn@ninjaprawn.com>
 
-Package: com.streamconsulting.aptcal
-Version: 1.1
-Section: Productivity
-Maintainer: null
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.streamconsulting.aptcal_v1.1.deb
-Size: 33348
-SHA256: c964d32e0e1a328b14fcbe40666ab481d888a32b0611ec4e71ecf5e21da02e74
-Name: APTCAL
-Description: Process and send invitations in Mail and Calendar.
-Author: Stream Consulting <info@streamconsulting.cz>
-
 Package: com.stubby5000.idiscrete
 Version: 2.2-1
 Section: Security
@@ -48930,32 +46435,6 @@ Name: App Tracker
 Description: Charts and stats of all your app usage.
 	Now runs on iOS 7,8 and 9! No longer affects battery life! How long do you spend on your iPhone each day? What are your most-used apps this week, this month, or of all time?  AppTracker shows you how you really use your iOS device. It automatically detects every time you open or close an app, and shows you detailed graphs of your usage each day.  Discover how long you're spending on games. See how many times you check social networking apps each day. Do your patterns change at the weekends?  You might be surprised what you find out!
 Author: Sumgroup <apptracker@sumcentral.com>
-
-Package: com.sumgroup.flexbook
-Version: 1.1
-Section: Social
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/flexbook_1.1.deb
-Size: 500840
-SHA256: 92f7f1bb02b2705924f312b9608de2617170d8cccafd17fcacc58d1595f909b6
-Name: FlexBook
-Description: Making facebook updates easy and extendable.
-Author: Scott <scott@sumcentral.com>
-
-Package: com.sumgroup.postfactory
-Version: 1.0.3.1
-Section: Social
-Maintainer: null
-Depends: firmware (>= 4.3)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/postfactory_1.0.3.2.deb
-Size: 3110526
-SHA256: c160e7da4bcd492157586f4baa4f609d3fe096f4b6017b869450873a0d093517
-Name: Post Factory
-Description: build fun FB posts with quirky effects
-	Facebook posts will never be the same again... Show off your creativity and build fun Facebook posts using our 'factory' of quirky effects. Ever wondered what your friend would sound like as a chipmunk, or fancied translating your updates into Pirate lingo? Put your own photos and sound effects into the PostFactory production line and see what comes out!
-Author: Don <don@sumcentral.com>
 
 Package: com.sunny.noupdatesavailable
 Version: 1.0.3
@@ -49269,45 +46748,6 @@ SHA256: e296add74fb62099c8e5e48e2a856d234ff0703682249d34c0e6ec03663efe9f
 Name: WeiboLocFaker
 Description: Change Weibo Location in Weibo.
 Author: Suu <462993145@qq.com>
-
-Package: com.swatme101.boxedlayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/boxedlayouticonoclasm_1.0.deb
-Size: 1078
-SHA256: bfb0ec047e98cc72247a16dec54e7d2d9cb8cd1d28b91ac621e2c6b3b7dc0032
-Name: Boxed Layout for Iconoclasm
-Description: Boxed icon layout for Iconoclasm.
-Author: Swatme101 <Swatme101@hotmail.com>
-
-Package: com.swatme101.curvelayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/curvelayouticonoclasm_1.0.deb
-Size: 1076
-SHA256: e3f99b3868118524b19cf55c5403b7f26acfb579af72592b7ce5985d8f6b10f7
-Name: Curve Layout for Iconoclasm
-Description: Curve layout for Iconoclasm.
-Author: Swatme101 <Swatme101@hotmail.com>
-
-Package: com.swatme101.sidebarlayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/sidebarlayouticonoclasm_1.0.deb
-Size: 1064
-SHA256: 478a10f54d842f753ba44544353292123765cd39deb1777190e29ba9833b48e3
-Name: Sidebar Layout for Iconoclasm
-Description: Here is a first page sidebar layout for Iconoclasm.
-Author: Swatme101 <Swatme101@hotmail.com>
 
 Package: com.swiftyper.wechatredenvelop
 Version: 2.1.1
@@ -50461,18 +47901,6 @@ Name: emojiPad
 Description: emojiPad lets you access the Emoji keyboard which has over 400 cute icons & symbols! It serves as a reference for all the emoji on your system.
 Author: Michael <michael@thetalogik.com>
 
-Package: com.thetalogik.ontopbb
-Version: 1.6
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/on_top_1.6.deb
-Size: 376156
-SHA256: 42c62dc69ecb4721138501cbcd543ec5329d628edc32359f2d4441ef51641d7d
-Name: onTop
-Description: onTop is a web-browser with a built-in notepad. It is a versatile way to take notes from the web without having to go back-and-forth between Safari &  the Notes app.
-Author: Michael <michael@thetalogik.com>
-
 Package: com.thezimm.airplaneicon
 Version: 0.1-1
 Priority: optional
@@ -50877,18 +48305,6 @@ SHA256: 0e6bb71c1459eec1943650c6d62d01445feb61bded03ea055c3e1765a29118d7
 Name: Filza File Manager
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Author: TIGI Software <satashi2009@gmail.com>
-
-Package: com.tiim.doit
-Version: 2.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/doittaskmanager_2.0.deb
-Size: 10522216
-SHA256: 799277ceb274d60c9adfee32414d42edd71655664134a14d05478be2cb31a54a
-Name: Doit - Task Manager
-Description: Manage daily tasks & notes in seconds
-Author: Kristers <kristers@tiim.lv>
 
 Package: com.tijs.batteryloggerlight
 Version: 0.6
@@ -52861,19 +50277,6 @@ Name: NoPageDots7
 Description: Remove page indicator dots from iOS 7.
 Author: Tyler Flower <me@tylerflowers.me>
 
-Package: com.tyr0.prospector
-Version: 1.0b1
-Section: Productivity
-Maintainer: null
-Pre-Depends: firmware (>= 3.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/prospector_1.0b1.deb
-Size: 158172
-SHA256: 2ba5afe96f7ed5716b1c456170284660633fe1435223e2b02b950723771ad73d
-Name: Prospector
-Description: An advanced web browser for iPhone
-Author: Tyler Calderone (Tyr0) <tylercalder123@gmail.com>
-
 Package: com.u7c.ios9monsterhunter
 Version: 0.0.8
 Section: Tweaks
@@ -53689,20 +51092,6 @@ Size: 136196
 SHA256: aef4cf89460693531c575452d59c67d7c856c2c4f532c492fcc5b1e6fe0bd752
 Name: CamTime
 Description: use multi shot timer in Camera app
-Author: Vladislav Korotnev <vladkorotnev@gmail.com>
-
-Package: com.vladkorotnev.ihotline
-Version: 1.7
-Priority: optional
-Section: Social
-Maintainer: null
-Depends: firmware (>= 3.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ihotline_1.7.deb
-Size: 887130
-SHA256: 0bdbae24a6aad88d7f16271248031aa66589656337f799f33162a61c74b66658
-Name: iHotline
-Description: chat using the old network Hotline
 Author: Vladislav Korotnev <vladkorotnev@gmail.com>
 
 Package: com.vladkorotnev.isounds
@@ -55062,18 +52451,6 @@ Name: WiFi助手
 Description: wifi免费共享软件，可无需密码直接连接!
 Author: wifizhushou <wifizhushou@163.com>
 
-Package: com.wiki.wikisrvd
-Version: 1.1.20091028
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/wiki2touchserver_1.1.20091028.deb
-Size: 193792
-SHA256: 7218a9a1d6cec775a3853fe519337d3546534af9b24216b2831d4b2a9c77f91f
-Name: Wiki2Touch Server
-Description: A mini-server for off-line Mediawiki (Wikipedia, Wikia, etc.) databases.
-Author: Tom Haukap
-
 Package: com.wiki.wikisrvd-bossprefs
 Version: 1:1.0
 Section: App Addons
@@ -55280,18 +52657,6 @@ Name: hugs98-packages
 Description: Hugs 98 is a functional programming system based on Haskell 98, the de facto standard for non-strict functional programming languages. Hugs 98 provides an almost complete implementation of Haskell 98. Now on the iPhone. This package contains all the usual packages contained in the hugs98 release..
 Author: Copyright © Mark P Jones, Alastair Reid, the Yale Haskell Group, and the OGI School of Science & Engineering at OHSU, 1994-2004, All rights reserved. <http://www.haskell.org/hugs/>
 
-Package: com.wozai.wozai
-Version: 1.0-4
-Section: Social
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/wozai_1.0-4.deb
-Size: 287988
-SHA256: 494f6733438548f6a08a19cb7cbea2df8e0a82d03f02439856d3c93da9df8768
-Name: Wozai
-Description: Wozai.cc is a tweeter clone for Apple iPhone and iPod Touch
-Author: Ray Shih <ray@wozai.cc>
-
 Package: com.wrightscs.flashcam
 Version: 0.0.8
 Priority: optional
@@ -55318,35 +52683,6 @@ Size: 171486
 SHA256: 0b4c7007db684c132fb690b95f740b1cb53a135e3ba9dd72a9438eac5207caa7
 Name: Mobile Kiosk
 Description: Quickly access system information no matter what application you are in.
-Author: Aaron Wright <AaronWright4911@msn.com>
-
-Package: com.wrightscs.mobileprofiles
-Version: 2.3.2
-Section: Productivity
-Maintainer: null
-Depends: mobilesubstrate, libactivator
-Conflicts: com.wrightscs.mobileprofilesdemo, com.wrightscs.mobileprofileshd
-Replaces: com.wrightscs.mobileprofileshd
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.wrightscs.mobileprofiles_v2.3.2.deb
-Size: 2811078
-SHA256: 3e0bffcb7161cbbcf9879594761b0885b241209a1fe657fc2521e354411341e4
-Name: Mobile Profiles
-Description: custom profiles for system services & settings
-	Create custom profiles with iPhone system settings that you define for each individual profile you may create! You can also add a description to your profile for a quick reference as well as rename the profile. You can also quickly enable or disable iPhone services such as Wi-Fi and Bluetooth with Quick Profiles.
-Author: Aaron Wright <AaronWright4911@msn.com>
-
-Package: com.wrightscs.mobileprofilesdemo
-Version: 2.3.2
-Section: Productivity
-Maintainer: null
-Depends: mobilesubstrate, libactivator
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/mobileprofilesdemo_2.3.2.deb
-Size: 2805334
-SHA256: 7b3f9013206cb8e24c773f7fa9675e74359cdecac885d71d7fc400e77ada3f59
-Name: Mobile Profiles DEMO
-Description: Create custom profiles with iPhone system settings that you define for each individual profile you may create! You can also add a description to your profile for a quick reference as well as rename the profile. You can also quickly enable or disable iPhone services such as Wi-Fi and Bluetooth with Quick Profiles.
 Author: Aaron Wright <AaronWright4911@msn.com>
 
 Package: com.wrightscs.powerlock
@@ -56631,19 +53967,6 @@ Name: Netflixxx
 Description: Enables Speed Control feature in Netflix
 Author: Yoo0x <Yaser0yaser1234@gmail.com>
 
-Package: com.yourcompany.hpcalc
-Version: 2.0.2
-Section: Productivity
-Maintainer: null
-Depends: firmware (<< 3.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/hpcalc_2.0.2.deb
-Size: 1969912
-SHA256: 962632f491b79141f9371392474d6505fc569bc2809bea1365b74d325301da60
-Name: HPCalc
-Description: a all in one solution (HP11C, HP12C, HP15C and HP16c all contained in a single app, click on the HP logo to switch calculator)
-Author: hpvoyageur <hpvoyageur@gmail.com>
-
 Package: com.yourepo.dev4i.devlibimagepicker
 Version: 1.0.6
 Section: Development
@@ -56752,18 +54075,6 @@ Name: addsource
 Description: Add the copied URL to Cydia sources automatically
 Author: yuosaf01 & 3bod_syr <3body373737@gmail.com>
 
-Package: com.yvansoftware.boxingtimer
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/boxingtimer_1.0.deb
-Size: 292082
-SHA256: 931099fec571004a95d123db86248c6b6e816f9e8a09b3a8679281ac20d514f4
-Name: BoxingTimer
-Description: This is a timer for your boxing exercises. You specify the time, the iPod notices you when the time's over with a sound, and it counts the rounds you've played.
-Author: YvanSoftware <yvan@yvansoftware.be>
-
 Package: com.yvansoftware.chmodcalculator
 Version: 1.1
 Section: Utilities
@@ -56789,18 +54100,6 @@ Name: iProxifyPad
 Description: Anonymous web browsing through dedicated servers. Your privacy is guaranteed to be safe.
 Author: Yvan Janssens <yvan@yvansoftware.be>
 
-Package: com.yvansoftware.mobilelog
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/mobilelog_1.0.deb
-Size: 15210
-SHA256: 10cc86726dc42c2c73306485daee362fedb2f0a2b468012696d9afbee52d0e2d
-Name: MobileLog
-Description: MobileLog is a mobile blogging application. You will get a blog at mobilelog.co.cc, on wich you can post as many as you want, as long as it's not violating or Terms of Service.
-Author: YvanSoftware <yvan@yvansoftware.be>
-
 Package: com.yvansoftware.newyearscountdowncydget
 Version: 1.2
 Section: Cydgets (Lock)
@@ -56812,43 +54111,6 @@ SHA256: e66c9fd1e083d2d6207c5fd2287f3789246e2a67fe8116f7be34afc16ef77c8c
 Name: New Years Countdown Cydget
 Description: A countdown cydget that will show fire works on New Years
 Author: fman23 <fkmclane@gmail.com>
-
-Package: com.yvansoftware.powercalc
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Depends: firmware (>= 4.2)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/powercalcipad_1.0.deb
-Size: 322326
-SHA256: 345ed54d626c4dc9c729374aece209f0d3daff04784700e23c19207c39f02c62
-Name: PowerCalc iPad
-Description: powerful, speedy cloud-powered calculator
-Author: YvanSoftware <yvan@yvansoftware.be>
-
-Package: com.yvansoftware.scorekeeper
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/scorekeeper_1.0.deb
-Size: 131312
-SHA256: 84667e9530b5da94ca6113e669f47c1a7e68b9e8dc57da76e85e52ca631be126
-Name: ScoreKeeper
-Description: This is an application for score tracking in football and other team sports. Just hit the right button, and the app counts the points for you!
-Author: YvanSoftware <yvan@yvansoftware.be>
-
-Package: com.yvansoftware.scorekeeperboxingedition
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/scorekeeperboxingedition_1.0.deb
-Size: 177970
-SHA256: 881006c119bbf8d09a1edab20c79b435646d45d72408573c49f18635baa9fd9a
-Name: ScoreKeeper Boxing Edition
-Description: ScoreKeeper was the most easy to use game tracker, and here's the specialized version, created for the sole use of boxing matches. You can track your favorite games by your own now!
-Author: YvanSoftware <yvan@yvansoftware.be>
 
 Package: com.zachatrocity.exsto
 Version: 0.0.1.2-1
@@ -58275,21 +55537,6 @@ Name: drig
 Description: DRIG Random Integer Generator
 Author: Drew Wagner <dupie@lavabit.com>
 
-Package: easywakeup
-Version: 14.7.8684
-Section: Productivity
-Maintainer: speakus <easy_support@easywakeup.net>
-Pre-Depends: firmware (>= 3.1)
-Conflicts: org.freeterra.EWakeupPlus, org.freeterra.ewakeupplus
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/easywakeupfull_14.7.8684.deb
-Size: 6431832
-SHA256: a4d223055a32f49dbd3477122bfb472d90585da71669fc5feb2dd7420c8c60d6
-Name: EasyWakeup Full - smart alarm clock (easy wake up)
-Description: Wanna wake up easier? You need this app!
-	It use accelerometer for detect best awake time (based on sleep phases knowledge). You will simply set a guide time in which your alarm must wake you, and the alarm will wake you up at the opportune time in your given time period.
-Author: speakus <easy_support@easywakeup.net>
-
 Package: es.iflam.hidelsmusiccontrols
 Version: 1.1-6
 Section: Tweaks
@@ -59593,20 +56840,6 @@ SHA256: 320c1fad51126ac38152dfb79e9214b73a17a677c088d90adc8306f1ce47397e
 Name: YouText
 Description: Customize text/background color in Notes.app.
 Author: Adolfoi_ <adolfoi.ios.developer@gmail.com>
-
-Package: info.aldub.phonenzb
-Version: 1.2.2
-Priority: optional
-Section: Productivity
-Maintainer: null
-Depends: firmware (>= 5.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_info.aldub.phonenzb_v1.2.2.deb
-Size: 282942
-SHA256: 1f1aab4ef3cdd61fd90fa3e47f58d3c92b35652bef3d4746147c963f5b63f9be
-Name: PhoneNZB
-Description: download Usenet files and extract contents
-Author: Al Wong <PhoneNZB@gmail.com>
 
 Package: info.bochs.location-sentry
 Version: 1.0.1-1
@@ -61890,20 +59123,6 @@ Name: NoQuickActionButtons
 Description: Hide lock screen quick action buttons
 Author: Xivn2 <hmody_2131@hotmail.com>
 
-Package: li.myweek.myweek
-Version: 1.00-0
-Section: Productivity
-Maintainer: myWeekDevTeam <info@myweek.li>
-Pre-Depends: firmware (>= 3.0)
-Depends: preferenceloader
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/myweek_1.00-0.deb
-Size: 372436
-SHA256: ce53f6c2b3f58aeb6bbde531a3c8842b0e9bbdfd1646c3ed72a53dfd3163f23e
-Name: myWeek
-Description: Get a week of your calendar at a single glance.
-Author: myWeekDevTeam <info@myweek.li>
-
 Package: li.oldman.inspectorplus
 Version: 1.0.1
 Section: Tweaks
@@ -64031,18 +61250,6 @@ Name: PlsIgnoreAlert
 Description: Add a "Dismiss" button to alerts
 Author: Wisy Channel <thisiswisy@gmail.com>
 
-Package: mm.edu.fbapp
-Version: 1.1
-Section: Social
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/fbapp_1.1.deb
-Size: 827148
-SHA256: b1d7b285d6bc4ce6e5b7bf71c7959d240d2fd11ed73efe8ddc50d984dca029bd
-Name: Fbapp
-Description: post facebook status with custom app name
-Author: sp_kid <koikora@gmail.com>
-
 Package: mobileterminal-applesdk
 Version: 520-2
 Section: Terminal Support
@@ -64328,18 +61535,6 @@ SHA256: 9e2d07b03f93281d020957ef5a3fc7d7296ce3f7bbdfaa94cbe3c073805e1631
 Name: Contact Xfer
 Description: Transfer individual address book entries from phone to phone.
 Author: Nigel Stepp <stepp@atistar.net>
-
-Package: net.brujula.brujularss
-Version: 1.1
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/brujularss_1.1.deb
-Size: 39470
-SHA256: 5baafcec926b15e5322fb1252e90653c499bddf8039307ea554ab20e0b67da2f
-Name: Brujula-RSS
-Description: iPhone RSS Tech Reader App including prefetching of RSS Feeds and links to CNN, BBC, NYT, Digg, Endgadget, Boing Boing, iTunes Top Lists and more.
-Author: Brujula.net <info@brujula.net>
 
 Package: net.crazy.resetallkiller
 Version: 1.0.2
@@ -67779,20 +64974,6 @@ Description: A simple GPS faking assistant but with useful features and great st
     With GPS and Route mode, it makes your device's GPS anywhere you want. 一个简洁且有更多功能和更好稳定性的GPS修改助手，具备GPS修改和驾驶模式，让你的设备可以去到任何你想要的地方。
 Author: ewoodfact <crystalchange2019@gmail.com>
 
-Package: org.freeterra.ewakeupplus
-Version: 14.7.8684
-Section: Productivity
-Maintainer: null
-Pre-Depends: firmware (>= 3.1)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/easywakeupplus_14.7.8684.deb
-Size: 6431808
-SHA256: 81c8a7a7381e5a67855127951a456034734aa5e427a8547079184d0a1f317526
-Name: Absalt EasyWakeup Plus - smart alarm clock (easy wake up)
-Description: Best Alarm Clock for iPhone!
-	Smart app use accelerometer for detect best awake time (based on sleep phases knowledge). You will simply set a guide time in which your alarm must wake you, and the alarm will wake you up at the opportune time in your given time period.
-Author: speakus <easy_support@easywakeup.net>
-
 Package: org.fwdr.sonus
 Version: 3.0.2-3
 Section: Tweaks
@@ -67844,19 +65025,6 @@ Size: 140096
 SHA256: b6da9a8057004268cbde75e654087ba0de51ef8577470bc33ee7c20be023ab56
 Name: Automatic Dictation
 Description: assign VoiceActivator to Dragon Dictation service
-Author: Arpad Goretity (H2CO3) <arpad.goretity@gmail.com>
-
-Package: org.h2co3.fulldrop
-Version: 1.9
-Section: Productivity
-Maintainer: null
-Depends: firmware (>= 4.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/fulldrop_1.9.deb
-Size: 432738
-SHA256: 325cba350dc66874eca08d0a020fb4cc3f501e08103607b58e83cde993bf5c1b
-Name: FullDrop
-Description: full access to Dropbox including uploading files
 Author: Arpad Goretity (H2CO3) <arpad.goretity@gmail.com>
 
 Package: org.h2co3.ipodmemos
@@ -68851,32 +66019,6 @@ SHA256: 6f2526f197d398597286ffa1763cb965f99f428149985483f1e9a5ad3f468411
 Name: 3DNotifications
 Description: Peek and Pop notifications
 Author: Hamza Sood <hamza_sood+Cydia@me.com>
-
-Package: org.thebigboss.3x3squareiconoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/3x3squareiconoclasm_1.0.deb
-Size: 1056
-SHA256: 41723d4acde9e0f12b8d3cb16371a9deb7c8fd25ae8d41d97cc2dbdb969cb4bb
-Name: 3x3 Square Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Stijn Vanouplines <stijn.vanouplines@telenet.be>
-
-Package: org.thebigboss.3x4leftsideparallellayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/3x4leftsideparallellayouticonoclasm_1.0.deb
-Size: 1080
-SHA256: a71a83db7466dfcda23a3af76f4cf086043fbc9721fe772f62cc5222548ab9a2
-Name: 3x4 Left-Side Parallel Layout for Iconoclasm
-Description: custom icon layout for Iconoclasm.
-Author: Thegs68 <thegs68@gmail.com>
 
 Package: org.thebigboss.5rowarmeniankeyboard
 Version: 1.0-1
@@ -70133,19 +67275,6 @@ SHA256: 6a2d07daa32520b809930f64ae31cf9a75a7f877f649d9d31d9b11b568c42085
 Name: Assistant Unrestrictor
 Description: enables VoiceControl when Siri unavailable
 Author: SquiffyPwn <squiffypwn@gmail.com>
-
-Package: org.thebigboss.asteroidzlayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/asteroidzlayouticonoclasm_1.0.deb
-Size: 1160
-SHA256: 587cc5762d53c9f26abb4fd88662eac00bd0474429b2a1da5fb25d836e232548
-Name: Asteroidz Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Andres 2k <andres2k@me.com>
 
 Package: org.thebigboss.athena
 Version: 2.00-9
@@ -71626,19 +68755,6 @@ Name: ChatPic
 Description: show contact's photo in SMS messages
 Author: James Magahern <james@magahern.com>
 
-Package: org.thebigboss.checkerboardlayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/checkerboardlayouticonoclasm_1.0.deb
-Size: 1180
-SHA256: 8c550fc908a561d6b512a3cddee6f041168e7e51e4d63ef150b6a21749396ff1
-Name: Checkerboard Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Andres 2k <andres2k@me.com>
-
 Package: org.thebigboss.chip
 Version: 1.5.1
 Section: Tweaks
@@ -71948,19 +69064,6 @@ Name: CodeScrambler
 Description: random ordered unlock passcode buttons
 Author: Jordan Koch <jordan@jordankoch.us>
 
-Package: org.thebigboss.codezer0
-Version: 2.1
-Section: Education
-Maintainer: null
-Depends: firmware (>= 4.3)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/codezer0_2.1.deb
-Size: 4315964
-SHA256: eb8b1574f59e1786ee052c4c4d9c6ea5db5e95656613b3d3ada0f6f3982ef3d6
-Name: Codezer0
-Description: hacking, development & tech tutorials
-Author: Skyr0s <antoine.desaintgermain@yahoo.com>
-
 Package: org.thebigboss.colorbadges
 Version: 1.3.2
 Section: Tweaks
@@ -72040,18 +69143,6 @@ SHA256: e801e86ce42ab8ad38b69f9b6dc1a1504824de7e058503156667515d71dfac9f
 Name: Colorize
 Description: artwork-based color UI for Music app
 Author: Stevie Hetelekides <hetelek@gmail.com>
-
-Package: org.thebigboss.colormixer
-Version: 1.1
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/colormixer_1.1.deb
-Size: 278818
-SHA256: 3484e6bd2e4748099720368b348df9f6c32125e317366ea6c193e94381f30f15
-Name: ColorMixer
-Description: mix colors & proportions; RGB, CMY, HSV
-Author: Thibault Dardinier <fandejuni@hotmail.fr>
 
 Package: org.thebigboss.colory0urboard
 Version: 2.0.1
@@ -72228,19 +69319,6 @@ SHA256: 63832c9f64018617e632a4614ed2b951aa462265420805e37b33cf46c3178c76
 Name: CopyDock
 Description: transforms your dock into the iOS 7 dock
 Author: Vatsal Manot <vatsal.manot@yahoo.com>
-
-Package: org.thebigboss.craigeasy
-Version: 1.0
-Section: Productivity
-Maintainer: null
-Depends: firmware (>= 6.0), gsc.ipad
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/craigseasy_1.0.deb
-Size: 661586
-SHA256: 568fe0aa678bed73155fcd40f78cf6c3c321a5a296a17ba66ebc9ecc43b6b08f
-Name: Craigseasy
-Description: browse classified ads on your iPad
-Author: Abdo Achkar <abdo@craigseasy.com>
 
 Package: org.thebigboss.cstavish.synchronicity
 Version: 2.0
@@ -74150,19 +71228,6 @@ Name: HapticScroll
 Description: Haptic feedback when top/bottom scroll limit is reached.
 Author: Hrvoje Kostic <hrvoje.kostic@gmail.com>
 
-Package: org.thebigboss.hawlerdic
-Version: 1.0
-Section: Education
-Maintainer: null
-Depends: firmware (>= 4.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/hawlerdic_1.0.deb
-Size: 1365572
-SHA256: f8d93846183463c98a3def9594c30b2c11a23cd45fdadadef01a37ac64612560
-Name: Hawler Dic
-Description: English--Kurdish & Kurdish--English dictionary
-Author: Abdurrahman Y. Omer <Kurdsrus@gmail.com>
-
 Package: org.thebigboss.hdphotographer
 Version: 1.2-46
 Section: Tweaks
@@ -74691,18 +71756,6 @@ Name: iDeb
 Description: easily make debian packages on the go
 Author: Jailpod <nolan.cydia@gmail.com>
 
-Package: org.thebigboss.igooglerpro
-Version: 1.1-1
-Section: Productivity
-Maintainer: null
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_org.thebigboss.igooglerpro_v1.1-1.deb
-Size: 2429014
-SHA256: b14841159cc63c073fe56bf497b8df14b2ca3b8fda4ad6481766c7467caa7397
-Name: iGoogler Pro
-Description: ultimate quick access to google services
-Author: Suhaib Alfaqeeh <alfadesigns.co@gmail.com>
-
 Package: org.thebigboss.ikeys
 Version: 3.0
 Section: Tweaks
@@ -74983,20 +72036,6 @@ SHA256: 51afccc26e41d4ab6b5cbacb103a1f913e0df63f0dff65a6243a0014e8b674bd
 Name: iPadKeyboardBlur
 Description: blurred keyboard view on compatible iPads
 Author: Hamza Sood <hamza_sood@me.com>
-
-Package: org.thebigboss.iparis8
-Version: 1.1
-Priority: optional
-Section: Education
-Maintainer: null
-Depends: firmware (>= 5.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/iparis8_1.1.deb
-Size: 9810596
-SHA256: 3ca0584d9036c25239fcc0ac4c655640be6f22f57b6a71701181ba6481c68b64
-Name: iParis8
-Description: French - Chinese dictionary app
-Author: Xin Yu <xin.yu@msn.com>
 
 Package: org.thebigboss.ipeqforiphone
 Version: 1.4.2
@@ -78922,19 +75961,6 @@ Name: SafeTexting
 Description: Sends read receipt when you send the message!
 Author: Aaron Thomas <robottomdev@gmail.com>
 
-Package: org.thebigboss.sbprofiles
-Version: 2.3-124
-Section: Productivity
-Maintainer: null
-Depends: mobilesubstrate (>= 0.9.5000), libactivator, firmware (>= 6.0), applist
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/sbprofiles_2.3-124.deb
-Size: 595626
-SHA256: 9d51a014be859b4a16f28769937bf67642b3cad81527a295f131f73b5aa13e46
-Name: SBProfiles
-Description: Switch from one SBSettings profile to another.
-Author: GCK <gerardck01@gmail.com>
-
 Package: org.thebigboss.scramblepass
 Version: 0.0.2-1
 Section: Tweaks
@@ -81605,19 +78631,6 @@ SHA256: 20b235aa9986d6a59c5c0fcc2093dcdf0730f99d9e91f2818d481fb7ced31dac
 Name: XBMC Hub Wizard
 Description: put XBMC addons to your iDevice/AppleTV
 Author: Kevin Bradley <bile@chronic-dev.com>
-
-Package: org.thebigboss.xlayouticonoclasm
-Version: 1.0
-Section: App Addons (Iconoclasm)
-Maintainer: null
-Depends: net.r-ch.iconoclasm
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/xlayouticonoclasm_1.0.deb
-Size: 1148
-SHA256: 072dcfd9ef319a5d5dce521d97197e75b818077ea1510dd4f20ad067eaa9bba9
-Name: X Layout for Iconoclasm
-Description: Icon layout for Iconoclasm.
-Author: Andres 2k <andres2k@me.com>
 
 Package: org.thebigboss.xnotilockcolor
 Version: 1.1-1

@@ -58,6 +58,34 @@ _run(){
 	_do
 	_find_text='Toy'
 	_do
+	_find_text='Soundboards'
+	_do
+	_find_text='Hunspell_Dictionaries'
+	_do
+	_find_text='Entertainment'
+	_do
+	_find_text='Multimedia'
+	_do
+	_find_text='Navigation'
+	_do
+	_find_text='Applications (Addons)'
+	_do
+	_find_text='Eduvation'
+	_do
+	_find_text='Site-Specific Apps'
+	_do
+	_find_text='Localization'
+	_do
+	_find_text='App Addons ('
+	_do
+	_find_text='Social'
+	_do
+	_find_text='Carrier Bundles'
+	_do
+	_find_text='Productivity'
+	_do
+	_find_text='Education'
+	_do
 }
 
 
