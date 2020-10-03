@@ -57,7 +57,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.1.5",
+                    "text": "0.1.6",
                     "title": "最新版本"
                 },
                 {
@@ -67,7 +67,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 10 月 03 日",
+                    "text": "2020 年 10 月 04 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -100,7 +100,18 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "可能更快了一点？",
+                    "markdown": "修复上个版本可能导致的红字错误",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "0.1.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "更换检测方法，现在可能更快了一点",
                     "useRawFormat": true
                 },
                 {

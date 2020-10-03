@@ -931,15 +931,15 @@ Name: DownloadBar13
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.downloadbar13/js.json
 
 Package: com.nan.dsar
-Version: 0.1.5
+Version: 0.1.6
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: org.coolstar.sileo
-Filename: debs/com.nan.dsar_0.1.5_iphoneos-arm.deb
-Size: 1628
-MD5sum: 808c039224a759d20fbf9cee1be7a5f3
-SHA1: 902d5fa373114e54473b9c6730a201a33cc4c8f4
-SHA256: c043f373b681f487d1e04813d04d23bb1c5f90aa19a7f358e39ee5f99e434407
+Filename: debs/com.nan.dsar_0.1.6_iphoneos-arm.deb
+Size: 1636
+MD5sum: ae225de2e209c9cca5ea164c443dcf0c
+SHA1: a909ec75c4b50d53fe1ce0274900735b1676fe1e
+SHA256: ece0350192629c24d683f0bf73dd3b631791306bec17a747988e99f156c5517f
 Section: Scripting
 Description: 去除 Sileo 无法移除默认源的限制
 Author: zhaonan
