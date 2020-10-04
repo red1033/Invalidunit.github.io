@@ -790,16 +790,16 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate
 Filename: debs/com.nan.dark-keyboard_0.1.0_iphoneos-arm.deb
-Size: 3304
-MD5sum: 0d4a9d5ed8102283f288c3b1a3bcd01d
-SHA1: b4b619427ca9602a9f4700b600a4cc9d62285ed0
-SHA256: 8422a845dab9b8589108ee0b7190cf9bcd16c5961d35d1d0813c1456abfac27f
+Size: 3312
+MD5sum: b76be2e0191fd1a0618fb0c7b3edadfd
+SHA1: cf7977ab550d0eda1b7d8f561cbd16f241a63c55
+SHA256: 3cb858321be4c427e1792f2d554bd526383d640afa474f6e53e29826ca82b885
 Section: Tweaks
 Description: 让键盘始终保持暗色
 Author: null
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.dark-keyboard/image.png
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.dark_keyboard/image.png
 Name: Dark Keyboard
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/dark-keyboard/js.json
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/dark_keyboard/js.json
 
 Package: com.nan.darkshot
 Version: 0.1.0
