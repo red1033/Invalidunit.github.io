@@ -264,6 +264,24 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: AppSync Unified
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appsyncunified/js.json
 
+Package: com.nan.apt-fill
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>=11.0)
+Filename: debs/com.nan.apt-fill_0.1.0_iphoneos-arm.deb
+Size: 1496
+MD5sum: 8e0d0a74c26df9dde4a9adb8c8934649
+SHA1: 7cde341444478a92f8fe179cc23cc9fdbed50026
+SHA256: 6bf7a083da929ef6c7b71f28012d56aef860db968455fb35b4da473fa58f3b7b
+Section: Terminal_Support
+Description: 修补因缺少维护者和描述的报错信息
+Tag: role::hacker
+Author: zhaonan <Invalidunit@icloud.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
+Name: apt-fill
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.aptfill/js.json
+
 Package: com.nan.awemepurification
 Version: 1.6-6
 Architecture: iphoneos-arm
