@@ -271,9 +271,9 @@ Maintainer: zhaonan
 Depends: firmware (>=11.0), sed, coreutils
 Filename: debs/com.nan.apt-fill_0.1.1_iphoneos-arm.deb
 Size: 1580
-MD5sum: 8a5d34654dc82728c5ebb78e4055c3c2
-SHA1: 3f9a75a961c56039737bc557e741431e79af4d0d
-SHA256: 5c64f316178f4f0a23b2933513b66d4acf982672f4b085c0dad8fd4e88c63ac8
+MD5sum: 215346299b0cea2fff4e3a0cba3208d6
+SHA1: ee25cd13b03c60191a39a5a78ce715ecc5bc06d6
+SHA256: dff7316d665b86f4031fd20c418d1902a34efba3549714b92f4fbd586ff9650a
 Section: Terminal_Support
 Description: 修补因缺少维护者和描述的报错信息
 Tag: role::hacker
