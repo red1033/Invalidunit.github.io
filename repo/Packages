@@ -265,15 +265,15 @@ Name: AppSync Unified
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appsyncunified/js.json
 
 Package: com.nan.apt-fill
-Version: 0.1.1
+Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>=11.0), sed, coreutils
-Filename: debs/com.nan.apt-fill_0.1.1_iphoneos-arm.deb
+Filename: debs/com.nan.apt-fill_0.1.2_iphoneos-arm.deb
 Size: 1580
-MD5sum: 215346299b0cea2fff4e3a0cba3208d6
-SHA1: ee25cd13b03c60191a39a5a78ce715ecc5bc06d6
-SHA256: dff7316d665b86f4031fd20c418d1902a34efba3549714b92f4fbd586ff9650a
+MD5sum: 084869be445c8c811608a1436c9a0389
+SHA1: 87165b6a5c664d3c830436a6296c9d84eb92f0dd
+SHA256: fc0753b17149f8ea71aa843d963d47d8f6af51fe0e1d616fe6821c3d7383c708
 Section: Terminal_Support
 Description: 修补因缺少维护者和描述的报错信息
 Tag: role::hacker
@@ -1043,6 +1043,23 @@ Author: zhaonan <Invalidunit@icloud.com>
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
 Name: fh
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fh/js.json
+
+Package: com.nan.fillaptmissing
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: com.nan.apt-fill
+Filename: debs/com.nan.fillaptmissing_0.1.0_iphoneos-arm.deb
+Size: 1004
+MD5sum: 571b43380fc2f6af1eca80e6b79f0445
+SHA1: a06744bbe817dc08eef3172c4ac3985cf86da5c5
+SHA256: c0e2811fb18b3c7dfa7acedc6122bee27bb1b6e11cb23206a07201de10cd5e3d
+Section: Addons
+Description: 尝试修复某些源偷工减料导致的报错
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fix.png
+Name: fill apt missing
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/fillaptmissing/js.json
 
 Package: com.nan.filza
 Version: 3.7.3-16
