@@ -1044,23 +1044,6 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
 Name: fh
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fh/js.json
 
-Package: com.nan.fillaptmissing
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Pre-Depends: com.nan.apt-fill
-Filename: debs/com.nan.fillaptmissing_0.1.0_iphoneos-arm.deb
-Size: 1004
-MD5sum: 571b43380fc2f6af1eca80e6b79f0445
-SHA1: a06744bbe817dc08eef3172c4ac3985cf86da5c5
-SHA256: c0e2811fb18b3c7dfa7acedc6122bee27bb1b6e11cb23206a07201de10cd5e3d
-Section: Addons
-Description: 尝试修复某些源偷工减料导致的报错
-Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fix.png
-Name: fill apt missing
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/fillaptmissing/js.json
-
 Package: com.nan.filza
 Version: 3.7.3-16
 Architecture: iphoneos-arm
