@@ -265,15 +265,15 @@ Name: AppSync Unified
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appsyncunified/js.json
 
 Package: com.nan.apt-fill
-Version: 0.1.0
+Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Depends: firmware (>=11.0), sed
-Filename: debs/com.nan.apt-fill_0.1.0_iphoneos-arm.deb
-Size: 1508
-MD5sum: a3a68d60c35cd9725403ddb2cb6c7853
-SHA1: d187f38cc495a4cb2f73deca88f931d01d86bb9c
-SHA256: 1a8facdabe65f5767e882146f3b9275fb9e6e13da0b69aeb35092499c8c86623
+Depends: firmware (>=11.0), sed, coreutils
+Filename: debs/com.nan.apt-fill_0.1.1_iphoneos-arm.deb
+Size: 1580
+MD5sum: 8a5d34654dc82728c5ebb78e4055c3c2
+SHA1: 3f9a75a961c56039737bc557e741431e79af4d0d
+SHA256: 5c64f316178f4f0a23b2933513b66d4acf982672f4b085c0dad8fd4e88c63ac8
 Section: Terminal_Support
 Description: 修补因缺少维护者和描述的报错信息
 Tag: role::hacker
