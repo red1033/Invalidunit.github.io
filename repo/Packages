@@ -2433,10 +2433,10 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: com.nan.ft-lite | com.nan.ft
 Filename: debs/com.nan.resetfonts_0.1.0_iphoneos-arm.deb
-Size: 1120
-MD5sum: 21699b2cd5bf02b1ae2c18bcffa6fc40
-SHA1: 0e45949305b4a4c52e76963c8b93053e75ff2b5a
-SHA256: 653a9b06ab633200b4c11886a9f1e4d722beccaba4e7b30f07426a893c93719b
+Size: 1160
+MD5sum: c7aedd4e7bf9cb015d22849010e891c2
+SHA1: aa04397551244c6b0d069c1ead32074216e9f323
+SHA256: ceec535586ca7f68f0d296942b32f13333e3af3cdd93d957eb1984434a4abdb2
 Section: System
 Description: 安装卸载都会还原一次字体
 Author: zhaonan <Invalidunit@icloud.com>
