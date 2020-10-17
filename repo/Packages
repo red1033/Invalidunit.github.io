@@ -264,24 +264,6 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: AppSync Unified
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appsyncunified/js.json
 
-Package: com.nan.apt-fill
-Version: 0.1.3
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>=11.0), sed, coreutils
-Filename: debs/com.nan.apt-fill_0.1.3_iphoneos-arm.deb
-Size: 1572
-MD5sum: a869140fffcc6dd83992ae0f08753ed0
-SHA1: abd5d3a60a2eec9015a4c8d266454821f9c4895d
-SHA256: ddeaf4d23657cf0395b25feed1dfb769d97ed4d1671d4b33fc3ddd737dafb3b5
-Section: Terminal_Support
-Description: 修补因缺少维护者和描述的报错信息
-Tag: role::hacker
-Author: zhaonan <Invalidunit@icloud.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
-Name: apt-fill
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.aptfill/js.json
-
 Package: com.nan.awemepurification
 Version: 1.6-6
 Architecture: iphoneos-arm
@@ -965,6 +947,40 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: DownloadBar13
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.downloadbar13/js.json
 
+Package: com.nan.dpkg-fill
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>=11.0), sed, coreutils
+Filename: debs/com.nan.dpkg-fill_0.1.0_iphoneos-arm.deb
+Size: 1588
+MD5sum: 2689ad7c27bf5a668154789b2638d787
+SHA1: 3cb71cf0dc51fe3a81c5b52b2be591c07709f91d
+SHA256: 3f577452762a26f6737f11dc175a4490fb90cfa26f8681aede7630c69c456b7a
+Section: Terminal_Support
+Description: 修补因缺少维护者和描述的报错信息
+Author: zhaonan <Invalidunit@icloud.com>
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
+Name: dpkg-fill
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.dpkgfill/js.json
+
+Package: com.nan.dpkg-fill-triggers
+Version: 0.1.0-b1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: com.nan.dpkg-fill
+Filename: debs/com.nan.dpkg-fill-triggers_0.1.0-b1_iphoneos-arm.deb
+Size: 1020
+MD5sum: 3f299a46e2cc0b9ab2f10040ce268424
+SHA1: 7adcb0022301068db376f31e8e73d7658e489277
+SHA256: c560f9ad71781059b384c743f168c84ceea21126eb9af7e455e75714a452cf1a
+Section: Addons
+Description: 一个自动触发器，可以在插件安装时自动运行修复红字
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fix.png
+Name: dpkg fill triggers
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/dpkgfill/js_triggers.json
+
 Package: com.nan.dsar
 Version: 0.1.6
 Architecture: iphoneos-arm
@@ -1043,23 +1059,6 @@ Author: zhaonan <Invalidunit@icloud.com>
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
 Name: fh
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fh/js.json
-
-Package: com.nan.fillaptmissing
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Pre-Depends: com.nan.apt-fill
-Filename: debs/com.nan.fillaptmissing_0.1.0_iphoneos-arm.deb
-Size: 1004
-MD5sum: 571b43380fc2f6af1eca80e6b79f0445
-SHA1: a06744bbe817dc08eef3172c4ac3985cf86da5c5
-SHA256: c0e2811fb18b3c7dfa7acedc6122bee27bb1b6e11cb23206a07201de10cd5e3d
-Section: Addons
-Description: 尝试修复某些源偷工减料导致的报错
-Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fix.png
-Name: fill apt missing
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/fillaptmissing/js.json
 
 Package: com.nan.filza
 Version: 3.7.3-16
