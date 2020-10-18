@@ -877,17 +877,17 @@ Author: Creatix
 Name: DeleteForever
 
 Package: com.nan.dimentio
-Version: 0.6.2
+Version: 0.7.4
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware(>= 10.0)
 Conflicts: com.michael.dimentio
-Provides: com.michael.dimentio (=0.6.2)
-Filename: debs/com.nan.dimentio_0.6.2_iphoneos-arm.deb
-Size: 10756
-MD5sum: 52c967bb529c8d2758e18a6981bda86a
-SHA1: fa747430dfb2b47e9499da88091472b5249f39bc
-SHA256: d124a7bbc1d51301489c1ffb51beec888eb6a42b33684f9a31ac7625ee581f20
+Provides: com.michael.dimentio (=0.7.4)
+Filename: debs/com.nan.dimentio_0.7.4_iphoneos-arm.deb
+Size: 14144
+MD5sum: 2fa93f6921369d3585a5c71d7c8d9d5b
+SHA1: 24d9ac5681e75852cc95a2d3cbaf106949ae356b
+SHA256: a1161aca25ac88925f18e9b4d9c48f7f989255992bec1c61e0f269beaf4ff65e
 Section: Terminal_Support
 Description: 用于设置随机数的命令行工具
 Author: 0x7ff
