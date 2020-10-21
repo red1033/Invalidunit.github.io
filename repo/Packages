@@ -77,36 +77,17 @@ Name: Aential
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.theme/aential/js.json
 
 Package: com.nan.alipaysteps
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
-Conflicts: netskao.alipaysteps
-Provides: netskao.alipaysteps (=1.1)
-Filename: debs/com.nan.alipaysteps_1.1_iphoneos-arm.deb
-Size: 37920
-MD5sum: 0021624c5eb4d1a16a3cca9886f97545
-SHA1: 37aecfe2633e7ab5c3ac24ebcf61eb67c393c496
-SHA256: e39cbbb09f51df6cdddd60fc9e4e01353ded9e6c6e8c578dff26be24e1e68730
-Section: Tweaks
-Description: 支付宝自定义步数
-Author: Netskao <netskao@gmail.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.alipaysteps/image.png
-Name: Alipay Steps
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.alipaysteps/js.json
-
-Package: com.nan.alipaysteps
-Version: 1.2-2
+Version: 1.2-5
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 9.0), mobilesubstrate
 Conflicts: netskao.alipaysteps
-Provides: netskao.alipaysteps (=1.2-2)
-Filename: debs/com.nan.alipaysteps_1.2-2_iphoneos-arm.deb
-Size: 97480
-MD5sum: 349730ad1288926fabe45061a8403e3f
-SHA1: 50090be5502cc1bf1c4afb14794b75dd222edf0c
-SHA256: 9fb32ead7914fbd34ee9ec3158445d0198258a911f2cd031b8352e8054620be8
+Provides: netskao.alipaysteps (=1.2-5)
+Filename: debs/com.nan.alipaysteps_1.2-5_iphoneos-arm.deb
+Size: 102728
+MD5sum: af40589c0cac8f4871db9c329e992e5e
+SHA1: 2743a1f876e949863b58c2fd73353151d2b43000
+SHA256: 2ad05456a8d579e62eef4a7fa2cff04793f30b6de366690056de8a3863790694
 Section: Tweaks
 Description: 支付宝自定义步数，实时修改
 Author: Netskao <netskao@gmail.com>
