@@ -1,6 +1,10 @@
 #!/bin/bash
 
 
+if [[ "${0}" =~ "/" ]]; then
+	cd "${0%/*}"
+fi
+
 _do(){
 	sed -i. '/Depiction: /d' "${aaa}"
 	sed -i. '/homepage: /d' "${aaa}"

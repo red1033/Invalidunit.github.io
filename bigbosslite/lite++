@@ -7,6 +7,44 @@ if [[ "${0}" =~ "/" ]]; then
 	cd "${0%/*}"
 fi
 
+_find_start(){
+	a_max="2"
+	while [[ "${a}" -ge "${a_max}" ]]; do
+		let 'a--'
+		if [[ `sed -n "${a}"p "${aaa}"` =~ "Package: " ]]; then
+			_rows="${a}"
+			a="0"
+		fi
+	done
+}
+
+_find_end(){
+	a_max="$((${a}+${a}))"
+	while [[ "${a}" -le "${a_max}" ]]; do
+		let 'a++'
+		if [[ `sed -n "${a}"p "${aaa}"` == "" ]]; then
+			_rows="${a}"
+			a="$((${a_max}+1))"
+		fi
+	done
+}
+
+_find_text(){
+	case "${command}" in
+		start)
+			_find_start
+		;;
+		end)
+			_find_end
+		;;
+	esac
+	unset command
+	unset a
+	unset a_max
+	echo "${_rows}"
+	unset _rows
+}
+
 _do(){
 	i='1'
 	while [[ "${i}" -le "${i_max}" ]]; do
@@ -17,8 +55,11 @@ _do(){
 			echo "no ${_find_text}"
 			i="$((${i_max}+1))"
 		else
-			_start=`./find "${aaa}" "start" "${bbb}"`
-			_end=`./find "${aaa}" "end" "${bbb}"`
+			a="${bbb}"
+			command='start'
+			_start=`_find_text`
+			command='end'
+			_end=`_find_text`
 			echo -n "found: ${bbb}"...
 			echo -n "		delete: "
 			echo -n "${_start}"...
