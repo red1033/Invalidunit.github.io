@@ -36,30 +36,6 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.3dbadgeclear/image.p
 Name: 3DBadgeClear
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.3dbadgeclear/js.json
 
-Package: com.nan.accent
-Version: 1.3.1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, ws.hbang.common, applist
-Conflicts: com.ivanc.accent
-Provides: com.ivanc.accent (=1.3.1)
-Filename: debs/com.nan.accent_1.3.1_iphoneos-arm.deb
-Size: 31052
-MD5sum: 8be1d20683bd23d74da9eac4d54f116d
-SHA1: ebbee832231dbc21758fb16917c1e1d3ee368856
-SHA256: 351277e9f5ebfc53ebde59341b23bd2348b1e3dc639da458a087d7649f11547b
-Section: Tweaks
-Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=accentDp
-Description: macOS 风格的 iOS 强调色
-Author: Ivan Cristina <ivancristina5@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=accentDp
-Dev: ivancristina
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.accent/image.png
-Name: Accent
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.accent/js.json
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: com.nan.aential
 Version: 0.1.0
 Architecture: iphoneos-arm
