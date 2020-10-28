@@ -61,9 +61,11 @@ _do(){
 			command='end'
 			_end=`_find_text`
 			echo -n "found: ${bbb}"...
-			echo -n "		delete: "
+			echo -n "	  delete: "
 			echo -n "${_start}"...
-			echo "${_end}"...
+			echo -n "${_end}"...
+			echo -n "  type: ${_find_text}"
+			echo "   id: `sed -n "${_start}"p "${aaa}" | sed "s#Package: ##g"`"
 			sed -i. "${_start}","${_end}"d "${aaa}"
 			unset _start
 			unset _end
