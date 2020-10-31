@@ -970,6 +970,23 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fix.png
 Name: dpkg fill triggers
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/dpkgfill/js_triggers.json
 
+Package: com.nan.dsar
+Version: 0.1.6
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: org.coolstar.sileo
+Filename: debs/com.nan.dsar_0.1.6_iphoneos-arm.deb
+Size: 1636
+MD5sum: 91ab7616d8bf73278f1abf40f9da51ed
+SHA1: a1c150e1ecd4532db61698d44468eb5d3f287e83
+SHA256: bbff7c3f64aa0fb328ee517acf8b9ddb409bb1dc99708bb26ce9a294e2ef00f2
+Section: Scripting
+Description: 去除 Sileo 无法移除默认源的限制
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.dsar/image.png
+Name: Disable Sileo Auto Rewrite
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.dsar/js.json
+
 Package: com.nan.elegantsettings
 Version: 1.2.0
 Architecture: iphoneos-arm
