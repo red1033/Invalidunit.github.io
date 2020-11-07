@@ -2158,13 +2158,13 @@ Package: com.nan.openccmm
 Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Pre-Depends: firmware (>= 11.0), firmware (<= 13.9)
+Pre-Depends: firmware (>= 11.0), firmware (<= 14.9)
 Depends: plutil | com.bingner.plutil
 Filename: debs/com.nan.openccmm_0.1.2_iphoneos-arm.deb
-Size: 1084
-MD5sum: f4ca94acbe1c86b9641c8d2ac0a9f913
-SHA1: c6d3990a37236bef99c09026ae147cad692d4565
-SHA256: 8283f714c1ee70c69aa6ad73de726c35ee624145db15c646980da0d57c48bf3f
+Size: 1080
+MD5sum: 36f8cb3df0c5f187acf51d421e6fb657
+SHA1: ea19addb3badab06579fef41826caed9380a8ff2
+SHA256: 6871af6a6ce7eed16a2968c2106076ff9b3ef4205f9ad96bcd0e6e07f127c1d5
 Section: System
 Description: 激活原生 iPhone 控制中心静音模块，安装后未激活越狱也生效
 Author: zhaonan
