@@ -435,6 +435,24 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: Bounce It
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bounceit/js.json
 
+Package: com.nan.ccah
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 14.0)
+Depends: plutil | com.bingner.plutil
+Filename: debs/com.nan.ccah_0.1.0_iphoneos-arm.deb
+Size: 1216
+MD5sum: bdb5dbbca9419244dc39ff8baa941a20
+SHA1: 56ab9f71e988828dc1d44409efd18e996f97b9bd
+SHA256: 1d2c80a6614600f3fb9640c8c56902b5ac7ad6a811f0f67391349f729bd168e9
+Section: System
+Description: 将 iOS14 控制中心横屏时，亮度和音量的高度的占用 3 格改回 2 格，安装后未激活越狱也生效
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.ccah/image.png
+Name: Change CC Auto Height
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.ccah/js.json
+
 Package: com.nan.choicy
 Version: 1.1.2
 Architecture: iphoneos-arm
@@ -2155,16 +2173,16 @@ Name: Notifica
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.notifica/js.json
 
 Package: com.nan.openccmm
-Version: 0.1.2
+Version: 0.1.3
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Pre-Depends: firmware (>= 11.0), firmware (<= 14.9)
+Pre-Depends: firmware (>= 11.0)
 Depends: plutil | com.bingner.plutil
-Filename: debs/com.nan.openccmm_0.1.2_iphoneos-arm.deb
-Size: 1080
-MD5sum: 36f8cb3df0c5f187acf51d421e6fb657
-SHA1: ea19addb3badab06579fef41826caed9380a8ff2
-SHA256: 6871af6a6ce7eed16a2968c2106076ff9b3ef4205f9ad96bcd0e6e07f127c1d5
+Filename: debs/com.nan.openccmm_0.1.3_iphoneos-arm.deb
+Size: 1156
+MD5sum: ca303838fc713c33e223f5eb4a513fb4
+SHA1: 2a08de022aa3b324878f202a268b5ef82efd501b
+SHA256: 2a2da4cf61b322077d2217007686f0046273843c375e2976ae2288a79fd12a41
 Section: System
 Description: 激活原生 iPhone 控制中心静音模块，安装后未激活越狱也生效
 Author: zhaonan
@@ -2732,6 +2750,24 @@ Section: Tweaks
 Description: 摆脱 "脂肪" iOS 13 音量 HUD 状态
 Author: level3tjg
 Name: SlimVolumeHUD
+
+Package: com.nan.smallccairplay
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 11.0)
+Depends: plutil | com.bingner.plutil
+Filename: debs/com.nan.smallccairplay_0.1.0_iphoneos-arm.deb
+Size: 1148
+MD5sum: 15bc6d3c7db66e63b2329f84c0878cef
+SHA1: d8c8fbe47bb7c26556092a472c459d7788979132
+SHA256: cac25ccb8b395842b57bac9c3df1872c1c6f6de5a9b65a4f4ac169e1be1443f9
+Section: System
+Description: 缩小控制中心的 AirPlay 模块，安装后未激活越狱也生效
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.smallccairplay/image.png
+Name: Small CC AirPlay
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.smallccairplay/js.json
 
 Package: com.nan.snap
 Version: 0.3.3
