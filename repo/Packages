@@ -436,16 +436,17 @@ Name: Bounce It
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bounceit/js.json
 
 Package: com.nan.ccah
-Version: 0.1.0
+Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: firmware (>= 14.0)
 Depends: plutil | com.bingner.plutil
-Filename: debs/com.nan.ccah_0.1.0_iphoneos-arm.deb
-Size: 1216
-MD5sum: bdb5dbbca9419244dc39ff8baa941a20
-SHA1: 56ab9f71e988828dc1d44409efd18e996f97b9bd
-SHA256: 1d2c80a6614600f3fb9640c8c56902b5ac7ad6a811f0f67391349f729bd168e9
+Conflicts: com.nan.sccbav
+Filename: debs/com.nan.ccah_0.1.1_iphoneos-arm.deb
+Size: 1276
+MD5sum: 4e207ee207b79ff7f503908713bcc67b
+SHA1: c9f807a5b7cad5d30b8837abed3be68cd0566630
+SHA256: e9916e6509a31beef099fd70970f0b4a5c2721536742329da67a67de98031811
 Section: System
 Description: 将 iOS14 控制中心横屏时，亮度和音量的高度的占用 3 格改回 2 格，安装后未激活越狱也生效
 Author: zhaonan
@@ -2179,10 +2180,10 @@ Maintainer: zhaonan
 Pre-Depends: firmware (>= 11.0)
 Depends: plutil | com.bingner.plutil
 Filename: debs/com.nan.openccmm_0.1.3_iphoneos-arm.deb
-Size: 1156
-MD5sum: ca303838fc713c33e223f5eb4a513fb4
-SHA1: 2a08de022aa3b324878f202a268b5ef82efd501b
-SHA256: 2a2da4cf61b322077d2217007686f0046273843c375e2976ae2288a79fd12a41
+Size: 1172
+MD5sum: af90d9dbd5e28d591f263a8609394746
+SHA1: 6bfeabe472969fbd7ca19e7c65b6ed1c5c62ecb4
+SHA256: 43fd972779bb21092f2076ed94c86a7d8a421dac8183851eefa512170cb0e406
 Section: System
 Description: 激活原生 iPhone 控制中心静音模块，安装后未激活越狱也生效
 Author: zhaonan
@@ -2505,6 +2506,25 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.respring.xr/image.pn
 Name: iPhone XR 注销图标
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.respring.xr/js.json
 
+Package: com.nan.sccbav
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 11.0)
+Depends: plutil | com.bingner.plutil
+Conflicts: com.nan.ccah
+Filename: debs/com.nan.sccbav_0.1.0_iphoneos-arm.deb
+Size: 1356
+MD5sum: a004e268104a8d06d53d09ae0ff4843d
+SHA1: e7337579036aa3df440a789bd9ee94c7834be1e2
+SHA256: 2ad563ed70bdff08344b7a5b44192175052ac5e580051ce9d95af4813861d883
+Section: System
+Description: 将 iOS 控制中心的亮度和音量的高度占用改为 1 格，安装后未激活越狱也生效
+Author: zhaonan
+Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sccbav/image.png
+Name: Small CC Brightness and Volume
+Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sccbav/js.json
+
 Package: com.nan.sentinel
 Version: 1.2
 Architecture: iphoneos-arm
@@ -2758,10 +2778,10 @@ Maintainer: zhaonan
 Pre-Depends: firmware (>= 11.0)
 Depends: plutil | com.bingner.plutil
 Filename: debs/com.nan.smallccairplay_0.1.0_iphoneos-arm.deb
-Size: 1148
-MD5sum: 15bc6d3c7db66e63b2329f84c0878cef
-SHA1: d8c8fbe47bb7c26556092a472c459d7788979132
-SHA256: cac25ccb8b395842b57bac9c3df1872c1c6f6de5a9b65a4f4ac169e1be1443f9
+Size: 1172
+MD5sum: 4840a2e467701acb85423120389239a5
+SHA1: 1855949af95c58719e7204c72ef25dcaa6ee1fb8
+SHA256: 3ce82bc8c29c85a86baab4d379d0fff8754ec518be28ed14ac5b20e299c83d54
 Section: System
 Description: 缩小控制中心的 AirPlay 模块，安装后未激活越狱也生效
 Author: zhaonan
