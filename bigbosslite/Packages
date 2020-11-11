@@ -4609,6 +4609,20 @@ Name: Slider Enhancer
 Description: customize text of unlock slider label
 Author: Ron Melkhior <ron3353@gmail.com>
 
+Package: com.applecraxkhead.riskkit
+Version: 1.1.0-1
+Priority: optional
+Section: Tweaks
+Maintainer: null
+Depends: mobilesubstrate, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/riskkit_1.1.0-1.deb
+Size: 13474
+SHA256: 2c078f914b6fe377f7ce776f4b64a500413eab0535819152b982a2d3b7c712e4
+Name: Riskkit
+Description: Unblurs NSFW and Spoiler posts on Reddit and Apollo
+Author: Apple Craxkhead <applecraxkhead@gmail.com>
+
 Package: com.appliesinc.itunesradiounlimited
 Version: 1.1.0-1
 Priority: optional
@@ -6906,6 +6920,20 @@ Size: 529084
 SHA256: 5122590d65cbd1d3cc95c4e8398299fbb0fce5cb4788eb61084cd235531e5b07
 Name: DesktopLyrics 桌面歌词
 Description: show lyrics anywhere 国区支持企鹅、网易、酷狗家族、咪咕、酷我、虾米(含各自ipad版)。外区支持spotify。
+Author: Brend0n <brendonjkding@126.com>
+
+Package: com.brend0n.volumemixer
+Version: 0.0.2
+Priority: optional
+Section: Tweaks
+Maintainer: null
+Depends: mobilesubstrate, preferenceloader, applist, com.muirey03.libmryipc
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/volumemixercontrol_0.0.2.deb
+Size: 147948
+SHA256: 2c78b35d88bf96cdc25f54ebd8290ca15483cf25b303fc02a1375fea40f3533f
+Name: VolumeMixer 单独音量控制
+Description: volume control for individual apps
 Author: Brend0n <brendonjkding@126.com>
 
 Package: com.broganminer.appsort
@@ -12633,15 +12661,15 @@ Description: Custom Text for your Carrier!
 Author: CydiaGeek <lucaluca86@aol.com>
 
 Package: com.cydiageek.carrierizer2
-Version: 1.1.0
+Version: 1.1.1
 Priority: optional
 Section: Tweaks
 Maintainer: null
 Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.peterdev.libpddokdo
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/carrierizer2_1.1.0.deb
-Size: 57248
-SHA256: 766cffa07ff5c03e2f0cabcc9b39c933772d70b32e21580a5fc31377e2928477
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/carrierizer2_1.1.1.deb
+Size: 57254
+SHA256: bc2d6d40d9615b40aa3abfa55fe932f16db025fdced25857006f9e9c5f1721da
 Name: Carrierizer2
 Description: Custom Text/Options for your Carrier!
 Author: CydiaGeek <lucaluca86@aol.com>
@@ -13290,6 +13318,20 @@ Name: Gyration
 Description: Enable Rotation Over All the Apps/LockScreen/HomeScreen on System Wide & More!
 Author: CydiaGeek <lucaluca86@aol.com>
 
+Package: com.cydiageek.hapticdots
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: null
+Depends: mobilesubstrate, firmware (>= 14.0)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/hapticdots_1.0.0.deb
+Size: 4834
+SHA256: b709c78e82eabbb522d40b74e1dfd3b0085c3c40ea62ff841d30875d2933e287
+Name: HapticDots
+Description: Haptics When Taping on Pages Dots!
+Author: CydiaGeek <lucaluca86@aol.com>
+
 Package: com.cydiageek.hapticmyrespring
 Version: 1.0.1
 Priority: optional
@@ -13487,15 +13529,15 @@ Description: Visual Hidden Options for LockScreen!
 Author: CydiaGeek <lucaluca86@aol.com>
 
 Package: com.cydiageek.marina
-Version: 1.1.8
+Version: 1.1.9
 Priority: optional
 Section: Tweaks
 Maintainer: null
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/marina_1.1.8.deb
-Size: 83538
-SHA256: 9c2f723c45973679f407aab12b6c52fc0358181f3da91567bd665914e302e1b0
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/marina_1.1.9.deb
+Size: 84238
+SHA256: 66ca0d7524815a487f1414fb4ebde05bbf1611d4a3b023461077a057542fb39a
 Name: Marina
 Description: Change the Numbers of the Icons of the Dock & More!
 Author: CydiaGeek <lucaluca86@aol.com>
@@ -14131,15 +14173,15 @@ Description: Make your HUD Panel Minimalist!
 Author: CydiaGeek <lucaluca86@aol.com>
 
 Package: com.cydiageek.skinnysettings
-Version: 1.5.1
+Version: 1.5.2
 Priority: optional
 Section: Tweaks
 Maintainer: null
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/skinnysettings_1.5.1.deb
-Size: 131736
-SHA256: 884fef4f248cc6e8a513fd7d12dbf186e3efee3b7bd4eec4668318d1217ade4b
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/skinnysettings_1.5.2.deb
+Size: 132022
+SHA256: 4d97ce414da05673759a004a607f24f1b3a104578e0cdd7980ef32edaa32aab4
 Name: SkinnySettings
 Description: Make your Settings Minimal/Sleek & More!
 Author: CydiaGeek <lucaluca86@aol.com>
@@ -14257,15 +14299,15 @@ Description: Sleek and Smoother the KeyBoard on the HomeScreen!
 Author: CydiaGeek <lucaluca86@aol.com>
 
 Package: com.cydiageek.smoothlockx
-Version: 1.3.9
+Version: 1.4.0
 Priority: optional
 Section: Tweaks
 Maintainer: null
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/smoothlockx_1.3.9.deb
-Size: 108208
-SHA256: d413850d69f7fb0a6dfea1eab6076b5713f9a75f4ca8a61e7d4c780ebd1dc2d4
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/smoothlockx_1.4.0.deb
+Size: 108740
+SHA256: 043ebb31fa98a92fe462e4cf28f766446b8e733d5eee3152deeeea6786ab2b45
 Name: SmoothLockX
 Description: Give Smooth and Clean Views to the LockScreen on the iPhone X!
 Author: CydiaGeek <lucaluca86@aol.com>
@@ -14852,19 +14894,6 @@ SHA256: b6ee5ec44efe6871491fe1e1b24c7fe8e53b94171018d010a1f20eac332ee69a
 Name: ColorMyDock
 Description: Change color of your dock like you most like!
 Author: daniel63194 <eremeev.daniel69@icloud.com>
-
-Package: com.daniilpashin.coloredvk
-Version: 2.9.2
-Section: Tweaks
-Maintainer: null
-Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/coloredvk_2.9.2.deb
-Size: 196052
-SHA256: 3701398ea1376048797dae4df67dfd376c0d6873a26799d3b59c77f6c9c87876
-Name: ColoredVK
-Description: Change VK App navigation bar color
-Author: Daniil Pashin <daniilpashin@icloud.com>
 
 Package: com.daniilpashin.coloredvk2
 Version: 4.4.20
@@ -16925,6 +16954,21 @@ Size: 32984
 SHA256: 2007f2bf0b8f5161816126ff69cf8c75ba1dbf6d61870f3164e855df4a6b2af8
 Name: Harbor 2
 Description: macOS-style Dock
+Author: Evan Swick <eswick@eswick.com>
+
+Package: com.eswick.harbor3
+Version: 1.1.1-8
+Section: Tweaks
+Maintainer: null
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Recommends: com.eswick.iconlayoutmanager
+Conflicts: com.eswick.harbor2
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/harbor3_1.1.1-8.deb
+Size: 35586
+SHA256: 1e16f4cfb07fd738eb213d545897aef3a072ab0c87338627fc6227c70aad9eac
+Name: Harbor 3 (iOS 13)
+Description: macOS-style dock redesigned for touch screens
 Author: Evan Swick <eswick@eswick.com>
 
 Package: com.eswick.libfsmonitor
@@ -30996,6 +31040,20 @@ Name: Voice Notifications
 Description: custom-spoken phrases for notifications
 Author: InfectionFX <infectionfx@gmail.com>
 
+Package: com.lema.beartweak
+Version: 1.1
+Priority: optional
+Section: Tweaks
+Maintainer: null
+Depends: mobilesubstrate, firmware (>= 5.0)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bear_1.1.deb
+Size: 5285518
+SHA256: 8c023f33a39c93ca600973c82f4a89b873b03f7f20855c2dbe9f9acfb5e8f231
+Name: Bear
+Description: A simple, powerful Tumblr tweak
+Author: Michael Lema <samewhitetee@gmail.com>
+
 Package: com.lema.dragontweak
 Version: 1.3
 Priority: optional
@@ -31067,29 +31125,29 @@ Description: The all-in-one tweak for VSCO
 Author: Michael Lema <samewhitetee@gmail.com>
 
 Package: com.lema.lizard
-Version: 1.3
+Version: 1.4
 Priority: optional
 Section: Tweaks
 Maintainer: null
 Depends: mobilesubstrate, firmware (>= 5.0)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/lizard_1.3.deb
-Size: 5309918
-SHA256: 23c76735a86efec4ec5cf923dbbd124563d7b07151dcb82f100fcac57c6771dd
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/lizard_1.4.deb
+Size: 5304738
+SHA256: 931ab42f26470dedb004c90233904849dc826e98181dd5f3d52cb039b35284fa
 Name: Lizard
 Description: A simple, powerful Reddit tweak
 Author: Michael Lema <samewhitetee@gmail.com>
 
 Package: com.lema.michael.rhino
-Version: 2.9.2
+Version: 3.0.1
 Priority: optional
 Section: Tweaks
 Maintainer: null
 Depends: mobilesubstrate, firmware (>= 5.0)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/rhino_2.9.2.deb
-Size: 2967502
-SHA256: 00968fe7201a70bad3fe4c07c8ea127c9918df611a64bbc5690dff66157fddb9
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/rhino_3.0.1.deb
+Size: 2951004
+SHA256: 0597399aefef800e5b6ba4e8165e70f77af05d597d6020ba16dd5b4435e0e230
 Name: Rhino
 Description: A simple, lightweight Instagram tweak with powerful features
 Author: Michael Lema <samewhitetee@gmail.com>
@@ -31109,15 +31167,15 @@ Description: Add extra controls for your AirPods!
 Author: Michael Lema <samewhitetee@gmail.com>
 
 Package: com.lema.owltweak
-Version: 1.3
+Version: 1.4.1
 Priority: optional
 Section: Tweaks
 Maintainer: null
 Depends: mobilesubstrate, firmware (>= 5.0)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/owl_1.3.deb
-Size: 5313022
-SHA256: 85cbcde4d71b34330eec62c7d41450de3e0fe3b2863e5ff0d5c695b6ffc82bc4
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/owl_1.4.1.deb
+Size: 5307528
+SHA256: d6ac7548d6f31cdb5658741ab2d2da540d6b95489322ab90b30b6b99bb9bc94e
 Name: Owl
 Description: A powerful Twitter tweak
 Author: Michael Lema <samewhitetee@gmail.com>
@@ -31179,29 +31237,29 @@ Description: The all-in-one tweak for Triller
 Author: Michael Lema <samewhitetee@gmail.com>
 
 Package: com.lema.unicorn
-Version: 4.5
+Version: 4.6
 Priority: optional
 Section: Tweaks
 Maintainer: null
 Depends: mobilesubstrate, firmware (>= 5.0)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/unicorn_4.5.deb
-Size: 632472
-SHA256: c7b71f5ca67a58021a2b185f72dd27835c5082b61d327b9a393732e4cd26e1fb
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/unicorn_4.6.deb
+Size: 629374
+SHA256: 498950c7aecaf31a12c44a283ff806bc5cf75ef644a2bca6c4cab9a779151264
 Name: Unicorn
 Description: Download TikTok Videos and many other enhancements!
 Author: Michael Lema <samewhitetee@gmail.com>
 
 Package: com.lema.wolf
-Version: 1.5
+Version: 1.6.1
 Priority: optional
 Section: Tweaks
 Maintainer: null
 Depends: mobilesubstrate, firmware (>= 5.0)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/wolf_1.5.deb
-Size: 2756616
-SHA256: 36e9936681a14bf52107834a798a4e78da4a502f7f1e009d91060223be3b2151
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/wolf_1.6.1.deb
+Size: 2754186
+SHA256: af52090a71df84e106456f8f5fe7853a714e4b481cc14769b14be579db3cd1c5
 Name: Wolf
 Description: The all-in-one tweak for Facebook
 Author: Michael Lema <samewhitetee@gmail.com>
@@ -31803,15 +31861,15 @@ Description: Cover the reviews of the bangumi review view that may affect your w
 Author: LNSSPsd <2825121086@qq.com>
 
 Package: com.lns.bidl
-Version: 0.1.3
+Version: 1.0.0
 Priority: optional
 Section: Tweaks
 Maintainer: null
 Depends: mobilesubstrate, firmware (>= 5.0)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bilidownloader_0.1.3.deb
-Size: 41450
-SHA256: 1fef380c3776283d26cb23cb20a4d9589ac7866f417ebd1d6fea621564086a35
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bilidownloader_1.0.0.deb
+Size: 6420046
+SHA256: c25567ab2654ff58ad1c93f49cbbd25ad75ac7bfcd4d1ea0451282b34e892cbf
 Name: BiliDownloader
 Description: Download and export any videos on bilibili app.
 Author: LNSSPsd <2825121086@qq.com>
@@ -33904,17 +33962,17 @@ Description: 微信收到消息，自动随机回复收藏的表情。个人或�
 Author: mmrobot <inforose9999@gmail.com>
 
 Package: com.mmrobot.mmsport
-Version: 2.0
+Version: 2.1
 Priority: optional
 Section: Tweaks
 Maintainer: null
 Depends: mobilesubstrate, firmware (>= 5.0)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/mmsport_2.0.deb
-Size: 382790
-SHA256: 0aabd9ef987b7fe1d90e4e4a446f9e8f24768dfe7baebcdf9e8efd9f26848686
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/mmsport_2.1.deb
+Size: 194164
+SHA256: f64bf3323107880c86917eaf201a0dd43256b9ff0fc7d8c48d72cd8d86c742d7
 Name: 微信运动（最新版）
-Description: 微信运动步数修改器，然你溜到没朋友！
+Description: 微信运动步数修改器，让你溜到没朋友！
 Author: mmrobot <inforose9999@gmail.com>
 
 Package: com.mmrobot.wechatrobot
@@ -40398,19 +40456,6 @@ Name: VKMusic
 Description: Brings back music to VK app
 Author: novkostya <novkostya+vkmusic@gmail.com>
 
-Package: com.rhld16.pinkyponk
-Version: 1.1
-Section: Tweaks
-Maintainer: null
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.14), preferenceloader
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/pinkyponk_1.1.deb
-Size: 45022
-SHA256: e1623a11070ee8375aa90ad86ba379a6a9ffed078f27e2c2c1192ab517c52b8b
-Name: Pinky Ponk
-Description: toggle wifi and bluetooth with one tap
-Author: rhld16 <rhodrilld@gmail.com>
-
 Package: com.richardlindsay.alarmrestrict7
 Version: 1.0.4-1
 Section: Tweaks
@@ -44420,15 +44465,28 @@ Name: VideoLoop
 Description: allows looping in camera roll videos
 Author: Skumar Space <Skumarspacex@icloud.com>
 
+Package: com.sky.iconmove
+Version: 1.0.0
+Section: Tweaks
+Maintainer: null
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/iconmove_1.0.0.deb
+Size: 42094
+SHA256: 7d2f021a664ac28e17013f66c830249bd7a2c32145252d066de855f5158bc625
+Name: IconMove
+Description: IconMove是一款桌面图标位置调整插件
+Author: Sky - Pain <2398453359@qq.com>
+
 Package: com.sky.translation
-Version: 1.4.9
+Version: 1.5.0
 Section: Tweaks
 Maintainer: null
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/translation_1.4.9.deb
-Size: 114304
-SHA256: 2d0c857fe85f2df0d9e811a823708d22f4d422ae9bd3260aed2d1e31021423b4
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/translation_1.5.0.deb
+Size: 115478
+SHA256: 46188e1508f4abe4147b46f24d4489244685f5f1b68411d28a4118b4e4dba4b6
 Name: Translation
 Description: Translation是一款快速选择翻译插件
 Author: Sky - Pain <2398453359@qq.com>
@@ -47899,6 +47957,20 @@ Name: VCaller Screen
 Description: set video as the call background
 Author: TTJB Team <admin@thuthuatjb.com>
 
+Package: com.thx.chpubg
+Version: 1.5
+Priority: optional
+Section: Tweaks
+Maintainer: null
+Depends: mobilesubstrate, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/chpubg_1.5.deb
+Size: 886438
+SHA256: 5e543f73555ef248cb12e6aa34b5558c607618a8aae6e97d02be5de7c66f9df8
+Name: CHPUBG
+Description: cleans PUBG game files to avoid absentee ban
+Author: Thx <abdulmajeed-35@hotmail.com>
+
 Package: com.tianba.iphonecleanerpro1
 Version: 1.1
 Priority: optional
@@ -48129,14 +48201,14 @@ Description: Kills apps spawned in the background after 30 seconds, or as soon a
 Author: Travis Roman <travis@toggleable.com>
 
 Package: com.tomaszpoliszuk.alertcontroller
-Version: 1.4.1
+Version: 1.4.2
 Section: Tweaks
 Maintainer: null
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/alertcontroller_1.4.1.deb
-Size: 61660
-SHA256: 2f076d26c4ccffdf04f1527c70617af768ddb3ff755ff1fd68cfed01e8f4d5e8
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/alertcontroller_1.4.2.deb
+Size: 74528
+SHA256: f2e73285b7a6c2bdf2b6ce7e816129bde85de337be135dbc29033c75a0d8c72a
 Name: Alert Controller
 Description: Alert Controller - Control UX and UI of your Alerts and Action Sheets
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
@@ -48171,40 +48243,40 @@ Description: Turn off App Library
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
 
 Package: com.tomaszpoliszuk.appswitchercontroller
-Version: 1.0
+Version: 1.1
 Section: Tweaks
 Maintainer: null
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/appswitchercontroller_1.0.deb
-Size: 38936
-SHA256: a4f77af0644cfb65bd22ba8f2689dc59dc5ecd83dfb8474176392351bf9e2d49
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/appswitchercontroller_1.1.deb
+Size: 52368
+SHA256: 59c4ed46bc3ba8e994b219c1354485170e01e4f0e6605dfa0b2b72088af9b045
 Name: App Switcher Controller
 Description: Control your App Switcher
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
 
 Package: com.tomaszpoliszuk.camerazoomslider
-Version: 1.0
+Version: 1.0.1
 Section: Tweaks
 Maintainer: null
 Depends: firmware (>= 13.4), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/camerazoomslider_1.0.deb
-Size: 2938
-SHA256: 1767671ed1d0d7c3c633f47ad908d3eb3fd9a380da378fe0dd88b3ade1f9ed7e
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/camerazoomslider_1.0.1.deb
+Size: 3040
+SHA256: 8f6b042b87b6283030eefc30bbfa4c7b79a87a7bd1026bcd86f48991774cac77
 Name: Camera Zoom Slider
 Description: Enable new type of Camera Zoom Slider
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
 
 Package: com.tomaszpoliszuk.dockcontroller
-Version: 1.4.1
+Version: 1.4.2
 Section: Tweaks
 Maintainer: null
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, cy+model.iphone | cy+model.ipod
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/dockcontroller_1.4.1.deb
-Size: 58372
-SHA256: 6eb72a980ffc3bab145e345c699f8118551a3fc688e84563c35fc20a17f4681f
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/dockcontroller_1.4.2.deb
+Size: 58896
+SHA256: 0202f455c39bc4801b326e2ea09463cbbf53afc8f0fb8911c6085b6fd4aab78f
 Name: Dock Controller
 Description: Control Your Dock
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
@@ -48265,27 +48337,27 @@ Description: Customizable native "MagSafe" charging view
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
 
 Package: com.tomaszpoliszuk.portraitphotos
-Version: 1.0.3
+Version: 1.0.4
 Section: Tweaks
 Maintainer: null
-Depends: firmware (>= 12.4), mobilesubstrate, gsc.rear-facing-telephoto-camera-capability
+Depends: firmware (>= 12.4), mobilesubstrate, gsc.rear-facing-telephoto-camera-capability | cy+model.iphone (= 11.8)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/portraitphotos_1.0.3.deb
-Size: 3680
-SHA256: bd55d3dc9da111d489aaec7f043bb5b0c3910df9a9713d9a2f136550799c6d98
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/portraitphotos_1.0.4.deb
+Size: 3638
+SHA256: 5286142078ea18a0c7be934a2c060190eae859ee6c8564dc3b7498cdc2b888cf
 Name: Portrait Photos
-Description: Enable all Portrait Lightning effects in Camera app and Photos app (while editing Portrait photos).
+Description: Enable all Portrait Lighting effects in Camera app and Photos app (while editing Portrait photos).
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
 
 Package: com.tomaszpoliszuk.volumecontroller
-Version: 1.0
+Version: 1.1
 Section: Tweaks
 Maintainer: null
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/volumecontroller_1.0.deb
-Size: 45146
-SHA256: 7fc89e847ed4e864a699ef2f158d5c8a48cdc18437b25b74237d104049f2edc1
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/volumecontroller_1.1.deb
+Size: 59618
+SHA256: 2c952c88723050f6527a64cf6ab7bf155de677647189e691b9c398da890e6cc2
 Name: Volume Controller
 Description: Control your Volume
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
@@ -48620,15 +48692,15 @@ Description: Timer for disabling Passcode!
 Author: ToolPod <Toolpod96@gmail.com>
 
 Package: com.torrekie.dejailbilik
-Version: 0.1.1
+Version: 0.1.2
 Priority: optional
 Section: Tweaks
 Maintainer: null
 Depends: mobilesubstrate, firmware (>= 10.0)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/dejailbilik_0.1.1.deb
-Size: 5036
-SHA256: 149741c016f0f5426975a873e8c611ee8b702166618bd208e46cbd464ad94af1
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/dejailbilik_0.1.2.deb
+Size: 5332
+SHA256: 5249d913a5742d19136878d942cad6f9b35630d2d554d72fa425bdcf52e20a06
 Name: DeJailBilik
 Description: Disable Bilibili-Apps' Jailbreak detection 解除哔哩哔哩系越狱检测
 Author: Torrekie <me@torrekie.dev>
@@ -55429,14 +55501,14 @@ Description: Powerful app lockdown utility designed for iOS 11.
 Author: Ignition <databasedropper@gmail.com>
 
 Package: fun.yfyf.bigbangev
-Version: 4.5.0
+Version: 4.6.0
 Section: Tweaks
 Maintainer: null
 Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bigbangev_4.5.0.deb
-Size: 1114040
-SHA256: f9dd5184f09fd0cfc7c98212a2ac6ca31110bf533a4b0248c1e1c5eb7ebf7408
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bigbangev_4.6.0.deb
+Size: 1163616
+SHA256: 0d1c35009719d8f630ca8ba127050b7f4ca546cdd2c631bae53f1bc1da9f6900
 Name: BigBangEv
 Description: A simple BigBang tweak from EVAN!
 Author: EVAN <215288968@qq.com>
@@ -57120,15 +57192,15 @@ Description: iWinnerBust is a terminal app that will create a appended memory du
 Author: LoGiKz <zkoolkyle@gmail.com>
 
 Package: jb.acc.gpsmanager
-Version: 1.9.9
+Version: 2.0.0
 Section: Tweaks
 Maintainer: null
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14)
 Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, app.weiphone.tinyapps.location360pro, topme.ios.FakeGps, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro, me.liuming.LocationHelper, me.liuming.LocationExpert, net.85819.ios.otrlocation, com.abcydia.otrlocation
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/gpsmanager_1.9.9.deb
-Size: 2880864
-SHA256: 14b2774b5ccacd30446514efbcdb6083c48d22894e3440bc2288dc9d3ed9bf70
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/gpsmanager_2.0.0.deb
+Size: 2883166
+SHA256: d03cd66903e691293fbc88a948068469dbffa03ae8d504b2ea1587bda1915175
 Name: GPS Manager(GPS定位管家)
 Description: Configure APP's fake GPS location wherever you like. GPS定位管家，可设置应用的虚拟定位，随时随地定位修改打卡。
 Author: chencong <xinapps@qq.com>
@@ -58998,14 +59070,14 @@ Description: Download videos from Facebook and more!
 Author: Majd Alfhaily <freemanrepo@me.com>
 
 Package: me.alfhaily.rocket
-Version: 3.7.4
+Version: 3.7.13
 Section: Tweaks
 Maintainer: null
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/rocketforinstagram_3.7.4.deb
-Size: 4737716
-SHA256: 8640c67778be96cb01635d0ea63db69698b6851aa6d8c27251a09ba395379b5e
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/rocketforinstagram_3.7.13.deb
+Size: 3988224
+SHA256: 1272b2767f2cc9134d8e8f568a8746f72a7fe40d88ee34a47818c12b115a45ba
 Name: Rocket for Instagram
 Description: Save posts and view stories anonymously and do much more
 Author: Majd Alfhaily <support@getrocketapp.io>
@@ -61385,44 +61457,45 @@ Description: Access iTunes media files stored on your device
 Author: Stanislaw Pusep <creaktive@gmail.com>
 
 Package: net.joebruce.fakepicture
-Version: 1.6.3
+Version: 1.6.4
 Section: Tweaks
 Maintainer: null
-Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/fakepicture_1.6.3.deb
-Size: 3494384
-SHA256: c26c8ff79bc1ca995d370a2d2f994d8931e9abb84c4c00ec5a03940873f56673
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/fakepicture_1.6.4.deb
+Size: 3498822
+SHA256: c7a3d758cb97c747c9ebd87e511ab40c245493d18ffb0a584eac88156ea474c0
 Name: FakePicture(拍照替换)-taking pseudo selfie
 Description: Fake Picture is used for fake picture taking when Apps ask to take a picture from iPhone camera
     Fake Picture is used for fake picture taking when Apps ask to take a picture from iPhone camera. So the app will get a replaced image which you set. It's a good way to protect your privacy. 虚拟拍照，能够替换应用请求摄像头拍照的图片，让应用得到任意你设置的照片。它是一个魔法相机，实现模拟照相机功能，从而保护你的个人相片隐私。
 Author: Joe Bruce <joebruce1122@hotmail.com>
 
 Package: net.joebruce.fakeqrcode
-Version: 1.1.0
+Version: 1.1.1
 Section: Tweaks
 Maintainer: null
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/fakeqrcode_1.1.0.deb
-Size: 3209364
-SHA256: 56c14645f18b9e94556c486890ce21cf3c7c6f84293c2bf5668401f6205fd8f5
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/fakeqrcode_1.1.1.deb
+Size: 3225482
+SHA256: 856c21791a233729ece9c589891169351544afa1b1d93921ca5857323586ff9f
 Name: FakeQRCode(二维码替换)-scan pseudo barcode
 Description: Fake Qrcode...
 Author: Joe Bruce <joebruce1122@hotmail.com>
 
 Package: net.joebruce.gpsmaster
-Version: 1.9.8
+Version: 1.9.9
 Section: Tweaks
 Maintainer: null
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14)
 Conflicts: app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, topme.ios.FakeGps, app.weiphone.cn.tinyapps.pogo, net.85819.ios.otrlocation, jb.acc.GpsManager, com.abcydia.otrlocation, cn.tinyapps.XGPS, cn.tinyapps.location360, me.liuming.locationhelper, me.liuming.locationexpert, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/gpsmaster_1.9.8.deb
-Size: 3466580
-SHA256: c45155681fb623030cbbb4bdfa1efc98f8f0b064256059ea79b5828428c5ef20
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/gpsmaster_1.9.9.deb
+Size: 3487106
+SHA256: e9223d728a7a6446c5c0d30d5099bd0ef1fecbd55562c899a1763d6920ef8812
 Name: GPS Master(GPS定位大师)-Fake Navigation,Location Spoofer
 Description: GPS Master can fake your iOS device's GPS location like you are driving between two places.
+	It also simulates moving between two points on the map. Of cause, GPS Master can change your APPs(Facebook、Twitter、Line、YouTube、Instagram、Uber、Lyft、Waze、Google Maps、Snapchat、TikTok、Messenger、etc...)' geolocation to anywhere you like. Specially, GPS joystick can control your role's location on the map in your AR/VR game like Pokemon GO. GPS定位大师，通过修改苹果手机的GPS定位，实现虚拟定位和模拟驾驶功能。ターゲティングの変更 バーチャルポジショニング.
 Author: Joe Bruce <joebruce1122@hotmail.com>
 
 Package: net.joebruce.respringhelper
@@ -62902,14 +62975,14 @@ Description: iOS 4.2; adds streaming from any video app
 Author: Martin Rosnski <martin@zone-mr.net>
 
 Package: netskao.3dnetworkfixer
-Version: 1.1-5
+Version: 1.1-6
 Section: Tweaks
 Maintainer: null
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/3dnetworkfixer_1.1-5.deb
-Size: 193564
-SHA256: 51bb1e39d03433696d13d885a31171a75b2eaefd1b612e6fc0b08133fa3a2eea
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/3dnetworkfixer_1.1-6.deb
+Size: 164930
+SHA256: 56d56997dad8aee058030f96c494473a0fd69b0ab135231c6e7863c7f2467741
 Name: 3DNetworkFixer
 Description: 长按桌面图标唤出应用菜单，快捷修复该应用的联网权限，支持iOS10-iOS14
 Author: Netskao <admin@initnil.com>
@@ -62928,14 +63001,14 @@ Description: 农业银行绕过越狱检测
 Author: Netskao <admin@initnil.com>
 
 Package: netskao.alipayjailbreakedbypass
-Version: 1.1-2
+Version: 1.1-3
 Section: Tweaks
 Maintainer: null
 Depends: firmware (>= 10.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/alipayjailbreakedbypass_1.1-2.deb
-Size: 178126
-SHA256: 1db7ccbbaef8978f7531a1116fb70e8c2010813e0853761c1877a5daeaac664e
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/alipayjailbreakedbypass_1.1-3.deb
+Size: 110892
+SHA256: 80bbf168e18a0c11186b3f8625409ab5d4ce72e71c11da016a873d0896629cea
 Name: 支付宝 Jailbreaked Bypass
 Description: 支付宝绕过越狱检测，不影响插件注入
 Author: Netskao <admin@initnil.com>
@@ -63034,14 +63107,14 @@ Description: 通过控制中心快捷关机，重启，注销，软重启，安�
 Author: Netskao <netskao@gmail.com>
 
 Package: netskao.classickeyboardxs
-Version: 1.1-2
+Version: 1.1-3
 Section: Tweaks
 Maintainer: null
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/classickeyboardxs_1.1-2.deb
-Size: 62460
-SHA256: 8c50f59907e1cdc5b59f0df8e145806cd4e310a412e9109748eee255c1553a97
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/classickeyboardxs_1.1-3.deb
+Size: 70734
+SHA256: 468c4376347615e07b28d6efa36fdbd9e91a0f60febb01a9dead008b10e5215f
 Name: ClassicKeyboardXS
 Description: 自定义X键盘底部高度，地球底部高度
 Author: Netskao <netskao@gmail.com>
@@ -63086,16 +63159,16 @@ Description: 伪装设备机型，多用于某些游戏在老设备上支持高�
 Author: Netskao <admin@initnil.com>
 
 Package: netskao.flexlist
-Version: 1.2-8
+Version: 1.2-9
 Section: Tweaks
 Maintainer: null
-Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/flexlist_1.2-8.deb
-Size: 1100794
-SHA256: 23c48c725bf18901d42f3cc7cb34b6613f12a48b004220d3b90454a276bc81b7
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/flexlist_1.2-9.deb
+Size: 1105826
+SHA256: a797767b1fc893a5ba1fdcc78fbf39f58dbd8e0c7c0ea589d56a2fe49bd4620a
 Name: FlexList
-Description: FlexList是一款通过设置选择应用，调用Flex视图工具进行应用界面分析的工具，当前版本调用Flex最新版4.1.1，支持Swift应用。
+Description: FlexList是一款通过设置选择应用，调用Flex视图工具进行应用界面分析的工具，当前版本调用Flex最新版4.2.2，支持Swift应用。
 Author: Netskao <admin@initnil.com>
 
 Package: netskao.gesturelite13
@@ -63282,14 +63355,14 @@ Description: 开启锁屏时能拒接来电的按钮，支持A12
 Author: Netskao <netskao@gmail.com>
 
 Package: netskao.qqpurification
-Version: 1.4-1
+Version: 1.4-3
 Section: Tweaks
 Maintainer: null
 Depends: mobilesubstrate, firmware (>= 9.0)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/qqpurification_1.4-1.deb
-Size: 249268
-SHA256: a72b34f76bf4e91b9dd4fb6c58adef19c356a881a5987a86b5427f35f5551f0f
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/qqpurification_1.4-3.deb
+Size: 258008
+SHA256: 5e027a9b7d5143ad15296f03837be3a9edda496d6a096f373a0bee1fd353ddd3
 Name: QQ 净化
 Description: QQ净化，还原聊天本质，干净的QQ给你，设置位于QQ-设置-顶部
 Author: Netskao <netskao@gmail.com>
@@ -63386,16 +63459,16 @@ Description: 微信发现页视频号内短视频和图片快速保存到本地�
 Author: Netskao <netskao@gmail.com>
 
 Package: netskao.wechatpurification
-Version: 1.5-1
+Version: 1.5-3
 Section: Tweaks
 Maintainer: null
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/wechatpurification_1.5-1.deb
-Size: 311834
-SHA256: 01a66c9e64ca94cf3f9503515dbf57faed577a069046a734d1a2320f3241b316
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/wechatpurification_1.5-3.deb
+Size: 115840
+SHA256: 497fc6b147269e9c3f9f5888199b3850572ccf199b78e2b211c1b82dbd61912d
 Name: 微信 净化
-Description: 微信净化，还原聊天本质，干净的微信给你，详情看预览图
+Description: 微信净化，还原聊天本质，干净的微信给你，设置位于微信-设置
 Author: Netskao <admin@initnil.com>
 
 Package: nl.d4ni.homeswitcher
@@ -63478,14 +63551,14 @@ Description: safely toggle device features in Settings
 Author: Steven Barker <evilrealms@me.com>
 
 Package: org.altervista.exilecom.icleaner
-Version: 7.8.3
+Version: 7.9.0
 Section: Utilities
 Maintainer: null
 Depends: firmware (>= 4.0), apt | apt7, findutils
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/icleaner_7.8.3.deb
-Size: 6520522
-SHA256: 93c1505d95f443a94ec8ca131af0d02da30bb5a78161391a78c1f0834218d0d6
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/icleaner_7.9.0.deb
+Size: 4766294
+SHA256: 3ef495860e4d0b46be9094a931ea430dc44b41ffbd53cc78b8fe93d68503dea0
 Name: iCleaner
 Description: The first real iOS system cleaner & optimizer
 Author: Ivano Bilenchi <support@ib-soft.net>
@@ -70411,6 +70484,19 @@ SHA256: d4c3b9f4e6d6470fc3a8c1fa6154bb6f5b7a9ef26b217c0f898d4518a0aad7b3
 Name: highlightGeneral
 Description: highlight 'General' section in Settings
 Author: DngayRas <DngayRas@gmail.com>
+
+Package: org.thebigboss.holdanywherewigglemode
+Version: 1.2
+Section: Tweaks
+Maintainer: null
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/holdanywherewigglemode_1.2.deb
+Size: 74960
+SHA256: 0dfdc40317931084c2151bc89e2ab684152041a37566e6f1c9fc2c50690e1c4c
+Name: HoldAnywhereWiggleMode
+Description: Hold anywhere to enter wiggle mode!
+Author: Diatoko <diakotothedev@gmail.com>
 
 Package: org.thebigboss.homeartwork
 Version: 2.0.1-1
@@ -79629,16 +79715,16 @@ Description: easily share screenshots with friends
 Author: DarkMalloc <darkmalloc@gmail.com>
 
 Package: wiki.qaq.nmlrc
-Version: 3.0
+Version: 4.0
 Priority: optional
 Section: Tweaks
 Maintainer: null
 Depends: mobilesubstrate, firmware (>= 8.0)
 Conflicts: wiki.qaq.DesktopLyricOverlay, wiki.qaq.NeteaseMusicLyricProvider, wiki.qaq.QQMusicLyricsProvider
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/neteasemusiclyricsoverlay_3.0.deb
-Size: 167276
-SHA256: 5cc91a63ced869f8632f713d2e0f491598c5412dc7bd04f229fd4c6d71f5c063
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/neteasemusiclyricsoverlay_4.0.deb
+Size: 112620
+SHA256: e15132b013a7c8594cdcdf9ef664e3cb8e65543d4f6edf1ed8d2a24e05bfb48e
 Name: 网易QQ桌面歌词
 Description: 一个简单的桌面歌词，支持网易云音乐和QQ音乐iOS端
 Author: Lakr Aream <master@233owo.com>

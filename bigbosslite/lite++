@@ -7,6 +7,16 @@ if [[ "${0}" =~ "/" ]]; then
 	cd "${0%/*}"
 fi
 
+_echo(){
+	echo ''
+	echo -n "found: ${bbb}"...
+	echo -n "	  delete: "
+	echo -n "${_start}"...
+	echo -n "${_end}"...
+	echo -n "  type: ${_find_text}"
+	echo "   id: `sed -n "${_start}"p "${aaa}" | sed "s#Package: ##g"`"
+}
+
 _find_start(){
 	a_max="2"
 	while [[ "${a}" -ge "${a_max}" ]]; do
@@ -47,12 +57,13 @@ _find_text(){
 
 _do(){
 	i='1'
+	echo -n "${_find_text}..."
 	while [[ "${i}" -le "${i_max}" ]]; do
 		let 'i++'
 		bbb=`grep -n "Section: ${_find_text}" "${aaa}" | sed -n '1p'`
 		bbb="${bbb%%:*}"
 		if [[ ! "${bbb}" ]]; then
-			echo "no ${_find_text}"
+			echo 'OK!'
 			i="$((${i_max}+1))"
 		else
 			a="${bbb}"
@@ -60,12 +71,7 @@ _do(){
 			_start=`_find_text`
 			command='end'
 			_end=`_find_text`
-			echo -n "found: ${bbb}"...
-			echo -n "	  delete: "
-			echo -n "${_start}"...
-			echo -n "${_end}"...
-			echo -n "  type: ${_find_text}"
-			echo "   id: `sed -n "${_start}"p "${aaa}" | sed "s#Package: ##g"`"
+			#_echo
 			sed -i. "${_start}","${_end}"d "${aaa}"
 			unset _start
 			unset _end
