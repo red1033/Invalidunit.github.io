@@ -1,8 +1,0 @@
-Origin: GetSileo
-Label: GetSileo
-Description: Sileo & dependencies
-Suite: stable
-Version: 1.0
-Architectures: iphoneos-arm
-Components: main
-Codename: sileocheckrain
