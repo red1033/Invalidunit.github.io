@@ -2507,17 +2507,17 @@ Name: iPhone XR 注销图标
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.respring.xr/js.json
 
 Package: com.nan.sccbav
-Version: 0.1.0
+Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: firmware (>= 11.0)
 Depends: plutil | com.bingner.plutil
 Conflicts: com.nan.ccah
-Filename: debs/com.nan.sccbav_0.1.0_iphoneos-arm.deb
-Size: 1356
-MD5sum: a004e268104a8d06d53d09ae0ff4843d
-SHA1: e7337579036aa3df440a789bd9ee94c7834be1e2
-SHA256: 2ad563ed70bdff08344b7a5b44192175052ac5e580051ce9d95af4813861d883
+Filename: debs/com.nan.sccbav_0.1.1_iphoneos-arm.deb
+Size: 1352
+MD5sum: b1ef2a7e603c83980c30323054decf91
+SHA1: 80f59963e3008eb87c1e89283ee9e9b9221f7e13
+SHA256: dbb81b45cc3d914498bd5edfc6a9f603033cf69cbb9c92ab99d2daccd4b17523
 Section: System
 Description: 将 iOS 控制中心的亮度和音量的高度占用改为 1 格，安装后未激活越狱也生效
 Author: zhaonan
