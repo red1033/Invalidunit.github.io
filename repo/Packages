@@ -105,15 +105,15 @@ Name: zh-Hans for DarkShot
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.darkshot/js_zh_Hans.json
 
 Package: com.nan.dpkg-fill
-Version: 0.1.0
+Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>=11.0), sed, coreutils
-Filename: debs/com.nan.dpkg-fill_0.1.0_iphoneos-arm.deb
-Size: 1588
-MD5sum: 2689ad7c27bf5a668154789b2638d787
-SHA1: 3cb71cf0dc51fe3a81c5b52b2be591c07709f91d
-SHA256: 3f577452762a26f6737f11dc175a4490fb90cfa26f8681aede7630c69c456b7a
+Filename: debs/com.nan.dpkg-fill_0.1.1_iphoneos-arm.deb
+Size: 1596
+MD5sum: e45ae9096b7cd1df8743b4504e94b770
+SHA1: 6eb43186f4511addf17702acbaed5722d8f46f4d
+SHA256: 74b6168ad9ba25788572da7dd81a6922767dbaaa00f6e9b121e8d2bc5a0f882e
 Section: Terminal_Support
 Description: 修补因缺少维护者和描述的报错信息
 Author: zhaonan <Invalidunit@icloud.com>

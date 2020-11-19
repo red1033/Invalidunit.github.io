@@ -62,8 +62,8 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "11.0 - 14.2",
-                    "title": "支持系统范围"
+                    "text": "2.0.0b7",
+                    "title": "支持 Sileo 版本"
                 },
                 {
                     "class": "DepictionTableTextView",

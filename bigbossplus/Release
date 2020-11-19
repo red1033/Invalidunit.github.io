@@ -1,7 +1,0 @@
-Origin: BigBoss+
-Label: BigBoss+
-Description: BigBoss 镜像源
-Suite: stable
-Version: 1.0
-Architectures: iphoneos-arm
-Components: main

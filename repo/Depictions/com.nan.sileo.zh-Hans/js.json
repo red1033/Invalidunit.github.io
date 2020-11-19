@@ -70,8 +70,8 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.0",
-                    "title": "支持版本"
+                    "text": "2.0.0b7",
+                    "title": "支持 Sileo 版本"
                 },
                 {
                     "class": "DepictionTableTextView",
