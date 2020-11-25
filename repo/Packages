@@ -536,37 +536,22 @@ Name: zh-Hans for Little11
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js_zh_Hans.json
 
 Package: com.nan.localhostssh
-Version: 0.2.4
+Version: 0.2.5
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: sed, openssh | openssh-server
 Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
-Filename: debs/com.nan.localhostssh_0.2.4_iphoneos-arm.deb
-Size: 1868
-MD5sum: cfc2322177e7d59593f215257b3811b6
-SHA1: c65ab2b204094141ee2138b460faa996dd823910
-SHA256: 8c35ecc87bcdb8850ded584f7c3783b2eb45bce9c4e0d2be48e994dba4a63a16
+Filename: debs/com.nan.localhostssh_0.2.5_iphoneos-arm.deb
+Size: 1848
+MD5sum: fa63761278c5f90a37e1ca9628027bfe
+SHA1: 81eccee240322fa08b3845fef8a11ad24dc0ba3a
+SHA256: 42b1eaf02abcc418e9b8ef70e820841390528e77f55b0124bd96b123e9ca4590
 Section: Addons
-Description: 为 iOS 本地 SSH 访问启用 2222 端口
+Description: 仅为 iOS 本地 SSH 访问启用 2222 端口
 Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/image.png
 Name: Local SSH
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/js.json
-
-Package: com.nan.mobileicons3x
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Filename: debs/com.nan.mobileicons3x_0.1.0_iphoneos-arm.deb
-Size: 58556
-MD5sum: fe1c31e7c63ce53e642e08dc8e2e2ca5
-SHA1: 7f7cd6245031be3cb924b8389cb1451827fe41ae
-SHA256: b69e3d9af8e593a35d069d73a19a45c35cf0f546f6ceff55d4395be697891ee9
-Section: System
-Description: 为没有 3x 蒙板的设备补全
-Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_fix.png
-Name: MobileIcons3x
 
 Package: com.nan.mobileicons3x
 Version: 0.14.1
