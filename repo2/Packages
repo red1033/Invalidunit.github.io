@@ -127,44 +127,6 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.appdatamanager/image
 Name: Apps Manager
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appdatamanager/js.json
 
-Package: com.nan.appleilluminator
-Version: 0.6.7
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 11.0)
-Conflicts: com.michael.appleturboboost, com.michael.appleilluminator, com.nan.appleturboboost
-Provides: com.michael.appleilluminator (=0.6.7)
-Filename: debs/com.nan.appleilluminator_0.6.7_iphoneos-arm.deb
-Size: 8616
-MD5sum: 82db41818499b20bf3cc6c2b572f30a6
-SHA1: 3e504637cb74268fbb3d67fd65bbde471898cf47
-SHA256: 0fc8f63502d99014f296f0e0e7de3d4bb58b1bd545149be94006bc7091a30542
-Section: System
-Description: 去发热降亮度
-Author: Halo_Michael <yc992147156@me.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_system.png
-Name: Apple Illuminator
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appleilluminator/js.json
-
-Package: com.nan.appleturboboost
-Version: 0.6.7
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 12.0)
-Conflicts: com.michael.appleilluminator, com.michael.appleturboboost, com.nan.appleilluminator
-Provides: com.michael.appleturboboost (=0.6.7)
-Filename: debs/com.nan.appleturboboost_0.6.7_iphoneos-arm.deb
-Size: 11212
-MD5sum: a904a11323b24e10d33e5653b63ad778
-SHA1: a06f545a53c6df27c1ca3b1bfb0f90950d7c320e
-SHA256: 32e08c64f772fbbfb2c9957d094d27989d4efe9f45d8e411e1c9d9c9113d48d8
-Section: System
-Description: 去降频 & 去发热降亮度
-Author: Halo_Michael <yc992147156@me.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_system.png
-Name: Apple Turbo Boost
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appleturboboost/js.json
-
 Package: com.nan.apppercent
 Version: 2.0.2
 Architecture: iphoneos-arm
