@@ -1,0 +1,21 @@
+#!/bin/bash
+
+
+cd /Users/zhaonan/GitHub/zhaonan/repo
+rm -rf Packages Packages.bz2 Packages.xz
+dpkg-scanpackages -m debs /dev/null > Packages
+bzip2 -k Packages Packages.bz2
+xz -zk -9 Packages
+
+cd /Users/zhaonan/GitHub/zhaonan/repo2
+rm -rf Packages Packages.bz2 Packages.xz
+dpkg-scanpackages -m debs /dev/null > Packages
+bzip2 -k Packages Packages.bz2
+xz -zk -9 Packages
+
+cd /Users/zhaonan/GitHub/zhaonan/beta
+rm -rf Packages Packages.bz2 Packages.xz
+dpkg-scanpackages -m debs /dev/null > Packages
+bzip2 -k Packages Packages.bz2
+xz -zk -9 Packages
+exit 0
