@@ -14,6 +14,22 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.theme/aential/image.
 Name: Aential
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.theme/aential/js.json
 
+Package: com.nan.apfs-snapshot
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Filename: debs/com.nan.apfs-snapshot_0.1.0_iphoneos-arm.deb
+Size: 4620
+MD5sum: 7675a00110a69a242b6721e48f3124c6
+SHA1: 1637101c07c35f93a6e788a40a7d88c22bf06707
+SHA256: 971cfcca509373958ac08b8812c96d91c7df8ceb6bdde49e3c34e1d4d90639e8
+Section: Terminal_Support
+Description: APFS 快照管理工具
+Tag: role::hacker
+Author: Apple & halo-michael
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
+Name: APFS Snapshot
+
 Package: com.nan.bioprotectxs.zh-hans
 Version: 0.1.0
 Architecture: iphoneos-arm
