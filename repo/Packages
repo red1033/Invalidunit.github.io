@@ -552,16 +552,16 @@ Name: zh-Hans for Little11
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js_zh_Hans.json
 
 Package: com.nan.localhostssh
-Version: 0.2.5
+Version: 0.2.5-1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: sed, openssh | openssh-server
 Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
-Filename: debs/com.nan.localhostssh_0.2.5_iphoneos-arm.deb
+Filename: debs/com.nan.localhostssh_0.2.5-1_iphoneos-arm.deb
 Size: 1848
-MD5sum: fa63761278c5f90a37e1ca9628027bfe
-SHA1: 81eccee240322fa08b3845fef8a11ad24dc0ba3a
-SHA256: 42b1eaf02abcc418e9b8ef70e820841390528e77f55b0124bd96b123e9ca4590
+MD5sum: 1792b9702fb28ab3067d8a3a6b745117
+SHA1: 471129d7646004314c7a4cc236dd10f34730fb77
+SHA256: 67dcc593ccf9203dac182c219067c4538b332c0766f27ee24f6925ef55e6db1c
 Section: Addons
 Description: 仅为 iOS 本地 SSH 访问启用 2222 端口
 Author: zhaonan
@@ -638,6 +638,24 @@ Author: zhaonan
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.playing/image.png
 Name: zh-Hans for Playing
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.playing/js_zh_Hans.json
+
+Package: com.nan.plutil
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Conflicts: com.ericasadun.utilities, com.bingner.plutil, plutil
+Provides: com.bingner.plutil (=0.2.1), plutil (=0.2.1)
+Filename: debs/com.nan.plutil_0.2.1_iphoneos-arm.deb
+Size: 27364
+MD5sum: f8247295c8c517d67f57f331ff6d86f4
+SHA1: a85af74d008f44037dcc68611946a740820bd0a4
+SHA256: 6bd6c06b63b513992539a1f555ea50f3f97ed32a4c8a4d766d8ae874c0ada276
+Section: Terminal_Support
+Description: 用于创建和编辑 Apple 属性列表文件的实用程序
+Tag: role::hacker
+Author: Samuel Bingner
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
+Name: plutil
 
 Package: com.nan.pulloverpro.zh-Hans
 Version: 0.1.1

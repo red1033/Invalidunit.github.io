@@ -333,10 +333,10 @@ Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Filename: debs/com.nan.bootlogo.checkra1n_0.1.1_iphoneos-arm.deb
-Size: 274708
-MD5sum: fc08b9379bf25232efde89e4c8f7a7c0
-SHA1: 1f10ce77f20d7a84d9aea8abbc958bad39ad5de0
-SHA256: 951a2318c04288e8aea68a5d0aa487d238010f0dbc70110dcc527af45c1bbe07
+Size: 274700
+MD5sum: 9bd16da327b98fc898599ae240e16d04
+SHA1: 43a4b89d20957da6ea2d7077f160f652ec050722
+SHA256: 0ac9f1b2efd28500ad5f4c3f76b5b44d8bfb319a14068a5aca832fdbc0c8c6e5
 Section: Themes (Bootlogos)
 Description: 将启动 Logo 替换为 checkra1n 微标。
 Author: zhaonan
@@ -1635,10 +1635,10 @@ Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Filename: debs/com.nan.respring.xr_0.1.1_iphoneos-arm.deb
-Size: 503612
-MD5sum: f3950c949e7f9104f9bcba938f73fbe4
-SHA1: 5cc253af0020abcc02f40d347185909742b27aae
-SHA256: dc8b6744ec7c542f34df13113e92d9144a566b6a5b6ba7b5053a7a5bc589e59a
+Size: 503576
+MD5sum: 604f472c6975117b9715cb8483421271
+SHA1: 347c1d6769d58c4b849d2c27e55fbb8732553b4a
+SHA256: 74e57718df1849df15603818dbb82b894f0bd1466c14b4d54fe9ecc3898a2752
 Section: Themes (Respring)
 Description: 漂亮的 XR 注销动画
 Author: zhaonan
