@@ -57,17 +57,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.1.6",
+                    "text": "0.1.7",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.0b7",
+                    "text": "2.0.0b7-1",
                     "title": "支持 Sileo 版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 10 月 04 日",
+                    "text": "2020 年 12 月 05 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -92,6 +92,28 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "0.1.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "增加自动查找 Sileo",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "0.1.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "错误修复",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "0.1.5",
