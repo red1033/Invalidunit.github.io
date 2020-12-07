@@ -57,7 +57,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.2.5",
+                    "text": "0.2.5-2",
                     "title": "最新版本"
                 },
                 {
@@ -67,7 +67,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 11 月 25 日",
+                    "text": "2020 年 12 月 07 日",
                     "title": "最后更新日期"
                 },
                 {
