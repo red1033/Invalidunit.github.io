@@ -161,9 +161,9 @@ Maintainer: zhaonan
 Depends: org.coolstar.sileo
 Filename: debs/com.nan.dsar_0.1.8_iphoneos-arm.deb
 Size: 1684
-MD5sum: 1d085bf33428fceb2eb5e117581034e7
-SHA1: f21dc913f9399ad95520d64faa6cf4f7b875dd53
-SHA256: 23290d0fb0b7fc5e2fa159bde2b694b9299cb99f3b7ddb0752f7492b305c4271
+MD5sum: 52e24e7c3383b3fbcca1ce57c155ddd5
+SHA1: 1f69d5cc291f6d7c58b7b6f4f71b30a0244bc263
+SHA256: 2f0e29d755044f1e9a11b6c02b1677d954196d893ac17638b41c1281f6338ae8
 Section: Scripting
 Description: 去除 Sileo 无法移除默认源的限制
 Author: zhaonan
